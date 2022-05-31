@@ -1,0 +1,22 @@
+{
+    "name": "wng-apocrypha",
+    "title": "An Abundance of Apocrypha",
+    "description": "A module containing the exported An Abundance of Apocrypha compendium.",
+    "version": "0.2",
+    "library": "false",
+    "manifestPlusVersion": "0.2",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Felipe Lippelt",
+    "packs": [
+        {
+            "type": "Item",
+            "label": "An Abundance of Apocrypha",
+            "module": "wng-apocrypha",
+            "path": "packs/world-an-abundance-of-apocrypha-1654026078950.db",
+            "name": "world-an-abundance-of-apocrypha-1654026078950"
+        }
+    ],
+    "manifest": "http://localhost:30000/compendium2module/wng-apocrypha/module.json",
+    "download": "http://localhost:30000/compendium2module/wng-apocrypha/module-zip.txt"
+}
