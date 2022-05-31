@@ -1,13 +1,19 @@
 {
     "name": "wng-apocrypha",
     "title": "An Abundance of Apocrypha",
-    "description": "A module containing the exported An Abundance of Apocrypha compendium.",
+    "description": "A module containing the An Abundance of Apocrypha content.",
     "version": "0.2",
     "library": "false",
     "manifestPlusVersion": "0.2",
     "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-    "author": "Felipe Lippelt",
+    "compatibleCoreVersion": "9.269",
+    "url": "https://github.com/flippelt/WnG-Apocrypha-FoundryVTT",
+    "system": "wrath-and-glory",
+    "author": {
+      "name": "Felipe Lippelt",
+      "email": "lippelt.f@gmaiil.com",
+      "discord": "Malkav#9203"
+    },
     "packs": [
         {
             "type": "Item",
