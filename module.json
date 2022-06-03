@@ -2,9 +2,9 @@
     "name": "wng-apocrypha",
     "title": "An Abundance of Apocrypha",
     "description": "A module containing the An Abundance of Apocrypha content.",
-    "version": "0.4",
+    "version": "0.4.5",
     "library": "false",
-    "manifestPlusVersion": "0.4",
+    "manifestPlusVersion": "0.4.5",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9.269",
     "url": "https://github.com/flippelt/WnG-Apocrypha-FoundryVTT",
@@ -19,8 +19,8 @@
             "type": "Item",
             "label": "An Abundance of Apocrypha",
             "module": "wng-apocrypha",
-            "path": "packs/world-an-abundance-of-apocrypha-1654026078950.db",
-            "name": "world-an-abundance-of-apocrypha-1654026078950"
+            "path": "packs/an-abundance-of-apocrypha.db",
+            "name": "world-an-abundance-of-apocrypha"
         }
     ],
     "dependencies": [

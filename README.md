@@ -1,5 +1,5 @@
 # Wrath & Glory - An Abundance of Apocrypha for Foundry VTT
-This is a passion project done in my free time where I'll adapt the content of the incridible An Abudance of Apocrypha and it's expasion made by the incridible Nathan Dowdell.
+This is a passion project done in my free time where I'll adapt the content of the incridible An Abudance of Apocrypha and it's expasions made by the incridible Nathan Dowdell.
 
 ## Contributing
 
