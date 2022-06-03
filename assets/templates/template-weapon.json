@@ -45,11 +45,9 @@
   "effects": [],
   "flags": {
     "exportSource": {
-      "world": "warhammer-shadowbreaker",
       "system": "wrath-and-glory",
       "coreVersion": "9.269",
       "systemVersion": "3.5.0"
     }
-  },
-  "_id": "gGPlWC2W7w3nT9wY"
+  }
 }

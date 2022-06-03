@@ -1,22 +1,20 @@
 {
-  "name": "Take Cover!",
+  "name": "talent",
   "type": "talent",
   "img": "modules/wng-core/assets/icons/talents/talent.webp",
   "data": {
     "effect": "",
-    "cost": 20,
-    "requirements": "Astra Militarum keyword",
-    "description": "<p>If you mean to survive to fight another day, it helps to put something between you and the enemy.</p>\n<p>When you are targeted by a ranged attack while in cover, you may take cover as a Reflexive Action to increase your Defence by +Rank until the start of your next turn. If you do so, you may not move during your next turn.</p>\n<p>&nbsp;</p>",
+    "cost": 0,
+    "requirements": "",
+    "description": "",
     "display": true
   },
   "effects": [],
   "flags": {
     "exportSource": {
-      "world": "warhammer-shadowbreaker",
       "system": "wrath-and-glory",
       "coreVersion": "9.269",
       "systemVersion": "3.5.0"
     }
-  },
-  "_id": "MI5QfCy3e25XcEXq"
+  }
 }
