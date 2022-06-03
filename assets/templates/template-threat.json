@@ -1,0 +1,374 @@
+{
+  "name": "threat",
+  "type": "threat",
+  "img": "modules/wng-core/assets/tokens/generic.webp",
+  "data": {
+    "attributes": {
+      "strength": {
+        "label": "ATTRIBUTE.STRENGTH",
+        "rating": 0,
+        "base": 1,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "toughness": {
+        "label": "ATTRIBUTE.TOUGHNESS",
+        "rating": 0,
+        "base": 1,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "agility": {
+        "label": "ATTRIBUTE.AGILITY",
+        "rating": 0,
+        "base": 1,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "initiative": {
+        "label": "ATTRIBUTE.INITIATIVE",
+        "rating": 0,
+        "base": 1,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "willpower": {
+        "label": "ATTRIBUTE.WILLPOWER",
+        "rating": 0,
+        "base": 1,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "intellect": {
+        "label": "ATTRIBUTE.INTELLECT",
+        "rating": 0,
+        "base": 1,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "fellowship": {
+        "label": "ATTRIBUTE.FELLOWSHIP",
+        "rating": 0,
+        "base": 1,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      }
+    },
+    "skills": {
+      "athletics": {
+        "label": "SKILL.ATHLETICS",
+        "attribute": "strength",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "awareness": {
+        "label": "SKILL.AWARENESS",
+        "attribute": "intellect",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "ballisticSkill": {
+        "label": "SKILL.BALLISTIC_SKILL",
+        "attribute": "agility",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "cunning": {
+        "label": "SKILL.CUNNING",
+        "attribute": "fellowship",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "deception": {
+        "label": "SKILL.DECEPTION",
+        "attribute": "fellowship",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "insight": {
+        "label": "SKILL.INSIGHT",
+        "attribute": "fellowship",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "intimidation": {
+        "label": "SKILL.INTIMIDATION",
+        "attribute": "willpower",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "investigation": {
+        "label": "SKILL.INVESTIGATION",
+        "attribute": "intellect",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "leadership": {
+        "label": "SKILL.LEADERSHIP",
+        "attribute": "willpower",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "medicae": {
+        "label": "SKILL.MEDICAE",
+        "attribute": "intellect",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "persuasion": {
+        "label": "SKILL.PERSUASION",
+        "attribute": "fellowship",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "pilot": {
+        "label": "SKILL.PILOT",
+        "attribute": "agility",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "psychicMastery": {
+        "label": "SKILL.PSYCHIC_MASTERY",
+        "attribute": "willpower",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "scholar": {
+        "label": "SKILL.SCHOLAR",
+        "attribute": "intellect",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "stealth": {
+        "label": "SKILL.STEALTH",
+        "attribute": "agility",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "survival": {
+        "label": "SKILL.SURVIVAL",
+        "attribute": "willpower",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "tech": {
+        "label": "SKILL.TECH",
+        "attribute": "intellect",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      },
+      "weaponSkill": {
+        "label": "SKILL.WEAPON_SKILL",
+        "attribute": "initiative",
+        "rating": 0,
+        "base": 0,
+        "bonus": 0,
+        "cost": 0,
+        "total": 0
+      }
+    },
+    "combat": {
+      "defense": {
+        "bonus": 0,
+        "total": 0
+      },
+      "defence": {
+        "bonus": 0,
+        "total": 0
+      },
+      "resilience": {
+        "bonus": 0,
+        "total": 0
+      },
+      "wounds": {
+        "value": 0,
+        "bonus": 0,
+        "max": 0
+      },
+      "determination": {
+        "bonus": 0,
+        "total": 0
+      },
+      "shock": {
+        "value": 0,
+        "bonus": 0,
+        "max": 0
+      },
+      "resolve": {
+        "bonus": 0,
+        "total": 0
+      },
+      "conviction": {
+        "bonus": 0,
+        "total": 0
+      },
+      "size": "average",
+      "speed": 6,
+      "fly": 0,
+      "passiveAwareness": {
+        "bonus": 0,
+        "total": 0
+      },
+      "stealth": 0
+    },
+    "bio": {
+      "species": "",
+      "faction": "",
+      "archetype": "",
+      "threat": {
+        "first": "T",
+        "second": "T",
+        "third": "T",
+        "fourth": "T"
+      }
+    },
+    "resources": {
+      "ruin": 0
+    },
+    "corruption": {
+      "current": 0
+    },
+    "mob": null,
+    "notes": ""
+  },
+  "token": {
+    "name": "threat",
+    "img": "modules/wng-core/assets/tokens/generic.webp",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "sightAngle": 0,
+    "light": {
+      "alpha": 0.5,
+      "angle": 0,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "gradual": true,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "disposition": 0,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "combat.wounds"
+    },
+    "bar2": {
+      "attribute": "combat.shock"
+    },
+    "flags": {
+      "monks-tokenbar": {
+        "include": "default"
+      },
+      "monks-enhanced-journal": {
+        "chatbubble": ""
+      }
+    },
+    "randomImg": false
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "wrath-and-glory": {
+      "autoCalc": {
+        "defence": true,
+        "resilience": true,
+        "shock": true,
+        "awareness": true,
+        "resolve": true,
+        "determination": true,
+        "wounds": true,
+        "conviction": true
+      },
+      "autoWounded": true,
+      "autoExhausted": true,
+      "generateMetaCurrencies": true
+    },
+    "exportSource": {
+      "world": "warhammer-shadowbreaker",
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_id": "R3tJo9yg8sUnahnI"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "keyword",
+  "type": "keyword",
+  "img": "modules/wng-core/assets/ui/aquila-white.webp",
+  "data": {
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "warhammer-shadowbreaker",
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_id": "D1hPWfUsa6txPKax"
+}

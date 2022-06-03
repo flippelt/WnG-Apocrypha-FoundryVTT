@@ -1,0 +1,23 @@
+{
+  "name": "weaponup",
+  "type": "weaponUpgrade",
+  "img": "modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp",
+  "data": {
+    "description": "",
+    "effect": "",
+    "value": 0,
+    "rarity": "common",
+    "keywords": "",
+    "traits": []
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "warhammer-shadowbreaker",
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_id": "Y5zmc0nt4F2JVz8O"
+}

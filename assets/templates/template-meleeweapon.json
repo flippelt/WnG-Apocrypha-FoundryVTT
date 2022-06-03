@@ -1,0 +1,63 @@
+{
+  "name": "Auto-Bolstorm Gauntlet (Melee)",
+  "type": "weapon",
+  "img": "modules/wng-core/assets/icons/weapons/storm-bolter.webp",
+  "data": {
+    "quantity": 1,
+    "rarity": "very-rare",
+    "description": "<p>Larger, and more stable than the conventional Boltstorm Gauntlet, the bolter componente of these weapons allows them to sustain a higher rate of fire whie on the move, compare to the close quarters burst fire of the smaller version. Auto-Boltstorm Gauntlets are normally wielded in pair by Primaris Aggressors</p>",
+    "value": 8,
+    "keywords": "BOLT, POWER FIELD, ADEPTUS ASTARTES, PRIMARIS",
+    "equipped": false,
+    "attack": {
+      "base": 0,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "damage": {
+      "base": 5,
+      "bonus": null,
+      "rank": "none"
+    },
+    "ed": {
+      "base": 5,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "ap": {
+      "base": -3,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "category": "melee",
+    "range": {
+      "short": 9,
+      "medium": 18,
+      "long": 27,
+      "melee": 1,
+      "thrown": null
+    },
+    "ammo": "",
+    "salvo": 3,
+    "traits": [
+      {
+        "name": "brutal"
+      },
+      {
+        "name": "unwieldy",
+        "rating": 2
+      }
+    ],
+    "upgrades": []
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "warhammer-shadowbreaker",
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_id": "Klrac2OhIHumakD9"
+}

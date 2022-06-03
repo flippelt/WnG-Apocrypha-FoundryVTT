@@ -1,0 +1,51 @@
+{
+  "name": "abi",
+  "type": "ability",
+  "img": "modules/wng-core/assets/icons/abilities/ability.webp",
+  "data": {
+    "dn": 0,
+    "type": "",
+    "specification": "",
+    "effect": "",
+    "cost": 0,
+    "requirements": "",
+    "description": "",
+    "display": true,
+    "abilityType": "",
+    "traits": [],
+    "damage": {
+      "base": 0,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "ed": {
+      "base": 0,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "ap": {
+      "base": 0,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "otherDamage": {
+      "mortalWounds": "",
+      "wounds": "",
+      "shock": ""
+    },
+    "test": {
+      "dn": null,
+      "type": ""
+    }
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "warhammer-shadowbreaker",
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_id": "zn4fB5ZAp3fpEW3w"
+}

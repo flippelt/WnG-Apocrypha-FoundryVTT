@@ -1,0 +1,60 @@
+{
+  "name": "spe",
+  "type": "species",
+  "img": "modules/wng-core/assets/icons/abilities/ability.webp",
+  "data": {
+    "cost": 0,
+    "speed": 6,
+    "size": "average",
+    "journal": "",
+    "abilities": [],
+    "attributes": {
+      "strength": null,
+      "toughness": null,
+      "agility": null,
+      "initiative": null,
+      "willpower": null,
+      "intellect": null,
+      "fellowship": null
+    },
+    "skills": {
+      "athletics": null,
+      "awareness": null,
+      "ballisticSkill": null,
+      "cunning": null,
+      "deception": null,
+      "insight": null,
+      "intimidation": null,
+      "investigation": null,
+      "leadership": null,
+      "medicae": null,
+      "persuasion": null,
+      "pilot": null,
+      "psychicMastery": null,
+      "scholar": null,
+      "stealth": null,
+      "survival": null,
+      "tech": null,
+      "weaponSkill": null
+    },
+    "attributeMax": {
+      "strength": null,
+      "toughness": null,
+      "agility": null,
+      "initiative": null,
+      "willpower": null,
+      "intellect": null,
+      "fellowship": null
+    }
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "warhammer-shadowbreaker",
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_id": "O6N5eBNMkENZOXZx"
+}
