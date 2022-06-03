@@ -171,6 +171,8 @@
       "name": "flamer"
     }, {
       "name": "pistol"
+    }, {
+      "name": "paired"
     }],
     "upgrades": [],
     "bonus": {
@@ -2061,6 +2063,8 @@
     }, {
       "name": "rapidFire",
       "rating": 3
+    }, {
+      "name": "paired"
     }],
     "upgrades": []
   },

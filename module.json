@@ -20,7 +20,7 @@
             "label": "An Abundance of Apocrypha",
             "module": "wng-apocrypha",
             "path": "packs/an-abundance-of-apocrypha.db",
-            "name": "world-an-abundance-of-apocrypha"
+            "name": "an-abundance-of-apocrypha"
         }
     ],
     "dependencies": [
