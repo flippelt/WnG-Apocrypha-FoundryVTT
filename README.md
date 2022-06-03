@@ -18,4 +18,4 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@flippelt](https://www.github.com/flippelt)
-- [Nathan Dowdell](https://twitter.com/n01h3r3)
+- [Nathan Dowdell](https://twitter.com/n01h3r3)(Original Author of An Abundand of Apocrypha)
