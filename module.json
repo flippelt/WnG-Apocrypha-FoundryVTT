@@ -1,10 +1,10 @@
 {
     "name": "wng-apocrypha",
-    "title": "An Abundance of Apocrypha",
+    "title": "Wrath & Glory - An Abundance of Apocrypha",
     "description": "A module containing the An Abundance of Apocrypha content.",
     "version": "0.4",
     "library": "false",
-    "manifestPlusVersion": "0.4.2",
+    "manifestPlusVersion": "0.4",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9.269",
     "url": "https://github.com/flippelt/WnG-Apocrypha-FoundryVTT",
@@ -26,6 +26,10 @@
     "dependencies": [
         {
             "name": "wng-core"
+        },
+        {
+            "name": "compendium-folders"
         }
     ],
     "manifest": "https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/blob/main/module.json"
+}
