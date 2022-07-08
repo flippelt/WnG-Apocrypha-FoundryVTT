@@ -1,7 +1,7 @@
 {
     "name": "wng-apocrypha",
-    "title": "Wrath & Glory - An Abundance of Apocrypha",
-    "description": "A module containing the An Abundance of Apocrypha content.",
+    "title": "An Abundance of Apocrypha",
+    "description": "A module containing the An Abundance of Apocrypha content for Wrath & Glory System.",
     "version": "0.4",
     "library": "false",
     "minimumCoreVersion": "9",
@@ -19,7 +19,7 @@
             "type": "Item",
             "label": "An Abundance of Apocrypha - Items",
             "module": "wng-apocrypha",
-            "path": "an-abundance-of-apocrypha-items.db",
+            "path": "packs/an-abundance-of-apocrypha-items.db",
             "name": "an-abundance-of-apocrypha-items"
         },
         {
