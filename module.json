@@ -17,10 +17,17 @@
     "packs": [
         {
             "type": "Item",
-            "label": "An Abundance of Apocrypha",
+            "label": "An Abundance of Apocrypha - Items",
             "module": "wng-apocrypha",
-            "path": "packs/an-abundance-of-apocrypha.db",
-            "name": "an-abundance-of-apocrypha"
+            "path": "an-abundance-of-apocrypha-items.db",
+            "name": "an-abundance-of-apocrypha-items"
+        },
+        {
+            "type": "JournalEntry",
+            "label": "An Abundance of Apocrypha - Journals",
+            "module": "wng-apocrypha",
+            "path": "packs/an-abundance-of-apocrypha-journals.db",
+            "name": "an-abundance-of-apocrypha-journals"
         }
     ],
     "dependencies": [
