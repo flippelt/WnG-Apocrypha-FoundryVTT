@@ -8,10 +8,12 @@
     "compatibleCoreVersion": "9.269",
     "url": "https://github.com/flippelt/WnG-Apocrypha-FoundryVTT",
     "system": "wrath-and-glory",
-    "authors":
+    "authors": [
         {
-            "name": "Felipe Lippelt"
-        },
+            "name": "Felipe Lippelt",
+            "email": "lippelt.f@gmail.com"
+        }
+    ],
     "packs": [
         {
             "type": "Item",
