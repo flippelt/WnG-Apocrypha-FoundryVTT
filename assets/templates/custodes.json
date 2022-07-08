@@ -1,0 +1,58 @@
+{
+  "name": "Custodian",
+  "type": "species",
+  "img": "modules/wng-core/assets/icons/abilities/ability.webp",
+  "data": {
+    "cost": 330,
+    "speed": 7,
+    "size": "average",
+    "journal": "",
+    "abilities": [],
+    "attributes": {
+      "strength": 6,
+      "toughness": 6,
+      "agility": 5,
+      "initiative": 5,
+      "willpower": 3,
+      "intellect": 3,
+      "fellowship": 3
+    },
+    "skills": {
+      "athletics": 4,
+      "awareness": 5,
+      "ballisticSkill": 5,
+      "cunning": null,
+      "deception": null,
+      "insight": 3,
+      "intimidation": null,
+      "investigation": null,
+      "leadership": null,
+      "medicae": null,
+      "persuasion": null,
+      "pilot": null,
+      "psychicMastery": null,
+      "scholar": 2,
+      "stealth": 3,
+      "survival": null,
+      "tech": null,
+      "weaponSkill": 4
+    },
+    "attributeMax": {
+      "strength": 14,
+      "toughness": 14,
+      "agility": 11,
+      "initiative": 11,
+      "willpower": 12,
+      "intellect": 12,
+      "fellowship": 10
+    }
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  }
+}
