@@ -5,16 +5,15 @@ This is a passion project done in my free time where I'll adapt the content of t
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `contributing.md` for ways to get started. (not setted)
 
-Please adhere to this project's `code of conduct`.
+Please adhere to this project's `code of conduct`. (not setted)
 
 ## Roadmap
+- Implementing all avaliable archetypes
+- Finishing ranged wargear.
+- Add new talents.
 
-- Finish converting the wargear, archetypes and archetypes abilities.
-
-- Final touches on the Ascencion Packages.
-- Add new races
 ## Authors
 
 - [@flippelt](https://www.github.com/flippelt)
