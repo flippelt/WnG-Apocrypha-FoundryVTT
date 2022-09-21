@@ -18,3 +18,6 @@ Please adhere to this project's `code of conduct`. (not setted)
 
 - [@flippelt](https://www.github.com/flippelt)
 - [Nathan Dowdell](https://twitter.com/n01h3r3)(Original Author of An Abundand of Apocrypha)
+
+## Contributors
+- [Michael Mars](https://twitter.com/MichaelMarsRPG)
