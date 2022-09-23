@@ -2,7 +2,7 @@
     "id": "wng-apocrypha",
     "title": "Wrath and Glory - An Abundance of Apocrypha",
     "description": "A module containing the An Abundance of Apocrypha content for Wrath & Glory System.",
-    "version": "0.5.3",
+    "version": "0.5.5",
     "compatibility": {
       "minimum": 10,
       "verified": 10.286
