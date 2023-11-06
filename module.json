@@ -2,16 +2,16 @@
     "id": "wng-apocrypha",
     "title": "Wrath and Glory - An Abundance of Apocrypha",
     "description": "A module containing the An Abundance of Apocrypha content for Wrath & Glory System.",
-    "version": "0.5.5",
+    "version": "0.6.0",
     "compatibility": {
       "minimum": 10,
-      "verified": 10.286
+      "verified": 11
     },
     "authors": [
       {
         "name": "Felipe Lippelt",
         "email": "lippelt.f@gmail.com",
-        "discord": "Malkav#9203"
+        "discord": "lippelt"
       }
     ],
     "relationships": {
@@ -29,11 +29,6 @@
         {
           "id": "wng-core",
           "type": "module"
-        },
-        {
-          "id": "compendium-folders",
-          "type": "module",
-          "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/10x-update/module.json"
         }
       ]
     },
