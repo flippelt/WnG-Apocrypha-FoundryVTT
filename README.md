@@ -10,18 +10,18 @@ The Mekhanical Update
 
 The ork in me urged to give some updates here
 
-- Part 1
-[x] Implementing all the new Factions
-[x] Implementing all the new Species and Variants
-[x] Update to Foundry V11
+### Part 1
+- [x] Implementing all the new Factions
+- [x] Implementing all the new Species and Variants
+- [x] Update to Foundry V11
 
-- Part 2
-[] Implementing all the new Archetypes [In Progress]
-[] Implementing all the new Ascencion Packages
+### Part 2
+- [] Implementing all the new Archetypes [In Progress]
+- [] Implementing all the new Ascencion Packages
 
-- Part 3
-[] Implementing all the new Talents and Powers
-[] Implementing all the new Gear
+### Part 3
+- [] Implementing all the new Talents and Powers
+- [] Implementing all the new Gear
 
 ## Authors
 
