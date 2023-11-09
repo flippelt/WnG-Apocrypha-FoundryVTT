@@ -16,12 +16,12 @@ The ork in me urged to give some updates here
 - [x] Update to Foundry V11
 
 ### Part 2
-- [] Implementing all the new Archetypes [In Progress]
-- [] Implementing all the new Ascencion Packages
+- [ ] Implementing all the new Archetypes [In Progress]
+- [ ] Implementing all the new Ascencion Packages
 
 ### Part 3
-- [] Implementing all the new Talents and Powers
-- [] Implementing all the new Gear
+- [ ] Implementing all the new Talents and Powers
+- [ ] Implementing all the new Gear
 
 ## Authors
 
