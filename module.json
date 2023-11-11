@@ -4,9 +4,8 @@
   "description": "A module containing the An Abundance of Apocrypha content for Wrath &amp; Glory System.",
   "version": "0.7",
   "compatibility": {
-    "minimum": "10",
-    "verified": "11.315",
-    "maximum": "12"
+    "minimum": "11",
+    "verified": "11.315"
   },
   "authors": [
     {
@@ -27,18 +26,19 @@
         "type": "system"
       }
     ],
-    "requires": [
-      {
-        "id": "wng-core",
-        "type": "module",
-        "compatibility": {}
-      }
-    ],
     "recommends": [
       {
         "id": "wng-core",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "wng-forsaken",
+        "type": "module"
+      },
+      {
+        "id": "wng-records1",
+        "type": "module"
       }
     ]
   },
