@@ -16,7 +16,8 @@ The ork in me urged to give some updates here
 - [x] Update to Foundry V11
 
 ### Part 2
-- [ ] Implementing all the new Talents and Powers [In Progress]
+- [x] Implementing all the new Talents
+- [ ] Implementing all the new Psychic Powers[In Progress]
 - [ ] Implementing all the new Gear
 
 ### Part 3
