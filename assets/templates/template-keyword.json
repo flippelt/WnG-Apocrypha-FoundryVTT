@@ -1,0 +1,16 @@
+{
+  "name": "keyword",
+  "type": "keyword",
+  "img": "modules/wng-core/assets/ui/aquila-white.webp",
+  "data": {
+    "description": ""
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  }
+}
