@@ -1,0 +1,106 @@
+{
+  "name": "archetype",
+  "type": "archetype",
+  "img": "modules/wng-core/assets/icons/abilities/ability.webp",
+  "data": {
+    "tier": 1,
+    "journal": "",
+    "species": {
+      "name": "",
+      "id": ""
+    },
+    "faction": {
+      "name": "",
+      "id": ""
+    },
+    "influence": 0,
+    "cost": 0,
+    "keywords": [],
+    "attributes": {
+      "strength": null,
+      "toughness": null,
+      "agility": null,
+      "initiative": null,
+      "willpower": null,
+      "intellect": null,
+      "fellowship": null
+    },
+    "skills": {
+      "athletics": null,
+      "awareness": null,
+      "ballisticSkill": null,
+      "cunning": null,
+      "deception": null,
+      "insight": null,
+      "intimidation": null,
+      "investigation": null,
+      "leadership": null,
+      "medicae": null,
+      "persuasion": null,
+      "pilot": null,
+      "psychicMastery": null,
+      "scholar": null,
+      "stealth": null,
+      "survival": null,
+      "tech": null,
+      "weaponSkill": null
+    },
+    "ability": {
+      "name": "",
+      "id": ""
+    },
+    "wargear": [
+      [
+        {
+          "name": "",
+          "id": ""
+        }
+      ]
+    ],
+    "groups": {
+      "type": "and",
+      "groupId": "root",
+      "items": []
+    },
+    "suggested": {
+      "attributes": {
+        "strength": null,
+        "toughness": null,
+        "agility": null,
+        "initiative": null,
+        "willpower": null,
+        "intellect": null,
+        "fellowship": null
+      },
+      "skills": {
+        "athletics": null,
+        "awareness": null,
+        "ballisticSkill": null,
+        "cunning": null,
+        "deception": null,
+        "insight": null,
+        "intimidation": null,
+        "investigation": null,
+        "leadership": null,
+        "medicae": null,
+        "persuasion": null,
+        "pilot": null,
+        "psychicMastery": null,
+        "scholar": null,
+        "stealth": null,
+        "survival": null,
+        "tech": null,
+        "weaponSkill": null
+      },
+      "talents": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  }
+}

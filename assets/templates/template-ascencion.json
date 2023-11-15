@@ -1,0 +1,21 @@
+{
+  "name": "asc",
+  "type": "ascension",
+  "img": "modules/wng-core/assets/icons/ascension/ascension.webp",
+  "data": {
+    "cost": 0,
+    "description": "",
+    "requirements": "",
+    "keywords": "",
+    "influence": 0,
+    "benefits": ""
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  }
+}

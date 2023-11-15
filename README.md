@@ -3,21 +3,32 @@ This is a passion project done in my free time where I'll adapt the content of t
 
 ## Contributing
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started. (not setted)
-
-Please adhere to this project's `code of conduct`. (not setted)
+Contributions are always welcome! Please contact me to ask how you can help.
 
 ## Roadmap
-- Implementing all avaliable archetypes
-- Finishing ranged wargear.
-- Add new talents.
+The Mekhanical Update
+
+The ork in me urged to give some updates here
+
+### Part 1
+- [x] Implementing all the new Factions
+- [x] Implementing all the new Species and Variants
+- [x] Update to Foundry V11
+
+### Part 2
+- [x] Implementing all the new Talents
+- [ ] Implementing all the new Psychic Powers[In Progress]
+- [ ] Implementing all the new Gear
+
+### Part 3
+- [ ] Implementing all the new Archetypes [On hold]
+- [ ] Implementing all the new Ascencion Packages
+
 
 ## Authors
 
 - [@flippelt](https://www.github.com/flippelt)
-- [Nathan Dowdell](https://twitter.com/n01h3r3)(Original Author of An Abundand of Apocrypha)
+- [Nathan Dowdell](https://twitter.com/n01h3r3)(Original Author of An Abundance of Apocrypha)
 
 ## Contributors
 - [Michael Mars](https://twitter.com/MichaelMarsRPG)

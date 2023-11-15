@@ -1,0 +1,170 @@
+{
+  "name": "Officio Assassinorum",
+  "type": "faction",
+  "img": "modules/wng-core/assets/ui/aquila-white.webp",
+  "data": {
+    "journal": "",
+    "backgrounds": {
+      "origin": [
+        {
+          "name": "Progena",
+          "description": "Your parents were stalwart servants of the Throne, and after their deaths, you were raised by the Schola Progenium. There, you demonstrated an aptitude for killing that set you apart.",
+          "effect": "pVQ42glJojkyOkma"
+        },
+        {
+          "name": "Cultist",
+          "description": "You were once a member of one of the countless death cults devoted to the GodEmperor’s glory. Your existence was, and still is, devoted to slaying the Emperor’s foes.",
+          "effect": "IVSA8vEhacTtrjXC"
+        },
+        {
+          "name": "Abandoned",
+          "description": "Whatever your life before, at one point it ended, and you were left to fend for yourself. Learning to survive in such inhospitable condition has honed your instincts and hardened you for the duties you now perform.",
+          "effect": "ZJWpWqQ1rwoEtexd"
+        }
+      ],
+      "accomplishment": [
+        {
+          "name": "Target Eliminated",
+          "description": "After extensive time and effort infiltrating their stronghold, you slew a mighty Champion of Chaos.",
+          "effect": "CQtT0cz1Xn91m8RG"
+        },
+        {
+          "name": "Target Eliminated",
+          "description": "After tracking the enemy force across a dozen worlds, you assassinated a powerful Xenos warlord.",
+          "effect": "pVQ42glJojkyOkma"
+        },
+        {
+          "name": "Target Eliminated",
+          "description": "After infiltrating the depths of a world in rebellion, you made an example of the witch or demagogue at the heart of a rebellion.",
+          "effect": "7JLLFAyGrKCGUH7F"
+        }
+      ],
+      "goal": [
+        {
+          "name": "Target Acquired",
+          "description": "You have little ambition beyond the annihilation of your next target in the Emperor’s name.",
+          "effect": "CQtT0cz1Xn91m8RG"
+        },
+        {
+          "name": "Target Acquired",
+          "description": "A target escaped you once. You cannot permit this failure to stain your service to the Emperor.",
+          "effect": "IVSA8vEhacTtrjXC"
+        },
+        {
+          "name": "Target Acquired",
+          "description": "Of all the targets you have slain, one particular foe haunts your thoughts and fills your heart with rage. You crave each opportunity to slay targets that resemble that particular hated foe.",
+          "effect": "pVQ42glJojkyOkma"
+        }
+      ]
+    },
+    "objectives": [
+      "Conclude a combat without any surviving witnesses other than your allies.",
+      "Extol the superiority of your Temple’s methods of dealing death.",
+      "Explain the how your assigned mission allows—or prohibits—a particular course of action",
+      "Quote a motto or philosophy of your Temple.",
+      "Refuse to use overt methods to gain access to a location",
+      "Maintain secrecy over your entire operation, refusing to reveal your identity or target to any but your immediate allies."
+    ]
+  },
+  "effects": [
+    {
+      "_id": "pVQ42glJojkyOkma",
+      "changes": [
+        {
+          "key": "data.combat.resolve.bonus",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "modules/wng-core/assets/icons/abilities/ability.webp",
+      "label": "Resolve",
+      "transfer": false,
+      "flags": {}
+    },
+    {
+      "_id": "IVSA8vEhacTtrjXC",
+      "changes": [
+        {
+          "key": "data.combat.determination.bonus",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "modules/wng-core/assets/icons/abilities/ability.webp",
+      "label": "Determination",
+      "transfer": false,
+      "flags": {}
+    },
+    {
+      "_id": "ZJWpWqQ1rwoEtexd",
+      "changes": [
+        {
+          "key": "data.combat.wounds.bonus",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "modules/wng-core/assets/icons/abilities/ability.webp",
+      "label": "Max Wounds",
+      "transfer": false,
+      "flags": {}
+    },
+    {
+      "_id": "CQtT0cz1Xn91m8RG",
+      "changes": [
+        {
+          "key": "data.combat.conviction.bonus",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "modules/wng-core/assets/icons/abilities/ability.webp",
+      "label": "Conviction",
+      "transfer": false,
+      "flags": {}
+    },
+    {
+      "_id": "7JLLFAyGrKCGUH7F",
+      "changes": [
+        {
+          "key": "data.combat.shock.bonus",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "modules/wng-core/assets/icons/abilities/ability.webp",
+      "label": "Max Shock",
+      "transfer": false,
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "warhammer-shadowbreaker",
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_id": "GgJupC58AywMDFq9"
+}

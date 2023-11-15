@@ -1,0 +1,53 @@
+{
+  "name": "weapon",
+  "type": "weapon",
+  "img": "modules/wng-core/assets/icons/weapons/melee-weapon.webp",
+  "data": {
+    "quantity": 1,
+    "rarity": "common",
+    "description": "",
+    "value": 0,
+    "keywords": "",
+    "equipped": false,
+    "attack": {
+      "base": 0,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "damage": {
+      "base": 0,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "ed": {
+      "base": 0,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "ap": {
+      "base": 0,
+      "bonus": 0,
+      "rank": "none"
+    },
+    "category": "melee",
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "melee": 1,
+      "thrown": null
+    },
+    "ammo": "",
+    "salvo": 0,
+    "traits": [],
+    "upgrades": []
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "system": "wrath-and-glory",
+      "coreVersion": "9.269",
+      "systemVersion": "3.5.0"
+    }
+  }
+}
