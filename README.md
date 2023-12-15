@@ -31,4 +31,5 @@ The ork in me urged to give some updates here
 - [Nathan Dowdell](https://twitter.com/n01h3r3)(Original Author of An Abundance of Apocrypha)
 
 ## Contributors
+- [Alexandru "Ashendar" Dracea](https://github.com/adracea)
 - [Michael Mars](https://twitter.com/MichaelMarsRPG)
