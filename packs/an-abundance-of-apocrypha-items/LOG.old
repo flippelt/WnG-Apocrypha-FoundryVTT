@@ -1,8 +1,6 @@
-2023/12/15-17:54:31.925 2cf8 Recovering log #8
-2023/12/15-17:54:31.935 2cf8 Delete type=0 #8
-2023/12/15-17:54:31.935 2cf8 Delete type=3 #6
-2023/12/15-18:13:42.794 19bc Level-0 table #13: started
-2023/12/15-18:13:42.794 19bc Level-0 table #13: 0 bytes OK
-2023/12/15-18:13:42.798 19bc Delete type=0 #11
-2023/12/15-18:13:42.798 19bc Manual compaction at level-0 from '!folders!0e4JnvdZPT2mvK1p' @ 72057594037927935 : 1 .. '!items.effects!zzhEqN7W4Ft58HcN.jrnWXcMc1iV5T28o' @ 0 : 0; will stop at (end)
-2023/12/15-18:13:42.798 19bc Manual compaction at level-1 from '!folders!0e4JnvdZPT2mvK1p' @ 72057594037927935 : 1 .. '!items.effects!zzhEqN7W4Ft58HcN.jrnWXcMc1iV5T28o' @ 0 : 0; will stop at (end)
+2024/03/10-23:53:15.938 ab4 Recovering log #99
+2024/03/10-23:53:15.939 ab4 Level-0 table #101: started
+2024/03/10-23:53:15.941 ab4 Level-0 table #101: 83606 bytes OK
+2024/03/10-23:53:15.944 ab4 Delete type=0 #99
+2024/03/10-23:53:15.944 ab4 Delete type=3 #98
+2024/03/10-23:53:15.957 5540 Moved #101 to level-1 83606 bytes OK: files[ 0 1 1 0 0 0 0 ]
