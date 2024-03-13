@@ -1,5 +1,23 @@
-2024/03/10-23:53:15.964 ab4 Recovering log #95
-2024/03/10-23:53:15.964 ab4 Level-0 table #97: started
-2024/03/10-23:53:15.966 ab4 Level-0 table #97: 48604 bytes OK
-2024/03/10-23:53:15.968 ab4 Delete type=0 #95
-2024/03/10-23:53:15.968 ab4 Delete type=3 #94
+2024/03/12-15:09:13.596 600 Recovering log #103
+2024/03/12-15:09:13.599 600 Delete type=0 #103
+2024/03/12-15:09:13.599 600 Delete type=3 #101
+2024/03/13-01:17:00.804 41c4 Level-0 table #107: started
+2024/03/13-01:17:00.806 41c4 Level-0 table #107: 26022 bytes OK
+2024/03/13-01:17:00.807 41c4 Delete type=0 #105
+2024/03/13-01:17:00.829 41c4 Manual compaction at level-0 from '!folders!2xAD0ATkgmu0RqM7' @ 72057594037927935 : 1 .. '!journal.pages!zZEbtJRqnEYtQRSc.NYJf9LILpPnmYIVs' @ 0 : 0; will stop at '!journal.pages!cW3M1FMlrZjuaRRW.ik92UZY1mndfqy9X' @ 363 : 1
+2024/03/13-01:17:00.829 41c4 Compacting 3@0 + 0@1 files
+2024/03/13-01:17:00.832 41c4 Generated table #108@0: 16 keys, 10172 bytes
+2024/03/13-01:17:00.832 41c4 Compacted 3@0 + 0@1 files => 10172 bytes
+2024/03/13-01:17:00.832 41c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/13-01:17:00.832 41c4 Delete type=2 #97
+2024/03/13-01:17:00.833 41c4 Delete type=2 #102
+2024/03/13-01:17:00.833 41c4 Delete type=2 #107
+2024/03/13-01:17:00.840 41c4 Manual compaction at level-0 from '!journal.pages!cW3M1FMlrZjuaRRW.ik92UZY1mndfqy9X' @ 363 : 1 .. '!journal.pages!zZEbtJRqnEYtQRSc.NYJf9LILpPnmYIVs' @ 0 : 0; will stop at (end)
+2024/03/13-01:17:00.873 41c4 Manual compaction at level-1 from '!folders!2xAD0ATkgmu0RqM7' @ 72057594037927935 : 1 .. '!journal.pages!zZEbtJRqnEYtQRSc.NYJf9LILpPnmYIVs' @ 0 : 0; will stop at '!journal.pages!kqu04FYvLfK1IiT3.SNFLRKyHdaUXhQOc' @ 475 : 1
+2024/03/13-01:17:00.873 41c4 Compacting 1@1 + 1@2 files
+2024/03/13-01:17:00.878 41c4 Generated table #109@1: 110 keys, 206473 bytes
+2024/03/13-01:17:00.878 41c4 Compacted 1@1 + 1@2 files => 206473 bytes
+2024/03/13-01:17:00.878 41c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/13-01:17:00.878 41c4 Delete type=2 #59
+2024/03/13-01:17:00.878 41c4 Delete type=2 #108
+2024/03/13-01:17:00.880 41c4 Manual compaction at level-1 from '!journal.pages!kqu04FYvLfK1IiT3.SNFLRKyHdaUXhQOc' @ 475 : 1 .. '!journal.pages!zZEbtJRqnEYtQRSc.NYJf9LILpPnmYIVs' @ 0 : 0; will stop at (end)
