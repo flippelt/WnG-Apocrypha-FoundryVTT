@@ -1,8 +1,3 @@
-2023/12/15-17:54:31.940 2cec Recovering log #74
-2023/12/15-17:54:31.949 2cec Delete type=0 #74
-2023/12/15-17:54:31.949 2cec Delete type=3 #72
-2023/12/15-18:13:42.800 19bc Level-0 table #79: started
-2023/12/15-18:13:42.800 19bc Level-0 table #79: 0 bytes OK
-2023/12/15-18:13:42.805 19bc Delete type=0 #77
-2023/12/15-18:13:42.817 19bc Manual compaction at level-0 from '!folders!2xAD0ATkgmu0RqM7' @ 72057594037927935 : 1 .. '!journal.pages!zZEbtJRqnEYtQRSc.NYJf9LILpPnmYIVs' @ 0 : 0; will stop at (end)
-2023/12/15-18:13:42.817 19bc Manual compaction at level-1 from '!folders!2xAD0ATkgmu0RqM7' @ 72057594037927935 : 1 .. '!journal.pages!zZEbtJRqnEYtQRSc.NYJf9LILpPnmYIVs' @ 0 : 0; will stop at (end)
+2024/03/18-15:56:43.116 600 Recovering log #188
+2024/03/18-15:56:43.118 600 Delete type=0 #188
+2024/03/18-15:56:43.118 600 Delete type=3 #187

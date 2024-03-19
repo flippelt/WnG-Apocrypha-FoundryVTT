@@ -64,6 +64,36 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+	{
+      "name": "an-abundance-of-apocrypha-actors",
+      "label": "An Abundance of Apocrypha - Actors",
+      "path": "packs/an-abundance-of-apocrypha-actors",
+      "type": "Actor",
+      "system": "wrath-and-glory",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "flags": {
+    "folder": {
+      "name": "An Abundance of Apocrypha",
+      "sorting": "m",
+	  "color": "#000000"
+    }
+  },
+  "packFolders": [
+    {
+      "name": "An Abundance of Apocrypha",
+      "sorting": "m",
+	  "color": "#000000",
+      "packs": [
+        "an-abundance-of-apocrypha-items",
+        "an-abundance-of-apocrypha-journals",
+        "an-abundance-of-apocrypha-actors"
+      ]
     }
   ],
   "url": "https://github.com/flippelt/WnG-Apocrypha-FoundryVTT",
