@@ -29,6 +29,7 @@ The ork in me urged to give some updates here
 
 - [@flippelt](https://www.github.com/flippelt)
 - [Nathan Dowdell](https://twitter.com/n01h3r3)(Original Author of An Abundance of Apocrypha)
+- [Owen May](https://github.com/Vulcan98)
 
 ## Contributors
 - [Alexandru "Ashendar" Dracea](https://github.com/adracea)
