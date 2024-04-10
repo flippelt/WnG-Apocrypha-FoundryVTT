@@ -17,8 +17,8 @@ The ork in me urged to give some updates here
 
 ### Part 2
 - [x] Implementing all the new Talents
-- [ ] Implementing all the new Psychic Powers[In Progress]
-- [ ] Implementing all the new Gear
+- [x] Implementing all the new Psychic Powers[In Progress]
+- [x] Implementing all the new Gear
 
 ### Part 3
 - [ ] Implementing all the new Archetypes [On hold]
