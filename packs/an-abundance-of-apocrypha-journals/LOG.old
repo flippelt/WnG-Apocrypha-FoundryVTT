@@ -1,3 +1,54 @@
-2024/04/09-19:02:43.632 26d4 Recovering log #200
-2024/04/09-19:02:43.635 26d4 Delete type=0 #200
-2024/04/09-19:02:43.635 26d4 Delete type=3 #199
+2024/04/10-16:41:56.611 13dc Log #3: 487 ops saved to Table #205 OK
+2024/04/10-16:41:56.612 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000003.log: OK
+2024/04/10-16:41:56.612 13dc Log #27: 0 ops saved to Table #206 OK
+2024/04/10-16:41:56.612 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000027.log: OK
+2024/04/10-16:41:56.613 13dc Log #32: 0 ops saved to Table #207 OK
+2024/04/10-16:41:56.613 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000032.log: OK
+2024/04/10-16:41:56.613 13dc Log #33: 0 ops saved to Table #208 OK
+2024/04/10-16:41:56.613 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000033.log: OK
+2024/04/10-16:41:56.614 13dc Log #45: 0 ops saved to Table #209 OK
+2024/04/10-16:41:56.614 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000045.log: OK
+2024/04/10-16:41:56.614 13dc Log #48: 0 ops saved to Table #210 OK
+2024/04/10-16:41:56.614 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000048.log: OK
+2024/04/10-16:41:56.614 13dc Log #49: 0 ops saved to Table #211 OK
+2024/04/10-16:41:56.615 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000049.log: OK
+2024/04/10-16:41:56.615 13dc Log #57: 0 ops saved to Table #212 OK
+2024/04/10-16:41:56.615 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000057.log: OK
+2024/04/10-16:41:56.616 13dc Log #78: 0 ops saved to Table #213 OK
+2024/04/10-16:41:56.616 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000078.log: OK
+2024/04/10-16:41:56.616 13dc Log #82: 0 ops saved to Table #214 OK
+2024/04/10-16:41:56.616 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000082.log: OK
+2024/04/10-16:41:56.616 13dc Log #86: 0 ops saved to Table #215 OK
+2024/04/10-16:41:56.616 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000086.log: OK
+2024/04/10-16:41:56.643 13dc Log #100: 7 ops saved to Table #216 OK
+2024/04/10-16:41:56.643 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000100.log: OK
+2024/04/10-16:41:56.644 13dc Log #111: 0 ops saved to Table #217 OK
+2024/04/10-16:41:56.644 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000111.log: OK
+2024/04/10-16:41:56.644 13dc Log #150: 0 ops saved to Table #218 OK
+2024/04/10-16:41:56.644 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000150.log: OK
+2024/04/10-16:41:56.645 13dc Log #192: 0 ops saved to Table #219 OK
+2024/04/10-16:41:56.645 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000192.log: OK
+2024/04/10-16:41:56.645 13dc Log #204: 0 ops saved to Table #220 OK
+2024/04/10-16:41:56.645 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/000204.log: OK
+2024/04/10-16:41:56.659 13dc Table #14: 100 entries OK
+2024/04/10-16:41:56.680 13dc Table #59: 100 entries OK
+2024/04/10-16:41:56.697 13dc Table #97: 69 entries OK
+2024/04/10-16:41:56.717 13dc Table #109: 110 entries OK
+2024/04/10-16:41:56.739 13dc Table #132: 116 entries OK
+2024/04/10-16:41:56.740 13dc Table #205: 487 entries OK
+2024/04/10-16:41:56.741 13dc Table #216: 7 entries OK
+2024/04/10-16:41:56.745 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000002: OK
+2024/04/10-16:41:56.745 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000025: OK
+2024/04/10-16:41:56.745 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000031: OK
+2024/04/10-16:41:56.745 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000043: OK
+2024/04/10-16:41:56.745 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000047: OK
+2024/04/10-16:41:56.745 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000055: OK
+2024/04/10-16:41:56.746 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000076: OK
+2024/04/10-16:41:56.746 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000080: OK
+2024/04/10-16:41:56.746 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000084: OK
+2024/04/10-16:41:56.746 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000099: OK
+2024/04/10-16:41:56.746 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000110: OK
+2024/04/10-16:41:56.746 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000149: OK
+2024/04/10-16:41:56.746 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000191: OK
+2024/04/10-16:41:56.746 13dc Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals/MANIFEST-000203: OK
+2024/04/10-16:41:56.752 13dc **** Repaired leveldb E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-journals; recovered 7 files; 1586043 bytes. Some data may have been lost. ****

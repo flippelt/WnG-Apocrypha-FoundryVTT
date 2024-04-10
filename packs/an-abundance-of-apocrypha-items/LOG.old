@@ -1,9 +1,68 @@
-2024/04/09-19:02:43.597 26d4 Recovering log #228
-2024/04/09-19:02:43.597 26d4 Level-0 table #230: started
-2024/04/09-19:02:43.600 26d4 Level-0 table #230: 43722 bytes OK
-2024/04/09-19:02:43.603 26d4 Delete type=0 #228
-2024/04/09-19:02:43.604 26d4 Delete type=3 #227
-2024/04/10-00:30:45.405 47ec Compacting 2@0 + 0@1 files
-2024/04/10-00:30:45.411 47ec Generated table #232@0: 220 keys, 116702 bytes
-2024/04/10-00:30:45.411 47ec Compacted 2@0 + 0@1 files => 116702 bytes
-2024/04/10-00:30:45.411 47ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/10-16:41:55.543 11f4 Log #3: 3917 ops saved to Table #236 OK
+2024/04/10-16:41:55.544 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000003.log: OK
+2024/04/10-16:41:55.545 11f4 Log #12: 0 ops saved to Table #237 OK
+2024/04/10-16:41:55.545 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000012.log: OK
+2024/04/10-16:41:55.545 11f4 Log #16: 0 ops saved to Table #238 OK
+2024/04/10-16:41:55.545 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000016.log: OK
+2024/04/10-16:41:55.546 11f4 Log #21: 0 ops saved to Table #239 OK
+2024/04/10-16:41:55.546 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000021.log: OK
+2024/04/10-16:41:55.546 11f4 Log #27: 0 ops saved to Table #240 OK
+2024/04/10-16:41:55.546 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000027.log: OK
+2024/04/10-16:41:55.601 11f4 Log #33: 1325 ops saved to Table #241 OK
+2024/04/10-16:41:55.602 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000033.log: OK
+2024/04/10-16:41:55.602 11f4 Log #34: 0 ops saved to Table #242 OK
+2024/04/10-16:41:55.603 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000034.log: OK
+2024/04/10-16:41:55.603 11f4 Log #47: 0 ops saved to Table #243 OK
+2024/04/10-16:41:55.603 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000047.log: OK
+2024/04/10-16:41:55.676 11f4 Log #51: 1029 ops saved to Table #244 OK
+2024/04/10-16:41:55.676 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000051.log: OK
+2024/04/10-16:41:55.676 11f4 Log #52: 0 ops saved to Table #245 OK
+2024/04/10-16:41:55.676 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000052.log: OK
+2024/04/10-16:41:55.677 11f4 Log #61: 0 ops saved to Table #246 OK
+2024/04/10-16:41:55.677 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000061.log: OK
+2024/04/10-16:41:55.757 11f4 Log #105: 1108 ops saved to Table #247 OK
+2024/04/10-16:41:55.758 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000105.log: OK
+2024/04/10-16:41:55.840 11f4 Log #116: 1457 ops saved to Table #248 OK
+2024/04/10-16:41:55.841 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000116.log: OK
+2024/04/10-16:41:55.841 11f4 Log #158: 0 ops saved to Table #249 OK
+2024/04/10-16:41:55.841 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000158.log: OK
+2024/04/10-16:41:55.841 11f4 Log #216: 0 ops saved to Table #250 OK
+2024/04/10-16:41:55.842 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000216.log: OK
+2024/04/10-16:41:55.843 11f4 Log #235: 0 ops saved to Table #251 OK
+2024/04/10-16:41:55.843 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000235.log: OK
+2024/04/10-16:41:55.860 11f4 Table #5: 902 entries OK
+2024/04/10-16:41:55.896 11f4 Table #18: 911 entries OK
+2024/04/10-16:41:55.923 11f4 Table #29: 746 entries OK
+2024/04/10-16:41:55.943 11f4 Table #36: 777 entries OK
+2024/04/10-16:41:55.972 11f4 Table #49: 801 entries OK
+2024/04/10-16:41:55.995 11f4 Table #54: 838 entries OK
+2024/04/10-16:41:56.013 11f4 Table #63: 901 entries OK
+2024/04/10-16:41:56.030 11f4 Table #101: 582 entries OK
+2024/04/10-16:41:56.032 11f4 Table #104: 143 entries OK
+2024/04/10-16:41:56.063 11f4 Table #114: 1370 entries OK
+2024/04/10-16:41:56.100 11f4 Table #140: 1552 entries OK
+2024/04/10-16:41:56.139 11f4 Table #213: 1809 entries OK
+2024/04/10-16:41:56.194 11f4 Table #215: 1403 entries OK
+2024/04/10-16:41:56.242 11f4 Table #223: 1989 entries OK
+2024/04/10-16:41:56.266 11f4 Table #232: 220 entries OK
+2024/04/10-16:41:56.283 11f4 Table #234: 115 entries OK
+2024/04/10-16:41:56.286 11f4 Table #236: 3917 entries OK
+2024/04/10-16:41:56.287 11f4 Table #241: 1325 entries OK
+2024/04/10-16:41:56.288 11f4 Table #244: 1029 entries OK
+2024/04/10-16:41:56.290 11f4 Table #247: 1108 entries OK
+2024/04/10-16:41:56.291 11f4 Table #248: 1457 entries OK
+2024/04/10-16:41:56.311 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000002: OK
+2024/04/10-16:41:56.316 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000010: OK
+2024/04/10-16:41:56.317 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000014: OK
+2024/04/10-16:41:56.324 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000019: OK
+2024/04/10-16:41:56.324 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000025: OK
+2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000032: OK
+2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000045: OK
+2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000050: OK
+2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000059: OK
+2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000103: OK
+2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000115: OK
+2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000157: OK
+2024/04/10-16:41:56.326 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000214: OK
+2024/04/10-16:41:56.326 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000233: OK
+2024/04/10-16:41:56.331 11f4 **** Repaired leveldb E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items; recovered 21 files; 13295934 bytes. Some data may have been lost. ****
