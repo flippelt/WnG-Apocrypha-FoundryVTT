@@ -1,5 +1,5 @@
 folder: GHP0SxnnlNKFusRJ
-name: Voidreaver
+name: Void Reaver
 type: archetype
 img: modules/wng-core/assets/icons/abilities/aeldari.webp
 system:
@@ -7,10 +7,10 @@ system:
   journal: ''
   species:
     name: Aeldari
-    id: Item.Ryyi27i160YZJWeP
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
   faction:
     name: Aeldari
-    id: Item.15adBmv177CaW1UF
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
   influence: 0
   cost: 36
   keywords:
@@ -48,71 +48,69 @@ system:
     weaponSkill: 2
   ability:
     name: Reavers of the Void
-    id: Item.iMzYXSNB40Y2IA0c
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.nD2XZa8gSyW6OAjI
   wargear:
-    - - name: ''
-        id: ''
     - name: Corsair Armour
-      id: Item.ZYJP0UzR7t3nHqqs
+      id: Compendium.wng-core.items.Item.ZYJP0UzR7t3nHqqs
+      type: item
+      diff: {}
+      index: 0
+      groupId: 9WxdS4xUxzYlK0GY
+    - name: Shuriken Rifle
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.EkKoahrf6nVXtSJ8
       type: item
       diff: {}
       index: 1
-      groupId: rUFRCBzMoZie86C9
-    - type: generic
-      name: Shuriken Rifle
-      filters: []
+      groupId: rQjgs9hfVjll5com
+    - name: Shuriken Pistol
+      id: Compendium.wng-core.items.Item.ueTuXr4xkzevIL4X
+      type: item
+      diff: {}
       index: 2
-      groupId: 2KTCTOfKXsbBEcvS
+      groupId: avmDIA4mSsaQhx1B
     - name: Mono Knife
-      id: Item.3X5FaaFcfNmaEod4
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
       type: item
       diff: {}
       index: 3
-      groupId: 3FOVwceBU8h3JfVs
+      groupId: YhLJrDPfdk6l3u5S
     - name: Spirit Stone
-      id: Item.aIEl2xpESvkqyVEG
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
       type: item
       diff: {}
       index: 4
-      groupId: 7oCmNmCSM56ZyxQt
-    - name: Shuriken Pistol
-      id: Item.ueTuXr4xkzevIL4X
-      type: item
-      diff: {}
-      index: 5
-      groupId: g2ddtZT3nBQowHMf
+      groupId: rlruibK9ncffEii1
     - name: Power Sword
-      id: Item.yGdYJq6FWVgYE7GA
+      id: Compendium.wng-core.items.Item.yGdYJq6FWVgYE7GA
       type: item
       diff: {}
   groups:
     type: and
     groupId: root
     items:
-      - index: 1
+      - index: 0
         type: item
-        groupId: rUFRCBzMoZie86C9
-      - type: or
-        items:
-          - type: item
-            index: 2
-            groupId: 2KTCTOfKXsbBEcvS
-          - type: and
-            items:
-              - index: 5
-                type: item
-                groupId: g2ddtZT3nBQowHMf
-              - index: 6
-                type: item
-                groupId: US4EnbfubGmWOJAW
-            groupId: q5jcnhPQovEDE3PH
-        groupId: 8UP53EvRIXrAedtl
+        groupId: 9WxdS4xUxzYlK0GY
+      - index: 2
+        type: item
+        groupId: avmDIA4mSsaQhx1B
       - index: 3
         type: item
-        groupId: 3FOVwceBU8h3JfVs
+        groupId: YhLJrDPfdk6l3u5S
       - index: 4
         type: item
-        groupId: 7oCmNmCSM56ZyxQt
+        groupId: rlruibK9ncffEii1
+      - type: or
+        items:
+          - index: 5
+            type: item
+            groupId: UhFyXlS7U7yOyhBg
+          - index: 1
+            type: item
+            groupId: rQjgs9hfVjll5com
+        groupId: k7rRygWLsx2vufkn
   suggested:
     attributes:
       strength: 3
@@ -143,17 +141,20 @@ system:
       weaponSkill: 2
     talents: []
 effects: []
-flags: {}
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.XgWsFCmYfNwrw75i
 _stats:
   systemId: wrath-and-glory
-  systemVersion: 4.2.1
+  systemVersion: 5.0.2
   coreVersion: '11.315'
   createdTime: 1665770606976
-  modifiedTime: 1700074998571
-  lastModifiedBy: QQwHydvBuTROXyXM
-_id: XgWsFCmYfNwrw75i
-sort: 0
+  modifiedTime: 1710599279709
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: EZfbIjaVGLZt0zaI
 ownership:
   default: 0
-  QQwHydvBuTROXyXM: 3
-_key: '!items!XgWsFCmYfNwrw75i'
+  iqIIJEvwgrLX4V4E: 3
+sort: 300000
+_key: '!items!EZfbIjaVGLZt0zaI'
