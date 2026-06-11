@@ -15,7 +15,7 @@ The module is **substantially complete**. The compendium contains:
 
 | Content | In packs |
 | --- | --- |
-| Archetypes | **185** (incl. species/build variants) |
+| Archetypes | **181** (incl. species/build variants) |
 | Ascension packages | **18** |
 | Talents | 249 |
 | Psychic powers | 199 |
@@ -75,18 +75,20 @@ structure.
 - ✅ **Primaris Agressor** `tier: 41` corrected to `4`.
 - ✅ **Right of Duplessence** ascension renamed to **Rite of Duplessence** (the
   spelling used throughout the PDF v9, e.g. p. 217).
-- Several archetypes appear two or three times (e.g. Hearthkyn Warrior, Storm
-  Guardian, Slaangor). Most are legitimate **species/build variants**; a pass to
-  confirm none are accidental duplicates is still open. (The two **Primaris
-  Agressor** entries — distinct `_id`s — are worth checking specifically.)
+- ✅ **Duplicate audit done.** Of 29 names that appear more than once, 25 are
+  legitimate species/build variants (distinct content). Four had a content-
+  identical accidental copy — the same gameplay data with only a
+  `flags.core.sourceId` (Foundry's "duplicated-from" stamp) differing. The
+  copies were removed (kept the originals): **Beast Snagga Boy**, **Hearthkyn
+  Warrior (Ironkin)**, **Slaangor**, **Storm Guardian** — each now has its two
+  genuine variants. (Archetype count 185 → 181.)
 - Minor: the archetype is named "Primaris **Agressor**" (missing a *g*); fixing
   the display name was left out of scope to avoid churn, but worth a future tidy.
 
 ## Suggested plan (priority)
 
-1. Confirm the variant duplicates (esp. the two Primaris Agressor entries) and
-   sweep names against the PDF v9 table of contents for anything genuinely
-   absent or misspelled.
+1. Sweep names against the PDF v9 table of contents for anything genuinely
+   absent or misspelled (e.g. the "Agressor" tidy).
 
 ## Workflow
 
