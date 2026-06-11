@@ -1,0 +1,13 @@
+# Foundry LevelDB compendium packs are binary build artifacts — never apply
+# end-of-line conversion to them (it corrupts the database files).
+packs/** binary
+*.ldb binary
+*.sst binary
+MANIFEST-* binary
+CURRENT binary
+LOG binary
+
+# Editable pack sources are text.
+src/packs/**/*.yml text eol=lf
+src/packs/**/*.yaml text eol=lf
+src/packs/**/*.json text eol=lf

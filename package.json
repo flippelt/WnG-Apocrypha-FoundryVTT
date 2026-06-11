@@ -1,0 +1,14 @@
+{
+  "name": "wng-apocrypha",
+  "version": "0.8.0",
+  "private": true,
+  "description": "Build tooling for the An Abundance of Apocrypha Foundry VTT module: extract/compile compendium packs to and from editable YAML sources.",
+  "type": "module",
+  "scripts": {
+    "unpack": "node tools/unpack.mjs",
+    "pack": "node tools/pack.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.4"
+  }
+}
