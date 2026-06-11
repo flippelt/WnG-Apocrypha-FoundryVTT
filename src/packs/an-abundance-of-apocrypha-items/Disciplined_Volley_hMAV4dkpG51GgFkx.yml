@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Disciplined Volley
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are used to laying down consistent, deadly volleys of fire.<br>When
+    you make a ranged attack with a PULSE weapon, and did not move during your
+    turn, you may increase the weapon&rsquo;s Salvo rating by +Rank</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wdSssxWzbZn8nMNM
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664299854937
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: hMAV4dkpG51GgFkx
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!hMAV4dkpG51GgFkx'

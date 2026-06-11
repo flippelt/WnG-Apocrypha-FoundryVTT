@@ -1,0 +1,85 @@
+name: Mind Raid
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.L0gZBcNWXKVbGZo2
+system:
+  dn: '@combat.resolve.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You peer into the mind of the foe, raiding their thoughts for secret
+    codes, battle plans, the locations of hidden forces, or other tactical
+    information which may be vital. Such brute psychic interrogation doubtless
+    inflicts severe cerebral trauma on its victim. If successful, the target
+    suffers 1d3+2 Shock, and the GM must reveal one piece of information which
+    the target knows, which must be pertinent to the current scenario.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ADEPTUS ASTARTES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: 1d3+2
+  potency:
+    - description: +1 Shock
+      cost: 1
+      property: damage.other.shock.bonus
+      initial: ''
+      value: 1
+      single: false
+    - description: Target also suffers 1 Mortal Wound
+      cost: 3
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: ''
+      single: false
+    - description: The GM reveals one additional piece of information.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: L0gZBcNWXKVbGZo2
+folder: 6agkY8o79jzZ96uL
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959208
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!L0gZBcNWXKVbGZo2'

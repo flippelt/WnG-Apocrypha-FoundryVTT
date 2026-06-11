@@ -1,0 +1,47 @@
+name: Wraithbone Talisman
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.jAGTrJqq2MGIFew7
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">Wraithbone is a substance used in many forms of
+    Aeldari technology. It is psychoreactive, and is found in many devices and
+    objects which are intended to channel and direct the energies of the Warp.
+    Many Eldar wear charms or talismen of wraithbone, often shaped into symbolic
+    representations of their ancient gods or mythic figures, seeking clarity of
+    thought, focus, or good fortune.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A character wearing a wraithbone talisman may draw upon
+    the talisman as a Free Action to gain 1 Glory. Once a talisman has been used
+    in this way, it cannot be used again until after the next Regroup.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: AELDARI, ASURYANI, ANHRATHE, HARLEQUINS
+  effect: ''
+_id: jAGTrJqq2MGIFew7
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240259
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 1400000
+_key: '!items!jAGTrJqq2MGIFew7'

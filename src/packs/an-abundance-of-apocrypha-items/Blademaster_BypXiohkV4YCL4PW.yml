@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Blademaster
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 40
+  requirements: Weapon Skill rating 7+
+  description: >-
+    <p>Your mastery of the blade is incomparable, and few foes can overcome your
+    defences or withstand your attacks. You increase the bonus to Defence from
+    weapons with the Parry quality to +2, and you add +2ED to damage with all
+    melee weapons with the BLADE or
+    @UUID[JournalEntry.uFsTz4UgkPCYxEwp.JournalEntryPage.y09xHCDKDtCVvKH0#power-field]{POWER
+    FIELD} keywords.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699810914695
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: BypXiohkV4YCL4PW
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!BypXiohkV4YCL4PW'

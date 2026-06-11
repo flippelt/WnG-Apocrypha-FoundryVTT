@@ -1,0 +1,29 @@
+folder: R6DiCyrJrBf1MKBz
+name: Turn Aside Blow
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Weapon Skill 6+
+  description: >-
+    <p>You are a master of parrying and deflecting incoming attacks and has even
+    modified their armour to include additional parrying surfaces on their hands
+    and forearms. When you use Full Defense against melee attacks, you may make
+    a Weapon Skill test instead of simply rolling Initiative.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1700068334556
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 2wt3kSAhfN2ISW82
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!2wt3kSAhfN2ISW82'

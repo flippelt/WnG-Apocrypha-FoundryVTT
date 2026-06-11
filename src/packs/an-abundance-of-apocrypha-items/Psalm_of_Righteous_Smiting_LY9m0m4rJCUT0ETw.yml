@@ -1,0 +1,101 @@
+name: Psalm of Righteous Smiting
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + IMPERIUM/ADEPTUS MINISTORUM, not CHAOS
+  description: >-
+    <p><span class="fontstyle0">Invoking the strength of the God-Emperor, divine
+    power flows through you as you carve apart the Emperor’s foes like the
+    warrior-saints of legend.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">If this Prayer is successful, you add Double Rank bonus
+    dice to all melee attacks you make and improve the AP of your melee attacks
+    by 1 while the Prayer remains in effect.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Psalm of Righteous Smiting
+    _id: nmMzZFxJOPHKUo2k
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank * 2'
+        priority: null
+      - key: ap.bonus
+        mode: 6
+        value: '-1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Melee attack
+            hide: ''
+          '1':
+            script: ''
+            description: Melee attack
+            hide: ''
+    tint: null
+    _key: '!items.effects!LY9m0m4rJCUT0ETw.nmMzZFxJOPHKUo2k'
+folder: AUFZA6KODKn4d1ad
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags:
+  core:
+    sourceId: Item.AJMskXQD81UT7c1M
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: LY9m0m4rJCUT0ETw
+_key: '!items!LY9m0m4rJCUT0ETw'

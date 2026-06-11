@@ -1,0 +1,77 @@
+name: Chainsabres (Ranged)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>These carefully-balanced pairs of chainswords are matched with gauntlets
+    mounting paired Shuriken Pistols. The ritual martial forms associated with
+    these weapons allow the wielder to deliver a punishing and unceasing storm
+    of attacks.</p>
+  value: 8
+  keywords: CHAIN, ANCIENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: pistol
+    - name: rending
+      rating: 2
+    - name: sustained
+      custom: true
+      display: Sustained
+      description: >-
+        The weapon is well-suited for delivering attack after attack. For each
+        Exalted Icon rolled when you make an attack with this weapon, you may
+        roll one additional attack die. These additional dice cannot themselves
+        generate additional dice.
+    - name: paired
+      custom: true
+      display: Paired
+      description: >-
+        The weapon is designed to be used in a pair—two weapons of that type,
+        one in each hand. When a character makes an attack while wielding both
+        weapons in a pair, either count it as a Simultaneous Strike (as per the
+        talent) or reduce the DN of a multiattack by 2. If you have the
+        Signature Weapon talent, you may apply it to both weapons in a pair.
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 300000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709854981148
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 9hdCLYrPQa9h2Mop
+_key: '!items!9hdCLYrPQa9h2Mop'

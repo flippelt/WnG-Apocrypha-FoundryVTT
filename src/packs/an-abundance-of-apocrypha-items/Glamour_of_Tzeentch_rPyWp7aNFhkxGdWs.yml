@@ -1,0 +1,111 @@
+name: Glamour of Tzeentch
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Glamour of Tzeentch
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '@test.result.def'
+        priority: null
+      - key: system.skills.stealth.bonus
+        mode: 2
+        value: '@test.result.ste'
+        priority: null
+    _id: gUDspYddsb7TmCoI
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!rPyWp7aNFhkxGdWs.gUDspYddsb7TmCoI'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.rPyWp7aNFhkxGdWs
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You twist and obscure the perceptions of your foes to the point that your
+    allies become all but invisible. This power affects a number of CHAOS allies
+    within range and line of sight equal to your Willpower. While this power
+    remains in effect, these allies increase their Defence by +2.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: HERETIC ASTARTES, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Defence
+      cost: 1
+      property: def
+      initial: 2
+      value: 1
+      single: false
+    - description: Affected allies add +1 die to all Stealth tests.
+      cost: 1
+      property: ste
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: rPyWp7aNFhkxGdWs
+folder: Etpcm2KGN6kx7ODw
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519056
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!rPyWp7aNFhkxGdWs'

@@ -1,0 +1,64 @@
+name: Las Fusil
+type: weapon
+img: modules/wng-core/assets/icons/weapons/lascannon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>The Las Fusil is a powerful, anti-personnel heavy Laser Weapon used by
+    Astartes Vanguard Eliminator squads as an antimateriel weapon. They are
+    extremely precise, and only slightly less potent than a full-size lascannon,
+    making them ideal for destroying enemy armour from ambush.</p>
+  value: 8
+  keywords: LAS, IMPERIUM, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: heavy
+      rating: 4
+    - name: sniper
+      rating: 1
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665493334982
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: KtMQP20MTYUwmoWw
+_id: t7v07voYNoyxGkvo
+sort: 100000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!t7v07voYNoyxGkvo'

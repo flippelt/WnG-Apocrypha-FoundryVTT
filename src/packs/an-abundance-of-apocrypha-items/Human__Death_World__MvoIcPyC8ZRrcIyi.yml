@@ -1,0 +1,73 @@
+name: Human (Death World)
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: xkWhtm2Z4Kb4ZoWX
+flags:
+  wng-core:
+    initialization-folder: Species
+    sort: 100000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4FN92X8sixacZE6T
+  cf: null
+system:
+  cost: 0
+  speed: 6
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.prQaTJ0As57AdEZU
+      name: Bitter Survivor
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cYE25LDS47D2Zv65
+      name: Not One of Us
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: 8
+    toughness: 8
+    agility: 8
+    initiative: 8
+    willpower: 8
+    intellect: 8
+    fellowship: 8
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056676
+  modifiedTime: 1710521726396
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: MvoIcPyC8ZRrcIyi
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!MvoIcPyC8ZRrcIyi'

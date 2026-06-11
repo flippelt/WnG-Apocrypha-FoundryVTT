@@ -1,0 +1,53 @@
+folder: fgtFfRbmshJ8KM1n
+name: Decapitation Strike
+type: ability
+_id: YrYMmi3skw72aF2R
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you make a melee attack against a single enemy—not as part of a
+    multiattack or multi-action—you gain bonus dice on your attack equal to the
+    number of Personal Ruin that enemy possesses. Further, each Exalted Icon
+    rolled on that melee weapon’s ED inflicts one Mortal Wound.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710777902793
+  modifiedTime: 1710777936788
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!YrYMmi3skw72aF2R'

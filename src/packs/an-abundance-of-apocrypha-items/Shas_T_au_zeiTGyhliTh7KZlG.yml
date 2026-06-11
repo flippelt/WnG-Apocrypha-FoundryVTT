@@ -1,0 +1,70 @@
+name: Shas T'au
+type: species
+img: modules/wng-apocrypha/assets/images/factions/fire-caste-icon.webp
+effects: []
+folder: Ft9EFoc4UweG24to
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zeiTGyhliTh7KZlG
+  cf: null
+system:
+  cost: 4
+  speed: 6
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.k4DE1Biid8tucGuL
+      name: For the Greater Good (Shas)
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.eEBybODCXBdO1QNg
+      name: Dull Soul
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 1
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: null
+  attributeMax:
+    strength: 7
+    toughness: 8
+    agility: 8
+    initiative: 8
+    willpower: 8
+    intellect: 9
+    fellowship: 7
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056776
+  modifiedTime: 1710523189476
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: zeiTGyhliTh7KZlG
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!zeiTGyhliTh7KZlG'

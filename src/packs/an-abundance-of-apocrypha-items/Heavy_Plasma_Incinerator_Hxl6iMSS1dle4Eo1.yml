@@ -1,0 +1,64 @@
+name: Heavy Plasma Incinerator
+type: weapon
+img: modules/wng-core/assets/icons/weapons/plasma-cannon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>This variant of the Plasma Incinerator requires a larger backpack power
+    supply to operate but can deliver more potent blasts at longer ranges.</p>
+
+    <p>A Heavy Plasma Incinerator comes with a @UUID[Item.Dh1HhVnPaURjpgTR]{Ammo
+    Backpack}.</p>
+  value: 7
+  keywords: PLASMA, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: heavy
+      rating: 4
+    - name: supercharge
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665494011653
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: e9EXVo6L2qnEFMDP
+_id: Hxl6iMSS1dle4Eo1
+sort: 200000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!Hxl6iMSS1dle4Eo1'

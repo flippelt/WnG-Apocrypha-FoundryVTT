@@ -1,0 +1,32 @@
+name: Mars
+type: keyword
+img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+effects: []
+folder: EOubWyxMDb5RRb88
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 1800000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.7MxgyeObyrPcLXLF
+system:
+  description: >-
+    <p>In all the Cult Mechanicus, there are no forge worlds more holy or more
+    blessed than Mars. The favour of the Machine God can be seen in the powerful
+    optimisation granted by every static-ridden psalm incanted by his most
+    faithful followers.</p><p><strong>GLORY TO THE OMNISSIAH:</strong> You may
+    shift up to two dice to Glory on a single Test, rather than one.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699478596396
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 7MxgyeObyrPcLXLF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!7MxgyeObyrPcLXLF'

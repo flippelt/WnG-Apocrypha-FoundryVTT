@@ -1,0 +1,33 @@
+folder: R6DiCyrJrBf1MKBz
+name: Rapid Assault
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Hawk aspect, Weapon Skill rating 6+
+  description: >-
+    <p>You hurtle into the fray, flitting between opponents and delivering a
+    storm of attacks. When you charge while flying, they may ignore up to Double
+    Rank points of DN penalty when making a multi-attack. Further, against a
+    Mob, each Icon scored above the target’s Defence strikes two additional
+    members of the mob instead of one.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Hl79tlmav5DB8sbW
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700053572817
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Hl79tlmav5DB8sbW
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Hl79tlmav5DB8sbW'

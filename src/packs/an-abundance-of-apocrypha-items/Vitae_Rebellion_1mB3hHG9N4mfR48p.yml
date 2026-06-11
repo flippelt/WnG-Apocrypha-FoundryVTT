@@ -1,0 +1,54 @@
+name: Vitae Rebellion
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.1mB3hHG9N4mfR48p
+system:
+  description: >-
+    <p><span class="fontstyle0">A cruel and savage toxin, Vitae Rebellion is a
+    genetic serum of incredible potency created in only a handful of Haemonculi
+    laboratories and Shaimeshi venomdistilleries. It is sold to Dark Eldar
+    nobles who desire a certain explosive flair to their kills. Vitae Rebellion
+    aggressively transforms the biochemistry of its victims, transmogrifying
+    critical fluids into chemicals and compounds that react violently with one
+    another. The result is gruesome and spectacular, as the victim detonates in
+    a shower of mutated gore. Alas, the effect is not as potent as the serums
+    used by Death Jesters in their Shrieker Cannons, but it is still
+    spectacular.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">At the start of the victim’s first turn after suffering
+    the </span><span class="fontstyle3">Poisoned </span><span
+    class="fontstyle0">condition, if they fail the Toughness test to shake off
+    the effects then they suffer enough Mortal Wounds to exceed their Max Wounds
+    by 1, then they immediately suffer a Traumatic Injury and begin
+    Dying.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  value: 8
+  rarity: very-rare
+  keywords: DRUKHARI, TOXIN
+  traits: []
+_id: 1mB3hHG9N4mfR48p
+folder: 6ntRjpS1Ry0pU1f7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483284
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 100049
+_key: '!items!1mB3hHG9N4mfR48p'

@@ -1,0 +1,160 @@
+name: XV8 Crisis Battlesuit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Nanocrystalline Structure
+    changes:
+      - key: system.attributes.toughness.bonus
+        mode: 2
+        value: '4'
+        priority: null
+      - key: system.combat.size
+        mode: 5
+        value: large
+        priority: null
+    _id: 8ihH6JjJRziPIrgj
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!VgEv4bhJtRsfO4V2.8ihH6JjJRziPIrgj'
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Jump Jets
+    changes:
+      - key: system.combat.fly
+        mode: 5
+        value: '8'
+        priority: null
+    _id: n2gvSClvUxFpaifB
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!VgEv4bhJtRsfO4V2.n2gvSClvUxFpaifB'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-armour.Item.VgEv4bhJtRsfO4V2
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The XV8 Crisis Battlesuit is the mainstay
+    general combat T'au Battlesuit utilised by the warriors of the Fire Caste of
+    the T'au Empire. It mounts a vast array of fearsome ranged weaponry as well
+    as a complement of technologically advanced support systems on a
+    comparatively small and agile frame that offers the T'au pilot within
+    exceptional protection. Of all the weapons systems employed by the T'au, the
+    XV8 Crisis Battlesuit is easily the most distinctive and recognisable due to
+    its reputation as an efficient and lethal weapon of
+    war.</span></p><p></p><p><span class="fontstyle0">The XV8 Crisis Battlesuit
+    strikes a perfect balance between offensive capability, armoured protection,
+    speed, manoeuvrability and utility. It is a towering T'au Battlesuit, easily
+    twice the size of the Fire Warrior who wears it. A wonder of Earth Caste
+    engineering, only the T'au could master the secrets of producing the dense
+    nanocrystalline alloy that forms the thick protective armour of the XV8.
+    When it comes to deflecting and withstanding damage, the XV8's armour is
+    comparable to the ceramite used by Imperial Space Marines, but far
+    lighter.</span></p><p></p><p><span class="fontstyle0">Agile for its size,
+    the XV8 is extremely manoeuvrable as it mounts a Jetpack with repulsor jet
+    engines—another unique Earth Caste invention that combines the functionality
+    of a jet with antigravitic technology. These powerful thrusters allow the
+    XV8 to vault battlefield obstacles and to make bounding leaps to gain
+    advantageous firing positions, or to avoid incoming shots. By firing off the
+    jets to slow descent, it is possible for a warrior in a XV8 Crisis
+    Battlesuit to make a combat drop—arriving to the battlefield suddenly by
+    leaping from an airborne Orca or Manta transport
+    aircraft.</span></p><p></p><p><span class="fontstyle0">While its protective
+    armour and mobility are highly valued by the T'au, it is the ability of the
+    XV8 Battlesuit to carry multiple weapons and support systems that makes them
+    so incredibly dangerous and versatile. Designed to compensate for the recoil
+    of light weapons fire, the XV8's weapon loadout can be easily altered to
+    reflect mission requirements or the pilot's own personal
+    preference.</span></p><p></p><p><span class="fontstyle0">Additional
+    upgrades, from Multi-Tracker fire-control systems to Homing Beacons or
+    Shield Generators, further enhance the fighting abilities of this impressive
+    Battlesuit. New technological improvements are made to the XV8 Crisis
+    Battlesuit all the time, yet its core aspect remains iconic and unchanged.
+    The XV8 is the armoured embodiment of the Tau'va, its inspirational image
+    blazoned on T'au propaganda holovids from Fi'rios to Fal'shia, and even upon
+    the distant worlds of the Farsight Enclaves.</span></p><p></p><p><span
+    class="fontstyle0">To the T'au, the XV8 Crisis Battlesuit is more than just
+    a powerful weapon of war; it is also the foremost symbol of great
+    achievement, honour, and reputation—a symbol of everything the Fire Caste
+    stands for, of ignorance and evil crushed by the potent combination of
+    technological supremacy and martial skill.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">5, Powered
+    (4)</span></p><p></p><p><span class="fontstyle2"><strong>Nanocrystalline
+    Structure</strong>: </span><span class="fontstyle0">The wearer’s Toughness
+    is increased by +4 while they wear this suit. This increases the wearer’s
+    Wounds and Determination accordingly. While within the suit, the wearer’s
+    size is Large.</span></p><p></p><p><span class="fontstyle2"><strong>Jump
+    Jets</strong>: </span><span class="fontstyle0">The armour is fitted with
+    jump jets allowing for considerable mobility. The suit has a Speed of 8
+    (Flying).</span></p><p></p><p><span
+    class="fontstyle2"><strong>Armament</strong>: </span><span
+    class="fontstyle0">This battlesuit may be equipped with up to three weapons
+    and a single </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">SUPPORT SYSTEM</span><span class="fontstyle0">,
+    though any weapon slot may be replaced by an additional </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">SUPPORT SYSTEM</span><span
+    class="fontstyle0">.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: BATTLESUIT, HEAVY, JUMP JETS, T’AUEMPIRE, FIRE CASTE
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powered
+      rating: 4
+  invulnerable: false
+_id: VgEv4bhJtRsfO4V2
+folder: 44KqXS6yhkO4uUqv
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090445966
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!VgEv4bhJtRsfO4V2'

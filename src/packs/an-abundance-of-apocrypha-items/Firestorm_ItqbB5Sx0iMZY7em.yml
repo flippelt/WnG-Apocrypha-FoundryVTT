@@ -1,0 +1,59 @@
+name: Firestorm
+type: ability
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects: []
+folder: fgtFfRbmshJ8KM1n
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.usk7IjqR9CmPpuPh
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you make a ranged attack and do not move during your turn, you
+    increase the Salvo of your weapon by +Rank. In addition, when you wield a
+    pair of @Item[O3nHflHmV3A3mlkw]{Auto-Bolstorm Gauntlet} or
+    @Item[1lQhZ1uzv8yZ9KrK]{Flamestorm Gauntlet} you may benefit from the
+    @Item[aX9bq2t854Kb7L0i]{Dual Wield} or @Item[PB5cA0QmFNcxpHm4]{Simultaneous
+    Strike} talents even though those weapons lack the Pistol trait</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055380
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: ItqbB5Sx0iMZY7em
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!ItqbB5Sx0iMZY7em'

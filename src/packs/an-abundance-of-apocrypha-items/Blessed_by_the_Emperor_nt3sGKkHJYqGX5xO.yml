@@ -1,0 +1,94 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Blessed by the Emperor
+type: ascension
+_id: nt3sGKkHJYqGX5xO
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 15
+  description: >-
+    <p>Your faith in the God-Emperor is absolute and of a magnitude far greater
+    than even the most devout of your sisters. Some have even whispered that you
+    have the potential to become a Saint, one of the greatest heroes of your
+    faith and your Order. </p><p>You are merely a vessel for the glory of the
+    Master of Mankind, and you will serve Him as He wills. What that entails,
+    and what trials you will face, remain to be seen.</p>
+  requirements: Willpower 4, ADEPTA SORORITAS keyword, at least one Faith talent
+  keywords: ''
+  influence: 1
+  benefits: >-
+    <p><strong>INFLUENCE BONUS</strong>: +1 per Tier ascended.
+    </p><p><strong>STORY ELEMENT</strong>: You are faced with trials of faith.
+    Each Trial—described below—requires that certain deeds be performed, but
+    each will provide a reward once those deeds have been completed. When you
+    select this Ascension Package, select a single one of the Trials below. When
+    you have completed that Trial, and received the listed reward, you may
+    select another Trial to replace it. If you manage to complete all four
+    Trials, you may gain Sainthood. </p><p></p><h3>Trial of Faith </h3><p>A
+    Saint performs miraculous deeds, proof that the Emperor works through them.
+    </p><p>To pass this Trial, you must accomplish any of the following deeds
+    (in any combination) ten times: </p><ul><li><p>Spend three or more Faith
+    points in a single day. </p></li><li><p>Successfully invoke three or more
+    Hymns of Battle in a single day. </p></li><li><p>Invoke at least one Hymn of
+    Battle with a Wrath Critical. </p></li><li><p>The Glory pool is full at the
+    end of at least one battle that day. </p></li></ul><p>Once you’ve passed
+    this trial, gain the following ability: </p><p><strong>Boundless
+    Faith</strong>: You may shift an Exalted Icon to regain 1 Faith.
+    </p><p></p><h3>Trial of Purity </h3><p>A Saint is so pure that malign
+    sorcery cannot touch their soul, and no wound can stay their body. </p><p>To
+    pass this Trial, you must accomplish any of the following deeds (in any
+    combination) ten times: </p><ul><li><p>You slay an enemy PSYKER.
+    </p></li><li><p>You resist or avoid the effect of a Psychic Power targeted
+    at you. </p></li><li><p>You roll Determination and reduce the damage
+    suffered to 0. </p></li><li><p>If you become dying during a scene but are
+    subsequently healed. </p></li></ul><p>Once you’ve passed this trial, gain
+    the following ability: </p><p><strong>Blazing Soulfire</strong>: You may
+    spend 2 Faith points to unleash a burst of pure Soulfire as a Simple Action.
+    Roll 3d6 for each enemy within 6m: each enemy suffers a Mortal Wound for
+    each Icon rolled. PSYKERS and CHAOS enemies re-roll any dice which result in
+    a failure. </p><p></p><h3>Trial of Righteousness </h3><p>A Saint will smite
+    the enemies of the Emperor wherever they cower. </p><p>To pass this Trial,
+    you must accomplish any of the following deeds (in any combination) ten
+    times: </p><ul><li><p>You slay an enemy Adversary Threat.
+    </p></li><li><p>You slay one or more CHAOS Elites or Adversaries, or a mob
+    of CHAOS Troops. </p></li><li><p>If you slay a number of non-Troops enemies
+    in a single battle greater than the game’s Tier. </p></li><li><p>If you
+    inflict one or more Critical Hits or cause 3 or more Mortal Wounds in a
+    single battle. </p></li></ul><p>Once you’ve passed this trial, gain the
+    following ability: </p><p><strong>Righteous Wrath</strong>: You may spend 2
+    Faith points at the end of one of your turns. If you do so, you may take a
+    second turn later in that round.</p><p></p><h3>Trial of Suffering
+    </h3><p>Suffering is the greatest prayer a Saint can offer the God-Emperor.
+    </p><p>To pass this Trial, you must accomplish any of the following deeds
+    (in any combination) ten times: </p><ul><li><p>You become
+    dying.</p></li><li><p>You suffered three or more Mortal Wounds during a
+    single battle. </p></li><li><p>You suffer a Traumatic Injury.
+    </p></li><li><p>You gain the Exhausted condition. </p></li></ul><p>Once
+    you’ve passed this trial, gain the following ability:
+    </p><p><strong>Miraculous Recovery</strong>: Your Traumatic Injuries are
+    immediately healed, and new Traumatic Injuries heal immediately upon taking
+    a Respite. Further, you may spend 2 Faith points as a simple action to
+    immediately heal Wounds equal to the game’s Tier. </p><p></p><h3>Sainthood
+    </h3><p>The ultimate fate for all Saints is martyrdom in the Emperor’s
+    cause. Indeed, to even be considered a Saint, one must die in the Emperor’s
+    service. However, a rare few Saints continue beyond death, being revived by
+    the Emperor’s Light to continue His works. </p><p>When you die, roll a
+    number of d6 equal to the maximum number of Faith Points you possess. If the
+    number of Icons rolled equals or exceeds two plus the number of times you’ve
+    died, you are miraculously restored to life. </p><p>If you are not restored
+    to life, then you die permanently. However, your martyrdom means any other
+    ADEPTA SORORITAS characters in the scene gain 1 Faith Point for each Trial
+    you have completed.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710792055179
+  modifiedTime: 1710793087998
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!nt3sGKkHJYqGX5xO'

@@ -1,0 +1,46 @@
+name: Enhanced Data-Tether
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.XNNfHCcsg3WpGKzt
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">An enhanced data-tether has a longer range and
+    is more powerful than the common form.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The implant can send and receive data at distances of up
+    to 100km. Further, as enhanced data-tethers are used by TechPriests to
+    impart directives to their Skitarii troops, those who bear them are regarded
+    with reverence for they speak for the Omnissiah’s servants. As a result, the
+    recipient and anyone in the group with a normal datatether may re-roll
+    failures on Resolve tests.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: ADEPTUS MECHANICUS, SKITARII
+  requirements: ''
+  effect: ''
+_id: XNNfHCcsg3WpGKzt
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099802
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!XNNfHCcsg3WpGKzt'

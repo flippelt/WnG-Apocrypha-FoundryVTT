@@ -1,0 +1,102 @@
+name: Eye of The Storm
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Prone
+    icon: systems/wrath-and-glory/asset/icons/conditions/prone.svg
+    statuses:
+      - prone
+    _id: UklZp2Gjy1cJR2mO
+    changes: []
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!qyYa0aY9Pg3Rp4hm.UklZp2Gjy1cJR2mO'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.qyYa0aY9Pg3Rp4hm
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Summoning a hurricane, you become the heart of a screaming cyclone.
+    Wherever you stride, the enemy are plucked from their feet and dashed to
+    ruin by its elemental fury. When you use this power, and at the start of
+    each turn you sustain it, all enemies within range must attempt a DN 4
+    Athletics test, adding +2 DN if they are flying. Failure means that the
+    creature is knocked Prone and hurled 3d6 metres in a random direction; if
+    they impact any solid object in this random move, determine damage as if
+    they had fallen.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: WHITE SCARS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 DN to Athletics test.
+      cost: 2
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: Add +d6 metres to the distance hurled.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: 4
+    type: skill
+    specification: athletics
+_id: qyYa0aY9Pg3Rp4hm
+folder: oNn2KKV41u8YG29i
+sort: 137500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959317
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!qyYa0aY9Pg3Rp4hm'

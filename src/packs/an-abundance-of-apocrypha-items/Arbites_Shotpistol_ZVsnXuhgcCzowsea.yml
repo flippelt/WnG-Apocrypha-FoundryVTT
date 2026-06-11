@@ -1,0 +1,58 @@
+folder: PXUu6CUred2iUpPT
+name: Arbites Shotpistol
+type: weapon
+_id: ZVsnXuhgcCzowsea
+img: modules/wng-core/assets/icons/weapons/combat-shotgun.webp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A common sidearm for Adeptus Arbites personnel,
+    these compact shotguns can be used single-handed and are highly effective in
+    close quarters, especially when outnumbered</span>.</p>
+  value: 4
+  keywords: PROJECTILE, IMPERIUM, ADEPTUS ARBITES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 9
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: pistol
+    - name: spread
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709904890644
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!ZVsnXuhgcCzowsea'

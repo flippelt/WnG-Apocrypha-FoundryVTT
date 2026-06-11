@@ -1,0 +1,76 @@
+name: Psilencer
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.PmMRclMHkucvoWI5
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">A weapon of mysterious origin, which focusses
+    the will of the user through a crystalline capacitor and generates bolts of
+    pure psychic energy. Used exclusively by the Grey Knights, these weapons are
+    a potent tool against daemonic hordes and other enemies of
+    mankind.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">A Psilencer will not function in the hands of any
+    character who does not have the </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">PSYKER </span><span
+    class="fontstyle0">keyword.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: FORCE, GREYKNIGHTS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 6
+  traits:
+    - name: force
+    - name: heavy
+      rating: 6
+  upgrades: []
+_id: PmMRclMHkucvoWI5
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711920
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!PmMRclMHkucvoWI5'

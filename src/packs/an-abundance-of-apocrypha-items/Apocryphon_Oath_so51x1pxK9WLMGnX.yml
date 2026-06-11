@@ -1,0 +1,82 @@
+name: Apocryphon Oath
+type: ascension
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+effects: []
+folder: 0e4JnvdZPT2mvK1p
+flags:
+  cf: null
+  core: {}
+system:
+  cost: 40
+  description: >-
+    <p>The Deathwatch Space Marines serve the Ordo Xenos of the Imperial
+    Inquisition as its Chamber Militant, the warriors of last resort when the
+    Inquisition needs access to firepower greater than the Astra Militarum or a
+    team of its own Acolytes or even Throne Agents can provide.</p>
+
+    <p>Across the galaxy there are innumerable hostile alien civilisations that
+    threaten Mankind, from the greenskinned Orks, to the monstrous Tyranids,
+    sadistic Drukhari, spectral C'tan, and undying Necrons. It is the sacred
+    task of the Deathwatch to stand sentry against all of these terrible xenos
+    races. They are ready to act when such ancient evils rise to threaten
+    Mankind once more. The Space Marines of the Deathwatch form the first, and
+    often only, line of defence against these inhuman horrors.</p>
+
+    <p>Unlike other Space Marines, the ones serving in the Deathwatch are not
+    truly a separate Chapter of the Adeptus Astartes; rather, they are a
+    collection of veteran Space Marines drawn from all of the different extant
+    Chapters who serve together in the Inquisition's service for a discrete
+    period of time.</p>
+
+    <p>To be chosen by one's Chapter to serve in the Deathwatch is a great
+    honour for any Space Marine, as only the most elite and experienced members
+    of a Chapter are ever chosen for this extremely hazardous tour of duty, the
+    specifics of which must be kept secret by Inquisitorial order and sacred
+    oath even from a Deathwatch Astartes' home Chapter.</p>
+  requirements: >-
+    Willpower 4, Ballistic Skill 5 or Weapon Skill 5, Scholar 2, Adeptus
+    Astartes or Primaris Astartes
+  keywords: DEATHWATCH, INQUISITION, ORDO XENOS
+  influence: 0
+  benefits: >-
+    <p><strong>INFLUENCE BONUS: </strong>+1 per Tier ascended</p>
+
+    <p><strong>STORY ELEMENT:&nbsp;</strong><span style="font-family:
+    var(--font-primary); font-size: var(--font-size-14);">You join the ranks of
+    the Deathwatch, and you are initiated into secrets that allow you to hunt
+    Xenos more effectively. You receive the normal benefit for having the
+    @Item[Fu3XD3XXN8AoHDA9]{ORDO XENOS} keyword&nbsp;</span><span
+    style="font-family: var(--font-primary); font-size:
+    var(--font-size-14);">and have access to special Deathwatch arsenals
+    containing rare and specialised equipment.</span></p>
+
+    <p>Further, due to your specialised training, at each Regroup, you may
+    select a single keyword which relates to a Xenos faction. You add +Rank ED
+    to all attacks against enemies with that keyword.</p>
+
+    <p><strong>WARGEAR:</strong></p>
+
+    <ul>
+
+    <li>Gain one Weapon Upgrade with a value up to 7(Very Rare).</li>
+
+    <li>1x @Item[CWEejPLmZ7oDerJT]{Dragonfire Bolt Rounds}</li>
+
+    <li>1x @Item[ZIXiS264WZhHapZS]{Hellfire Bolt Rounds}</li>
+
+    <li>1x @Item[p42CwuqBal2u2iLw]{Kraken Bolt Rounds}</li>
+
+    </ul>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219055918
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: so51x1pxK9WLMGnX
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!so51x1pxK9WLMGnX'

@@ -1,0 +1,83 @@
+folder: fgtFfRbmshJ8KM1n
+name: Forge-Lord
+type: ability
+_id: 9UT0iztvGqs6h3so
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You halve the time it takes to attempt any Tech test, and you add +Double
+    Rank bonus dice to interact with machinery. In addition, as a Simple Action
+    you may invoke one of the Canticles of the Omnissiah (see sidebar). (Check
+    under the Canticles of the Omnissiah folder in the Archetypes Abilities
+    folder)</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+    name: Forge-Lord
+    _id: 7ANo8GkZWNIzzcKz
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank * 2'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Interact with Machinery
+            hide: ''
+    tint: null
+    _key: '!items.effects!9UT0iztvGqs6h3so.7ANo8GkZWNIzzcKz'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710711131771
+  modifiedTime: 1710711856622
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!9UT0iztvGqs6h3so'

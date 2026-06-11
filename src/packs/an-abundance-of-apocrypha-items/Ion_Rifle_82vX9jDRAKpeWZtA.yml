@@ -1,0 +1,77 @@
+name: Ion Rifle
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.82vX9jDRAKpeWZtA
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">An Ion Rifle is an experimental T'au Ion Weapon
+    designed for infantry use developed during the T'au Empire's Third Sphere
+    Expansion. An Ion Rifle is similar in size to a T'au Rail Rifle, and it is a
+    powerful weapon capable of engaging enemies at long ranges with high energy
+    ion streams, vaporising flesh and metal with equal
+    ease.</span></p><p></p><p><span class="fontstyle0">These high-energy
+    particles are accelerated by an electromagnetic field and react explosively
+    with the target because of direct transfer of energy at an atomic
+    level.</span></p><p></p><p><span class="fontstyle0">Ion Rifles are normally
+    issued to Pathfinders as special weapons, where their firepower boosts the
+    team's combat capabilities by allowing them to vaporise heavy infantry and
+    light vehicles alike. T'au Interceptor Drones are also armed with a set of
+    twin-linked Ion Rifles as standard weapons, which they use in conjunction
+    with their advanced targeting systems to blow incoming aircraft out of the
+    sky</span>.</p>
+  value: 6
+  keywords: ION, T’AUEMPIRE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 15
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: heavy
+      rating: 4
+    - name: supercharge
+  upgrades: []
+_id: 82vX9jDRAKpeWZtA
+folder: KCVqHx1PYrcqXhMV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932681271
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!82vX9jDRAKpeWZtA'

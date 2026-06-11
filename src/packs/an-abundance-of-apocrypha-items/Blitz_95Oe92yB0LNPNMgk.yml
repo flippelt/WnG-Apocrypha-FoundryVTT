@@ -1,0 +1,90 @@
+folder: cVuyLiytdwZ2l22U
+name: Blitz
+type: ability
+_id: 95Oe92yB0LNPNMgk
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>At the start of one of your turns, you may choose to initiate a Blitz.
+    When you do so, your Speed is doubled, and you ignore Double Rank DN
+    increases on Multi-Attacks until the end of your turn. Once you have done
+    this, you cannot do so again until after your next
+    Regroup.</p><p></p><p><strong>The Path of Damnation</strong>: Other Aeldari
+    shun you, and you add +6 to the DN of all Interaction tests with other
+    Aeldari outside of ritual circumstances or performances. All Aeldari – even
+    allies – must pass a Fear test (DN 3) when they first meet you. However, you
+    automatically succeed at all Conviction and Resolve tests.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    name: The Path of Damnation
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '6'
+    _id: deZIfpil3kQl4a0I
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Other Aeldari shun you, and you add +6 to the DN of all
+              Interaction tests with other Aeldari outside of ritual
+              circumstances or performances.
+            hide: ''
+    tint: null
+    _key: '!items.effects!95Oe92yB0LNPNMgk.deZIfpil3kQl4a0I'
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710782545656
+  modifiedTime: 1710782811365
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!95Oe92yB0LNPNMgk'

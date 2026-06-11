@@ -1,0 +1,80 @@
+name: Enriched Ammunition
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+effects:
+  - icon: modules/wng-core/assets/icons/ammo/ammo.webp
+    name: Enriched Ammunition
+    _id: k5CYyiuWeAAasoE0
+    changes:
+      - key: system.ed.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!rZsbHcsGBJfNrYX0.k5CYyiuWeAAasoE0'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ammo.Item.rZsbHcsGBJfNrYX0
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Adeptus Mechanicus employ a number of
+    radioactive alloys in the production of their weapons, and radioactive
+    munitions are often deployed to deadly effect.</span></p><p></p><p><span
+    class="fontstyle0">These rounds may be used by weapons with the </span><span
+    class="fontstyle2"><strong>PROJECTILE</strong> </span><span
+    class="fontstyle0">keyword. Weapons with the Heavy trait may not use this
+    ammunition.</span></p><p></p><p><span class="fontstyle2"
+    style="color:rgb(0,0,0);"><strong>Effect</strong>: </span><span
+    class="fontstyle0">+1 ED and the Rad (1) trait. If the weapon already has
+    the Rad trait, add 1to the rating.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: ADEPTUS MECHANICUS
+  effect: ''
+  traits:
+    - name: rad
+      rating: 1
+      type: add
+_id: rZsbHcsGBJfNrYX0
+folder: qnM5Rkyt2djZ275h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017422194
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 700000
+_key: '!items!rZsbHcsGBJfNrYX0'

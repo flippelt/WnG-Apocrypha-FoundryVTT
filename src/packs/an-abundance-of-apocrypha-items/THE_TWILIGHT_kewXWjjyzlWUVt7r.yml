@@ -1,0 +1,57 @@
+folder: tt8woblceRJcPf6H
+name: THE TWILIGHT
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>When the character uses the Charge action, they gain +1 bonus dice when
+    making their attack.</p>
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: THE TWILIGHT
+    _id: XdykiuOUInhIhdHE
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '1'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              When the character uses the Charge action, they gain +1 bonus dice
+              when making their attack.
+            hide: ''
+    tint: null
+    _key: '!items.effects!kewXWjjyzlWUVt7r.XdykiuOUInhIhdHE'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cSslvNlimlcIbOQR
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710531413009
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: kewXWjjyzlWUVt7r
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!kewXWjjyzlWUVt7r'

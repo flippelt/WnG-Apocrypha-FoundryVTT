@@ -1,0 +1,71 @@
+name: Soul-Trap
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Soul-Trap (Filled)
+    changes:
+      - key: system.attributes.strength.base
+        mode: 1
+        value: '2'
+        priority: null
+    _id: ECgNIiLHl05RnMK0
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!Z6a4w1Gf8P6KfvRh.ECgNIiLHl05RnMK0'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-equipment.Item.Z6a4w1Gf8P6KfvRh
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Though soul-traps vary in size and appearance,
+    from folding pyramidal prisms to jewelled skulls engraved with vampiric
+    runes, they all have one function—to capture the soul of a powerful foe
+    within its confines and empower the bearer with the stolen
+    energies.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Whenever you slay an Adversary Threat or Monstrous
+    Creature, you may attempt a Willpower test with a DN equal to the enemy’s
+    Willpower. If you succeed, the enemy’s essence is drawn into the soul-trap,
+    and the stolen power doubles your Strength attribute until your next
+    Regroup.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: DRUKHARI
+  effect: ''
+_id: Z6a4w1Gf8P6KfvRh
+folder: YE4cu9ZzWq56Kg8c
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257325041
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!Z6a4w1Gf8P6KfvRh'

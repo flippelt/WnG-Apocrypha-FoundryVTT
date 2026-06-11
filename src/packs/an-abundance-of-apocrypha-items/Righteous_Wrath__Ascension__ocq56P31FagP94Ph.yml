@@ -1,0 +1,52 @@
+folder: RYPg7oyvoqAg24Bq
+name: Righteous Wrath (Ascension)
+type: ability
+_id: ocq56P31FagP94Ph
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p><span style="font-family: 'Caxton Std Book'">You may spend 2 Faith points
+    at the end of one of your turns. If you do so, you may take a second turn
+    later in that round.</span></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710794113999
+  modifiedTime: 1710794116279
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ocq56P31FagP94Ph'

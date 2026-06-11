@@ -1,0 +1,98 @@
+name: Held in my Gaze
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Held in my Gaze
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '4'
+        priority: null
+    _id: 74bhWLcQ5ERtbiMv
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!CyWYzhZqBjgfA3IL.74bhWLcQ5ERtbiMv'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.CyWYzhZqBjgfA3IL
+system:
+  dn: '@attributes.willpower.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The unflinching eye of a Navigator locks a creature in place with a gaze
+    that pierces flesh and bone to see the immaterial essence of all things.
+    Choose a target you can see within range. If you succeed, the target is
+    Warp-locked. While Warp-locked, the target adds +4 to the DN of any psychic
+    power they attempt. If the target is a DAEMON, then they also may not roll
+    Determination against any damage inflicted against them. Each round this
+    power is sustained, you suffer 1d3 Shock.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Sustained
+  range: 5x Intellect metres
+  multiTarget: false
+  keywords: NAVIS NOBILITE, PSYCHIC
+  prerequisites: NAVIS NOBILITE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: 1d3
+  potency:
+    - description: Increase the range to 10x Intellect metres.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: CyWYzhZqBjgfA3IL
+folder: rt2QsMjxN0O6qf5z
+sort: 325000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206824
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!CyWYzhZqBjgfA3IL'

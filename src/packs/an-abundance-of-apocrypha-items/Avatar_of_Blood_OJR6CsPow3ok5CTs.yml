@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Avatar of Blood
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ': Weapon Skill 3+'
+  description: >-
+    <p>Bloodshed inspires and invigorates you.<br>Whenever you inflict a
+    Critical Hit with a melee attack, you immediately recover Double Rank
+    Shock.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OJR6CsPow3ok5CTs
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663877533585
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: OJR6CsPow3ok5CTs
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 5600000
+_key: '!items!OJR6CsPow3ok5CTs'

@@ -1,0 +1,155 @@
+folder: ynSNkXL3NdmXm43i
+name: Corpuscarii Electro-Priest (Apocrypha Version)
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Compendium.wng-core.items.Item.NEkaKMEm79MWGo8b
+  influence: 1
+  cost: 46
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - CULT MECHANICUS
+    - '[FORGE WORLD]'
+  attributes:
+    strength: null
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: 1
+  ability:
+    name: Voltaic Fanaticism
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IoWSOVHsvj4MM0kD
+  wargear:
+    - name: Luminen Capacitor
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wxDBQysoHwoweKXp
+      type: item
+      diff: {}
+      index: 0
+      groupId: ARNzp9wSpwYu0kcO
+    - name: Electrostatic Gauntlets (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WOPEbKg4r63ucuBD
+      type: item
+      diff: {}
+      index: 1
+      groupId: uFwhZZUkwhpIgVJG
+    - name: Electrostatic Gauntlets (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6bqV6HRbsxMNu2pl
+      type: item
+      diff: {}
+      index: 2
+      groupId: KCmAkBcvwEsG3eCv
+    - name: Voltagheist Field Generator
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.yS1RHxcGK6fMQFcF
+      type: item
+      diff: {}
+      index: 3
+      groupId: r7IPSdEMtEAjhfvF
+    - type: generic
+      name: any two Augmetics
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: ARNzp9wSpwYu0kcO
+      - index: 1
+        type: item
+        groupId: uFwhZZUkwhpIgVJG
+      - index: 2
+        type: item
+        groupId: KCmAkBcvwEsG3eCv
+      - index: 3
+        type: item
+        groupId: r7IPSdEMtEAjhfvF
+      - type: item
+        index: 4
+        groupId: IYBiTd7eutu7i44c
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 3
+      initiative: 3
+      willpower: 4
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: 1
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: 2
+    talents:
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: UnWnJIE3XhYMVKx3
+        name: Duty Until Death
+      - id: TLV6c8FJhbKFKKUK
+        name: Tenacious
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fc18ayvTo1awfeQP
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699800380267
+  modifiedTime: 1710606253345
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: PgBDXXFexepya6l3
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 200000
+_key: '!items!PgBDXXFexepya6l3'

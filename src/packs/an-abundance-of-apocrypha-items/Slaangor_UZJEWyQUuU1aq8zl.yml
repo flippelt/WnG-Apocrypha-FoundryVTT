@@ -1,0 +1,135 @@
+folder: cZ7bosRjx1cxapg8
+name: Slaangor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Beastman
+    id: Item.Pmkvgia9uKxhEOVk
+  faction:
+    name: Chaos
+    id: Item.oNSe7G9pJIHehwhI
+  influence: 1
+  cost: 38
+  keywords:
+    - CHAOS
+    - ABHUMAN
+    - HERETIC
+    - SLAANESH
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: 1
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: 1
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Distracting Musk
+    id: Item.6QN6CZT5gUpkGT5q
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Mesh Armour
+      id: Item.Gkvz8V1xP8wrBBk8
+      type: item
+      diff: {}
+      index: 1
+      groupId: CmZF30ohqD6wS0EW
+    - name: Sword
+      id: Item.JlXH8xNwZcDgtfcn
+      type: item
+      diff: {}
+      index: 2
+      groupId: QmwwYyz7rmte9gF5
+    - name: Sword
+      id: Item.JlXH8xNwZcDgtfcn
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: CmZF30ohqD6wS0EW
+      - index: 2
+        type: item
+        groupId: QmwwYyz7rmte9gF5
+      - index: 3
+        type: item
+        groupId: KpjgyrOtdXRSUsoW
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 4
+      initiative: 3
+      willpower: 2
+      intellect: 1
+      fellowship: 2
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: 1
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: AXqKMwrgsKMdohOw
+        name: Acute Sense
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WOfu0L4PtY3yKfHL
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664831740666
+  modifiedTime: 1710451669914
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: UZJEWyQUuU1aq8zl
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!UZJEWyQUuU1aq8zl'

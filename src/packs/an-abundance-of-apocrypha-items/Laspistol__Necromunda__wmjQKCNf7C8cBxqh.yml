@@ -1,0 +1,66 @@
+name: Laspistol (Necromunda)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/laspistol.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>A common, if bulkier and less energy-efficient, variant of las-weapon,
+    produced in vast quantities on the Hive World of Necromunda: a world
+    well-known for its intense gang warfare and munitions factories. Lasweapons
+    of Necromundan origin tend to have slightly faster recharge rates between
+    shots, allowing for a greater rate of fire. The weapon has a higher-charge
+    capacitor than is common for the Mars pattern, making the weapons less
+    efficient but packing a heavier punch.</p>
+  value: 4
+  keywords: LAS, IMPERIUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: pistol
+    - name: rapidFire
+      rating: 1
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665492402085
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: KtMQP20MTYUwmoWw
+_id: wmjQKCNf7C8cBxqh
+sort: 900000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!wmjQKCNf7C8cBxqh'

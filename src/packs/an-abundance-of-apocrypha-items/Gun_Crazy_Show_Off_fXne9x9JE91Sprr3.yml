@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: Gun-Crazy Show-Off
+type: ability
+_id: fXne9x9JE91Sprr3
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>If you roll a 6 on your Wrath die when making a ranged attack, you may
+    spend a reload to immediately make a second shooting attack with that weapon
+    at the nearest target.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710683174400
+  modifiedTime: 1710683185676
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!fXne9x9JE91Sprr3'

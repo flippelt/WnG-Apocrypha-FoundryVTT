@@ -1,0 +1,23 @@
+folder: EJ6lK67pJ1JqvFo2
+name: BRÔKHYR
+type: keyword
+_id: 4prR0lE44q525Bse
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: ''
+effects: []
+sort: 200000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  core:
+    sourceId: Item.4prR0lE44q525Bse
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710438185819
+  modifiedTime: 1710521415149
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!4prR0lE44q525Bse'

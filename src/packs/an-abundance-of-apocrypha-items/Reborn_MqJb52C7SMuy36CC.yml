@@ -1,0 +1,55 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Reborn
+type: ascension
+_id: MqJb52C7SMuy36CC
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 5
+  description: >-
+    <p>The Ynnari are the members of a newly formed eponymous Eldar group that
+    worship the God Ynnead and believe their race can be saved from the
+    depredation of Slaanesh by helping to bring about the birth of the
+    slumbering god of the dead.</p><p>Under the leadership of the prophet
+    Yvraine, the "Daughter of Shades," the Ynnari seek to fully awaken the
+    Aeldari god of the dead Ynnead, who they believe can defeat Slaanesh and
+    restore the Aeldari species' unity and its lost glory.</p><p>A great many
+    Aeldari, hailing from every sub-faction and allegiance save the most
+    conservative and entrenched, have joined their cause. No abstract philosophy
+    is this, for the effects of their new deity can be seen manifesting around
+    them -- the Reborn can draw upon the souls within the Spirit Stones they
+    wear to bolster their own abilities, can siphon the power of those slain
+    nearby to invigorate their attacks, and turn their foes to ashes with the
+    strange weapons and psychic powers they wield.</p>
+  requirements: Aeldari or Drukhari species, not have HAEMACOLYTE keyword
+  keywords: YNNARI
+  influence: 0
+  benefits: >-
+    <p><strong>STORY ELEMENT</strong>: You have been reborn as one of the
+    Ynnari, and you now have a powerful connection to the spirits of the dead.
+    You may attempt a Psychic Mastery test (even if untrained) to communicate
+    with the spirits of Aeldari dead (contained within spirit stones, infinity
+    circuits, Exodite world-spirits, and similar). Further, you gain the
+    Strength From Death ability, below:</p><p><strong>STRENGTH FROM
+    DEATH</strong>: Once per round, when a player character, or an Adversary or
+    Elite, or three Troops, dies within 15m of you, you immediately gain +1 Soul
+    token. You may carry a number of Soul tokens up to your Willpower, and
+    unused Soul tokens are lost when you Regroup or take a Respite. Soul tokens
+    may be used as if they were Glory points, but only by you or allied YNNARI
+    characters within 10m.</p><p><strong>WARGEAR</strong>: Spirit Stone. When
+    carried by an YNNARI character, a Spirit Stone may be used to generate 1d3+1
+    Soul tokens as a Simple Action. This takes time to recover and cannot be
+    done again until after the next Respite.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710793769050
+  modifiedTime: 1710793869559
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!MqJb52C7SMuy36CC'

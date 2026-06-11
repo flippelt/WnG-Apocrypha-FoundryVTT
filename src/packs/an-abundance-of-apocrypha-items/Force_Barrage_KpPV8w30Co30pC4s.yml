@@ -1,0 +1,101 @@
+name: Force Barrage
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Force Barrage
+    _id: UfOfEsq092ilPlo4
+    changes:
+      - key: damage.bonus
+        mode: 6
+        value: '@attributes.willpower.total'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!KpPV8w30Co30pC4s.UfOfEsq092ilPlo4'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.KpPV8w30Co30pC4s
+system:
+  dn: '@combat.defence.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You conjure a flurry of kinetic blasts, projectiles of pure mental force.
+    The target suffers Willpower +5 +2ED damage. The penalty for targeting
+    multiple foes is reduced by an amount equal to half your Willpower, rounding
+    up.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Instant
+  range: Willower x5 metres
+  multiTarget: true
+  keywords: KINETIC, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: You hit one additional target.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: KpPV8w30Co30pC4s
+folder: 4l2ZECZopcUcauCc
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247408
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!KpPV8w30Co30pC4s'

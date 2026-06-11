@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Bladestorm
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: Aeldari species
+  description: >-
+    <p>Well-trained Aeldari can lay down a hail of fire from their shuriken
+    weapons, their superior reflexes allowing them to track even the most sudden
+    movement and place every shot perfectly,<br>When you make a shooting attack
+    with a SHURIKEN weapon, for each exalted icon you roll, you may roll one
+    bonus die on that attack. These additional dice cannot themselves generate
+    bonus dice.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.16aWHbA0y9TrQNQc
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663877682383
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: mhqXwjw4Kot0et9F
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 9200000
+_key: '!items!mhqXwjw4Kot0et9F'

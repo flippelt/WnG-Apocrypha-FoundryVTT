@@ -1,0 +1,136 @@
+folder: ynSNkXL3NdmXm43i
+name: Skitarius Vanguard
+type: archetype
+_id: BVpDtoTMSdUaxCdD
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Compendium.wng-core.items.Item.NEkaKMEm79MWGo8b
+  influence: 0
+  cost: 28
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - SKITARII
+    - '[FORGE WORLD]'
+  attributes:
+    strength: null
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 0
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: null
+  ability:
+    name: Irradiated and Augmented
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.2pVq26LE2fDnmGIh
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Radium Carbine
+      id: Compendium.wng-core.items.Item.zKX9sRpwZgA7VWHG
+      type: item
+      diff: {}
+      index: 1
+      groupId: 1kdyD6yjBqrMtMml
+    - name: Data-Tether
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.2tLcmE0mdCXRK2Xs
+      type: item
+      diff: {}
+      index: 2
+      groupId: zerNgR7GZy3eP8MH
+    - name: Skitarii Auto-Cuirass
+      id: Compendium.wng-core.items.Item.XDOzcaREldkBmek3
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 1kdyD6yjBqrMtMml
+      - index: 2
+        type: item
+        groupId: zerNgR7GZy3eP8MH
+      - index: 3
+        type: item
+        groupId: gE7kY4p0Pkc8kCeD
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 4
+      initiative: 3
+      willpower: 2
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 4
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: 1
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: 1
+    talents:
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: 7f6YZ8n6oolZxXup
+        name: Binary Chatter
+      - id: VLWzaaUTYv6c3X2A
+        name: Conversational Cogitator
+      - id: xIQ6vW1k0kJoVdJ9
+        name: Protector Imperative
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710617574549
+  modifiedTime: 1710617790135
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!BVpDtoTMSdUaxCdD'

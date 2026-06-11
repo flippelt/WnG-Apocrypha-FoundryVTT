@@ -1,0 +1,21 @@
+folder: kumYywvxDD93XcXD
+name: TALONS OF THE EMPEROR
+type: keyword
+_id: j1GnolNGYWoUxaFf
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710611441151
+  modifiedTime: 1710611441151
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!j1GnolNGYWoUxaFf'

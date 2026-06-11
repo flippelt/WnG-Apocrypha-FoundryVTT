@@ -1,0 +1,113 @@
+name: Aspect of Stone
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Aspect of Stone
+    changes:
+      - key: system.attributes.strength.bonus
+        mode: 2
+        value: '4'
+        priority: null
+      - key: system.attributes.toughness.bonus
+        mode: 2
+        value: '4'
+        priority: null
+    _id: ocmDBoNdKygUeJpY
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!yJUZzBE6FgJHS4LP.ocmDBoNdKygUeJpY'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.yJUZzBE6FgJHS4LP
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Thrumming geokinetic energies wreath your fists. Iron strengthens your
+    sinews while your flesh becomes unyielding as Ferrocrete. While this power
+    remains in effect, add +4 to your Strength and Toughness attributes. You
+    suffer 1 Shock at the start of each turn you sustain this power.</p>
+  effect: ''
+  cost: 15
+  activation: full
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: IMPERIAL FISTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: '1'
+  potency:
+    - description: Time to activate reduced to a Simple Action.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: >-
+        Target one ally with the IMPERIAL FISTS keyword within 12 metres instead
+        of yourself.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: yJUZzBE6FgJHS4LP
+folder: FBWgnducTeuqGBkw
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959223
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!yJUZzBE6FgJHS4LP'

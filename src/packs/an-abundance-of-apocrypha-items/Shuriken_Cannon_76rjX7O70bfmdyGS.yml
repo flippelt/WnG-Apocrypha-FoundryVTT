@@ -1,0 +1,75 @@
+name: Shuriken Cannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/shuriken-catapult.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.76rjX7O70bfmdyGS
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The large Shuriken Cannon works in a similar way
+    to the Shuriken Catapult but has an ammunition coil to load the weapon more
+    quickly and uses a triple accelerator field for improved rate of fire and
+    power. While the Shuriken weapons above are all hand-held weapons, the
+    Shuriken cannon is large and needs stabilising gyroscopes to allow any
+    accuracy. They are commonly found mounted on Guardian heavy weapon platforms
+    and Aeldari vehicles.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: SHURIKEN, AELDARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 4
+  traits:
+    - name: assault
+    - name: heavy
+      rating: 3
+    - name: rending
+      rating: 2
+  upgrades: []
+_id: 76rjX7O70bfmdyGS
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932572
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!76rjX7O70bfmdyGS'

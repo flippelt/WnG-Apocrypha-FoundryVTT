@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Sorcerous Might
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: CHAOS keyword, TZEENTCH keyword, PSYKER keyword
+  description: >-
+    <p>You have seen the maddening truth of the Changer of Ways and emerged with
+    your mind intact and surging with knowledge.<br>Gain +1 Corruption. When you
+    succeed at a Psychic Mastery test, you may spend a point of Wrath to gain
+    +Rank additional Exalted Icons to shift.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lCEVwNFOTtHxMD1e
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127823448
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: HsDtQ8pDpmUsFCLZ
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 3300000
+_key: '!items!HsDtQ8pDpmUsFCLZ'

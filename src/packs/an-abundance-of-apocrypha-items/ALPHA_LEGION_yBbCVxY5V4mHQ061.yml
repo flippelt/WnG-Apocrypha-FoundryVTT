@@ -1,0 +1,54 @@
+name: ALPHA LEGION
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/alpha-legion-white.png
+effects: []
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.yBbCVxY5V4mHQ061
+system:
+  description: >-
+    <p>The mysterious, secretive Alpha Legion have always been deceptive and
+    manipulative, using compelled agents to do much of their work while lone
+    Alpha Legionnaires and scattered squads deal with more difficult objectives.
+    Often operating without heraldry, or under the colours of other Legions, the
+    Alpha Legion&rsquo;s actions during the Great Crusade and Horus Heresy are
+    largely unknown, as is why they chose to side with Horus. Since the Heresy,
+    the Alpha Legion have continued to be a thorn in the side of the Imperium,
+    establishing cults and committing acts of terrorism and sabotage on
+    countless worlds, performed by small autonomous warbands scattered across
+    the galaxy. None even know if their Primarch still exists, as sightings of
+    Alpha Legionnaires claiming to be Alpharius have occurred intermittently for
+    millennia.</p>
+
+    <h5>Mutable Tactics</h5>
+
+    <p>The Alpha Legion are masters of misdirection and sabotage, undermining
+    their foes long before battle is joined.&nbsp;</p>
+
+    <p>After each Respite, select one of the following skills: Athletics,
+    Cunning, Deception, Intimidation, Persuasion, Stealth, or Tech. You may
+    re-roll up to Rank dice on any test involving the chosen skill.</p>
+
+    <h5>I Am Alpharius (Tradition)</h5>
+
+    <p>The Alpha Legion rely on deception and misdirection, and disdain direct
+    tactics.</p>
+
+    <p>Add 1 to Ruin when you fail an Intellect test, as your carefully wrought
+    plans and contingencies fail you.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056293
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: yBbCVxY5V4mHQ061
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!yBbCVxY5V4mHQ061'

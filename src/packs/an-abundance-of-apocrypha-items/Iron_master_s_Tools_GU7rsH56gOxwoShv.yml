@@ -1,0 +1,49 @@
+name: Iron-master’s Tools
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.leagues-of-votann-equipment.Item.GU7rsH56gOxwoShv
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Each Brôkhyr Ironmaster fashions their own
+    tools, developing a distinct and individual assortment of devices throughout
+    their careers. Some particularly traditional Ironmasters insist that the
+    only real way to work is to travel light and make whatever tools you need
+    on-site.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">You ignore DN penalties to build, repair, maintain, and
+    sabotage Leagues of Votann technology. This also works on Imperial
+    technology, due to the common STC origins of both cultures’ technologies.
+    Furthermore, These tools may be used as a Medipack on any </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">ROBOT </span><span
+    class="fontstyle0">character and heal an additional +Rank Wounds when used
+    in this way.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: LEAGUES OF VOTANN, BRÔKHYR
+  effect: ''
+_id: GU7rsH56gOxwoShv
+folder: OBM5CJDK3tWaYAVA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257385282
+  modifiedTime: 1710625204854
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 300000
+_key: '!items!GU7rsH56gOxwoShv'

@@ -1,0 +1,85 @@
+folder: fgtFfRbmshJ8KM1n
+name: Undercover Agent
+type: ability
+_id: zJAls6gHfRnC0BZT
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You gain +Rank bonus dice on all Deception tests make to disguise
+    yourself or present yourself as someone else. In addition, you may spend an
+    Exalted Icon from a Deception test to grant yourself the use of a Keyword
+    which you don’t normally possess. This keyword must relate to your current
+    disguise or alias.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+    name: Undercover Agent
+    _id: pVYNu5bEUmCBLpR3
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              You gain +Rank bonus dice on all Deception tests make to disguise
+              yourself or present yourself as someone else.
+            hide: ''
+    tint: null
+    _key: '!items.effects!zJAls6gHfRnC0BZT.pVYNu5bEUmCBLpR3'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710680084988
+  modifiedTime: 1710680144615
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!zJAls6gHfRnC0BZT'

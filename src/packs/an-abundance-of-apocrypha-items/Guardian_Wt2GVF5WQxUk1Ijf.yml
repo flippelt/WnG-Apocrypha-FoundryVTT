@@ -1,0 +1,139 @@
+folder: GHP0SxnnlNKFusRJ
+name: Guardian
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Aeldari
+    id: Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Item.15adBmv177CaW1UF
+  influence: 0
+  cost: 20
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: 3
+    initiative: null
+    willpower: 2
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Defenders
+    id: Item.4mSLwric9W4njgbq
+  wargear:
+    - - name: ''
+        id: ''
+    - type: generic
+      name: Eldar Mesh Armour
+      filters: []
+      index: 1
+      groupId: PHzn2gwbidDVZrVN
+    - name: Shuriken Catapult
+      id: Item.FgFdJfFR8gDq4LYi
+      type: item
+      diff: {}
+      index: 2
+      groupId: w8fqq5Ttf9D7e8Gc
+    - name: Mono Knife
+      id: Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 3
+      groupId: tCac6kqBxJMj8ycf
+    - name: Spirit Stone
+      id: Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 1
+        groupId: PHzn2gwbidDVZrVN
+      - index: 2
+        type: item
+        groupId: w8fqq5Ttf9D7e8Gc
+      - index: 3
+        type: item
+        groupId: tCac6kqBxJMj8ycf
+      - index: 4
+        type: item
+        groupId: tJNoRnoGXHYOZpOC
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 4
+      initiative: 4
+      willpower: 3
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 1
+      psychicMastery: null
+      scholar: null
+      stealth: 1
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: zrCkrWGkMDPK1kOg
+        name: Battle Focus
+      - id: kRcjPxcdNr7VZqHO
+        name: Strike and Fade
+      - id: 6tbuREMWNAGrzXlO
+        name: Mastered Paths
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664302221313
+  modifiedTime: 1699740119914
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: Wt2GVF5WQxUk1Ijf
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!Wt2GVF5WQxUk1Ijf'

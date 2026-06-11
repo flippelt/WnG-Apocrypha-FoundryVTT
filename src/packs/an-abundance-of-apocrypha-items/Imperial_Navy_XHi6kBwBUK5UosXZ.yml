@@ -1,0 +1,210 @@
+folder: AL59YG508FNku3U7
+name: Imperial Navy
+type: faction
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  journal: ''
+  backgrounds:
+    origin:
+      - name: Progena
+        description: >-
+          Your parents were stalwart servants of the Throne, and after their
+          deaths, you were raised by the Schola Progenium, who identified your
+          talents and groomed you to join the Navy.
+        effect: Paw0OqcDTEcHXdGK
+      - name: Prestige
+        description: >-
+          You’re the scion of a wealthy and powerful family, possibly nobility
+          from your world, sent to one of the prestigious Naval Academies to
+          attain a commission.
+        effect: DPwmJZ493L31IXUo
+      - name: Pressgang
+        description: >-
+          You were rounded up and dragged onto a ship to toil within its depths.
+          You took every opportunity to rise above such ignoble beginnings,
+          however.
+        effect: prLCZw2QlQgvxIiR
+    accomplishment:
+      - name: Efficiency
+        description: >-
+          Your unit, work-gang, squadron, or department aboard ship have been
+          commended for their performance during a crucial battle.
+        effect: PSsbfIYXFoJQz7mJ
+      - name: Elevation
+        description: >-
+          Whether through survival or success, you find yourself advancing up
+          the rates or ranks of the Navy.
+        effect: DPwmJZ493L31IXUo
+      - name: Endurance
+        description: >-
+          After a hard-fought battle, you pressed on and did your duty when all
+          you wanted to do was give in.
+        effect: RfjaXD9aPKn4Kwcw
+    goal:
+      - name: Command
+        description: >-
+          You aspire to lead your own unit, squadron, or starship, or maybe even
+          loftier levels of authority beyond that.
+        effect: DPwmJZ493L31IXUo
+      - name: Crusade
+        description: >-
+          You seek to lay low the enemies of the Imperium, cleaning the stars
+          and skies of their vile presence.
+        effect: prLCZw2QlQgvxIiR
+      - name: Certainty
+        description: >-
+          You are stalwart in your faith in the God-Emperor, and seek only to
+          serve Him on Terra to the best of your ability.
+        effect: Paw0OqcDTEcHXdGK
+  objectives:
+    - >-
+      Express confidence (or doubt) in the Navy’s dominance of the void or
+      skies.
+    - Apply Navy doctrine or tradition to the current situation
+    - >-
+      Compare the protection given by faith in the Emperor to the hull or
+      shields of a voidship
+    - >-
+      Reminisce about your service on a previous ship or the events of a
+      previous mission
+    - Obey an order without question or doubt
+    - Make a tactically sound plan to achieve an objective.
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Conviction
+    _id: Paw0OqcDTEcHXdGK
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!XHi6kBwBUK5UosXZ.Paw0OqcDTEcHXdGK'
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Influence
+    _id: DPwmJZ493L31IXUo
+    changes:
+      - key: system.resources.influence.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!XHi6kBwBUK5UosXZ.DPwmJZ493L31IXUo'
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    changes:
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Max Shock
+    _id: prLCZw2QlQgvxIiR
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!XHi6kBwBUK5UosXZ.prLCZw2QlQgvxIiR'
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    changes:
+      - key: system.resources.wealth
+        mode: 2
+        value: '1'
+        priority: null
+    name: Wealth
+    _id: PSsbfIYXFoJQz7mJ
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!XHi6kBwBUK5UosXZ.PSsbfIYXFoJQz7mJ'
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Resolve
+    _id: RfjaXD9aPKn4Kwcw
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!XHi6kBwBUK5UosXZ.RfjaXD9aPKn4Kwcw'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699502409481
+  modifiedTime: 1710190657191
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: XHi6kBwBUK5UosXZ
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!XHi6kBwBUK5UosXZ'

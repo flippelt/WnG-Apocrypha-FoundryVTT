@@ -1,0 +1,62 @@
+name: Miststave
+type: weapon
+_id: rJgEzXUiu5XcQ90V
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A Miststave is an exotic melee weapon that is utilised exclusively by the
+    enigmatic Aeldari Harlequins, particularly the powerful psychic players
+    known as Shadowseers. The Miststave is the Shadowseer's staff of office, and
+    its tip is a totem of the Laughing God, the front a laughing face, the back
+    a grinning skull. Against living victims, even a glancing blow from such a
+    stave scrambles their perceptions, clouding the mind with contradictory
+    illusions and reducing sight to a slowmotion blur.</p>
+  value: 7
+  keywords: FORCE, HARLEQUIN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: force
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 1400000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709856785554
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!rJgEzXUiu5XcQ90V'

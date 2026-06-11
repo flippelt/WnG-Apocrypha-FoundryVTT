@@ -1,0 +1,91 @@
+name: Smoke Grenade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.j4WihBsNS9iIAY0C
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">Smoke grenades are not deadly; rather, they are
+    canisters of chemicals which produce plumes of thick smoke which can be used
+    to obscure line of sight or signal to distant allies. Most forms of smoke
+    grenade contain nano-chaff particles which interfere with Preysense,
+    thermoptics, and other forms of seeing through concealment, making them
+    effective even against foes who might ignore ordinary
+    smoke.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">Smoke Grenades do not inflict damage. Rather, attempts to
+    see, or make ranged attacks, through the smoke suffer +4 DN.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: EXPLOSIVE, [ANY]
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 10
+    - name: gas
+      custom: true
+      display: Gas
+      description: >-
+        A Gas weapon deploys clouds of aerosolised or gaseous chemical agents.
+        To use a Gas weapon, make a Ballistic Skill test to target a specific
+        location; if it hits, that is where the gas emerges, filling the blast
+        area and affecting creatures within. The gas dissipates over time,
+        reducing the Blast Rating by 2 at the end of each round. Strong winds
+        may make the gas dissipate more quickly, at GM’s discretion. Characters
+        wearing a rebreather or a void suit, or armour which includes such
+        features, automatically succeed at any tests required to resist Gas
+        weapon’s effects, as are creatures which do not need to breathe, such as
+        unliving automata, NECRONS, or DAEMONS, or creatures impervious to
+        chemical weapons like TYRANIDS.
+  upgrades: []
+_id: j4WihBsNS9iIAY0C
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430838
+  modifiedTime: 1710718597831
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 0
+_key: '!items!j4WihBsNS9iIAY0C'

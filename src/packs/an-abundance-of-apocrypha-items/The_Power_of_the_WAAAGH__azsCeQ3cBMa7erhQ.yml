@@ -1,0 +1,57 @@
+folder: fgtFfRbmshJ8KM1n
+name: The Power of the WAAAGH!
+type: ability
+_id: azsCeQ3cBMa7erhQ
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are a Psyker; you know the Smite psychic power. You know the WAAAGH
+    discipline, and one power from that Discipline. When using psychic powers,
+    you do not choose a Power Level; rather, you gain one additional Wrath die
+    for every five Orks within 20 metres of you. You must roll these Wrath dice.
+    Each 1 rolled on a Wrath die when using a Psychic Power inflicts one Mortal
+    Wound on you instead of a roll on the Perils of the Warp table, and if you
+    exceed your Max Wounds from this, you explode, dying instantly and
+    inflicting 1d3+Tier Mortal Wounds on all Orks within 20 metres.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710701532910
+  modifiedTime: 1710701561480
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!azsCeQ3cBMa7erhQ'

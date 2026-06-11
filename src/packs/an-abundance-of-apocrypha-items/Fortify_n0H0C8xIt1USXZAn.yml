@@ -1,0 +1,80 @@
+name: Fortify
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.n0H0C8xIt1USXZAn
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You envision a mighty citadel, ravaged by battle but under swift repair.
+    As you do so, you let your powers wash over your battle-brothers, compelling
+    their flesh to knit and their bones to set, just as your mental fortress is
+    restored to its original magnificence. If this power is successful, select a
+    single ally within range; they recover 1d3 Wounds, or twice that amount if
+    they possess the IMPERIAL FISTS keyword. Once a creature has been affected
+    by this power, they may not do so again until after their next Regroup.</p>
+  effect: ''
+  cost: 15
+  activation: full
+  duration: Instant
+  range: 25m
+  multiTarget: true
+  keywords: PSYCHIC
+  prerequisites: IMPERIAL FISTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The target recovers +1 Wound.
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: The target also recovers 1d3 Shock.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: n0H0C8xIt1USXZAn
+folder: FBWgnducTeuqGBkw
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959229
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!n0H0C8xIt1USXZAn'

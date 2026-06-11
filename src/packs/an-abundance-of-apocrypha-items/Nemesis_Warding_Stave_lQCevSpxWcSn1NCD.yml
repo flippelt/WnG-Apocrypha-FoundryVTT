@@ -1,0 +1,146 @@
+name: Nemesis Warding Stave
+type: weapon
+img: modules/wng-core/assets/icons/weapons/force-stave.webp
+effects:
+  - _id: diFTCt7VNvFwy0An
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/weapons/force-stave.webp
+    transfer: false
+    flags: {}
+    tint: null
+    origin: null
+    name: Nemesis Warding Stave
+    description: ''
+    statuses: []
+    _key: '!items.effects!lQCevSpxWcSn1NCD.diFTCt7VNvFwy0An'
+folder: flRpFXtin9Qiphj7
+flags:
+  wng-core:
+    initialization-folder: Weapons
+    sort: 0
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Unlike most of the Nemesis Force Weapons used by the Grey Knights, the
+    Nemesis Warding Stave has abilities used in defensive situations. The
+    wielder of the stave can channel his psychic might into the haft to activate
+    the refractor fields within. The refractor fields, once activated, then
+    project a force field around the wielder, softening any blows and thus
+    increasing the chance for retaliation.</p>
+
+    <p><strong>Special:</strong> Against melee attacks, a Nemesis Warding Stave
+    also counts as a shield, providing an Armour Rating of 2, with the Force
+    Shield and Shield traits.</p>
+  value: 6
+  keywords: FORCE, GREY-KNIGHTS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: force
+    - name: nemesis
+      custom: true
+      display: Nemesis
+      description: >-
+        Nemesis weapons are created to be bane to daemons.
+        @Item[eeSvJvzZBjQvtZq0]{DAEMON} may not roll Determination to negate
+        wounds or mortal wounds inflicted by Nemesis weapons.
+  upgrades: []
+  bonus:
+    attributes:
+      strength: 0
+      toughness: 0
+      agility: 0
+      initiative: 0
+      willpower: 0
+      intellect: 0
+      fellowship: 0
+    skills:
+      athletics: 0
+      awareness: 0
+      ballisticSkill: 0
+      cunning: 0
+      deception: 0
+      insight: 0
+      intimidation: 0
+      investigation: 0
+      leadership: 0
+      medicae: 0
+      persusasion: 0
+      pilot: 0
+      psychicMastery: 0
+      scholar: 0
+      stealth: 0
+      survival: 0
+      tech: 0
+      weaponSkill: 0
+    combat:
+      defence: 0
+      resilience: 0
+      wounds: 0
+      determination: 0
+      shock: 0
+      resolve: 0
+      passiveAwareness: 0
+      conviction: 0
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: lQCevSpxWcSn1NCD
+sort: 500000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!lQCevSpxWcSn1NCD'

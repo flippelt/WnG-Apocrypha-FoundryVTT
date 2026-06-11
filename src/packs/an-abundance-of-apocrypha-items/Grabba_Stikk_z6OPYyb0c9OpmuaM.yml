@@ -1,0 +1,62 @@
+folder: RjR50Xwp2nsZW0E5
+name: Grabba Stikk
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>This massive metal syringe superficially resembles a tool of the
+    chirurgeon’s craft and Grabba Stikks are the traditional tool of Runtherdz,
+    used for throttling anything in arm's reach. Consisting of a sturdy metal
+    pole, a deceptively simple pulley system, and an articulated barbed claw,
+    grabba stikks are used to capture and restrain potential slaves. In battle,
+    Runtherdz often use them to throttle enemies within the weapon's reach.</p>
+  value: 0
+  keywords: ''
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Restrained
+    - name: waaagh!
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709860039201
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: z6OPYyb0c9OpmuaM
+_key: '!items!z6OPYyb0c9OpmuaM'

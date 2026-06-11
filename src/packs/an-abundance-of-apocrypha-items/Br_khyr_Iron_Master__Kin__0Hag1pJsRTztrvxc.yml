@@ -1,0 +1,162 @@
+folder: kcIfowy1n7OiCCwE
+name: Brôkhyr Iron-Master (Kin)
+type: archetype
+_id: 0Hag1pJsRTztrvxc
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Kin
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.AqMlTyoQxQws1lEK
+  faction:
+    name: Leagues of Votann
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HSaREh8NK25ui3Ou
+  influence: 2
+  cost: 106
+  keywords:
+    - LEAGUES OF VOTANN
+    - BRÔKHYR
+    - '[LEAGUE]'
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: null
+    survival: null
+    tech: 3
+    weaponSkill: 2
+  ability:
+    name: Guild Techniques
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.70s992ndW3jYzpPr
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Graviton Rifle
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JZhTw50PgWgjY6m4
+      type: item
+      diff: {}
+      index: 1
+      groupId: jMfnNmEKjV6kTcHy
+    - name: Graviton Hammer
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9Y6Dmt4rfPJoO3Os
+      type: item
+      diff: {}
+      index: 2
+      groupId: MVy6J5vNCCV1I8bv
+    - name: Void Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.FZEUGRe0ZUJZC0LW
+      type: item
+      diff: {}
+      index: 3
+      groupId: PW6GeBk0lvNIlL9C
+    - name: Multispectral Visor
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.EATM5aMc5FtgWphS
+      type: item
+      diff: {}
+      index: 4
+      groupId: WlC30tLrcd2yYHGo
+    - name: Combi-Tool
+      id: Compendium.wng-core.items.Item.JjxTSDKzy37hRIGd
+      type: item
+      diff: {}
+      index: 5
+      groupId: Jw1LijNzHalNw55T
+    - type: generic
+      name: one E-COG assistant (Follower)
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: jMfnNmEKjV6kTcHy
+      - index: 2
+        type: item
+        groupId: MVy6J5vNCCV1I8bv
+      - index: 3
+        type: item
+        groupId: PW6GeBk0lvNIlL9C
+      - index: 4
+        type: item
+        groupId: WlC30tLrcd2yYHGo
+      - index: 5
+        type: item
+        groupId: Jw1LijNzHalNw55T
+      - type: item
+        index: 6
+        groupId: MEY0d1NTvSpR3GR6
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 2
+      initiative: 2
+      willpower: 4
+      intellect: 6
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 3
+      cunning: 3
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 6
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: TLV6c8FJhbKFKKUK
+        name: Tenacious
+effects: []
+sort: 800000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710620430564
+  modifiedTime: 1710710947727
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0Hag1pJsRTztrvxc'

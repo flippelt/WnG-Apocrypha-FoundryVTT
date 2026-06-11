@@ -1,0 +1,38 @@
+folder: JmXLzf2ge3nwJeU0
+name: SA'CEA SEPT
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+system:
+  description: >-
+    <p>Sa’cea is a hot, densely populated world, once overrun by fearsome
+    predators which the Fire caste’s warriors had to slay before the settlers
+    could land. A highly militarised world, it contains a large population of
+    Fire caste warriors, and its people are grim and highly-disciplined.</p><p>•
+    <strong>All</strong> T’au from Sa’cea add +1 to their Resolve.</p><p>•
+    <strong>Air</strong> caste T’au from Sa’cea hone their skills in the skies
+    above dense cityscapes, where absolute precision is needed: they may re-roll
+    any 1s rolled (even on a Wrath die) for Pilot tests.</p><p>•
+    <strong>Earth</strong> caste T’au from Sa’cea are keenly observant, almost
+    to a point of wariness, and add +2d to all Awareness tests.</p><p>•
+    <strong>Fire</strong> caste T’au from Sa’cea have exceptional fire
+    discipline: they may re-roll one die on any Ballistic Skill test they
+    attempt</p>
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.e7MV9tjT8cTjurKE
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664207638106
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 90gglmuZJeuRKgBV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!90gglmuZJeuRKgBV'

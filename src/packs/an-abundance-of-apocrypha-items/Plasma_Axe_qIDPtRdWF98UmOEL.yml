@@ -1,0 +1,59 @@
+folder: 0SAPFb2VAW9K20fX
+name: Plasma Axe
+type: weapon
+img: modules/wng-core/assets/icons/weapons/power-axe.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>A single-handed battle axe with a blade of coherent plasma, as commonly
+    wielded by Kin squad leaders and commanders as the power sword is amongst
+    the Imperium and the Aeldari. In the hands of a skilled warrior, a plasma
+    axe can reduce an enemy to a heap of scorched meat and charred bone.</p>
+  value: 6
+  keywords: PLASMA, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: rending
+      rating: 2
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709900091079
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: qIDPtRdWF98UmOEL
+_key: '!items!qIDPtRdWF98UmOEL'

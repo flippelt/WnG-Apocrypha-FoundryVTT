@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Armour-Monger
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ADEPTUS MECHANICUS keyword
+  description: >-
+    <p>Your craft allows you to enhance the effectiveness of your armour.</p>
+
+    <p>Select a single suit of armour you possess when you choose this Talent.
+    When you wear that armour, increase the Armour Rating by +Rank. You must be
+    able to spend at least an hour a day maintaining and adjusting the armour in
+    order to gain this bonus.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Jxa1XpWBNn2TeJFB
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663877360416
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: Jxa1XpWBNn2TeJFB
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 3800000
+_key: '!items!Jxa1XpWBNn2TeJFB'

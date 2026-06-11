@@ -1,0 +1,797 @@
+folder: r1d1tnSrDdQX8mqt
+name: Gun Servitor
+type: threat
+img: modules/wng-core/assets/tokens/servitor.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 4
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: null
+      bonus: 0
+      max: null
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: T
+      second: T
+      third: T
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 6 Uncommon</p><p>Gun Servitors are intended to
+    provide fire support for a Tech-priest or Techmarine as he works, and often
+    they will have whole limbs replaced with cybernetically-implanted weapons.
+    Many will have ammunition hoppers mounted somewhere on their bodies so they
+    can lay down continuous curtains of fire without needing to reload.</p>
+prototypeToken:
+  name: Gun Servitor
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/servitor.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: Iron Soul
+    type: talent
+    _id: sDlvsafMiRjdQOBc
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower is unaffected by abilities that target the mind, and
+        never needs to make a Resolve test to continue fighting.</p>
+      display: true
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 200000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.8O7OfESDO1thpEae
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359147151
+      modifiedTime: 1710412948328
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.sDlvsafMiRjdQOBc'
+  - _id: fjoAXeYO1p4Hujsq
+    name: IMPERIUM
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 3500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ
+    system:
+      description: >-
+        <p>The vast interstellar empire of Humanity that spans over a million
+        worlds, led by the Emperor from Holy Terra. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656027
+      modifiedTime: 1710412964125
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.fjoAXeYO1p4Hujsq'
+  - _id: v6KX0byNjkezKOjA
+    name: ADEPTUS MECHANICUS
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 1800000
+      core:
+        sourceId: Compendium.wng-core.items.Item.1TbplwZV3WYZkQEk
+    system:
+      description: >-
+        <p>Adherents to the Cult Mechanicus, the Mars-based cult of the machine
+        that supply the Imperium with its advanced technology and guard the
+        sacred knowledge of its workings. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656020
+      modifiedTime: 1710412982727
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.v6KX0byNjkezKOjA'
+  - _id: xRU6OQJDpcjW8VNA
+    name: SERVITOR
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 5500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.q3m2xbmCFfUEPTMb
+    system:
+      description: >-
+        <p>AI, or Abominable Intelligence, is a sin to the Cult Mechanicus.
+        Their many technological servants, known as Servitors, are all
+        constructed around biological brains supplemented with holy
+        mechanisms.</p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656030
+      modifiedTime: 1710413014377
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.xRU6OQJDpcjW8VNA'
+  - name: Determination
+    type: ability
+    _id: Q47z0pTeurC14WjB
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Glory to roll 3d6</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 100000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.NyytzXiTWO84CSRs
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359735702
+      modifiedTime: 1710413078655
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.Q47z0pTeurC14WjB'
+  - name: 'Complication: Mindlock'
+    type: ability
+    _id: oGJiXOgyWyskN5Vl
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Servitor is Exhausted for 1 round. This can be negated by an ally
+        succeeding on a DN 3 Tech (Int) Test.</p>
+      display: true
+      abilityType: complication
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects:
+      - name: Exhausted
+        icon: systems/wrath-and-glory/asset/icons/conditions/exhausted.svg
+        statuses:
+          - exhausted
+        _id: zCAfwGBDrmo4k72g
+        changes: []
+        disabled: false
+        duration:
+          startTime: null
+          seconds: null
+          combat: null
+          rounds: null
+          turns: null
+          startRound: null
+          startTurn: null
+        description: ''
+        origin: null
+        transfer: true
+        flags: {}
+        _key: >-
+          !actors.items.effects!DDLJh8k1u1ILl6rg.oGJiXOgyWyskN5Vl.zCAfwGBDrmo4k72g
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710413088497
+      modifiedTime: 1710413158335
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.oGJiXOgyWyskN5Vl'
+  - name: Augmetics
+    type: armour
+    _id: JkyN5yEtYVA2lxTW
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710413296194
+      modifiedTime: 1710416499454
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.JkyN5yEtYVA2lxTW'
+  - _id: AwZJQg3fxig9Vdmm
+    name: Heavy Bolter
+    type: weapon
+    img: modules/wng-core/assets/icons/weapons/heavy-bolter.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Weapons
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.ut6nsTPR0xL4mfET
+    system:
+      quantity: 1
+      rarity: uncommon
+      description: >-
+        The outsized brother of the cousin, these heavy weapons are as
+        terrifying as one would expect. With sustained fire these huge guns can
+        reduce heavily armoured infantry and light vehicles to naught but
+        unrecognizable chunks of smouldering ruin.
+      value: 6
+      keywords: BOLT, IMPERIUM
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 12
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 18
+        medium: 36
+        long: 54
+        melee: 1
+        thrown: null
+        salvo: 3
+      ammo: ''
+      salvo: 3
+      traits:
+        - name: brutal
+        - rating: 4
+          name: heavy
+        - rating: 4
+          name: rapidFire
+      upgrades: []
+      bonus:
+        attributes:
+          strength: 0
+          toughness: 0
+          agility: 0
+          initiative: 0
+          willpower: 0
+          intellect: 0
+          fellowship: 0
+        skills:
+          athletics: 0
+          awareness: 0
+          ballisticSkill: 0
+          cunning: 0
+          deception: 0
+          insight: 0
+          intimidation: 0
+          investigation: 0
+          leadership: 0
+          medicae: 0
+          persusasion: 0
+          pilot: 0
+          psychicMastery: 0
+          scholar: 0
+          stealth: 0
+          survival: 0
+          tech: 0
+          weaponSkill: 0
+        combat:
+          defence: 0
+          resilience: 0
+          wounds: 0
+          determination: 0
+          shock: 0
+          resolve: 0
+          passiveAwareness: 0
+          conviction: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654741
+      modifiedTime: 1710416503347
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: 85dkcvhBYli5TJrZ
+    sort: 0
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.AwZJQg3fxig9Vdmm'
+  - name: Gun Platform
+    type: talent
+    _id: U4mcRWCLpZB3xJXx
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Gun Servitor ignores the Heavy (X) trait on its weapons. It
+        carries 3 Reloads of ammunition for its weapon.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710413812738
+      modifiedTime: 1710413834505
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.U4mcRWCLpZB3xJXx'
+  - name: Follower Options
+    type: ability
+    _id: 2SG2hGMuaC6aCsje
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Follower’s Heavy Bolter may be replaced by any other Heavy weapon
+        the owner acquires</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710413854785
+      modifiedTime: 1710413876936
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!DDLJh8k1u1ILl6rg.2SG2hGMuaC6aCsje'
+effects: []
+sort: 400000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710411991451
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: DDLJh8k1u1ILl6rg
+_key: '!actors!DDLJh8k1u1ILl6rg'

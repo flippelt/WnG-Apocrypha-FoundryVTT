@@ -1,0 +1,131 @@
+name: Master-Crafted Executioner Greatblade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/power-sword.webp
+effects: []
+flags:
+  cf: null
+  core: {}
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Large, expertly crafted two-handed power swords, used by the Silent
+    Sisterhood. Each Greatblade was perfectly weighted for the martial style of
+    its wielder and oce the SIsters were schooled in their use, they could
+    strike with the speed of a duellist combined<span>&nbsp;with the killing
+    might of a veteran eecutioner.</span></p>
+
+    <p>&nbsp;</p>
+  value: 7
+  keywords: POWER FIELD, 2-HANDED, ANATHEMA PSYKANA
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: parry
+    - name: rending
+      rating: 2
+  upgrades:
+    - _id: HzFXugXe76RLStBN
+      name: Mastercrafted
+      type: weaponUpgrade
+      img: modules/wng-core/assets/icons/weaponUpgrade/mastercrafted.webp
+      effects:
+        - _id: YvLOI1Bk6dMecArw
+          changes:
+            - key: system.attack.bonus
+              mode: 2
+              value: '2'
+              priority: null
+          disabled: false
+          duration:
+            startTime: null
+            seconds: null
+            combat: null
+            rounds: null
+            turns: null
+            startRound: null
+            startTurn: null
+          icon: modules/wng-core/assets/icons/weaponUpgrade/mastercrafted.webp
+          transfer: false
+          flags:
+            wrath-and-glory:
+              description: ''
+          tint: null
+          origin: null
+          name: Mastercrafted
+          description: ''
+          statuses: []
+      sort: 0
+      flags:
+        wng-core:
+          initialization-folder: Upgrades
+          sort: 0
+        core:
+          sourceId: Compendium.wng-core.items.Item.WrLeZYO1xL08TXIK
+      system:
+        description: >-
+          <p>Some weapons are simply made better; forged from high quality
+          materials or by unparalleled artisans.</p>
+
+          <p><strong>Effect</strong>: The weapon gains the Reliable
+          Trait.&nbsp;You gain +2 bonus dice to any Attack Test made with this
+          weapon.&nbsp;</p>
+        effect: ''
+        value: 7
+        rarity: very-rare
+        keywords: '[Any]'
+        traits:
+          - name: reliable
+            type: add
+      ownership:
+        default: 0
+        TkdNPfNTgOk5SoMe: 3
+        xygrzIwcKUPawMWs: 3
+        zMfycCgAR7fVchDB: 3
+        2A4avCm5djGyyRue: 3
+      _stats:
+        systemId: wrath-and-glory
+        systemVersion: 4.2.0
+        coreVersion: '11.314'
+        createdTime: 1664497654725
+        modifiedTime: 1701125329601
+        lastModifiedBy: 2A4avCm5djGyyRue
+      folder: Yu5pO5m8xNqYMyop
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710781282048
+  lastModifiedBy: CkX1zlse2zyKIjlv
+folder: MQykOvcWtZwgblsd
+_id: EqrVeUbUAnsYYVqQ
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!EqrVeUbUAnsYYVqQ'

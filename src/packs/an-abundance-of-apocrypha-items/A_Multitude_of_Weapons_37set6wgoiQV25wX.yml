@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: A Multitude of Weapons
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You may use a Multi-Action to make attacks with multiple weapons at once,
+    so long as  those weapons are mounted on your Battlesuit. The DN increase
+    for this Multi-Action is  reduced by your Rank.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699801438076
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 37set6wgoiQV25wX
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!37set6wgoiQV25wX'

@@ -1,0 +1,85 @@
+folder: fgtFfRbmshJ8KM1n
+name: Subdue and Interrogate
+type: ability
+_id: zfap4vE4y4Cydod4
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank bonus dice to all Intimidation and Insight tests during an
+    interrogation. In addition, when you make an attack with an Agonizing weapon
+    and your target exceeds their Max Wounds as a result, you may choose for
+    them to become unconscious (unable to take further action, unaware of their
+    surroundings) rather than dying.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+    name: Subdue and Interrogate
+    _id: apL22gl88Y5CNk3D
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              You add +Rank bonus dice to all Intimidation and Insight tests
+              during an interrogation
+            hide: ''
+    tint: null
+    _key: '!items.effects!zfap4vE4y4Cydod4.apL22gl88Y5CNk3D'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710621350229
+  modifiedTime: 1710621397777
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!zfap4vE4y4Cydod4'

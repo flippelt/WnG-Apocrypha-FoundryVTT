@@ -1,0 +1,59 @@
+name: Astartes Chainsword
+type: weapon
+_id: cl2SkggR4PWY2pxi
+img: modules/wng-core/assets/icons/weapons/chainsword.webp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p>A larger, heavier form of chainsword, constructed to withstand the force
+    of Astartes strength and the ferocity of a Space Marine’s strikes. Made
+    using higherquality components, it is more effective at tearing through
+    light armour as well.</p>
+  value: 5
+  keywords: CHAIN, IMPERIUM, ADEPTUS ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: parry
+  upgrades: []
+effects: []
+folder: M81y3pnOdLuRP51r
+sort: 100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709830351541
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!cl2SkggR4PWY2pxi'

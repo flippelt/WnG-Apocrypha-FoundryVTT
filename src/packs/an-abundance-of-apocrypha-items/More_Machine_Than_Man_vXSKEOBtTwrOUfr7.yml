@@ -1,0 +1,87 @@
+folder: fgtFfRbmshJ8KM1n
+name: More Machine Than Man
+type: ability
+_id: vXSKEOBtTwrOUfr7
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You do not bleed (making you immune to Bleeding), and you add +Rank to
+    your Maximum Wounds and Maximum Shock.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+    name: More Machine Than Man
+    _id: e38BupB2i9cWGM8f
+    changes:
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '@advances.rank'
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!vXSKEOBtTwrOUfr7.e38BupB2i9cWGM8f'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710696563093
+  modifiedTime: 1710696796750
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!vXSKEOBtTwrOUfr7'

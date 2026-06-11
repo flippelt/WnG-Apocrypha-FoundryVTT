@@ -1,0 +1,24 @@
+folder: ewmeGmrcXn6sa90B
+name: '[CULT]'
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.gAHUJ7SVyPa07cDC
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: DXSSod3KCUJKHH8L
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!DXSSod3KCUJKHH8L'

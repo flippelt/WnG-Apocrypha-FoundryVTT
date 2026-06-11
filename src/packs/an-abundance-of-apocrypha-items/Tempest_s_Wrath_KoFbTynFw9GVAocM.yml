@@ -1,0 +1,108 @@
+name: Tempest's Wrath
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Hindered
+    icon: systems/wrath-and-glory/asset/icons/conditions/hindered.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '2'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - hindered
+    _id: qnBdRX5MUJDRjcOa
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    tint: null
+    _key: '!items.effects!KoFbTynFw9GVAocM.qnBdRX5MUJDRjcOa'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.KoFbTynFw9GVAocM
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The Rune Priest brings the rage of the storm to a roaring crescendo,
+    frost-fingered wind spirits whipping at his enemies, tearing at their eyes
+    and snatching weapons from hands. The power affects all creatures in a Blast
+    (6) within range. Enemies affected are Hindered (2) until the start of the
+    psyker’s next turn.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 50m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: SPACE WOLVES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 to Hindered effect.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Affected area is a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: KoFbTynFw9GVAocM
+folder: h4kiPhIt6oM6JLum
+sort: 275000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959348
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!KoFbTynFw9GVAocM'

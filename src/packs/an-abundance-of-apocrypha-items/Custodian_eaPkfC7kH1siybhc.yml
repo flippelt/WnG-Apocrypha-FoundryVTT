@@ -1,0 +1,75 @@
+name: Custodian
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: ct8TKkELuAnX5bLq
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  cf: null
+  core: {}
+system:
+  cost: 330
+  speed: 7
+  size: average
+  journal: ''
+  abilities:
+    - id: Uqa4XgxMxNmkbpDC
+      name: Aegis of the Emperor
+    - id: x7s2f6fyNvNvnScl
+      name: Indomitable, Incorruptible
+    - id: xukdZaQvIMOaAJnC
+      name: Solitary
+    - id: hK3tRBbJSeTqxTMA
+      name: Despise by the Unholy
+  attributes:
+    strength: 6
+    toughness: 6
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 3
+    fellowship: 3
+  skills:
+    athletics: 4
+    awareness: 5
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: 3
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 4
+  attributeMax:
+    strength: 14
+    toughness: 14
+    agility: 11
+    initiative: 11
+    willpower: 12
+    intellect: 12
+    fellowship: 10
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056646
+  modifiedTime: 1710190655617
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: eaPkfC7kH1siybhc
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!eaPkfC7kH1siybhc'

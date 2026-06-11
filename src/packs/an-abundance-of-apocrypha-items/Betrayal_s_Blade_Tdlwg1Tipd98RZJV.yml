@@ -1,0 +1,53 @@
+folder: fgtFfRbmshJ8KM1n
+name: Betrayal's Blade
+type: ability
+_id: Tdlwg1Tipd98RZJV
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When disguised or otherwise concealing your identity, you gain a Stealth
+    Score based on the total of your Deception test. This score only decreases
+    when you take actions which may reveal your true intentions (GM’s
+    discretion).</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710779171695
+  modifiedTime: 1710779200700
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Tdlwg1Tipd98RZJV'

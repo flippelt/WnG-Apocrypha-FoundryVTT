@@ -1,0 +1,48 @@
+name: Chem Injector
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.ObqOoHAbFcLMq9ko
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">This implant allows a dose of a drug or
+    stimulant to be auto-injected into the recipient’s
+    body.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">The injector is loaded with a single drug,
+    either Stimm or a drug with the </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">COMBAT DRUG </span><span
+    class="fontstyle0">keyword, and a character may have multiple chem injector
+    implants to deliver multiple drugs. The character can administer that drug
+    as a simple action. Some characters with this implant do not have control
+    over them; their injectors are controlled by another character over a vox
+    link.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: IMPERIUM, ADEPTUS MECHANICUS, ADEPTUS MINISTORUM
+  requirements: ''
+  effect: ''
+_id: ObqOoHAbFcLMq9ko
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099793
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!ObqOoHAbFcLMq9ko'

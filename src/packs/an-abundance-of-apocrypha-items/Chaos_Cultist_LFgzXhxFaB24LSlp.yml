@@ -1,0 +1,174 @@
+folder: cZ7bosRjx1cxapg8
+name: Chaos Cultist
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 0
+  cost: 8
+  keywords:
+    - CHAOS
+    - HERETIC
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: 2
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: 1
+    deception: 1
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: The Enemy Within
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.k7e28IcazWJfDi5v
+  wargear:
+    - name: Autogun
+      id: Compendium.wng-core.items.Item.fQCOj3mVrhnIEOty
+      type: item
+      diff: {}
+      index: 0
+      groupId: X8qACA1rVBHkljos
+    - name: Stubber
+      id: Compendium.wng-core.items.Item.BpQ1EYnjQP61Edvp
+      type: item
+      diff: {}
+      index: 1
+      groupId: oxrmDirLYakN3TM4
+    - name: Industrial Bludgeon
+      id: Compendium.wng-core.items.Item.mw8BHTZftejjfcLn
+      type: item
+      diff: {}
+      index: 2
+      groupId: EibXTvCQFqtrtxQX
+    - type: generic
+      name: Unholy Icon
+      filters: []
+      index: 3
+      groupId: uAg5HiPkwnpy5EyU
+    - type: generic
+      name: Guard issue mess kit
+      filters: []
+      index: 4
+      groupId: WBqI581gK3rmZ5rp
+    - name: Citizen's Clothing
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Citizen's Clothing
+      index: 5
+      groupId: Vc1ss0zf7mVzaqdG
+    - type: generic
+      name: tattered blanket
+      filters: []
+      index: 6
+      groupId: B4GwOIgZlu8EhiI4
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: or
+        items:
+          - type: and
+            items:
+              - index: 1
+                type: item
+                groupId: oxrmDirLYakN3TM4
+              - index: 2
+                type: item
+                groupId: EibXTvCQFqtrtxQX
+            groupId: 5518rEIhX0j0Mc9e
+          - index: 0
+            type: item
+            groupId: X8qACA1rVBHkljos
+        groupId: CzBHcxscG6oLhlcE
+      - type: item
+        index: 3
+        groupId: uAg5HiPkwnpy5EyU
+      - type: item
+        index: 4
+        groupId: WBqI581gK3rmZ5rp
+      - index: 5
+        type: item
+        groupId: Vc1ss0zf7mVzaqdG
+      - type: item
+        index: 6
+        groupId: B4GwOIgZlu8EhiI4
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 1
+      fellowship: 3
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 2
+      cunning: 2
+      deception: 2
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: 1
+      survival: 1
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: zuaCZ6JEmAB9LUYt
+        name: Betrayer
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+      - id: cjIXYREw9Ar63CXc
+        name: Supplicant
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.E3g9JOgGvNKku6A7
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699537432016
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: LFgzXhxFaB24LSlp
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1200000
+_key: '!items!LFgzXhxFaB24LSlp'

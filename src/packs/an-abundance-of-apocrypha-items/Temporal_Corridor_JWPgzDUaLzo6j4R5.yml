@@ -1,0 +1,79 @@
+name: Temporal Corridor
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.JWPgzDUaLzo6j4R5
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You create an invisible corridor within which the passage of time is
+    altered, allowing your allies to traverse the battlefield with supernatural
+    swiftness. If successful, all allies within range may immediately move up to
+    twice their Speed. All affected allies must remain within 5m of one another
+    during the move, and no creature may benefit from this power more than once
+    in a single round.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Instant
+  range: 5m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTARTES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Targets receive +1 Speed for this move.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Activation reduced to an Action.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: JWPgzDUaLzo6j4R5
+folder: 6agkY8o79jzZ96uL
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959218
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!JWPgzDUaLzo6j4R5'

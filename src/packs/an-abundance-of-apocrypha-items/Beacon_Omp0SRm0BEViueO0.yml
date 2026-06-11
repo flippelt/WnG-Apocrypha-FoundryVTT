@@ -1,0 +1,83 @@
+name: Beacon
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.Omp0SRm0BEViueO0
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>With this power, you are able to create a small psychic beacon within the
+    Empyrean that can only be seen with psychic senses. While the beacon remains
+    in place, you can always determine how far away you away from the beacon.
+    Anyone able to use Psyniscience is able to perceive your beacon, and it can
+    be detected as far away as your Willpower x 5km in realspace, or your
+    Willpower in light years in the Warp, subject to warp conditions. You cannot
+    control who can perceive your beacon, however, and enemies may detect it as
+    well.</p>
+  effect: ''
+  cost: 10
+  activation: full
+  duration: Sustained
+  range: Special
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The beacon’s can be seen from +5km or +1 light year away.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        A character navigating through the Warp adds +2 bonus dice to their
+        tests if they can see the beacon.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: Omp0SRm0BEViueO0
+folder: Y2bAliRT8Nh9MTzR
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247434
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Omp0SRm0BEViueO0'

@@ -1,0 +1,91 @@
+name: Markerlight
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.sypjiMeweXLd5qCP
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A Marker Light is an advanced T'au hand-held
+    laser range finder that is used to "paint" targets for other T'au units to
+    fire upon. When activated, a Marker Light projects a simple beam at the
+    target which measures the exact distance between the Marker Light and the
+    user.</span></p><p></p><p><span class="fontstyle0">This and a torrent of
+    other targeting information then is fed into the Cadre tactical network and
+    becomes available on the wider T'au electronic battle network, relaying
+    ranges to the marked target, triangulating optimum firing trajectories and
+    superimposing aiming vectors.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;
+    "></p><p><span class="fontstyle0"><strong>Special</strong>: </span><span
+    class="fontstyle2">A successful attack with a Markerlight inflicts one
+    instance of the </span><span class="fontstyle0">Marked </span><span
+    class="fontstyle2">condition on the target. A character with a markerlight
+    may fire the markerlight as part of a multi-action which includes another
+    ranged attack with a different weapon.</span></p><p></p><p><span
+    class="fontstyle0"><strong>Marked</strong>: </span><span
+    class="fontstyle2">A ranged attack against a </span><span
+    class="fontstyle0">Marked </span><span class="fontstyle2">character gains an
+    additional +2 bonus dice. An instance of the Marked condition is removed
+    when a ranged attack is made against the character. A character removes all
+    instances of the Marked condition on them at the end of their turn.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: EXOTIC, T’AUEMPIRE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Marked
+  upgrades: []
+_id: sypjiMeweXLd5qCP
+folder: KCVqHx1PYrcqXhMV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932681278
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!sypjiMeweXLd5qCP'

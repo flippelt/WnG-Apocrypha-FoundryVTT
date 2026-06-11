@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Exquisite Swiftness
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: CHAOS keyword, SLAANESH keyword
+  description: >-
+    <p>Your wits and reflexes are heightened to an exceptional degree, to allow
+    you to better experience life’s joys and torments.</p><p>You gain +1d3
+    Corruption. Before the first round of combat, you may move up to your speed.
+    Further, you may always choose to act first in each round.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Qnoj7f0R3NLBrftH
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699803382302
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: Qnoj7f0R3NLBrftH
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6400000
+_key: '!items!Qnoj7f0R3NLBrftH'

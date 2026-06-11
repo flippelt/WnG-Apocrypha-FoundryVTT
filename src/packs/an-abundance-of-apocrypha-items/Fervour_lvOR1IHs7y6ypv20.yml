@@ -1,0 +1,115 @@
+folder: fgtFfRbmshJ8KM1n
+name: Fervour
+type: ability
+img: modules/wng-core/assets/icons/abilities/adeptus-ministorum.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When within hearing range of a character with the
+    @UUID[Item.TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM}keyword, you increase your
+    Resolve by +Rank. In addition, if that Adeptus Ministorum character has
+    suffered any wounds during the current scene, your Determination is
+    increased by +Rank while you remain within 10 metres of them</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: 01glMlAzSRPwaUXB
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Fervour(Resolve Bonus)
+    name: Fervour
+    description: ''
+    statuses: []
+    _key: '!items.effects!lvOR1IHs7y6ypv20.01glMlAzSRPwaUXB'
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: yhgEXBLIovOGAqrV
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Fervour(Determination Bonus)
+    name: Fervour
+    description: ''
+    statuses: []
+    _key: '!items.effects!lvOR1IHs7y6ypv20.yhgEXBLIovOGAqrV'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lvOR1IHs7y6ypv20
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664298756154
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: lvOR1IHs7y6ypv20
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!lvOR1IHs7y6ypv20'

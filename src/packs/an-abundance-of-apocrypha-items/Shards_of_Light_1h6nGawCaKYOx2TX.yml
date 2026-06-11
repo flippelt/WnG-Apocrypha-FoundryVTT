@@ -1,0 +1,106 @@
+name: Shards of Light
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Blinded
+    icon: systems/wrath-and-glory/asset/icons/conditions/blinded.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '4'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: Blinded
+            script: return data.weapon
+    statuses:
+      - blinded
+    _id: CnotcpNf6EMRBwja
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    _key: '!items.effects!1h6nGawCaKYOx2TX.CnotcpNf6EMRBwja'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.1h6nGawCaKYOx2TX
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Blades of polychrome energy dazzle the foe, inflicting horrific and
+    disorienting psychosomatic wounds. The power affects all enemies in a Blast
+    (6) within range. Each target suffers 1 Mortal Wound and is blinded and
+    pinned until the start of your next turn.</p>
+  effect: ''
+  cost: 20
+  activation: ''
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: AELDARI, TELEPATHY, PSYCHIC
+  prerequisites: HARLEQUIN
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: '1'
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The area affected is a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: +1 Mortal Wound per target.
+      cost: 2
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 1h6nGawCaKYOx2TX
+folder: o8yQgV0l3d94B1kr
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742867
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!1h6nGawCaKYOx2TX'

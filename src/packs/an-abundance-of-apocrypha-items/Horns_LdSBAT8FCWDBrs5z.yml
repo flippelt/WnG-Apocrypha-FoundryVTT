@@ -1,0 +1,55 @@
+name: Horns
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.LdSBAT8FCWDBrs5z
+  cf: null
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You may make melee attacks with your horns ([S]+5+2ED; AP 0). Thus, you
+    are always armed.</p>
+  display: true
+  abilityType: action
+  traits: []
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057066
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: LdSBAT8FCWDBrs5z
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!LdSBAT8FCWDBrs5z'

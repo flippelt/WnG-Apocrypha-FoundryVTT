@@ -1,0 +1,147 @@
+folder: cZ7bosRjx1cxapg8
+name: Tzaangor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Beastman
+    id: Item.Pmkvgia9uKxhEOVk
+  faction:
+    name: Chaos
+    id: Item.oNSe7G9pJIHehwhI
+  influence: 1
+  cost: 38
+  keywords:
+    - CHAOS
+    - ABHUMAN
+    - HERETIC
+    - TZEENTCH
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Aura of Change
+    id: Item.oHxZa40iFbhla53M
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Sword
+      id: Item.JlXH8xNwZcDgtfcn
+      type: item
+      diff: {}
+      index: 1
+      groupId: gssYBusnc2cxLic0
+    - name: Sword
+      id: Item.JlXH8xNwZcDgtfcn
+      type: item
+      diff: {}
+      index: 2
+      groupId: Zgb2tbyOad3hWYtE
+    - name: Chainsword
+      id: Item.rgcz2ZC60MEM8mao
+      type: item
+      diff: {}
+      index: 3
+      groupId: oRxCwtjmYjvzgj4N
+    - name: Autopistol
+      id: Item.JbTzZSQ0FZ4PIjdp
+      type: item
+      diff: {}
+  groups:
+    type: or
+    groupId: root
+    items:
+      - type: and
+        items:
+          - index: 1
+            type: item
+            groupId: gssYBusnc2cxLic0
+          - index: 2
+            type: item
+            groupId: Zgb2tbyOad3hWYtE
+        groupId: 675McFb6azlQ21yS
+      - type: and
+        items:
+          - index: 4
+            type: item
+            groupId: 5mPHhv30Zi9p0EDd
+          - index: 3
+            type: item
+            groupId: oRxCwtjmYjvzgj4N
+        groupId: tcgClUwMP63Tm9u4
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 2
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 1
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+      - id: A0b7EHqFCH6nblAK
+        name: Touched By Fate
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664831740666
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: kdCsdpgGizprWz3f
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!kdCsdpgGizprWz3f'

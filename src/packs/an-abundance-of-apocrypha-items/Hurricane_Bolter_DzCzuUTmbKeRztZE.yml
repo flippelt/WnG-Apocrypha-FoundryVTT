@@ -1,0 +1,61 @@
+name: Hurricane Bolter
+type: weapon
+img: modules/wng-core/assets/icons/weapons/heavy-bolter.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A rack of six linked boltguns, designed to unleash a torrent of
+    mass-reactive shells at any horde of foes in the way.</p>
+  value: 10
+  keywords: POWERED, WARSUIT, IMPERIUM, ADEPTUS ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 6
+  traits:
+    - name: brutal
+    - name: rapidFire
+      rating: 6
+  upgrades: []
+effects: []
+flags:
+  core: {}
+  cf: null
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664137557221
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: Jr1XUs92ggb9r4uN
+_id: DzCzuUTmbKeRztZE
+sort: 1300000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!DzCzuUTmbKeRztZE'

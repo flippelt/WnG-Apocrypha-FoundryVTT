@@ -1,0 +1,96 @@
+name: Dowsing
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.0Ol9mOwA6GLU3cF0
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>By focusing your mind you can single out an object or person somewhere in
+    your immediate vicinity, pushing aside all other distractions until you can
+    unerringly find it.</p><p>Select a single specific item or person you know
+    (in the case of a person, having seen them or knowing what they look like,
+    or knowing their name is required). If successful, and the item or person is
+    within a number of kilometres equal to your Willpower attribute, you know
+    the rough direction to the target. While you sustain this power, you may
+    spend a Full Action to update the information received.</p><p>You receive
+    bonus Exalted Icons on a successful use of this power based on your
+    familiarity with the target: +2 if you’ve known the target for a long time,
+    +1 if you have a piece of the target, +1 if the target is within 100m.</p>
+  effect: ''
+  cost: 10
+  activation: full
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        You instead know the specific direction to the target, and roughly how
+        far away it is (to the nearest 50m).
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: >-
+        You instead know the specific direction to the target and exactly how
+        far away it is.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: >-
+        You have a visual image of the current location of the target, in
+        addition to knowing exactly how far away it is and in what direction.
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: 0Ol9mOwA6GLU3cF0
+folder: cadR4fAXVAvR66ps
+sort: 125000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247369
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0Ol9mOwA6GLU3cF0'

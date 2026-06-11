@@ -1,0 +1,72 @@
+name: Haywire Grenade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.1AQhk8NadZAOrscO
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Unleashing a burst of electromagnetic energy,
+    these grenades damage and destroy machines while doing little to living
+    creatures. They are commonly used by Aeldari assault troops to disable enemy
+    vehicles</span>.</p>
+  value: 6
+  keywords: EXPLOSIVE,AELDARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 2
+    - name: haywire-(4)
+      custom: true
+      display: Haywire (4)
+      description: >-
+        Haywire weapons generate destructive electromagnetic pulses. When
+        attacking a vehicle or mechanical foe, roll a number of d6 equal to the
+        trait’s rating. Each Icon inflicts a Mortal Wound.
+  upgrades: []
+_id: 1AQhk8NadZAOrscO
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932547
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!1AQhk8NadZAOrscO'

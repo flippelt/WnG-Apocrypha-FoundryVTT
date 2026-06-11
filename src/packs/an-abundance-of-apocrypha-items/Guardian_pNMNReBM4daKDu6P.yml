@@ -1,0 +1,142 @@
+folder: GHP0SxnnlNKFusRJ
+name: Guardian
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 0
+  cost: 20
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: 3
+    initiative: null
+    willpower: 2
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Defenders
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.SmtDWzr9OJacalSD
+  wargear:
+    - name: Aeldari Mesh Armour
+      id: Compendium.wng-core.items.Item.G9nCJ5gh7PMiLUOQ
+      type: item
+      diff: {}
+      index: 0
+      groupId: 5ePVeR8ipePWKkEG
+    - name: Shuriken Catapult
+      id: Compendium.wng-core.items.Item.FgFdJfFR8gDq4LYi
+      type: item
+      diff: {}
+      index: 1
+      groupId: bPEfjZaZpv8MuETh
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 2
+      groupId: eRMlk9Rffh6hceRP
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: 5ePVeR8ipePWKkEG
+      - index: 1
+        type: item
+        groupId: bPEfjZaZpv8MuETh
+      - index: 2
+        type: item
+        groupId: eRMlk9Rffh6hceRP
+      - index: 3
+        type: item
+        groupId: Z86keuiqQnYTieWh
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 4
+      initiative: 4
+      willpower: 3
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 1
+      psychicMastery: null
+      scholar: null
+      stealth: 1
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: zrCkrWGkMDPK1kOg
+        name: Battle Focus
+      - id: 1OzEfrtLvMDY3XgW
+        name: Strike and Fade
+      - id: 6tbuREMWNAGrzXlO
+        name: Mastered Paths
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Wt2GVF5WQxUk1Ijf
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664302221313
+  modifiedTime: 1710545051394
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: pNMNReBM4daKDu6P
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!pNMNReBM4daKDu6P'

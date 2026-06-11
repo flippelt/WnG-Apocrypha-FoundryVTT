@@ -1,0 +1,110 @@
+name: Catechism of Repugnance
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + ADEPTA SORORITAS, not CHAOS
+  description: >-
+    <p><span class="fontstyle0">With the holy bolter we shall cleanse the
+    mutant, the alien, and the heretic. With the Emperor’s gift do we deliver
+    our hatred of the defiler.</span></p><p></p><p><span class="fontstyle0">Only
+    </span><span class="fontstyle2">PRIESTS </span><span class="fontstyle0">with
+    the </span><span class="fontstyle2">ADEPTA SORORITAS </span><span
+    class="fontstyle0">keyword may purchase this
+    Prayer.</span></p><p></p><p><span class="fontstyle2"
+    style="color:rgb(0,0,0);"><strong>Effect</strong>: </span><span
+    class="fontstyle0">If this Prayer is successful, then while the prayer
+    remains in effect, then whenever you or any </span><span
+    class="fontstyle2">IMPERIUM </span><span class="fontstyle0">characters
+    within 12m of makes a ranged attack with a </span><span
+    class="fontstyle2">BOLT </span><span class="fontstyle0">weapon, the attack’s
+    damage is increased by +Rank ED, and the attack’s AP is improved by 1 (that
+    is, AP -1 to AP -2) if the attack is at Short Range.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Catechism of Repugnance
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+      - key: ap.bonus
+        mode: 6
+        value: '-1'
+        priority: null
+    _id: 15aQsbbVClB1Xyh2
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Any ranged attack with a BOLT weapon
+            hide: ''
+          '1':
+            script: ''
+            description: Ranged attack with a BOLT weapon at short range
+            hide: ''
+    tint: null
+    _key: '!items.effects!uMYod2mLZjqKUyVI.15aQsbbVClB1Xyh2'
+folder: AUFZA6KODKn4d1ad
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags:
+  core:
+    sourceId: Item.AJMskXQD81UT7c1M
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: uMYod2mLZjqKUyVI
+_key: '!items!uMYod2mLZjqKUyVI'

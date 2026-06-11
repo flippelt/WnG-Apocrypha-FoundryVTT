@@ -1,0 +1,164 @@
+folder: cZ7bosRjx1cxapg8
+name: Khorngor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Beastman
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Pmkvgia9uKxhEOVk
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 0
+  cost: 36
+  keywords:
+    - CHAOS
+    - ABHUMAN
+    - HERETIC
+    - KHORNE
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: The Scent of Blood
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.j1OnwIwcd1ACmHvI
+  wargear:
+    - name: Flak Armour
+      id: Compendium.wng-core.items.Item.fLx8DzWDgWDZIMSK
+      type: item
+      diff: {}
+      index: 0
+      groupId: lGWd0JDr31mSHbU4
+    - name: Chainaxe
+      id: Compendium.wng-core.items.Item.HVZUg1rOLXh7OnKM
+      type: item
+      diff: {}
+      index: 1
+      groupId: QWxw672q29utf2lJ
+    - name: Autopistol
+      id: Compendium.wng-core.items.Item.JbTzZSQ0FZ4PIjdp
+      type: item
+      diff: {}
+      index: 2
+      groupId: 4i5PF6YAMLlzNN4u
+    - name: Axe
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4cJ8ZBlUT4grfFRs
+      type: item
+      diff: {}
+      index: 3
+      groupId: 8XTjDFIHOpi3jOnm
+    - name: Axe
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4cJ8ZBlUT4grfFRs
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: lGWd0JDr31mSHbU4
+      - type: or
+        items:
+          - type: and
+            items:
+              - index: 1
+                type: item
+                groupId: QWxw672q29utf2lJ
+              - index: 2
+                type: item
+                groupId: 4i5PF6YAMLlzNN4u
+            groupId: QTMj2MfR5M2OkZe8
+          - type: and
+            items:
+              - index: 4
+                type: item
+                groupId: AM1igULjRO0gkPI8
+              - index: 3
+                type: item
+                groupId: 8XTjDFIHOpi3jOnm
+            groupId: b8pqWyRaGHzpd8FK
+        groupId: xpELCjvCukJc4M6A
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 3
+      initiative: 2
+      willpower: 2
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 1
+      awareness: null
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: YaiXDgjj9UxA1EtI
+        name: Berzerker
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3IqXQrPkWFD9bolq
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664831740666
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: ybRbhg7azBRJasVZ
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1400000
+_key: '!items!ybRbhg7azBRJasVZ'

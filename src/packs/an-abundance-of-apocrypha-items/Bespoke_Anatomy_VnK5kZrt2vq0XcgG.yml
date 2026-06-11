@@ -1,0 +1,53 @@
+folder: fgtFfRbmshJ8KM1n
+name: Bespoke Anatomy
+type: ability
+_id: VnK5kZrt2vq0XcgG
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You have no Maximum Shock and cannot suffer Shock for any reason. When
+    you roll Determination, wounds are cancelled entirely rather than
+    transformed into Shock, and you may roll Determination against Mortal
+    Wounds. </p><p>You cannot wear armour, due to your custom physiology.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710780866761
+  modifiedTime: 1710780886528
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!VnK5kZrt2vq0XcgG'

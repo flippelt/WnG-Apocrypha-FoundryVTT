@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Evade
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Initiative 3+
+  description: >-
+    <p>You are elusive and difficult to target.&nbsp;<br>If you are not in
+    cover, enemies making ranged attacks against you add +1 to the DN if you are
+    at Medium range, or +2 to the DN if you are at Long range. This does not
+    apply if you are @UUID[JournalEntry.aWBDTEtsHxlNsthi]{Restrained},
+    @UUID[JournalEntry.CXoXx6h9FoFqp013]{Staggered}, otherwise unable to move
+    freely.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kZ0qQJiAADtsGsac
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663879905232
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 4zKWjZMasZOxxDzq
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 700000
+_key: '!items!4zKWjZMasZOxxDzq'

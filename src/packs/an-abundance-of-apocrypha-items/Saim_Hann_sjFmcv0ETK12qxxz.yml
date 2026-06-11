@@ -1,0 +1,35 @@
+name: Saim-Hann
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+effects: []
+folder: 16S9xUIVnroLJhc3
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 2000000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.tY4PYJ2nyohP1AzI
+system:
+  description: >-
+    <p>The Asuryani craftworld of Saim-Hann was one of the first craftworlds to
+    abandon what became the Crone Worlds as the Fall of the Aeldari approached,
+    heeding their Farseers' warnings. They are fierce warriors, who place upon
+    honour a higher value than their sophisticated kin. They are hot-blooded,
+    quick to battle, eager for satisfaction for perceived slights and hungry for
+    the glory of victory.</p><p><strong>FURY OF THE WILD HUNT:</strong> You
+    increase your Speed by +Rank when you Sprint or Charge, or when mounted on
+    an AELDARI vehicle with the Hover trait.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699479568268
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: sjFmcv0ETK12qxxz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!sjFmcv0ETK12qxxz'

@@ -1,0 +1,66 @@
+name: Pulse Pistol
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.UCx3M7VWPCnIel2r
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A Pulse Pistol is a far smaller version of the
+    T'au Pulse Rifle, lacking in range but retaining the potent stopping power
+    of their larger counterparts.</span></p><p></p><p><span
+    class="fontstyle0">As a pistol-sized Pulse Weapon, it is only used by
+    certain T'au personnel as a basic defence and hold-out weapon for use in
+    desperate situations</span>.</p>
+  value: 3
+  keywords: PULSE, T’AUEMPIRE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: pistol
+  upgrades: []
+_id: UCx3M7VWPCnIel2r
+folder: KCVqHx1PYrcqXhMV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932681303
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!UCx3M7VWPCnIel2r'

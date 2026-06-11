@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Martial Adept
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Dire Avenger aspect, Weapon Skill 6+, Ballistic Skill 6+
+  description: >-
+    <p>You are a well-rounded combatant, a master of warfare in hand-to-hand and
+    at range. Whenever you make an attack, add one exalted icon to the attack,
+    in addition to any that you roll.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.PbslCiDsdruDFBqw
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700053117070
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: PbslCiDsdruDFBqw
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!PbslCiDsdruDFBqw'

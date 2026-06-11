@@ -1,0 +1,52 @@
+folder: nDYleZkn0ESlN5hn
+name: Drukhari Poisons
+_id: VpUHWzAY03V4NxCg
+pages:
+  - sort: 100000
+    name: Drukhari Poisons
+    type: text
+    _id: 4uvJJU3YNsIs0q3b
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>These upgrades may be used on any DRUKHARI weapon with the Fleshbane
+        trait or with the Inflict (Poisoned X), applying an additional effect
+        upon any target who suffers one or more wounds from the weapon. This
+        adds the Inflict (Poisoned 3) trait to the weapon, if it does not
+        already have that trait or a better version, and applies a specific
+        effect determined by the poison.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710072785871
+      modifiedTime: 1710072805646
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!VpUHWzAY03V4NxCg.4uvJJU3YNsIs0q3b'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710072779933
+  modifiedTime: 1710072805646
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!journal!VpUHWzAY03V4NxCg'
+categories: []

@@ -1,0 +1,38 @@
+folder: ZMoR03HW5eXVf9E1
+name: Anathema
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Pariah Specieal, Willpower rating 4+
+  description: >-
+    <p>Your mere presence is bane to daemons and psykers.</p>
+
+    <p>Whenever you succeed at a melee attack against a creature with the
+    @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMON}or
+    @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER}keywords, your attack inflicts mortal
+    wounds equal to your Rank in addition to any other damage inflicted. In
+    addition, creatures with the @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMON}keyword
+    within a number of metres of you equal to your Willpower may not attempt to
+    roll Determination.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ZvTzEzKb8cwVliHI
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663876912226
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: KblllCqaUDvYbDGT
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 4200000
+_key: '!items!KblllCqaUDvYbDGT'

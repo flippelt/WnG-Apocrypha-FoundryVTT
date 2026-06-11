@@ -1,0 +1,164 @@
+folder: lEqVRehKQvTYGEoK
+name: Wych
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 0
+  cost: 52
+  keywords:
+    - AELDARI
+    - DRUKHARI
+    - WYCH
+    - '[CULT]'
+  attributes:
+    strength: 2
+    toughness: null
+    agility: 4
+    initiative: 3
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 2
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Hekatarii Prowess
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.exawaY9vzynnG5Mw
+  wargear:
+    - name: Wychsuit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jXwTZehsR4s1js5O
+      type: item
+      diff: {}
+      index: 0
+      groupId: IctYs11P6z69oSOB
+    - name: Hekatarii Blade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RyJDw5aEc5OSzut9
+      type: item
+      diff: {}
+      index: 1
+      groupId: GItDnmZHZFQgWvlD
+    - name: Splinter Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.smcYrkZOFwBpXHt9
+      type: item
+      diff: {}
+      index: 2
+      groupId: iYqGHhVRIeMsNpP6
+    - name: Plasma Grenade
+      id: Compendium.wng-core.items.Item.IKeDfOaiJOeHPpK7
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 3
+      groupId: X1WgAFaIIMYYYEPY
+    - name: Hekatarii Combat Drugs
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.D94t8tJ06b13Hgoi
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: FwLh7KlZbYRf67Cx
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: IctYs11P6z69oSOB
+      - index: 1
+        type: item
+        groupId: GItDnmZHZFQgWvlD
+      - index: 2
+        type: item
+        groupId: iYqGHhVRIeMsNpP6
+      - index: 3
+        type: item
+        groupId: X1WgAFaIIMYYYEPY
+      - index: 4
+        type: item
+        groupId: FwLh7KlZbYRf67Cx
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 4
+      initiative: 4
+      willpower: 2
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: 1
+      insight: 1
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: 26UYjRZ4VBoL1EyC
+        name: Blood Must Flow!
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.C0ccCRgj09R900Qr
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699540456752
+  modifiedTime: 1710603107721
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 2KJ5MkcE8TubleiV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 200000
+_key: '!items!2KJ5MkcE8TubleiV'

@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Tears of Isha
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 40
+  requirements: Ghost Warrior species
+  description: >-
+    <p>Legend says that the first spirit stones were the tears wept by the
+    mother-goddess Isha, cast to the material world that she might protect her
+    children.</p><p>When you roll Determination, you heal 1 Wound for each Icon
+    rolled beyond those needed to negate an attack’s damage. That is, if you
+    took 6 damage, and rolled 8 Icons, you would heal 2 Wounds</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OD5DyYo1d7A5qY2x
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699806386195
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: OD5DyYo1d7A5qY2x
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 5500000
+_key: '!items!OD5DyYo1d7A5qY2x'

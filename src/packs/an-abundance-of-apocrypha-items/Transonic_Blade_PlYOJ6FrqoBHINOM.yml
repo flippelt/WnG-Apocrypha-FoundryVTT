@@ -1,0 +1,77 @@
+name: Transonic Blade
+type: weapon
+_id: PlYOJ6FrqoBHINOM
+img: modules/wng-core/assets/icons/weapons/power-sword.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Used by Sicarian Ruststalkers, these long, slender blades tune themselves
+    to destructively resonate through anything they strike. Wielded in pairs,
+    these weapons allow a Ruststalker to scythe through foe after foe.</p>
+  value: 6
+  keywords: TRANSONIC, ADEPTUS MECHANICUS, SKITARII
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: paired
+      custom: true
+      display: Paired
+      description: >-
+        The weapon is designed to be used in a pair—two weapons of that type,
+        one in each hand. When a character makes an attack while wielding both
+        weapons in a pair, either count it as a Simultaneous Strike (as per the
+        talent) or reduce the DN of a multiattack by 2. If you have the
+        Signature Weapon talent, you may apply it to both weapons in a pair.
+    - name: mortal-(1)
+      custom: true
+      display: Mortal (1)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts
+  upgrades: []
+effects: []
+folder: QMfRKhIFUOHoAFXu
+sort: 1000000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709847258822
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!PlYOJ6FrqoBHINOM'

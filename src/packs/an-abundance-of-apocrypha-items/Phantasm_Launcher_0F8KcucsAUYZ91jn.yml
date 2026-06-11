@@ -1,0 +1,92 @@
+name: Phantasm Launcher
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade-launcher.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-ranged.Item.0F8KcucsAUYZ91jn
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Phantasm Grenade Launcher is a deadly weapon
+    utilized by wealthier Dark Eldar. Consisting of a specially modified
+    backpack that can hurl disc-shaped grenades from twin tubes, the ammunition
+    of Phantasm Grenade Launchers are canisters which contain a powerful nerve
+    gas, capable of plunging the victim into a fit of horrific nightmares and
+    delusions.</span></p><p><span class="fontstyle2"><strong>Special</strong>:
+    </span><span class="fontstyle0">Any creature caught in the blast of a
+    Phantasm Grenade must pass a </span><span class="fontstyle3">Terror
+    </span><span class="fontstyle0">test (TN 5). Further, if a creature suffers
+    a complication on this test, then they also suffer 1d3 mortal wounds.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: EXPLOSIVE, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: launcher
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: assault
+    - name: blast
+      rating: 4
+    - name: gas
+      custom: true
+      display: Gas
+      description: >-
+        A Gas weapon deploys clouds of aerosolised or gaseous chemical agents.
+        To use a Gas weapon, make a Ballistic Skill test to target a specific
+        location; if it hits, that is where the gas emerges, filling the blast
+        area and affecting creatures within. The gas dissipates over time,
+        reducing the Blast Rating by 2 at the end of each round. Strong winds
+        may make the gas dissipate more quickly, at GM’s discretion. Characters
+        wearing a rebreather or a void suit, or armour which includes such
+        features, automatically succeed at any tests required to resist Gas
+        weapon’s effects, as are creatures which do not need to breathe, such as
+        unliving automata, NECRONS, or DAEMONS, or creatures impervious to
+        chemical weapons like TYRANIDS.
+  upgrades: []
+_id: 0F8KcucsAUYZ91jn
+folder: hvQbqAxjU9zt0gWD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927211836
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!0F8KcucsAUYZ91jn'

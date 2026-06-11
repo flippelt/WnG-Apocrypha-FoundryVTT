@@ -1,0 +1,62 @@
+name: Miniaturised Disruption Pod
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Miniaturised Disruption Pod
+    _id: Pv33vhNEKGfVkrwl
+    changes:
+      - key: difficulty.bonus
+        mode: 7
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Ranged attack
+            hide: ''
+    tint: null
+    _key: '!items.effects!ciMMyy4cUC9PI1lh.Pv33vhNEKGfVkrwl'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-equipment.Item.ciMMyy4cUC9PI1lh
+system:
+  quantity: 1
+  rarity: rare
+  description: ''
+  value: 5
+  keywords: T’AU EMPIRE, WATER CASTE, ETHEREAL CASTE
+  effect: ''
+_id: ciMMyy4cUC9PI1lh
+folder: G6w5YJj7QygkEzDX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710258892585
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!ciMMyy4cUC9PI1lh'

@@ -1,0 +1,73 @@
+folder: Eur8pJbhW3UOXOhY
+name: Fire Caste Pathfinder
+pages:
+  - sort: 100000
+    name: 'Figure: Fire Caste Pathfinder'
+    type: image
+    _id: mBuCduq3JtId3ZNF
+    title:
+      show: true
+      level: 1
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    src: modules/wng-apocrypha/assets/images/archetypes/fc-pathfinder.webp
+    system: {}
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!7OLitnlNLJc3QNqL.mBuCduq3JtId3ZNF'
+  - sort: 200000
+    name: Fire Caste Pathfinder
+    type: text
+    _id: FqN8NsvqDywleKNZ
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: "<blockquote><p>A good warrior strikes fast but retreats faster.</p><p style=\"text-align:right\"><em>—— Fire Caste Maxim</em></p></blockquote><p><strong>You are a warrior of the T’au Empire, a member of the Fire Caste. You specialise in long-range reconnaissance operations, guerrilla warfare, sabotage, and assassinations.</strong></p><p>Pathfinder teams range far ahead of Hunter Cadres in search of enemy forces. They maintain a watch on the foe while remaining hidden, reporting details of the enemy’s nature and disposition by way of encrypted and undetectable communication systems. Pathfinder teams are also deployed in the role of aggressive patrol groups, maintaining dominance over a wide area around a stationary Hunter Cadre and detecting any enemy forces that attempt to approach. Occasionally, an entire Hunter Cadre of Pathfinders is tasked with a mission, such as exploring a newly discovered planet and ascertaining if it is suitable for colonisation.</p><p>Pathfinders are equipped with a range of specialised equipment to aid in their mission. Every member of the team wears Recon Armour and carries a Markerlight, a laser designator device attached to his firearm that projects an almost invisible, highly focused beam of light at a potential target. The Markerlight is networked to a support weapon platform such as a Hammerhead gunship and transmits precise targeting information to guide the fire of such units. When used to guide the armour-piercing Seeker Missiles carried as additional weapons on many Tau tanks, the Pathfinders can remain hidden as they call in devastatingly powerful and unerringly accurate fire right onto the target. Many Imperial troops have come to fear the small, red dot of light that appears on the body of those about to be slain, and some refer to it as the \"Valkyrie’s Mark.\" Pathfinders are called to sacrifice themselves more often than their basic Fire Warrior counterparts, though recklessly wasting lives is always anathema to the Tau. However, during the early days of the Great War of Confederation, Pathfinder teams sustained casualty rates of 84% or higher. Despite this, or perhaps because of it, Fire Caste academies are overflowing with volunteers wishing to be Pathfinders.</p><div class=\"journal-image centered\"><img src=\"modules/wng-apocrypha/assets/images/archetypes/fc-pathfinder.webp\" width=\"215\" height=\"300\" /></div><table style=\"width:98.9228%;height:234px\" border=\"1\"><tbody><tr class=\"table-header\" style=\"background-color:#846404;height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\">FIRE CASTE PATHFINDER</td></tr><tr style=\"height:16px\"><td style=\"background-color:#846404;color:white;text-align:center;width:26.5674%;height:16px\" colspan=\"2\">TIER</td><td style=\"width:8.3%;height:16px;text-align:center\">1</td><td style=\"background-color:#846404;color:white;width:16.2617%;height:16px;text-align:center\" colspan=\"2\">SPECIES</td><td style=\"width:11.7268%;height:16px;text-align:center\">Shas T'au</td><td style=\"background-color:#846404;color:white;width:11.6223%;height:16px;text-align:center\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center\">10</td></tr><tr style=\"height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>KEYWORDS</strong>:@UUID[Item.F7FRdD4PlRSmS3xN]{T'AU EMPIRE}, @UUID[Item.IZKow5SDbQX6vBIn]{FIRE CASTE},@UUID[Item.Qr5PyX5ivlRSnOZV]{[SEPT]}</td></tr><tr style=\"height:16px;background-color:rgba(0, 0, 0, .2)\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>SKILLS</strong>:\_Ballistic Skill 2, Stealth 1,Tech 1</td></tr><tr style=\"height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><p><strong>ARCHETYPE ABILITY: </strong>@UUID[Item.YjU1LdoUT2u0GcOO]{Vanguard}</p></td></tr><tr style=\"height:16px;background-color:rgba(0, 0, 0, .2)\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>WARGEAR</strong>: : T’au Recon Armour, Pulse Carbine, Markerlight, 3 Photon Grenades</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"width:51.1291%;height:16px;background-color:#846404;text-align:left\" colspan=\"5\"><strong>SUGGESTED ATTRIBUTES</strong></td><td style=\"background-color:#846404;color:white;text-align:center;width:23.3491%;height:16px\" colspan=\"2\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">48</td></tr><tr style=\"font-variant:small-caps;height:16px\"><td style=\"background-color:#846404;color:white;width:14.0674%;height:16px\">ATTRITBUTE</td><td style=\"width:12.5%;height:16px;text-align:center\">S</td><td style=\"width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">T</td><td style=\"width:5.17241%;height:16px;text-align:center\">A</td><td style=\"width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">I</td><td style=\"width:11.7268%;height:16px;text-align:center\">Wil</td><td style=\"width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">Int</td><td style=\"width:18.2509%;height:16px;text-align:center\">Fel</td></tr><tr style=\"height:16px\"><td style=\"background-color:#846404;color:white;width:14.0674%;height:16px\">RATING</td><td style=\"width:12.5%;height:16px;text-align:center\">3</td><td style=\"width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">3</td><td style=\"width:5.17241%;height:16px;text-align:center\">3</td><td style=\"width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">3</td><td style=\"width:11.7268%;height:16px;text-align:center\">2</td><td style=\"width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">1</td><td style=\"width:18.2509%;height:16px;text-align:center\">3</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"background-color:#846404;width:51.1291%;height:16px;text-align:left\" colspan=\"5\"><strong>SUGGESTED SKILLS</strong></td><td style=\"background-color:#846404;color:white;text-align:center;width:23.3491%;height:16px\" colspan=\"2\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">24</td></tr><tr style=\"height:16px\"><td style=\"height:16px;width:92.7291%\" colspan=\"8\">Athletics 2, Awareness 1, Ballistic Skill 3, Survival 1, Stealth 2, Tech 2</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"background-color:#846404;width:92.7291%;height:16px\" colspan=\"8\">SUGGESTED TALENTS</td></tr><tr style=\"height:16px\"><td style=\"height:16px;width:92.7291%\" colspan=\"8\">@UUID[Item.GJUeAkAPhh5uYtlP]{Silent}, @UUID[Item.cIJSwqHfDGxq6QID]{Supporting Fire}, @UUID[Item.yu5AnzdlMjCwN3Yl]{Ta'lissera Bonding}</td></tr></tbody></table>"
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!7OLitnlNLJc3QNqL.FqN8NsvqDywleKNZ'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664171799977
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 7OLitnlNLJc3QNqL
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!7OLitnlNLJc3QNqL'
+categories: []

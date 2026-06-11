@@ -1,0 +1,65 @@
+name: Incinerator
+type: weapon
+img: modules/wng-core/assets/icons/weapons/flamer.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Loaded with prometheum blended with blessed oils, an incinerator is a
+    specialised weapon used by the Grey Knights. Incinerators unleash radiant
+    blue-white flames that burn the substance of daemons as effectively as
+    mortal flesh.</p>
+  value: 8
+  keywords: FIRE, ADEPTUS ASTARTES, GREY KNIGHTS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: flamer
+    - name: heavy
+      rating: 6
+    - name: blessed
+      rating: 3
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665494340109
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: LOBB1JvXThQYsXF2
+_id: yl1v09yqMQZ5mEj7
+sort: 300000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!yl1v09yqMQZ5mEj7'

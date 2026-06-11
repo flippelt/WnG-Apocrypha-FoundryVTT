@@ -1,0 +1,63 @@
+name: Luminen Capacitor
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.wxDBQysoHwoweKXp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">The recipient’s internal energies are channelled
+    into capacitors buried within their flesh and connected to their various
+    implants. This energy can be tapped to recharge items or serve as a power
+    source for weapons and potent attacks.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A luminen capacitor contains a number of charges equal to
+    the recipient’s Toughness. With a Toughness test, and a minute of meditative
+    focus, the character may spend charges to power machinery. The DN of this
+    test is 2 + charges used, and the number of charges required varies based on
+    the system being charged.</span></p><p></p><ul><li><p><span
+    class="fontstyle0">1 charge: simple power cell,
+    illuminator</span></p></li><li><p><span class="fontstyle0">2 charges: weapon
+    charge pack, data-slate, starship bridge control
+    shrine</span></p></li><li><p><span class="fontstyle0">3 charges: shuttle
+    electronics, servo skull</span></p></li><li><p><span class="fontstyle0">4
+    charges: heavy weapon charge pack, servitor, hololithic
+    projector</span></p></li><li><p><span class="fontstyle0">5 charges:
+    cogitator core, reactor machine spirit, xenos
+    technology</span></p><p></p></li></ul><p><span class="fontstyle0">If a
+    character would suffer Shock from using an augmetic, then they may spend
+    charges to reduce this, suffering one fewer Shock for each charge
+    spent.</span></p><p></p><p><span class="fontstyle0">The luminen capacitor
+    regains its full charges during a Regroup. The character may also siphon
+    power from powered devices and power sources, requiring a Toughness test (DN
+    3) and an action. Success means the character regains [[/r 1d3]] charges,
+    plus 1 for each Exalted Icon shifted.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: CULT MECHANICUS
+  requirements: ''
+  effect: ''
+_id: wxDBQysoHwoweKXp
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099807
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!wxDBQysoHwoweKXp'

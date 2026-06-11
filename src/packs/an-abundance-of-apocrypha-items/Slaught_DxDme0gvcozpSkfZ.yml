@@ -1,0 +1,110 @@
+name: Slaught
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Slaught
+    changes:
+      - key: system.attributes.initiative.bonus
+        mode: 2
+        value: '3'
+        priority: null
+      - key: system.attributes.agility.bonus
+        mode: 2
+        value: '3'
+        priority: null
+    _id: L4iYtbFSy2cV4y2n
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!DxDme0gvcozpSkfZ.L4iYtbFSy2cV4y2n'
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Slaught Expired
+    _id: Zuvy6iTKOIsz44Pk
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Agility/Initiative based test
+            hide: ''
+    tint: null
+    _key: '!items.effects!DxDme0gvcozpSkfZ.Zuvy6iTKOIsz44Pk'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.DxDme0gvcozpSkfZ
+system:
+  quantity: 3
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Short for “onslaught”, this drug amplifies
+    awareness and reaction time, speeding up the user but taking a nasty toll in
+    the process.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Taking a dose of slaught adds +3 to the user’s Agility
+    and Initiative for the next [[/r 3d6]] rounds (or minutes, out of combat).
+    Once the drug’s effects end, the user must pass a Toughness test (DN 3) or
+    add +2 to the DN of all Agility and Initiative-based tests for the next [[/r
+    1d3+2]] hours. A single purchase contains 3 doses.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: COMBAT DRUGS, IMPERIUM, SCUM
+  effect: ''
+_id: DxDme0gvcozpSkfZ
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099206
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 800000
+_key: '!items!DxDme0gvcozpSkfZ'

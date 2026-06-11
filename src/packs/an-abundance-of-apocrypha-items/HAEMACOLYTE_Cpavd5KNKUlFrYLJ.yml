@@ -1,0 +1,21 @@
+folder: H0RDNpOeKBevlLyk
+name: HAEMACOLYTE
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: ''
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699539840067
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: Cpavd5KNKUlFrYLJ
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!Cpavd5KNKUlFrYLJ'

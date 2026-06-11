@@ -1,0 +1,100 @@
+name: Indomitable, Incorruptible
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: Nz5XWgXiZno5Lmzk
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: Indomitable, Incorruptible
+    description: ''
+    statuses: []
+    _key: '!items.effects!x7s2f6fyNvNvnScl.Nz5XWgXiZno5Lmzk'
+  - _id: y1f3vn4vb82t16bD
+    changes:
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '4'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: Indomitable, Incorruptible
+    description: ''
+    statuses: []
+    _key: '!items.effects!x7s2f6fyNvNvnScl.y1f3vn4vb82t16bD'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core: {}
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: ''
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057095
+  modifiedTime: 1710190653641
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: x7s2f6fyNvNvnScl
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!x7s2f6fyNvNvnScl'

@@ -1,0 +1,56 @@
+name: Suppression Shield
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial-armour.Item.ZQsvGSvSvGIaAh89
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The suppression shield is a type of shock
+    weapon. It is like a storm shield but replaces the power field generator
+    with an electro-shock unit. It acts as both a weapon and protection. Its
+    electricity is discharged into the first unfortunate individual the shield
+    contacts squarely. It is used along with the shock maul by Adeptus Arbites
+    shock troops for crowd and riot control.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">2, Bulk
+    (1), Shield</span></p><p></p><p><span
+    class="fontstyle2"><strong>Discharge</strong>: </span><span
+    class="fontstyle0">An enemy who fails a melee attack against someone
+    wielding a suppression shield immediately suffers 1 Shock. Anyone suffering
+    a complication on a melee attack against someone wielding a suppression
+    shield suffers 1d3 Shock.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: HEAVY, SHOCK, IMPERIUM, ADEPTUS ARBITES
+  equipped: false
+  rating: 2
+  base: 0
+  traits:
+    - name: bulk
+      rating: 1
+    - name: shield
+  invulnerable: false
+_id: ZQsvGSvSvGIaAh89
+folder: eLb57h7zaMzBK94e
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089726458
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 800000
+_key: '!items!ZQsvGSvSvGIaAh89'

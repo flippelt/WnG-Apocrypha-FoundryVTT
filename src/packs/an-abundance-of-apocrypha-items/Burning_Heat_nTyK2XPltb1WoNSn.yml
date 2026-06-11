@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Burning Heat
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Fire Dragon aspect, Toughness 5+
+  description: >-
+    <p>Enemies who close with you find their strength and their will to fight
+    sapped by searing, stifling heat. Whenever an enemy makes a melee attack
+    against you or a member of your squad, they add +2 to the DN required to
+    hit.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.nTyK2XPltb1WoNSn
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699811081240
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: nTyK2XPltb1WoNSn
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!nTyK2XPltb1WoNSn'

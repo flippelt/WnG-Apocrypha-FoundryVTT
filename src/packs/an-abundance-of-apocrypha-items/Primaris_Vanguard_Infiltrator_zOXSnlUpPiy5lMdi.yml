@@ -1,0 +1,171 @@
+folder: j5mcT1m1I7srvO3E
+name: Primaris Vanguard Infiltrator
+type: archetype
+_id: zOXSnlUpPiy5lMdi
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: Compendium.wng-core.items.Item.cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 1
+  cost: 228
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - PRIMARIS
+    - '[CHAPTER]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 4
+    initiative: 4
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Voxbane
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.54Fe8IURJBQX0DoV
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Phobos Mark X
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.AQRPnnosXrnefqtq
+      type: item
+      diff: {}
+      index: 1
+      groupId: cmDJTmcLKcRcyuo6
+    - name: Marksman Bolt Carbine
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.SxDUeBloe62mZ5Hc
+      type: item
+      diff: {}
+      index: 2
+      groupId: MNZhvudFcVdMI6TI
+    - name: Astartes Combat Knife
+      id: Compendium.wng-core.items.Item.4QVBQYWXXLyvFWkj
+      type: item
+      diff: {}
+      index: 3
+      groupId: sbishwEpHNzSe2G7
+    - name: Smoke Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.j4WihBsNS9iIAY0C
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: Jes6K2NMpUjN0Y0L
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: 2lsZpQPu7I7DmTWd
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: XK3QgKLY3jNa0qsF
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: cmDJTmcLKcRcyuo6
+      - index: 2
+        type: item
+        groupId: MNZhvudFcVdMI6TI
+      - index: 3
+        type: item
+        groupId: sbishwEpHNzSe2G7
+      - index: 4
+        type: item
+        groupId: Jes6K2NMpUjN0Y0L
+      - index: 5
+        type: item
+        groupId: 2lsZpQPu7I7DmTWd
+      - index: 6
+        type: item
+        groupId: XK3QgKLY3jNa0qsF
+  suggested:
+    attributes:
+      strength: 6
+      toughness: 6
+      agility: 5
+      initiative: 5
+      willpower: 3
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 4
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: 3
+      survival: 2
+      tech: 3
+      weaponSkill: 4
+    talents:
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+      - id: GJUeAkAPhh5uYtlP
+        name: Silent
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710718704554
+  modifiedTime: 1710718902606
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!zOXSnlUpPiy5lMdi'

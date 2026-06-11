@@ -1,0 +1,122 @@
+name: Force Bolt
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Force Bolt
+    changes:
+      - key: damage.bonus
+        mode: 6
+        value: '@attributes.willpower.total'
+        priority: null
+    _id: o4qBCEQaJwVL4Z9m
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!o24KHK9c9lGcxwNr.o4qBCEQaJwVL4Z9m'
+  - name: Prone
+    icon: systems/wrath-and-glory/asset/icons/conditions/prone.svg
+    statuses:
+      - prone
+    _id: WpAw7cSpQaVuiMLn
+    changes: []
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!o24KHK9c9lGcxwNr.WpAw7cSpQaVuiMLn'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.o24KHK9c9lGcxwNr
+system:
+  dn: '@combat.defence.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You hurl a bolt of mental force at your opponent.</p><p>The target
+    suffers Willpower +6 +2ED damage and they are knocked Prone if they are
+    Average or smaller.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: Willower x5 metres
+  multiTarget: false
+  keywords: KINETIC, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1ED
+      cost: 1
+      property: damage.ed.number
+      initial: ''
+      value: 1
+      single: false
+    - description: >-
+        The size of target that can be knocked Prone is increased by one step
+        (to Large, then to Huge, then to Gargantuan).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: o24KHK9c9lGcxwNr
+folder: 4l2ZECZopcUcauCc
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247411
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!o24KHK9c9lGcxwNr'

@@ -1,0 +1,125 @@
+folder: enJYSEZtnOYeu8p3
+name: Weirdboy
+type: archetype
+_id: gN9nmTmxhnQvXk4P
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Ork
+    id: Compendium.wng-core.items.Item.HkICqcWbRIsDHtMy
+  faction:
+    name: Ork
+    id: Compendium.wng-core.items.Item.BkBpSmTLEsh1tqCG
+  influence: 0
+  cost: 66
+  keywords:
+    - ORK
+    - '[CLAN]'
+    - PSYKER
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: 4
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 2
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: The Power of the WAAAGH!
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.azsCeQ3cBMa7erhQ
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Weirdboy Staff
+      id: Compendium.wng-core.items.Item.hcBcWZWTv5r4dgfr
+      type: item
+      diff: {}
+      index: 1
+      groupId: 6rzu01cofhVfiDkc
+    - name: Ork Flak
+      id: Compendium.wng-core.items.Item.YArm2VCihbVlLurI
+      type: item
+      diff: {}
+      index: 2
+      groupId: eZRdm71azJm4yKlG
+    - type: generic
+      name: Collection of Jangly Baubles
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 6rzu01cofhVfiDkc
+      - index: 2
+        type: item
+        groupId: eZRdm71azJm4yKlG
+      - type: item
+        index: 3
+        groupId: nwj4o1QQkd3j7n9n
+  suggested:
+    attributes:
+      strength: 5
+      toughness: 5
+      agility: 3
+      initiative: 3
+      willpower: 6
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 2
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 3
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: 5
+      scholar: null
+      stealth: null
+      survival: 2
+      tech: null
+      weaponSkill: 3
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710701446235
+  modifiedTime: 1710701653181
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!gN9nmTmxhnQvXk4P'

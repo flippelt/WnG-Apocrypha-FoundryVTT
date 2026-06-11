@@ -1,0 +1,188 @@
+folder: ynSNkXL3NdmXm43i
+name: Genetor
+type: archetype
+_id: QVhszyOu2MAvMpS0
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Compendium.wng-core.items.Item.NEkaKMEm79MWGo8b
+  influence: 3
+  cost: 98
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - CULT MECHANICUS
+    - '[FORGE WORLD]'
+  attributes:
+    strength: null
+    toughness: 3
+    agility: null
+    initiative: 4
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: 3
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: null
+    survival: null
+    tech: 4
+    weaponSkill: null
+  ability:
+    name: Magos Biologis
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JvWDMaY90EQcZPQ8
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Omnissian Axe
+      id: Compendium.wng-core.items.Item.gp881IiZhvjfvLfF
+      type: item
+      diff: {}
+      index: 1
+      groupId: NWP5yJbI7iH9mOAQ
+    - name: Auger Array
+      id: Compendium.wng-core.items.Item.JZQ0eEkQf7hWxaD5
+      type: item
+      diff: {}
+      index: 2
+      groupId: aEGMmidGTFQT2djl
+    - name: Diagnostor
+      id: Compendium.wng-core.items.Item.eVKhnZo0ekm7DobY
+      type: item
+      diff: {}
+      index: 3
+      groupId: 8IRAg3iz0bFCdCIi
+    - name: Mechadendrite (Medicae)
+      id: Compendium.wng-core.items.Item.oCFca0vTYRuxndzP
+      type: item
+      diff:
+        name: Mechadendrite (Medicae)
+      index: 4
+      groupId: nkVbysB0tONITKvm
+    - type: generic
+      name: any two augmetic enhancements
+      filters: []
+      index: 5
+      groupId: d3p0zChEvnsZeyWo
+    - type: generic
+      name: any one augmetic implant of up to Availability 7 (Unique)
+      filters:
+        - test: le
+          property: Rarity
+          value: Unique
+        - test: le
+          property: Value
+          value: '7'
+      index: 6
+      groupId: WTItgWqImJGpIaNV
+    - name: Light Power Armour
+      id: Compendium.wng-core.items.Item.jy00ECKFvu0ontTx
+      type: item
+      diff: {}
+      index: 7
+      groupId: floixyiBi6T6i1vg
+    - type: generic
+      name: and any one weapon of up to Availability 6 (Very Rare)
+      filters:
+        - test: le
+          property: Rarity
+          value: Rare
+        - test: le
+          property: Value
+          value: '6'
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: NWP5yJbI7iH9mOAQ
+      - index: 2
+        type: item
+        groupId: aEGMmidGTFQT2djl
+      - index: 3
+        type: item
+        groupId: 8IRAg3iz0bFCdCIi
+      - index: 4
+        type: item
+        groupId: nkVbysB0tONITKvm
+      - type: item
+        index: 5
+        groupId: d3p0zChEvnsZeyWo
+      - type: item
+        index: 6
+        groupId: WTItgWqImJGpIaNV
+      - index: 7
+        type: item
+        groupId: floixyiBi6T6i1vg
+      - type: item
+        index: 8
+        groupId: jCgJQd6YKhIyJ31d
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 2
+      initiative: 2
+      willpower: 4
+      intellect: 8
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 1
+      leadership: null
+      medicae: 6
+      persuasion: null
+      pilot: 2
+      psychicMastery: null
+      scholar: 5
+      stealth: null
+      survival: null
+      tech: 5
+      weaponSkill: 2
+    talents:
+      - id: 7f6YZ8n6oolZxXup
+        name: Binary Chatter
+      - id: VLWzaaUTYv6c3X2A
+        name: Conversational Cogitator
+      - id: vxsi953ncB48aylK
+        name: Rite of Pure Thought
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710702830031
+  modifiedTime: 1710703338958
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!QVhszyOu2MAvMpS0'

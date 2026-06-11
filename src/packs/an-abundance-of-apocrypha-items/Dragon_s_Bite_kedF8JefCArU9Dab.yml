@@ -1,0 +1,30 @@
+folder: R6DiCyrJrBf1MKBz
+name: Dragon’s Bite
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Fire Dragon aspect, Weapon Skill rating 5+
+  description: >-
+    <p>You and your squad are adept at bringing your weapons to bear even in the
+    closest confines. You and your squad may treat your Fusion Guns or any other
+    weapon with the
+    @UUID[JournalEntry.9arSrx8B2oOHRWrP.JournalEntryPage.obcnn370Zz0ZxUEv#melta]{MELTA}
+    keyword, as if they had the Pistol trait.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699835220162
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: kedF8JefCArU9Dab
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!kedF8JefCArU9Dab'

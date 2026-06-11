@@ -1,0 +1,42 @@
+folder: ZMoR03HW5eXVf9E1
+name: Companion (20)
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Leadership 2+
+  description: >-
+    <p>You’re accompanied by a loyal companion, a subordinate who will support
+    you and follow your</p><p>direction.</p><p>Your companion is a single Troop
+    level Threat, as described in Chapter 14 of the Wrath & Glory
+    Core</p><p>Rulebook. You may use the stats presented in the core rulebook or
+    another bestiary, or use the following</p><p>rules:</p><ul><li><p>Companion
+    Attributes are equal to 1 + Double Rank.</p></li><li><p>Companion Skills are
+    equal to 1 + Double Rank.</p></li><li><p>A companion’s Attributes and Skills
+    cannot be higher than your own.</p><p></p></li></ul><p>Whenever you are hit
+    by any form of attack, your companion may make a DN 5 Initiative Test as a
+    Reflexive Action. If they succeed, the attack hits the companion instead of
+    hitting you.</p><p>Slain companions may be replaced for free with a new one
+    the next time you visit a major encampment or city.</p><p>Your companion may
+    be an Elite Threat rather than a Troop Threat, but the cost of this Talent
+    increases to</p><p>20xp.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3VZojKukYpgKQLWF
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699802520118
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6fWtIDjswkiEgsGy
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1300000
+_key: '!items!6fWtIDjswkiEgsGy'

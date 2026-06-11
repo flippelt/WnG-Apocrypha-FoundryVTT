@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Flickering Assault
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Warp Spider aspect
+  description: >-
+    <p>You slip between reality and the Warp seamlessly, stepping out to strike
+    and then withdrawing to find a new target. When you, or any member of your
+    squad, makes a multi-attack as part of a melee attack, you may count your
+    Speed as double its normal value when determining if they can reach their
+    targets, and do not provoke Reflexive Attacks for leaving engagements.
+    Characters benefiting from this ability must be wearing Warp Spider Jump
+    Generators.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1700052726964
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: F2JtCw5Im8OKlEhY
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!F2JtCw5Im8OKlEhY'

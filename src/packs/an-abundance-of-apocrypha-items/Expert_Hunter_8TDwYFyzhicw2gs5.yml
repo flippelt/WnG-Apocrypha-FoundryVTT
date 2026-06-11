@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Expert Hunter
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Weapon Skill or Ballistic Skill rating 5+
+  description: >-
+    <p>Like the heroes of old, you are foe to the mightiest enemies on the
+    battlefield. When you make a melee attack, or a ranged attack at close
+    range, against a vehicle or a Monstrous Creature, add +3ED to the attack’s
+    damage and re-roll any ED which result in failures.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8TDwYFyzhicw2gs5
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699835311011
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 8TDwYFyzhicw2gs5
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!8TDwYFyzhicw2gs5'

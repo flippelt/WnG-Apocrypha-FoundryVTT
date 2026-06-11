@@ -1,0 +1,90 @@
+name: Exitus Shield-breaker Rounds
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+effects:
+  - icon: modules/wng-core/assets/icons/ammo/ammo.webp
+    name: Exitus Shield-breaker Rounds
+    _id: FhWIN5ekDVRGdxHR
+    changes:
+      - key: system.salvo
+        mode: 5
+        value: '0'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!MKbTqmFXjb0qannH.FhWIN5ekDVRGdxHR'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ammo.Item.MKbTqmFXjb0qannH
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Vindicare Assassins are often entrusted with
+    Shieldbreaker rounds for dealing with targets which are known to be
+    protected by force fields. These rounds contain a concentrated energy field
+    generator which overloads force field projectors and similar
+    defences.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The weapon gains the Careful and Warp Weapon traits, but
+    its Salvo rating is reduced to – for this shot. Enemies may not roll
+    Determination against this attack.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Single Shot</strong>: </span><span
+    class="fontstyle0">A reload of Exitus special ammunition consists of a
+    single round. Using this ammunition expends that round, and grants none of
+    the normal benefits a Salvo action.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 10
+  keywords: TEMPLUM VINDICARE
+  effect: ''
+  traits:
+    - name: warpWeapons
+      type: add
+    - name: careful
+      custom: true
+      display: Careful
+      description: >-
+        A Careful Weapon requires precision and care to wield and cannot easily
+        be used to make multiple rapid attacks. A Careful Weapon cannot be used
+        to make a MultiAttack.
+      type: add
+_id: MKbTqmFXjb0qannH
+folder: qnM5Rkyt2djZ275h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017422202
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1000000
+_key: '!items!MKbTqmFXjb0qannH'

@@ -1,0 +1,35 @@
+folder: R6DiCyrJrBf1MKBz
+name: Long-Ranged Fire
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Dark Reaper aspect, Ballistic Skill 7+
+  description: >-
+    <p>distance, and you are an excellent judge of just how to fire to catch
+    such far-flung foes. You, and any members of your squad, may ignore the DN
+    penalty for firing at long range. In addition, you and your squad may fire
+    ranged weapons at extreme range, which is any distance up to twice the
+    Medium range of the weapon (so a weapon with a Medium range of 48 has an
+    Extreme range of 96). Ranged attacks made at targets at extreme range suffer
+    a +2 DN penalty.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Kxk6tyEvDEMHGOG5
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700053072338
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Kxk6tyEvDEMHGOG5
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Kxk6tyEvDEMHGOG5'

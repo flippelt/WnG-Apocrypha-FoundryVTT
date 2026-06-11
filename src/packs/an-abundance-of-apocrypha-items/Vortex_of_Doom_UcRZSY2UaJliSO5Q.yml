@@ -1,0 +1,83 @@
+name: Vortex of Doom
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.UcRZSY2UaJliSO5Q
+system:
+  dn: '8'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The psyker tears a rift between realspace and the Warp, condemning his
+    foes to oblivion. The power affects all creatures in a Blast (6), dragging
+    them into a howling vortex. Every creature within the area suffers 1d3
+    Mortal Wounds.</p>
+  effect: ''
+  cost: 30
+  activation: full
+  duration: 1 Round
+  range: 25m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: GREY KNIGHTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound per target.
+      cost: 2
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+    - description: Increase the area of effect to Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: Time to activate reduced to an Action.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: UcRZSY2UaJliSO5Q
+folder: KxBz8XrM98q2ZcAs
+sort: 187500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959193
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!UcRZSY2UaJliSO5Q'

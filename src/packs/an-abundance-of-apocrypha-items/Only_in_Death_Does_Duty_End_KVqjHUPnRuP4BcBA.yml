@@ -1,0 +1,36 @@
+folder: ZMoR03HW5eXVf9E1
+name: Only in Death Does Duty End
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: >-
+    Adeptus Astartes or Primaris Astartes or Custodian species, Toughness rating
+    5+, Willpower rating 4+ 
+  description: >-
+    <p>You will not allow so trivial a thing as a mortal wound interfere with
+    delivering death to the enemies of the Imperium.<br>When you are Dying, you
+    may continue to act normally, though you continue to suffer Traumatic Wounds
+    and additional Wrath Dice as normal for a Dying character. If ever you roll
+    a 6 on all your Wrath dice while Dying, you immediately regain 1 Wound.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.CZcTmCLVD0etjeXX
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664023467206
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: KVqjHUPnRuP4BcBA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 4100000
+_key: '!items!KVqjHUPnRuP4BcBA'

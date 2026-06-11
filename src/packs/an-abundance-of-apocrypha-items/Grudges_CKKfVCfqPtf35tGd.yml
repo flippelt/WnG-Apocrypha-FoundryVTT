@@ -1,0 +1,117 @@
+name: Grudges
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: AUDIFkuCP9UX2shL
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Grudges
+    tint: null
+    origin: null
+    name: Grudges
+    description: ''
+    statuses: []
+    _key: '!items.effects!CKKfVCfqPtf35tGd.AUDIFkuCP9UX2shL'
+  - _id: lLCm02qB5TfJ3dxR
+    changes:
+      - key: difficulty.bonus
+        mode: 7
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              +2DN penalty on all non-hostile Interaction skill tests vs.
+              targets possessing the ORK or CHAOS keywords.
+    tint: null
+    origin: null
+    name: Grudges
+    description: ''
+    statuses: []
+    _key: '!items.effects!CKKfVCfqPtf35tGd.lLCm02qB5TfJ3dxR'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core: {}
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>+1d to all melee attacks against characters possessing the
+    @Item[Vf7SDGLw2rcDMTda]{ORK} or @Item[TujuT6TkhTSvZJLF]{CHAOS} keywords.
+    +2DN penalty on all non-hostile Interaction skill tests vs. targets
+    possessing the @Item[Vf7SDGLw2rcDMTda]{ORK} or
+    @Item[TujuT6TkhTSvZJLF]{CHAOS} keywords.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057037
+  modifiedTime: 1710190653641
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: CKKfVCfqPtf35tGd
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!CKKfVCfqPtf35tGd'

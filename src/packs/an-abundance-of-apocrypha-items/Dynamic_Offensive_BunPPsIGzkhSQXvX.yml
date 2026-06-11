@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Dynamic Offensive
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: FIRE CASTE keyword
+  description: >-
+    <p>Skilled battlesuit pilots can surge into battle with a blaze of
+    fire.<br>When you are operating a BATTLESUIT with the JUMP JETS keyword, and
+    you perform the Run or Sprint action, increase your suit&rsquo;s flying
+    speed by +Rank. In addition, you ignore the DN increase for firing an
+    Assault weapon while sprinting.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663879861005
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: BunPPsIGzkhSQXvX
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!BunPPsIGzkhSQXvX'

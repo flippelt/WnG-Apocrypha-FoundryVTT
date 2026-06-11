@@ -1,0 +1,24 @@
+folder: EJ6lK67pJ1JqvFo2
+name: ROBOT
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6cCDAkh4x1DSOt5f
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699475846325
+  modifiedTime: 1710521428805
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6cCDAkh4x1DSOt5f
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 106250
+_key: '!items!6cCDAkh4x1DSOt5f'

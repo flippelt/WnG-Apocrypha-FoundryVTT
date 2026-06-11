@@ -1,0 +1,59 @@
+folder: uVCzkHxBngQT0TMo
+name: THE POISONED TONGUE
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: ''
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    changes:
+      - key: system.skills.stealth.bonus
+        mode: 6
+        value: '@advances.rank'
+      - key: ed.bonus
+        mode: 6
+        value: '@advances.rank * 2'
+    _id: I0bU573V4fxO6B5j
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: The Poisoned Tongue(Stealth)
+          '1':
+            script: ''
+            description: +Rank ED to any damage rolls with Fleshbane weapons
+            hide: ''
+    name: The Poisoned Tongue
+    description: ''
+    statuses: []
+    _key: '!items.effects!PYcQ0eQQdAis0GPe.I0bU573V4fxO6B5j'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.PYcQ0eQQdAis0GPe
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710531976336
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: PYcQ0eQQdAis0GPe
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!PYcQ0eQQdAis0GPe'

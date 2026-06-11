@@ -1,0 +1,16 @@
+name: Ammo
+type: Item
+color: null
+folder: RCmWVrLDFIwxdSe9
+_id: qnM5Rkyt2djZ275h
+sorting: a
+sort: 700000
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710023148467
+  modifiedTime: 1710451653357
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!qnM5Rkyt2djZ275h'

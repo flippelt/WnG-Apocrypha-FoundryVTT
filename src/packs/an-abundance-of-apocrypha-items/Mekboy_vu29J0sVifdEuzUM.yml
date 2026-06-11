@@ -1,0 +1,152 @@
+folder: enJYSEZtnOYeu8p3
+name: Mekboy
+type: archetype
+_id: vu29J0sVifdEuzUM
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Ork
+    id: Compendium.wng-core.items.Item.HkICqcWbRIsDHtMy
+  faction:
+    name: Ork
+    id: Compendium.wng-core.items.Item.BkBpSmTLEsh1tqCG
+  influence: 1
+  cost: 52
+  keywords:
+    - ORK
+    - '[CLAN]'
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 3
+    weaponSkill: null
+  ability:
+    name: Fix it Proppa
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0RV5iy5Tc8r5i6NQ
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Kustom Mega- Blasta
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.xf6WcERGFXPKQyKI
+      type: item
+      diff: {}
+      index: 1
+      groupId: pbaB4N4HH3a913vL
+    - name: Choppa
+      id: Compendium.wng-core.items.Item.zCg3aku6t9knvNIe
+      type: item
+      diff: {}
+      index: 2
+      groupId: a47DcLXOtnAJhaGD
+    - name: Stikkbomb
+      id: Compendium.wng-core.items.Item.L7E0G56RBAn4Fmlv
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 3
+      groupId: iRpM398IqEKJ35pZ
+    - name: Ork Flak
+      id: Compendium.wng-core.items.Item.YArm2VCihbVlLurI
+      type: item
+      diff: {}
+      index: 4
+      groupId: awFpImuDx78lomBk
+    - name: Mek Toolz
+      id: Compendium.wng-core.items.Item.J7HU9y7hPiDkJvky
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: pbaB4N4HH3a913vL
+      - index: 2
+        type: item
+        groupId: a47DcLXOtnAJhaGD
+      - index: 3
+        type: item
+        groupId: iRpM398IqEKJ35pZ
+      - index: 4
+        type: item
+        groupId: awFpImuDx78lomBk
+      - index: 5
+        type: item
+        groupId: oQxrE0UajBpuiPQT
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 4
+      initiative: 3
+      willpower: 1
+      intellect: 4
+      fellowship: 1
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 2
+      cunning: 1
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 1
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: 4
+      weaponSkill: 3
+    talents:
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: P9uTwYByV17eTfzf
+        name: More Dakka!
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710609664358
+  modifiedTime: 1710609966940
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!vu29J0sVifdEuzUM'

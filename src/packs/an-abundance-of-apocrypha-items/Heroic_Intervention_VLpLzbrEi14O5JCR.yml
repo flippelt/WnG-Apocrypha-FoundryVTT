@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Heroic Intervention
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ''
+  description: >-
+    <p>When an enemy takes the Charge action and concludes their move within 6
+    metres of you, you may spend 1 Glory as a Reflexive Action to move up to
+    your Speed towards that enemy to engage them and make a melee attack before
+    the enemy makes their attack. You are<br>considered to be charging for the
+    purposes of your attack.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kHWpqd1hcyjrrBlB
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663880600557
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: VLpLzbrEi14O5JCR
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 7300000
+_key: '!items!VLpLzbrEi14O5JCR'

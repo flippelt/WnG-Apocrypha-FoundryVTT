@@ -1,0 +1,56 @@
+folder: ZMoR03HW5eXVf9E1
+name: Ded ‘Ard!
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 40
+  requirements: Ork species, Toughness rating 5+
+  description: >-
+    <p>Injuries that would slay even other Orks are mere flesh wounds to
+    you.<br>Your Resilience is increased by +Rank, and you add +Rank to the
+    number of Traumatic Injuries you can suffer before dying.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: c7KpU8ur92ZZYNrU
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: Ded ‘Ard!
+    description: ''
+    statuses: []
+    _key: '!items.effects!m98WKJZOpDIcgU3B.c7KpU8ur92ZZYNrU'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.m98WKJZOpDIcgU3B
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663879684283
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: m98WKJZOpDIcgU3B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 9000000
+_key: '!items!m98WKJZOpDIcgU3B'

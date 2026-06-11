@@ -1,0 +1,68 @@
+name: Marksman Bolt Carbine
+type: weapon
+img: modules/wng-core/assets/icons/weapons/bolt-rifle.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Employed mainly by Primaris Infiltrators, the Marksman Bolt Carbine is
+    designed to lay down short, precise bursts of fire.</p>
+
+    <p>Marksman Bolt Carbines are fitted with a
+    @UUID[Item.SWEx4ZoVCxd0oz5O]{Monoscope} as standard.</p>
+  value: 6
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: brutal
+    - name: rapidFire
+      rating: 1
+    - name: sniper
+      rating: 1
+  upgrades: []
+effects: []
+flags:
+  scene-packer:
+    hash: eda239ed2dc23b918f1030faa40ea6cfefae50b6
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665426191554
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: SxDUeBloe62mZ5Hc
+sort: 1300000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!SxDUeBloe62mZ5Hc'

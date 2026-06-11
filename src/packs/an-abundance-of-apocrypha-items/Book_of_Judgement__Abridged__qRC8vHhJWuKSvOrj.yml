@@ -1,0 +1,47 @@
+name: Book of Judgement (Abridged)
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.qRC8vHhJWuKSvOrj
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">The Book of Judgement is the legal code of the
+    Imperium, enforced by the Adeptus Arbites. It has been painstakingly
+    collected over centuries and has long ago spread beyond the confines of a
+    single literal volume as it embodies every decree ever passed by the High
+    Lords of Terra. Its most ancient decrees are written upon parchments of
+    human skin, inscribed in unknown tongues by nameless functionaries of a
+    forgotten age.</span></p><p></p><p><span class="fontstyle0">Individual
+    Arbitrators routinely carry around concise, abridged volumes. These are not
+    binding legal texts, but serve as a symbol of the Arbitrator’s duty, and it
+    is common to read passages from it during an arrest, interrogation, or when
+    passing judgement.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 2
+  keywords: ADEPTUS ARBITES
+  effect: ''
+_id: qRC8vHhJWuKSvOrj
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937567
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!qRC8vHhJWuKSvOrj'

@@ -1,0 +1,63 @@
+folder: ZMoR03HW5eXVf9E1
+name: Fallen Angel
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: HERETIC ASTARTES keyword, DARK ANGELS keyword
+  description: >-
+    <p>You broke faith with The Lion of Caliban during the Imperium&rsquo;s
+    darkest hour. Or perhaps he broke faith with you.<br>Due to your ancient
+    origins, you gain +Rank to Scholar tests regarding historical events. You
+    gain +2 bonus dice on any melee attack made against characters with the
+    @UUID[Item.9qhGskkS7yWq36lv]{DARK ANGELS}keyword, and they gain +2 dice on
+    melee attacks against you. You gain the FALLEN keyword.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.skills.scholar.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: aNyJPkxibvmocPZK
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Fallen Angel (Scholar Bonus)
+    name: Fallen Angel
+    description: ''
+    statuses: []
+    _key: '!items.effects!hrCkKZ9lK0czkxdp.aNyJPkxibvmocPZK'
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663880152532
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: hrCkKZ9lK0czkxdp
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!hrCkKZ9lK0czkxdp'

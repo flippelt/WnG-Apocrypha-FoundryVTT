@@ -1,0 +1,74 @@
+name: Liquifier Gun
+type: weapon
+img: modules/wng-core/assets/icons/weapons/fusion-gun.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-ranged.Item.WS0qZaM5t77xgt4V
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The liquifier gun fires a spray of incredibly
+    potent acid that eats through anything it touches. Wracks, grotesques, and
+    other minions of the Haemonculi covens often have liquifier guns built into
+    their bodies so that they can fire out great gouts of their own acidic
+    blood.</span></p><p><span class="fontstyle2"><strong>Special</strong>:
+    </span><span class="fontstyle0">Unlike other weapons with the Flamer trait,
+    the liquifier gun has Inflict (Poisoned 4) instead of Inflict (On
+    Fire).</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: EXOTIC, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: agonising
+    - name: assault
+    - name: flamer
+  upgrades: []
+_id: WS0qZaM5t77xgt4V
+folder: hvQbqAxjU9zt0gWD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927211829
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!WS0qZaM5t77xgt4V'

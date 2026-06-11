@@ -1,0 +1,40 @@
+folder: ZMoR03HW5eXVf9E1
+name: Tormented Manifestation
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 5
+  requirements: Human species, PSYKER keyword
+  description: >-
+    <p>Your powers are a curse, resulting in continual agony.</p><p>Select a
+    single psychic discipline. You may purchase powers from that discipline at
+    half their normal cost, rounded up. Whenever you attempt to use a psychic
+    power from that discipline, you suffer Shock equal to the power’s DN. You
+    may reduce the Shock suffered by twice your Rank but suffer one of the
+    following conditions instead:
+    @UUID[JournalEntry.XsuX7aOz9hoNlntI]{Bleeding},
+    @UUID[JournalEntry.vnjBRz2DsNuGlaNs]{Blinded},
+    @UUID[JournalEntry.GgSWH9U694ojtUcN]{Fear},
+    @UUID[JournalEntry.d0nSM7VoOWaFXXmv]{On Fire},
+    @UUID[JournalEntry.BPgzsg94UgmFsrTK]{Poisoned (3)},
+    @UUID[JournalEntry.CXoXx6h9FoFqp013]{Staggered}.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8G5fzxmwpkrRicTK
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699806450584
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 8G5fzxmwpkrRicTK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 2000000
+_key: '!items!8G5fzxmwpkrRicTK'

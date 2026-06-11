@@ -1,0 +1,61 @@
+folder: ZMoR03HW5eXVf9E1
+name: Alpha-Level Psyker
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 60
+  requirements: >-
+    Human, Adeptus Astartes, or Primaris Astartes species, PSYKER keyword, Tier
+    5+
+  description: >-
+    <p>Your raw power is beyond that of most psykers encountered by the
+    Imperium, but such power is incredibly unstable.</p><p>When you successfully
+    use a psychic power at the Transcendent power level, you may add up to
+    Double Rank additional Exalted Icons to apply to the power’s Potency
+    options. However, you add +30 to any roll on the Perils of the Warp
+    table.</p><p>You gain 3d3 Corruption when you take this talent. You may not
+    select the Beta-level Psyker or Gamma-level Psyker talents.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@adavances.rank*2'
+        priority: null
+    name: Alpha-Level Psyker
+    _id: BSreQrxi8qwY6gB1
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!8QTDtpnqmLNFthCe.BSreQrxi8qwY6gB1'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8QTDtpnqmLNFthCe
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699801813204
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 8QTDtpnqmLNFthCe
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 2300000
+_key: '!items!8QTDtpnqmLNFthCe'

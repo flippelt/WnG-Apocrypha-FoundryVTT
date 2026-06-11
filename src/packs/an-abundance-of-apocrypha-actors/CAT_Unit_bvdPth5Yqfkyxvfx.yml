@@ -1,0 +1,648 @@
+folder: 9sw4Sr9YK6UbygF5
+name: CAT Unit
+type: threat
+_id: bvdPth5Yqfkyxvfx
+img: modules/wng-core/assets/tokens/generic.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 0
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 0
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: tiny
+    speed: 8
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: T
+      second: T
+      third: T
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><span class="fontstyle0"><strong>Value</strong>: </span><span
+    class="fontstyle2">4 Uncommon</span> </p><p><span
+    class="fontstyle0">Cyber-Altered Task units ("CATs") are mechanical drones
+    designed to perform simple tasks, like inorganic servitors. Programmed with
+    a set of very simple instructions, they are occasionally used by the Adeptus
+    Mechanicus, the Imperial Navy, and even some chapters of the Adeptus
+    Astartes as remote probes and retrieval units. Though they do not possess
+    any biological components, their extremely limited programming prevents them
+    from being classified as examples of Abominable
+    Intelligence.</span></p><p></p><p><span class="fontstyle0">The drones
+    utilise a simple short-ranged Vox transceiver which receives instructions
+    from the user and relays data and pict-captures back to the user’s control
+    unit. The drone’s ability to traverse environments independently is limited
+    and relies more on simple trial-and-error than problem-solving
+    ability.</span></p><p></p><p><span class="fontstyle0">CATs have been in
+    service across the Imperium for millennia, though their utility is limited
+    compared to even a simple monotask servitor. Nevertheless, constructing CATs
+    is a popular activity for Mechanicus Adepts and Techmarines, who claim that
+    the activity is a useful meditative exercise, and CATs are frequently
+    underfoot at any shrine to the Omnissiah, performing simple tasks for their
+    masters and creators. In fact, some suspicious members of the Inquisition
+    have observed that their creators seem to treat their CATs almost like pets,
+    though the Mechanicum claims to be above such emotional attachments.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+prototypeToken:
+  name: CAT Unit
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - _id: RK0gvpNDFVBv5iP8
+    name: IMPERIUM
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 3500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ
+    system:
+      description: >-
+        <p>The vast interstellar empire of Humanity that spans over a million
+        worlds, led by the Emperor from Holy Terra. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656027
+      modifiedTime: 1710359032174
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.RK0gvpNDFVBv5iP8'
+  - _id: C5sJyg4RRLXKdffa
+    name: ADEPTUS MECHANICUS
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 1800000
+      core:
+        sourceId: Compendium.wng-core.items.Item.1TbplwZV3WYZkQEk
+    system:
+      description: >-
+        <p>Adherents to the Cult Mechanicus, the Mars-based cult of the machine
+        that supply the Imperium with its advanced technology and guard the
+        sacred knowledge of its workings. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656020
+      modifiedTime: 1710359044811
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.C5sJyg4RRLXKdffa'
+  - _id: c2DdxnqYZmDAXjno
+    name: NAVIS IMPERIALIS
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 4300000
+      core:
+        sourceId: Compendium.wng-core.items.Item.CLNosYIpUPPODQ15
+    system:
+      description: >-
+        <p>The Imperial organisation responsible for the operation and
+        application of voidships. The Navis Imperialis, or Imperial Navy, ferry
+        the Astra Militarum from one of a million battles to another, and engage
+        in void combat with the many spacefaring enemies of the Imperium. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656022
+      modifiedTime: 1710359054699
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.c2DdxnqYZmDAXjno'
+  - _id: KrV1KPwDyWWipKPO
+    name: ADEPTUS ASTARTES
+    type: keyword
+    img: modules/wng-core/assets/factions/adeptus-astartes.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 150000
+      core:
+        sourceId: Compendium.wng-core.items.Item.KiNbJ09wqnmccwb0
+    system:
+      description: >-
+        <p>The Space Marines: genetically enhanced transhuman super soldiers who
+        know no fear.&nbsp;</p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656023
+      modifiedTime: 1710359069211
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.KrV1KPwDyWWipKPO'
+  - folder: jNKQtYmfDibEq8RR
+    name: ROBOT
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    system:
+      description: ''
+    effects: []
+    flags:
+      core:
+        sourceId: >-
+          Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6cCDAkh4x1DSOt5f
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1699475846325
+      modifiedTime: 1710359077127
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _id: 1obtksuYPRLnUtJa
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    sort: 0
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.1obtksuYPRLnUtJa'
+  - name: Iron Soul
+    type: talent
+    _id: esmIQsiSXGyLkqib
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower is unaffected by abilities that target the mind, and
+        never needs to make a Resolve test to continue fighting.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.8O7OfESDO1thpEae
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359147151
+      modifiedTime: 1710359164963
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.esmIQsiSXGyLkqib'
+  - name: Mechanical Construction
+    type: armour
+    _id: TUyqBZ2b8Z1TgBNT
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 3
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359172643
+      modifiedTime: 1710359191043
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.TUyqBZ2b8Z1TgBNT'
+  - name: Simple Automata
+    type: talent
+    _id: P8vCEHisMVtJSTvl
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Follower can only perform simple actions—navigating an
+        environment, picking up or dropping off small objects—without direct
+        instruction from its operator.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.emeL0yft0WP4SktQ
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359238974
+      modifiedTime: 1710359251091
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.P8vCEHisMVtJSTvl'
+  - name: Surveillance
+    type: talent
+    _id: f2DEcTa6ZRZ9BMCL
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Follower sends a constant feed of everything it sees and hears
+        back to its operator, who may view them on a control device, or via
+        armour autosenses or a data-tether.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.Gj4yd5hIfIA8XWeg
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359274675
+      modifiedTime: 1710359289016
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.f2DEcTa6ZRZ9BMCL'
+  - name: Tracked
+    type: talent
+    _id: CbXZa2Ja8hlPTNaW
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower moves on a set of segmented tracks. It cannot jump,
+        climb, or traverse any obstacle taller than half its height.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.o2HJVCs07EYuj4sS
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359304205
+      modifiedTime: 1710359317044
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bvdPth5Yqfkyxvfx.CbXZa2Ja8hlPTNaW'
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710358997789
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!actors!bvdPth5Yqfkyxvfx'

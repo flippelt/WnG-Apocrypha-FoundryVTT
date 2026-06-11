@@ -1,0 +1,164 @@
+folder: lEqVRehKQvTYGEoK
+name: Haemonculus
+type: archetype
+_id: zYA1FJIXVfLjEt9o
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 0
+  cost: 240
+  keywords:
+    - AELDARI
+    - DRUKHARI
+    - HAEMACOLYTE
+    - '[COVEN]'
+  attributes:
+    strength: 4
+    toughness: 6
+    agility: 3
+    initiative: null
+    willpower: 3
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: 2
+    deception: null
+    insight: null
+    intimidation: 3
+    investigation: null
+    leadership: null
+    medicae: 5
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 4
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 1
+  ability:
+    name: Bespoke Anatomy
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VnK5kZrt2vq0XcgG
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Gnarlskin
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jwhZEz55iwDJQeNa
+      type: item
+      diff: {}
+      index: 1
+      groupId: 9SC4dmK1aqkYp2C2
+    - name: Stinger Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bMZJrSIWten0vqmN
+      type: item
+      diff: {}
+      index: 2
+      groupId: Qg6LKqruQnpEhdMg
+    - name: Scissorhand
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3W5R1acukd587ynP
+      type: item
+      diff: {}
+      index: 3
+      groupId: MFecOIecyNA3rpZO
+    - name: Haemonculus’ Tools
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kN9ui24bNjD8DseD
+      type: item
+      diff: {}
+      index: 4
+      groupId: NiCemhSPtEu03xcb
+    - type: generic
+      name: >-
+        any three augmetics with the DRUKHARI keyword and a rarity of up to Very
+        Rare.
+      filters:
+        - test: eq
+          property: Keyword
+          value: DRUKHARI
+        - test: le
+          property: Rarity
+          value: Very Rare
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 9SC4dmK1aqkYp2C2
+      - index: 2
+        type: item
+        groupId: Qg6LKqruQnpEhdMg
+      - index: 3
+        type: item
+        groupId: MFecOIecyNA3rpZO
+      - index: 4
+        type: item
+        groupId: NiCemhSPtEu03xcb
+      - type: item
+        index: 5
+        groupId: DgvfT4rAtp1V9P3L
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 7
+      agility: 4
+      initiative: 4
+      willpower: 5
+      intellect: 6
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 2
+      cunning: 3
+      deception: 2
+      insight: null
+      intimidation: 4
+      investigation: null
+      leadership: null
+      medicae: 6
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 5
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: 4
+    talents:
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: 5HchXpu60DlodyV8
+        name: Disturbing Voice
+      - id: l6ooX0I3lk8DuiBT
+        name: Anatomical Scourge
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710780781799
+  modifiedTime: 1710781001924
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!zYA1FJIXVfLjEt9o'

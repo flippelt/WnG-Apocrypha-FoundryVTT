@@ -1,0 +1,177 @@
+name: Guardian
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 493750
+pages:
+  - name: 'Figure: Guardian'
+    type: image
+    src: modules/wng-apocrypha/assets/images/archetypes/Guardians_Biel-Tan.webp
+    title:
+      show: false
+      level: 1
+    _id: pVI4N11GpXTHW5i6
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!HjDsjgb8Bf49M0Os.pVI4N11GpXTHW5i6'
+  - name: Corsair
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <blockquote><p>When there is no other way, the perilous path is the only
+        road to salvation</p><p style="text-align:right"><em>—Farseer Eldrad
+        Ulthuan</em></p></blockquote><p><strong>You are a citizen of one of the
+        Craftworlds of the Aeldari, called upon to fight and risk your life in
+        the name of protecting the fate of your species. Such a task is a grim
+        necessity, and one you face with solemnity.</strong></p><p>With their
+        population in decline and their Craftworlds beset on all sides by
+        merciless enemies, Guardians form an essential part of the Eldar
+        military assets. They are primarily a defensive force, guarding their
+        Craftworlds from direct attacks, but will also accompany Aspect Warriors
+        on offensive operations. Guardians are raised on an as-needed basis, and
+        each unit will be led by an Eldar who has already walked the Path of the
+        Warrior. These former Aspect Warriors are effectively an officer corps
+        for the Guardians, and while they cannot fully revive their previous
+        battle skills, they nevertheless retain the experience required to
+        organize and lead the Guardians into battle. Other Eldar who have yet to
+        travel the Warrior Path, or who were forced from it for various reasons,
+        also relish the opportunity to go to war as Guardians.</p><div
+        class="journal-image centered"><img
+        src="modules/wng-apocrypha/assets/images/archetypes/Guardians_Biel-Tan.webp"
+        width="310" height="408" /></div><table
+        style="width:98.9228%;height:234px" border="1"><tbody><tr
+        class="table-header aeldari" style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8">GUARDIAN</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
+        colspan="2">TIER</td><td
+        style="width:8.3%;height:16px;text-align:center">1</td><td
+        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
+        colspan="2">SPECIES</td><td
+        style="width:11.7268%;height:16px;text-align:center">Aeldari</td><td
+        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
+        Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center">20</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>KEYWORDS</strong>:
+        @UUID[Item.9ODd4iU4wN399EqI]{AELDARI},
+        @UUID[Item.mwUwIIpDYKgOcXgN]{ASURYANI},
+        @UUID[Item.n6YJvYT99ukt2Fxu]{[CRAFTWORLD]}</td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px"
+        colspan="8"><strong>ATTRIBUTE</strong>: Agility 3, Willpower
+        2</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
+        Ballistic Skill 2 or Weapon Skill 2</td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
+        ABILITY</strong>: @UUID[Item.4mSLwric9W4njgbq]{Defenders}</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>WARGEAR</strong>: Eldar Mesh Armour,
+        @UUID[Item.FgFdJfFR8gDq4LYi]{Shuriken Catapult},
+        @UUID[Item.3X5FaaFcfNmaEod4]{Mono Knife},
+        @UUID[Item.aIEl2xpESvkqyVEG]{Spirit Stone}</td></tr><tr
+        style="height:16px"><td class="table-header aeldari"
+        style="width:51.1291%;height:16px;text-align:left"
+        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">52</td></tr><tr
+        style="font-variant:small-caps;height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
+        style="width:12.5%;height:16px;text-align:center">S</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">T</td><td
+        style="width:5.17241%;height:16px;text-align:center">A</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">I</td><td
+        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">Int</td><td
+        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
+        style="width:12.5%;height:16px;text-align:center">2</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">2</td><td
+        style="width:5.17241%;height:16px;text-align:center">4</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">4</td><td
+        style="width:11.7268%;height:16px;text-align:center">3</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">2</td><td
+        style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr
+        style="height:16px"><td class="table-header aeldari"
+        style="width:51.1291%;height:16px;text-align:left"
+        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">18</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%" colspan="8">Athletics 2, Awareness 1,
+        Ballistic Skill 2, Pilot 1, Stealth 1, Weapon Skill 2</td></tr><tr
+        style="height:16px"><td class="table-header aeldari"
+        style="width:92.7291%;height:16px" colspan="8">SUGGESTED
+        TALENTS</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%"
+        colspan="8">@UUID[Item.zrCkrWGkMDPK1kOg]{Battle
+        Focus},@UUID[Item.kRcjPxcdNr7VZqHO]{Strike and
+        Fade},@UUID[Item.6tbuREMWNAGrzXlO]{Mastered
+        Paths}</td></tr></tbody></table>
+      markdown: ''
+    _id: ZnpC4rZp4Nob1Eli
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!HjDsjgb8Bf49M0Os.ZnpC4rZp4Nob1Eli'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664302602426
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: HjDsjgb8Bf49M0Os
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!HjDsjgb8Bf49M0Os'
+categories: []

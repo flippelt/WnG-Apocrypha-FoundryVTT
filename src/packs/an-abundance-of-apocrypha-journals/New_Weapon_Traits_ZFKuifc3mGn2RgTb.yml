@@ -1,0 +1,102 @@
+folder: nDYleZkn0ESlN5hn
+name: New Weapon Traits
+pages:
+  - sort: 100000
+    name: Weapon Traits
+    type: text
+    _id: anBLJX16REDKapOs
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4>Barrage</h4><p>The weapon fires salvoes of explosive ammunition that
+        scatter over a wide area. When this weapon makes a Salvo attack,
+        increase the weapon’s Blast rating by the weapon’s Salvo
+        value.</p><h4>Cacophony</h4><p>Cacophony weapons use destructive
+        wavelengths of sound to tear targets apart, and it is nigh-impossible to
+        hide from them. Attacks with a Cacophony weapon ignore cover bonuses to
+        defence.</p><h4>Careful</h4><p>A Careful Weapon requires precision and
+        care to wield and cannot easily be used to make multiple rapid attacks.
+        A Careful Weapon cannot be used to make a
+        Multi-Attack.</p><h4>Corrupting</h4><p>This weapon directs the
+        corrupting power of the Warp. For each Exalted Icon rolled on the
+        weapon’s damage roll, the target gains 1
+        Corruption.</p><h4>Grav</h4><p>Grav weaponry turn their targets’ own
+        mass against them. The weapon gains additional ED equal to half the
+        target’s Resilience, and the target is Staggered until the end of its
+        next turn if they suffer any wounds or shock from the
+        attack.</p><h4>Haywire (X)</h4><p>Haywire weapons generate destructive
+        electromagnetic pulses. When attacking a vehicle or mechanical foe, roll
+        a number of d6 equal to the trait’s rating. Each Icon inflicts a Mortal
+        Wound.</p><h4>Indirect</h4><p>The weapon can be fired at enemies which
+        are not visible to the bearer, adding +2 to the DN. Enemies attacked
+        indirectly do not receive any bonus to Defence for being in
+        cover.</p><h4>Luminagen</h4><p>Phosphor weapons illuminate their targets
+        with a searing light. A character hit by a Luminagen weapon cannot
+        benefit from being in cover until the start of their next
+        turn.</p><h4>Mortal (X)</h4><p>The weapon deals horrific, deadly wounds
+        that are nigh-impossible to withstand. For each Exalted Icon you roll on
+        the weapon’s ED, you inflict X Mortal Wounds, in addition to any damage
+        the attack inflicts.</p><h4>Nemesis</h4><p>Nemesis weapons are created
+        to be bane to daemons. @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMONS }may not
+        roll Determination to negate wounds or mortal wounds inflicted by
+        Nemesis weapons.</p><h4>Overwhelming</h4><p>The weapon can batter past
+        even the most proficient defence. When you make an attack with an
+        Overwhelming weapon, the target does not benefit from the Parry trait of
+        any of their weapons or the Defence bonus from
+        Shields.</p><h4>Paired</h4><p>The weapon is designed to be used in a
+        pair—two weapons of that type, one in each hand. When a character makes
+        an attack while wielding both weapons in a pair, either count it as a
+        Simultaneous Strike (as per the talent), or reduce the DN of a
+        multiattack by 2. If you have the Signature Weapon talent, you may apply
+        it to both weapons in a pair.</p><h4>Poisonous</h4><p>The weapon
+        delivers a virulent toxin that inflicts grievous harm with only the
+        slightest scratch. The weapon’s base damage is increased by the target’s
+        Toughness. This has no effect against
+        Vehicles.</p><h4>Reaping</h4><p>The weapon is intended to scythe through
+        groups of foes. When you make a Multi-Attack with this weapon, the DN
+        increases by +1 per additional target, rather than
+        +2.</p><h4>Tearing</h4><p>The weapon rips and tears at their enemies,
+        inflicting horrific wounds. When you roll for damage with this weapon,
+        you may re-roll any number of ED.</p><h4>Tesla</h4><p>The weapon fires
+        arcs of crackling lightning, leaping from foe to foe. When you shift
+        Exalted Icons from a successful attack, you may shift Exalted Icons to
+        hit enemies within 3m of an existing target as well as the main target,
+        using the weapon’s normal damage and AP. Each Exalted Icon shifted may
+        only be used to hit additional enemies or to gain +ED, not
+        both.</p><p></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ZFKuifc3mGn2RgTb.anBLJX16REDKapOs'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664024464297
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: ZFKuifc3mGn2RgTb
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!ZFKuifc3mGn2RgTb'
+categories: []

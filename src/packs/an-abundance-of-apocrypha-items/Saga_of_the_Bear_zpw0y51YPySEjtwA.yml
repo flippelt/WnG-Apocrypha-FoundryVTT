@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Saga of the Bear
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: SPACE WOLVES keyword, Toughness rating 6+
+  description: >-
+    <p>You are as massive and unyielding as the mountains of Asaheim.<br>When
+    you roll Determination, you may spend Glory to reduce the amount of Shock
+    suffered. Each point of Glory spent reduces the amount of Shock suffered by
+    2.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zpw0y51YPySEjtwA
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127473260
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: zpw0y51YPySEjtwA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 11300000
+_key: '!items!zpw0y51YPySEjtwA'

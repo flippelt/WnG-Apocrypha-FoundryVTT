@@ -1,0 +1,60 @@
+name: Navis Hatchet
+type: weapon
+_id: 6ZFK1e96mBxkifjo
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>These heavy, mono-edged hatchets are a convenient tool for clearing light
+    obstacles and enemies alike at close quarters. They’re a favoured hand
+    weapon of the Imperial Navy’s elite breacher teams, giving them considerable
+    impact when the foe is too close even for shotguns.</p>
+  value: 3
+  keywords: BLADE, IMPERIUM, NAVIS IMPERIALS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: rending
+      rating: 1
+  upgrades: []
+effects: []
+folder: UKW9fc5N5PhetyLi
+sort: 100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709829590005
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!6ZFK1e96mBxkifjo'

@@ -1,0 +1,61 @@
+name: Order of the Holy Word
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects:
+  - icon: modules/wng-core/assets/factions/adepta-sororitas.svg
+    name: Voice of the Church
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    _id: JAgw2VN4ke7FfqmS
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Voice of the Church: You gain +Rank bonus dice on all Persuasion
+              tests.
+            hide: ''
+    tint: null
+    _key: '!items.effects!GKqOfCCX5rpnRfqZ.JAgw2VN4ke7FfqmS'
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iQRXzTH31bkqCYDS
+system:
+  description: >-
+    <p>The Order of the Holy Word are charged with ensuring that every
+    proclamation and dictum issued by the Church can be understood by people
+    across the Imperium, no matter what form of Gothic they
+    speak.</p><p><strong>Voice of the Church: </strong>You gain +Rank bonus dice
+    on all Persuasion tests.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1710525103637
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: GKqOfCCX5rpnRfqZ
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!GKqOfCCX5rpnRfqZ'

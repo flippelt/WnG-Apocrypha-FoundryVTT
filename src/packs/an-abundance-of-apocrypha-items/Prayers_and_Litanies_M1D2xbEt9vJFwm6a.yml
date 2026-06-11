@@ -1,0 +1,16 @@
+name: Prayers and Litanies
+sorting: a
+folder: null
+type: Item
+_id: M1D2xbEt9vJFwm6a
+sort: 100000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710967406379
+  modifiedTime: 1711748031424
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!M1D2xbEt9vJFwm6a'

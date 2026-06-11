@@ -1,0 +1,65 @@
+name: Power Lance
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A Power Lance, also know as Power Spear or Power Glaive, is a special
+    type of power weapon, a power blade mounted on the end of a long shaft. Like
+    most power weapons , it can tear through all manners of materials with ease
+    thanks to its disruptive energy field generated around the blade. They're
+    commonly used as ceremonial weapons by honour guards, or by lancers mounted
+    on bikes or war-beats</p>
+
+    <p><strong>Special:&nbsp;</strong>When used from a moving open-topped
+    vehicle or other mount, add the <em>Brutal</em> trait.</p>
+  value: 6
+  keywords: POWER FIELD, IMPERIUM, ADEPTUS ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits: []
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: M81y3pnOdLuRP51r
+_id: RjUUlt4vbM5gZlIR
+sort: 1200000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!RjUUlt4vbM5gZlIR'

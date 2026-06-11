@@ -1,0 +1,154 @@
+folder: GHP0SxnnlNKFusRJ
+name: Dark Reaper Aspect Warrior
+type: archetype
+_id: gn7jPz3yoiScfp2G
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 92
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - ASPECT WARRIOR
+  attributes:
+    strength: 3
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 3
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Inescapable Aim
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kelQOAC4AERyJyQX
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Heavy Aspect Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KXn7FgD0ly6vLiOK
+      type: item
+      diff: {}
+      index: 1
+      groupId: qSbYv1abiHBPDtXl
+    - name: Reaper Launcher
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.j3MWWqJY6noM3eeM
+      type: item
+      diff: {}
+      index: 2
+      groupId: oh9sdyEgw62x9UnW
+    - name: Dark Reaper Rangefinder
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.op6w0MLZJCvjOSCv
+      type: item
+      diff: {}
+      index: 3
+      groupId: vUExOdNSOHWRdR27
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 4
+      groupId: d61plvg1GTsVqbqK
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: qSbYv1abiHBPDtXl
+      - index: 2
+        type: item
+        groupId: oh9sdyEgw62x9UnW
+      - index: 3
+        type: item
+        groupId: vUExOdNSOHWRdR27
+      - index: 4
+        type: item
+        groupId: d61plvg1GTsVqbqK
+      - index: 5
+        type: item
+        groupId: gf6NjfhJT1KoY1qT
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 5
+      initiative: 5
+      willpower: 3
+      intellect: 3
+      fellowship: 2
+    skills:
+      athletics: 2
+      awareness: 4
+      ballisticSkill: 6
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 3
+      investigation: null
+      leadership: 2
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: 1
+      weaponSkill: 3
+    talents:
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+      - id: jF3FV2Sc4EyPTdbP
+        name: Born Survivor
+      - id: Ay80uXJ3CcuVfmiE
+        name: Legacy Of Sorrow
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710679712083
+  modifiedTime: 1710679960158
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!gn7jPz3yoiScfp2G'

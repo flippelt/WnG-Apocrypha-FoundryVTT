@@ -1,0 +1,53 @@
+name: Crux Terminatus
+type: ascension
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+effects: []
+folder: 0e4JnvdZPT2mvK1p
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3xjb21p3E2y9XyBq
+system:
+  cost: 30
+  description: >-
+    <p>The Crux Terminatus is a stone medallion awarded to highly skilled and
+    experienced Space Marine Veterans. All members of a Chapter trained in the
+    use of Terminator Armour will have been first awarded the Crux Terminatus.
+    These badges, set into the left shoulder plate of Terminator armour, are
+    highly distinctive and usually fashioned from stone. In Codex Chapters,
+    members of the Chapter's veteran First Company are the exclusive users of
+    Terminator armour.</p>
+  requirements: >-
+    Ballistic Skill 5+ or Weapon Skill 5+, Adeptus Astartes or Primaris Astartes
+    Species
+  keywords: ''
+  influence: 2
+  benefits: >-
+    <p><strong>STORY ELEMENT</strong>: You are an honoured veteran amongst the
+    Adeptus Astartes, and even when not wearing Terminator Armour, you are
+    amongst the mightiest and most dedicated warriors in the Imperium. Your
+    Resolve is increased by +2, and whenever you succeed at a Weapon Skill,
+    Ballistic Skill, or Leadership test, you may shift a single exalted icon to
+    allow yourself and all allies with the ADEPTUS ASTARTES keyword within 15m
+    to recover 1+Rank Shock.</p><p><strong>WARGEAR</strong>: You gain a suit of
+    Terminator Armour, and one of the following weapon selections:
+    </p><ul><li><p>Storm Bolter and Power Sword </p></li><li><p>Storm Bolter and
+    Power Fist </p></li><li><p>Thunder Hammer and Storm Shield
+    </p></li><li><p>Paired Lightning Claws</p></li></ul><p></p><p>You may not
+    always be able to use your Terminator Armour and its accompanying weapons;
+    if you choose not to deploy in your Terminator armour, or are unable to use
+    it, you begin the mission with +1 Wrath instead.</p><p></p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055927
+  modifiedTime: 1710793244729
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: fMGxZ6vqdXzWTwwk
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!fMGxZ6vqdXzWTwwk'

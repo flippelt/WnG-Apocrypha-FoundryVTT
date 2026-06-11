@@ -1,0 +1,72 @@
+name: Null Vortex
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.B4vnjU5oqXEwUiY8
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Unleashing the full contra-empyric power of your barrier tech, you
+    project a nullprobability field that causes enemy force shields to flicker
+    and die, and even the most agile foes to fumble weakly in their efforts to
+    evade harm. While this power remains in effect, enemies within range do not
+    benefit from any Invulnerable Armour they possess.</p>
+  effect: ''
+  cost: 25
+  activation: full
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: LEAGUES OF VOTANN, PSYCHIC
+  prerequisites: LEAGUES OF VOTANN
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Enemies within the power’s range cannot roll Determination.
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: B4vnjU5oqXEwUiY8
+folder: zhAbc5nO8ReutmpV
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742928
+  modifiedTime: 1712707814632
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!B4vnjU5oqXEwUiY8'

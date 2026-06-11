@@ -1,0 +1,67 @@
+folder: Jr1XUs92ggb9r4uN
+name: Las-Beam Cutter (Ranged)
+type: weapon
+_id: vFD3gK1yNtOehmKn
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+system:
+  quantity: 1
+  rarity: ''
+  description: ''
+  value: null
+  keywords: LEAGUES OF VOTANN, BRÔKHYR
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 5
+    medium: 10
+    long: 15
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: pistol
+    - name: unwieldy
+      rating: 1
+    - name: beam
+      custom: true
+      display: Beam
+      description: >-
+        The weapon fires a focused beam of energy that bores through everything
+        in your path. Each time an attack is made with this weapon, draw a line
+        back from the target of the attack back to the weapon. The Multi-Attack
+        DN penalty for attacks with this weapon is reduced by twice the weapon’s
+        Salvo, in addition to effects from a Salvo attack. Against a Mob, an
+        attack with the weapon scores a number of additional icons equal to the
+        weapon’s Salvo.
+  upgrades: []
+effects: []
+sort: 600000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710276060716
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!vFD3gK1yNtOehmKn'

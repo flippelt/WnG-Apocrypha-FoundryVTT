@@ -1,0 +1,143 @@
+name: Tzaangor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 499927
+pages:
+  - name: Tzaangor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <blockquote><p>Every abomination is a creation of Tzeentch. Every
+        twisted monstrosity a child of the Changer of Ways. If I could, I would
+        devour the thoughts of them all, that I too might know the horror of
+        their existence. But for me there is a different fate.</p><p
+        style="text-align:right"><em>—— Hasophet, Sorcerer and Magister of the
+        Mind-Eaters</em></p></blockquote><p>Tzaangors are bright of colouration
+        and sharp of intellect. Their beaks clack as they chant blasphemous
+        refrains in their dark tongues, gimlet eyes glowing in their aquiline
+        skulls. They look to transcend their existences by seeking out the most
+        powerful artefacts and priceless relics – in serving sorcerous masters,
+        they may earn the chance to elevate themselves. However, a cruel streak
+        resides within the soul of every Tzaangor, and their artistic
+        pretensions are often set aside in favour of sheer, shocking
+        brutality.</p><table style="width:98.9228%;height:239px"
+        border="1"><tbody><tr class="table-header"
+        style="height:16px;background-color:#301444"><td
+        style="width:92.7291%;height:16px" colspan="8">TZAANGOR</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
+        colspan="2">TIER</td><td
+        style="width:8.3%;height:16px;text-align:center">1</td><td
+        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
+        colspan="2">SPECIES</td><td
+        style="width:11.7268%;height:16px;text-align:center">Beastman</td><td
+        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
+        Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center">38</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">CHAOS</a>, <a
+        class="keyword">ABHUMAN</a>, <a class="keyword">HERETIC</a>, <a
+        class="keyword">TZEENCH</a></td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px"
+        colspan="8"><strong>ATTRIBUTE</strong>: Strength 3, Toughness 3,
+        Intellect 3</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
+        Scholar 1, Weapon Skill 2</td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
+        ABILITY</strong>: @UUID[Item.oHxZa40iFbhla53M]{Aura of
+        Change}</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
+        2x @UUID[Item.JlXH8xNwZcDgtfcn]{Swords} or a
+        @UUID[Item.rgcz2ZC60MEM8mao]{Chainsword} and
+        @UUID[Item.JbTzZSQ0FZ4PIjdp]{Autopistol}</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;background-color:rgba(0,
+        0, 0, 0.2);height:16px" colspan="8"><strong>INFLUENCE</strong>:
+        +1</td></tr><tr style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
+        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">12</td></tr><tr
+        style="font-variant:small-caps;height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
+        style="width:12.5%;height:16px;text-align:center">S</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">T</td><td
+        style="width:5.17241%;height:16px;text-align:center">A</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">I</td><td
+        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">Int</td><td
+        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
+        style="width:12.5%;height:16px;text-align:center">3</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">3</td><td
+        style="width:5.17241%;height:16px;text-align:center">2</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">2</td><td
+        style="width:11.7268%;height:16px;text-align:center">2</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">3</td><td
+        style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
+        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">14</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%" colspan="8">Awareness 1, Ballistic
+        Skill 1, Scholar 2, Weapon Skill 3</td></tr><tr style="height:16px"><td
+        class="table-header"
+        style="width:92.7291%;height:16px;background-color:#301444"
+        colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td
+        style="height:15px;width:92.7291%"
+        colspan="8">@UUID[Item.aX9bq2t854Kb7L0i]{Dual Wield},
+        @UUID[Item.kj8Jm2JKxELokK4X]{Let The Galaxy Burn},
+        @UUID[Item.A0b7EHqFCH6nblAK]{Touched By Fate}</td></tr></tbody></table>
+      markdown: ''
+    _id: 6VIdIZs0RFiBmFtW
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!RvpcFm6N8UAgMXbz.6VIdIZs0RFiBmFtW'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664173162519
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: RvpcFm6N8UAgMXbz
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!RvpcFm6N8UAgMXbz'
+categories: []

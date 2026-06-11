@@ -1,0 +1,86 @@
+name: Hymn of Reforging
+type: ability
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+    name: Hymn of Reforging
+    _id: lKLObCm598NESCAZ
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank * 2'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              You receive +Double Rank to Tech Tests to repair damaged
+              machinery.
+            hide: ''
+    tint: null
+    _key: '!items.effects!rjmmcEJ6Q63W2Xxh.lKLObCm598NESCAZ'
+folder: fgtFfRbmshJ8KM1n
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1q2C2GRrsWcqmQwa
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You receive +Double Rank to Tech Tests to repair damaged machinery. All
+    tech tests you made take half the standard time.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055833
+  modifiedTime: 1710720533583
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: rjmmcEJ6Q63W2Xxh
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!rjmmcEJ6Q63W2Xxh'

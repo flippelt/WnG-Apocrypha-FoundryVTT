@@ -1,0 +1,164 @@
+folder: TjaiqnhWJoTjLCJ9
+name: Astropath
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Astra Telepathica
+    id: Compendium.wng-core.items.Item.0S2DAp9Gyrgk4gSV
+  influence: 0
+  cost: 32
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTRA TELEPATHICA
+    - PSYKER
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 4
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 1
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Soul-Bound Psyker
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rR8WEwf5dXUroZQL
+  wargear:
+    - name: Laspistol
+      id: Compendium.wng-core.items.Item.STrmO2xhRZgClDSR
+      type: item
+      diff: {}
+      index: 0
+      groupId: MA5o5qb7Yu36d9By
+    - type: generic
+      name: Staff
+      filters: []
+      index: 1
+      groupId: IfoLRHmoOl01NwHo
+    - type: generic
+      name: Psykana mercy blade
+      filters: []
+      index: 2
+      groupId: ZpnJl3p9TrE1akpq
+    - name: Astropath's Robes (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Astropath's Robes (Clothing)
+      index: 3
+      groupId: Guhbf7tse82nOTau
+    - type: generic
+      name: Blanket
+      filters: []
+      index: 4
+      groupId: NF1ymezn4xgJb4kN
+    - type: generic
+      name: Grooming kit
+      filters: []
+      index: 5
+      groupId: RodB90WzvMOIfZA6
+    - name: Ration Packs
+      id: Compendium.wng-core.items.Item.vsjZCbjBNivbeUhk
+      type: item
+      diff:
+        system:
+          quantity: 2
+      index: 6
+      groupId: sRwYVy5puHW6f2Hv
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: MA5o5qb7Yu36d9By
+      - type: item
+        index: 1
+        groupId: IfoLRHmoOl01NwHo
+      - type: item
+        index: 2
+        groupId: ZpnJl3p9TrE1akpq
+      - index: 3
+        type: item
+        groupId: Guhbf7tse82nOTau
+      - type: item
+        index: 4
+        groupId: NF1ymezn4xgJb4kN
+      - type: item
+        index: 5
+        groupId: RodB90WzvMOIfZA6
+      - index: 6
+        type: item
+        groupId: sRwYVy5puHW6f2Hv
+  suggested:
+    attributes:
+      strength: 1
+      toughness: 2
+      agility: 2
+      initiative: 2
+      willpower: 6
+      intellect: 3
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 1
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: 3
+      scholar: 1
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents: []
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VOFYVUkpbygkMPBx
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699547499942
+  modifiedTime: 1710604033428
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: VOFYVUkpbygkMPBx
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!VOFYVUkpbygkMPBx'

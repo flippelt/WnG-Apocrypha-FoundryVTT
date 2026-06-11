@@ -1,0 +1,114 @@
+name: Abhorrent Presence
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: YD8qFpMxdCVfbHHs
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: +2DN to all interaction tests with non-pariah characters.
+    tint: null
+    origin: null
+    name: Abhorrent Presence
+    description: ''
+    statuses: []
+    _key: '!items.effects!2st3Hg7mEeZlnYIe.YD8qFpMxdCVfbHHs'
+  - _id: xLCXQcZWequjQXF2
+    changes:
+      - key: difficulty.bonus
+        mode: 7
+        value: '4'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: +4DN to interaction tests with  PSYKERS
+    tint: null
+    origin: null
+    name: Abhorrent Presence
+    description: ''
+    statuses: []
+    _key: '!items.effects!2st3Hg7mEeZlnYIe.xLCXQcZWequjQXF2'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Z8Imwea1NawhJ6fw
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>+2DN to all interaction tests with non-pariah characters. +4DN to
+    interaction tests with @Item[JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce
+    their Influence by 1.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056855
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 2st3Hg7mEeZlnYIe
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!2st3Hg7mEeZlnYIe'

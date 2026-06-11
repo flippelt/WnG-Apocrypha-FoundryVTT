@@ -1,0 +1,66 @@
+name: Flesh Gauntlet
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A Flesh Gauntlet is a truly nightmarish weapon, used by Haemonculi and
+    their servants. It is a claw-like glove studded with syringe-like
+    protrusions and vials. Even the slightest scratch will inject the victim
+    with the most violent electro-steroids, which will eventually cause the
+    victim to grow out of his or her skin, leaving only an undefined pile of
+    heaving matter.</p>
+  value: 7
+  keywords: EXOTIC, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: mortal-(1)
+      custom: true
+      display: Mortal (1)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 112500
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: XEjXUhb85LJDQraS
+_key: '!items!XEjXUhb85LJDQraS'

@@ -1,0 +1,107 @@
+name: Mental Alacrity
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Mental Alacrity
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.intel'
+    _id: 6Y2W7JzkkiqDt86O
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Mental Alacrity, Intellect-based test
+            hide: ''
+    tint: null
+    _key: '!items.effects!7x5N1C7D0KX2dGBe.6Y2W7JzkkiqDt86O'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.7x5N1C7D0KX2dGBe
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Within the Scholastica Psykana and the Adeptus Astra Telepathica, there
+    are many exercises and meditations that are taught to Sanctioned Psykers and
+    Astropaths to enhance their senses and their mental clarity. While this
+    power remains in effect, you or one ally within range adds +3 bonus dice to
+    all Intellect-based tests until the end of their next turn.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: 1 Round
+  range: Willpower metres
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The bonus increased by +1
+      cost: 1
+      property: intel
+      initial: 3
+      value: 1
+      single: false
+    - description: The power lasts for +1 Round.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 7x5N1C7D0KX2dGBe
+folder: Y2bAliRT8Nh9MTzR
+sort: 125000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247445
+  modifiedTime: 1711982271529
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!7x5N1C7D0KX2dGBe'

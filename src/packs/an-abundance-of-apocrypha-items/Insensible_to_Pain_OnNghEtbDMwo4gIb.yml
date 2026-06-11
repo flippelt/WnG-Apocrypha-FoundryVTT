@@ -1,0 +1,80 @@
+folder: fgtFfRbmshJ8KM1n
+name: Insensible to Pain
+type: ability
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Your maximum Shock is increased by +Rank. Further, when you roll
+    Determination, you may re-roll any die which rolls a 1. You may roll
+    Determination against Mortal Wounds. You cannot wear armour, due to your
+    altered physiology.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: Insensible to Pain
+    _id: 2DzXwp0xZVitv3u7
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!OnNghEtbDMwo4gIb.2DzXwp0xZVitv3u7'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.dKDK4BAs175ZzfT7
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699540085667
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: OnNghEtbDMwo4gIb
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!OnNghEtbDMwo4gIb'

@@ -1,0 +1,140 @@
+folder: kcIfowy1n7OiCCwE
+name: Grimnyr
+type: archetype
+_id: pYOMiUjCsNpPIaT2
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Kin
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.AqMlTyoQxQws1lEK
+  faction:
+    name: Leagues of Votann
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HSaREh8NK25ui3Ou
+  influence: 4
+  cost: 204
+  keywords:
+    - LEAGUES OF VOTANN
+    - ABHUMAN
+    - '[LEAGUE]'
+    - PSYKER
+  attributes:
+    strength: 4
+    toughness: 5
+    agility: null
+    initiative: null
+    willpower: 5
+    intellect: 4
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 1
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: 2
+    medicae: null
+    persuasion: 2
+    pilot: null
+    psychicMastery: 4
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 2
+  ability:
+    name: Conduit to the Ancestor Cores
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zKQaSI8wvovA4yBw
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Ancestral Ward Stave
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.NkA0Dgx7pcYwMSuD
+      type: item
+      diff: {}
+      index: 1
+      groupId: 5FajYAYtisLgdCaV
+    - name: Void Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.FZEUGRe0ZUJZC0LW
+      type: item
+      diff: {}
+      index: 2
+      groupId: vd2PUm2dGRr1wKh3
+    - name: Ancestral Ward Crest
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bzWrO184syqUKFJO
+      type: item
+      diff: {}
+      index: 3
+      groupId: Q7F3JTJqENPp7Dow
+    - type: generic
+      name: two CORVs armed with Autoch-pattern Bolters
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 5FajYAYtisLgdCaV
+      - index: 2
+        type: item
+        groupId: vd2PUm2dGRr1wKh3
+      - index: 3
+        type: item
+        groupId: Q7F3JTJqENPp7Dow
+      - type: item
+        index: 4
+        groupId: 32f15GEzyDvgB3oK
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 6
+      agility: 3
+      initiative: 4
+      willpower: 6
+      intellect: 5
+      fellowship: 4
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: 3
+      medicae: null
+      persuasion: 3
+      pilot: null
+      psychicMastery: 6
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: 3
+    talents: []
+effects: []
+sort: 500000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710703699462
+  modifiedTime: 1710710947727
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!pYOMiUjCsNpPIaT2'

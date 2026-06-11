@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Servant of Change
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: CHAOS keyword, TZEENTCH Keyword
+  description: >-
+    <p>You are a willing vassal of the Changer of Ways, and you embrace the
+    vagaries of fate in all things.</p><p>When the GM spends Ruin, you gain 1
+    Glory. When you would gain Glory from scoring a Wrath Critical or shifting
+    an Exalted Icon, you may gain two Glory instead, but if you do the GM gains
+    one Ruin.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.5AWZLcKU1PeloOk5
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699806174366
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 5AWZLcKU1PeloOk5
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 800000
+_key: '!items!5AWZLcKU1PeloOk5'

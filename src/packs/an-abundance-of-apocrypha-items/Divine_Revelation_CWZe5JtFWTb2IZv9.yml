@@ -1,0 +1,37 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Divine Revelation
+type: ascension
+_id: CWZe5JtFWTb2IZv9
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 10
+  description: >-
+    <p>Whether you believed or not in the God-Emperor previously, you have
+    experienced something which has given you absolute certainty. With this
+    newfound faith, you have gained something of a congregation of your own, a
+    following drawn to your newfound prophetic status.</p>
+  requirements: IMPERIUM or SCUM keyword
+  keywords: ''
+  influence: 1
+  benefits: >-
+    <p><strong>STORY ELEMENT</strong>: Your newfound faith is powerful, even
+    unshakeable, and while you may not be a true priest, your zeal is a match
+    for any of them. You gain 1 Faith point, and you may select Faith talents as
+    if you possessed the ADEPTUS MINISTORUM
+    keyword.</p><p><strong>WARGEAR:</strong> You gain a single trinket, randomly
+    determined from the tables in the core rulebook or created with your GM.
+    This item is linked in some way to your divine revelation.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710793274899
+  modifiedTime: 1710793336545
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!CWZe5JtFWTb2IZv9'

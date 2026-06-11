@@ -1,0 +1,133 @@
+name: Psychic Pursuit
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Psychic Pursuit (Caster)
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '3'
+        priority: null
+    _id: vzke8wgrVBPS7pwv
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!KKVK9xVhgsuZZCid.vzke8wgrVBPS7pwv'
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Psychic Pursuit (Confer to Ally)
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: 50QWPL1xUxVjaVRD
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!KKVK9xVhgsuZZCid.50QWPL1xUxVjaVRD'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.KKVK9xVhgsuZZCid
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You mark your target’s spirit within the Immaterium, allowing you to
+    track their movements and pick them out in any crowd. Select a single enemy
+    you can see within range. While the power remains in effect, you gain +3
+    bonus dice on all tests to locate or track the target. If you cannot
+    perceive the target, you always know the general direction to them, so long
+    as both you and they are in realspace, and this indicator grows stronger the
+    closer you are to them. While the power remains in effect, you may use a
+    Simple Action to confer your awareness to any allies within 6m of you,
+    adding +2 dice to their Awareness tests and attacks against the target.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Day
+  range: 18m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: INQUISITION
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        While the power remains in effect, the target is haunted by dreams of
+        being pursued. Each day they are pursued, the target’s maximum Wounds
+        and Shock are reduced by 1
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: Duration increased by +1 day.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: KKVK9xVhgsuZZCid
+folder: Xna24or3vCqYsURu
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206758
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!KKVK9xVhgsuZZCid'

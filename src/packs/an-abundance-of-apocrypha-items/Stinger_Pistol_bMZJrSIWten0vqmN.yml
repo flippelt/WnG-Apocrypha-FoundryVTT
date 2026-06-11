@@ -1,0 +1,82 @@
+name: Stinger Pistol
+type: weapon
+img: modules/wng-core/assets/icons/weapons/shuriken-pistol.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-ranged.Item.bMZJrSIWten0vqmN
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">A stinger pistol is a lightweight sidearm
+    characterised by a long syringe-like barrel and a venom reservoir that holds
+    the most potent and bizarre toxins that Drukhari tox-wrights can devise.
+    When fired, it ejects a long sliver of hollow glass that can pierce a foe’s
+    skin and introduce the toxins directly into their bloodstream, invariably
+    with horrific results</span>.</p>
+  value: 8
+  keywords: EXOTIC, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: inflict
+      rating: Poisoned 5
+    - name: pistol
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+    - name: tearing
+      custom: true
+      display: Tearing
+      description: >-
+        The weapon rips and tears at their enemies, inflicting horrific wounds.
+        When you roll for damage with this weapon, you may re-roll any number of
+        ED.
+  upgrades: []
+_id: bMZJrSIWten0vqmN
+folder: hvQbqAxjU9zt0gWD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927211854
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!bMZJrSIWten0vqmN'

@@ -1,0 +1,74 @@
+folder: EJ6lK67pJ1JqvFo2
+name: KRONUS HEGEMONY
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p>A relatively young League, it was founded less than a millennium ago when
+    the Fane of Kôrynn's Kindred achieved self-awareness. This newly ascended
+    Ancestor Core exhibited an aggressive drive for knowledge and demanding
+    appetite for raw materials. Prior to this, the Kindred had been relatively
+    minor and part of the faltering Kapellan League. Upon their new boon they
+    broke away and formed their own League, drawing many Kin to them from across
+    Votann civilization.</p><p>The Kin of the Kronus Hegemony display a
+    trademark aggression which often veers into outright belligerence. This has
+    only become more pronounced as the centuries have passed and their might has
+    grown. A Kindred wishing to join the Hegemony must first offer suitable
+    tribute to earn its place, and its Kin must swear martial oaths of service
+    that are considered eternally binding. It is expected that their Hold and
+    fleets will focus upon war, and that they will train and equip massive
+    Kinhost forces. The expectation of tribute does not end with joining the
+    Hegemony, for each Kindred must prove their commitment by conquering an
+    allotted quota of enemy worlds each year, sending the spoils back to
+    Kôrynn's Kindred for their Votann's defence. Since the formation of the
+    Great Rift, they have wasted little time in annexing new territories
+    belonging to alien races.</p><p><strong>AGGRESSIVE EXPANSION</strong>: You
+    may re-roll Rank dice on melee attacks when you charge and add +1ED to the
+    damage of all melee attacks when you charge</p>
+effects:
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    name: KRONUS HEGEMONY
+    _id: xe6AlTbSgF4kK8fa
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '1'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: add +1ED to the damage of all melee attacks when you charge.
+            hide: ''
+    tint: null
+    _key: '!items.effects!8JMal6VkyJ3QkekF.xe6AlTbSgF4kK8fa'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8JMal6VkyJ3QkekF
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699504031398
+  modifiedTime: 1710532523441
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 8JMal6VkyJ3QkekF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 125000
+_key: '!items!8JMal6VkyJ3QkekF'

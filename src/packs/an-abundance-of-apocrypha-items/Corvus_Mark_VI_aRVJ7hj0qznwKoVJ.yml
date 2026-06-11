@@ -1,0 +1,92 @@
+name: Corvus Mark VI
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Corvus Mark VI
+    changes:
+      - key: system.combat.speed
+        mode: 2
+        value: '1'
+        priority: null
+      - key: system.combat.resilience.bonus
+        mode: 7
+        value: '-1'
+        priority: null
+    _id: Oro8VBpENgDmAa8E
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Called Shot
+            hide: ''
+    tint: null
+    _key: '!items.effects!aRVJ7hj0qznwKoVJ.Oro8VBpENgDmAa8E'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes-armour.Item.aRVJ7hj0qznwKoVJ
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Mk6 “Corvus Suit” also saw much action
+    during the Horus Heresy. It featured dual technology circuits that allowed
+    the replacement of rare or sophisticated parts with common or basic
+    alternatives. It also included failsafes such as duplicate power cabling.
+    The left shoulder pad, which always took the brunt of enemy fire, retained
+    the studded Mk5 construction to be easily
+    replaced.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">5; Powered (3)</span></p><p></p><p><span
+    class="fontstyle2"><strong>Nimble</strong>: </span><span
+    class="fontstyle0">Corvus armour is favoured by assault specialists, who
+    find the light weight and smooth movement well-suited to their work. The
+    wearer gains +1 Speed.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Light Construction</strong>: </span><span
+    class="fontstyle0">The lighter materials used in making Corvus armour are
+    not as durable as those used in later marks. Any called shot against Corvus
+    armour counts the attack’s AP as 1 better.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: POWERED, IMPERIUM, ADEPTUSASTARTES
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powered
+      rating: 3
+  invulnerable: false
+_id: aRVJ7hj0qznwKoVJ
+folder: 9qcY1oNgsxJI58Au
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089763017
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1200000
+_key: '!items!aRVJ7hj0qznwKoVJ'

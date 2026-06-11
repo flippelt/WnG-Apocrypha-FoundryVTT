@@ -1,0 +1,126 @@
+name: Fists of Gork
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Fists of Gork
+    changes:
+      - key: system.attributes.strength.bonus
+        mode: 2
+        value: '@test.result.str'
+        priority: null
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.melee'
+        priority: null
+    _id: eABDmx0GOenoZlgV
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+          '2':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!uowv3XpccWPOUVTh.eABDmx0GOenoZlgV'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.uowv3XpccWPOUVTh
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You channel Waaagh energy into your own fists or those of another Ork,
+    providing strength enough to punch through the armour of tanks. This power
+    affects you or one ally with the ORK keyword within range. Until the end of
+    your next turn, the affected character’s Strength is increased by +4 and
+    they receive +2 bonus dice on all melee attacks.</p>
+  effect: ''
+  cost: 8
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: ORK, PSYCHIC
+  prerequisites: ORK
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Strength
+      cost: 1
+      property: str
+      initial: 4
+      value: 1
+      single: false
+    - description: +1ED damage on melee attacks
+      cost: 1
+      property: melee
+      initial: 2
+      value: 1
+      single: false
+    - description: Activation reduced to a Simple Action
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: uowv3XpccWPOUVTh
+folder: Vt31I1SOn32VDAY2
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742900
+  modifiedTime: 1712707816516
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!uowv3XpccWPOUVTh'

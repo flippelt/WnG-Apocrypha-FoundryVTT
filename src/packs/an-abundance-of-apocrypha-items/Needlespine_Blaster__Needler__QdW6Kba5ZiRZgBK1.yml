@@ -1,0 +1,86 @@
+name: Needlespine Blaster (Needler)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/needle-rifle.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.QdW6Kba5ZiRZgBK1
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The Needlespine Blaster combines a rapid-fire
+    bolter component with a deadly needler that makes use of an enhanced
+    synthetic venom. The preserve of Clave Adamus operatives, the Needlespine
+    Blaster fires an intensified pulse-beam of las energy, through which darts
+    of an exotic metallic alloy are projected at incredible speeds. In the
+    trained hands of an Adamus Assassin this weapon can make a mockery of even
+    the thickest armour, but to the uninitiated, its bulk and complexity make it
+    all but unusable.</span></p><p></p><p><span class="fontstyle0">This
+    functions as a combi-weapon (</span><span class="fontstyle2">Wrath & Glory
+    rulebook</span><span class="fontstyle0">, page 227), fitted with a gene-grip
+    bio-veritor.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: BOLT, NEEDLE, OFFICIO ASSASSINORUM, TEMPLUMADAMUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: agonising
+    - name: inflict
+      rating: Poisoned 4
+    - name: pistol
+    - name: silent
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+  upgrades: []
+_id: QdW6Kba5ZiRZgBK1
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711906
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!QdW6Kba5ZiRZgBK1'

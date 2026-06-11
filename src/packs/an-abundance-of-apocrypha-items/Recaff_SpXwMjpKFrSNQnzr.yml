@@ -1,0 +1,79 @@
+name: Recaff
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Recaff
+    _id: ZVQQoMDPbEmpvC2I
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: remain awake or resist the effects of fatigue or sleeplessness
+            hide: ''
+    tint: null
+    _key: '!items.effects!SpXwMjpKFrSNQnzr.ZVQQoMDPbEmpvC2I'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.SpXwMjpKFrSNQnzr
+system:
+  quantity: 10
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">Recaff is a popular hot beverage in the Imperium
+    made from crushed and brewed plant matter. Its composition, preparation—and
+    common name—can vary depending on the planet it is found, but most blends
+    contain some form of mild stimulant such as caffeine or detoxified
+    pharamoxine compounds. The stimulant effect is often sufficient to help the
+    drinker wake up in the morning, or to keep them alert during a long
+    night.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">A character who drinks a cup of recaff
+    during a regroup recovers [[/r 1d3]] Shock and adds +1 bonus dice to any
+    test to remain awake or resist the effects of fatigue or sleeplessness for
+    the next [[/r 1d3]] hours. Each successive cup of recaff reduces the
+    duration of the benefit by 1 hour, as sleep eventually catches up. A single
+    purchase contains enough to make 10 cups.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 1
+  keywords: IMPERIUM, ASTRA MILITARUM
+  effect: ''
+_id: SpXwMjpKFrSNQnzr
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099200
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1100000
+_key: '!items!SpXwMjpKFrSNQnzr'

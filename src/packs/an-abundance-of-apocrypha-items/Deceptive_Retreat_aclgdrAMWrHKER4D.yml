@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Deceptive Retreat
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Aeldari or Drukhari species
+  description: >-
+    <p>Aeldari in battle wield deception like a blade, slipping from the fray in
+    feigned retreat only to follow their flight with another attack.<br>After
+    you make a melee attack, whether successful or not, you may spend one Glory
+    to Fall Back as a free action.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663879631483
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: aclgdrAMWrHKER4D
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!aclgdrAMWrHKER4D'

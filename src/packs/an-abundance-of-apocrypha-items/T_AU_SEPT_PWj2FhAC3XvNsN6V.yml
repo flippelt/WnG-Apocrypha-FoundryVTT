@@ -1,0 +1,32 @@
+folder: JmXLzf2ge3nwJeU0
+name: T'AU SEPT
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+system:
+  description: >-
+    <p>The birthworld of the species which shares its name, T’au is a world of
+    traditions, for everything within the T’au Empire has an origin there. Its
+    people have a reputation for wisdom and reverence, building upon the
+    experiences of whose who founded the T’au Empire in everything they
+    do.</p><p>• <strong>All</strong> T’au from the T’au Sept grant +1 additional
+    die when they assist an ally. Further, whenever they use an ability which
+    affects T’AU EMPIRE allies, the range is increased by +3m.</p>
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ZIZmEEPQU1AAt78R
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664207638106
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: PWj2FhAC3XvNsN6V
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!PWj2FhAC3XvNsN6V'

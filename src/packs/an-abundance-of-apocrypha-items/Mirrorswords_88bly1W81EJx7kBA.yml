@@ -1,0 +1,75 @@
+name: Mirrorswords
+type: weapon
+_id: 88bly1W81EJx7kBA
+img: modules/wng-core/assets/icons/weapons/sword.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>A Mirrorsword is a type of Aeldari Power Sword commonly employed by a
+    Howling Banshee Exarch. Two Mirrorswords are commonly employed by those
+    Howling Banshee Exarchs who have mastered a deadly ambidextrous style of
+    combat that uses the paired blades to unleash a dazzling flurry of swift
+    strikes and parries.</p>
+  value: 9
+  keywords: POWER FIELD, AELDARI, ANCIENT, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: parry
+    - name: paired
+      custom: true
+      display: Paired
+      description: >-
+        The weapon is designed to be used in a pair—two weapons of that type,
+        one in each hand. When a character makes an attack while wielding both
+        weapons in a pair, either count it as a Simultaneous Strike (as per the
+        talent) or reduce the DN of a multiattack by 2. If you have the
+        Signature Weapon talent, you may apply it to both weapons in a pair.
+    - name: reaping
+      custom: true
+      display: Reaping
+      description: >-
+        The weapon is intended to scythe through groups of foes. When you make a
+        Multi-Attack with this weapon, the DN increases by +1 per additional
+        target, rather than +2.
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 1200000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709856567235
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!88bly1W81EJx7kBA'

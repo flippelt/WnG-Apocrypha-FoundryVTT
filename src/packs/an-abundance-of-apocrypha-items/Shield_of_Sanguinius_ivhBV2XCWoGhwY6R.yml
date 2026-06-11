@@ -1,0 +1,111 @@
+name: Shield of Sanguinius
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Shield of Sanguinius
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '@test.result.def'
+        priority: null
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@test.result.res'
+        priority: null
+    _id: DWW5of2K3Ni43kgL
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!ivhBV2XCWoGhwY6R.DWW5of2K3Ni43kgL'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.ivhBV2XCWoGhwY6R
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You will a shimmering golden barrier into existence, shielding your
+    brothers from harm. If manifested, choose an ally within range. Until the
+    start of your next turn, the affected ally gains +1 Defence and +1
+    Resilience.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 25m
+  multiTarget: true
+  keywords: KINETIC, PSYCHIC
+  prerequisites: BLOOD ANGELS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Bonus to Defence increases by +1
+      cost: 2
+      property: def
+      initial: 1
+      value: 1
+      single: false
+    - description: Bonus to Resilience increases by +1
+      cost: 1
+      property: res
+      initial: 1
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: ivhBV2XCWoGhwY6R
+folder: JwusfIy0j2Cyghui
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959295
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ivhBV2XCWoGhwY6R'

@@ -1,0 +1,111 @@
+name: Plasma Incinerator
+type: weapon
+img: modules/wng-core/assets/icons/weapons/plasma-cannon.webp
+effects: []
+folder: e9EXVo6L2qnEFMDP
+flags:
+  wng-core:
+    initialization-folder: Weapons
+    sort: 0
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A more advanced version of the standard plasma gun, the Mark III
+    Belisarius-Pattern plasma incinerator is the primary weapon of the Primaris
+    Hellblasters, used to deliver death and destruction to armoured targets from
+    afar.</p>
+  value: 7
+  keywords: PLASMA, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 15
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 1
+    thrown: null
+    salvo: 3
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: rapidFire
+      rating: 1
+    - name: supercharge
+  upgrades: []
+  bonus:
+    attributes:
+      strength: 0
+      toughness: 0
+      agility: 0
+      initiative: 0
+      willpower: 0
+      intellect: 0
+      fellowship: 0
+    skills:
+      athletics: 0
+      awareness: 0
+      ballisticSkill: 0
+      cunning: 0
+      deception: 0
+      insight: 0
+      intimidation: 0
+      investigation: 0
+      leadership: 0
+      medicae: 0
+      persusasion: 0
+      pilot: 0
+      psychicMastery: 0
+      scholar: 0
+      stealth: 0
+      survival: 0
+      tech: 0
+      weaponSkill: 0
+    combat:
+      defence: 0
+      resilience: 0
+      wounds: 0
+      determination: 0
+      shock: 0
+      resolve: 0
+      passiveAwareness: 0
+      conviction: 0
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: bYzrbZWvnuSTKnuv
+sort: 500000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!bYzrbZWvnuSTKnuv'

@@ -1,0 +1,55 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Glimpse from Beyond
+type: ascension
+_id: InMni5fFeu5qAzSd
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 10
+  description: >-
+    <p>To see beyond the fragile veil of sanity and purity, to catch even the
+    merest glimpse of things that defy all imagination, is to suffer great
+    trauma. Those who survive are seldom the same, both less than they were, and
+    something more.</p><p>Some endure with their minds clear, possessed of a
+    strength and focus that is often startling to those who knew the witness,
+    yet beneath this apparent strength and vigour is a soul blasted and scarred,
+    tainted by exposure to one of the nightmares of the cosmos. Others suffer
+    wretched maladies of the mind, no longer certain of the shape or substance
+    of reality or fully in control of themselves, yet pure of spirit despite all
+    they have witnessed. Others still see their sanity fracture and their purity
+    wither in the presence of such horror.</p><p>Yet amidst it all comes an
+    insight, an understanding of the unholy that few possess. With the loss of
+    mind or purity comes an instinct that defies reason, to understand things
+    which should not be known. The warped conclusions of these witnesses are
+    often invaluable to those who must brave the terrible perils that lurk in
+    the darkness between the stars.</p>
+  requirements: ''
+  keywords: ''
+  influence: 1
+  benefits: >-
+    <p><strong>STORY ELEMENT</strong>: Your mind has been touched by something
+    vast and damning. Whether thought soulscarring clarity or the vile artifice
+    of an insane mind, you hold secrets that no soul should ever
+    possess.</p><p>Whenever you attempt an Awareness (Int), Insight (Fel),
+    Investigation (Int), or Scholar (Int) test that relates to the Warp, Chaos,
+    psychic phenomena, or some other forbidden and profane matter, you may
+    choose to add +Rank additional Wrath dice on that test. Each Wrath Critical
+    you roll means the GM must give you a relevant piece of information that you
+    couldn’t possibly know by any normal means. Each Wrath Complication means
+    you gain 1 Corruption Point.</p><p><strong>WARGEAR</strong>: You gain a
+    single trinket, randomly determined from the tables in the core rulebook or
+    created with your GM. This item is linked in some way to your experiences
+    seeing beyond reality, and it emanates faint echoes of that event.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710793356316
+  modifiedTime: 1710793404784
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!InMni5fFeu5qAzSd'

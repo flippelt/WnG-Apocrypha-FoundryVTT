@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Swooping Barrage
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Swooping Hawk aspect
+  description: >-
+    <p>Your munitions are always well-placed for maximum effect. When you, or a
+    member of your squad, makes an attack using grenades or a grenade launcher
+    of some kind, add an automatic Exalted Icon to the attack</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QyFR2OWMOgN9vvld
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700067993855
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: QyFR2OWMOgN9vvld
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!QyFR2OWMOgN9vvld'

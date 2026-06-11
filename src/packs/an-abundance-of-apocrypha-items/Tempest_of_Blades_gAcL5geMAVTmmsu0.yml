@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Tempest of Blades
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Dire Avenger, Ballistic Skill rating 6+
+  description: >-
+    <p>Little can withstand the tempest of blades that issues forth from
+    shuriken weapons under your command. When you or any member of you squad,
+    scores a critical when making a ranged attack with a weapon with the
+    SHURIKEN keyword, they may choose to make a second attack with that weapon
+    instead of inflicting a critical hit. These additional attacks may not
+    generate extra attacks of their own.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1700068176825
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: gAcL5geMAVTmmsu0
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!gAcL5geMAVTmmsu0'

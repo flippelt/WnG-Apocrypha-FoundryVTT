@@ -1,0 +1,62 @@
+name: Phase Sword
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>A Phase Sword&mdash;often referred to as a C&rsquo;Tan Phase
+    Sword&mdash;is a metal blade of unknown composition that, through the use of
+    seemingly impossible physics, is capable of phasing through any object
+    irrespective of its physical properties. Energy shields, armour and even
+    daemonic bodies are of no defence against a Phase Sword.</p>
+  value: 10
+  keywords: e PHASE BLADE, OFFICIO ASSASSINORUM, CALLIDUS TEMPLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: warpWeapons
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: QMfRKhIFUOHoAFXu
+_id: 2XyNds9oe5br9y3N
+sort: 1800000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!2XyNds9oe5br9y3N'

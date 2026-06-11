@@ -1,0 +1,65 @@
+name: Huskblade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Perhaps the most lethal weapon in the arsenals of Drukhari Archons, Husk
+    Blades evaporate the moisture from everything they touch, leaving desiccated
+    flesh and dry bone in their wake. Even the toughest foes have been struck
+    down by these blades, reduced to the dried-out husks for which the blade is
+    named.</p>
+  value: 8
+  keywords: BLADE, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: mortal-(d3)
+      custom: true
+      display: Mortal (D3)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 103125
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: oRlzSEr0iaXk7Gn4
+_key: '!items!oRlzSEr0iaXk7Gn4'

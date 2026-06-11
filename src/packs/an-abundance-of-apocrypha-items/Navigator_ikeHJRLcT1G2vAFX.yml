@@ -1,0 +1,153 @@
+folder: wXE2cq9PrNi3qmiu
+name: Navigator
+type: archetype
+_id: ikeHJRLcT1G2vAFX
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Navigator
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.sct1yeuKvW4tOqGn
+  faction:
+    name: Navis Nobilite
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.5RxAf14CFmfPl7O4
+  influence: 2
+  cost: 66
+  keywords:
+    - IMPERIUM
+    - NAVIS NOBILITE
+    - '[HOUSE]'
+    - PSYKER
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 3
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: 2
+    medicae: null
+    persuasion: null
+    pilot: 2
+    psychicMastery: 3
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Warp Guide
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4eum881fNmhIsOmq
+  wargear:
+    - name: Mesh Armour
+      id: Compendium.wng-core.items.Item.Gkvz8V1xP8wrBBk8
+      type: item
+      diff: {}
+      index: 0
+      groupId: A1YEUDjCKcDGhRzY
+    - name: Master-Crafted Laspistol
+      id: Compendium.wng-core.items.Item.cgAJlyCsjH6xdX66
+      type: item
+      diff: {}
+      index: 1
+      groupId: B8X7TH11MfSp0xYi
+    - name: Force Stave
+      id: Compendium.wng-core.items.Item.9vfkaU0vc61t7hKO
+      type: item
+      diff: {}
+      index: 2
+      groupId: yhD5FnTrkqLZSq0l
+    - name: Nobilite Robes (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Nobilite Robes (Clothing)
+      index: 3
+      groupId: CW97czc9rRx8I52Q
+    - name: Emperor's Tarot Deck (Psychic Focus)
+      id: Compendium.wng-core.items.Item.hm72b4pxq5EzPYSu
+      type: item
+      diff:
+        name: Emperor's Tarot Deck (Psychic Focus)
+      index: 4
+      groupId: qdWEyfz5XIbuFqvq
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: A1YEUDjCKcDGhRzY
+      - type: item
+        index: 1
+        groupId: B8X7TH11MfSp0xYi
+      - type: item
+        index: 2
+        groupId: yhD5FnTrkqLZSq0l
+      - type: item
+        index: 3
+        groupId: CW97czc9rRx8I52Q
+      - type: item
+        index: 4
+        groupId: qdWEyfz5XIbuFqvq
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 3
+      initiative: 3
+      willpower: 4
+      intellect: 4
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 4
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: 1
+      intimidation: 2
+      investigation: null
+      leadership: 2
+      medicae: null
+      persuasion: 3
+      pilot: 3
+      psychicMastery: 3
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: 1
+      weaponSkill: 1
+    talents:
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+      - id: iiqjZLMe2IxQMth5
+        name: Noble Peer
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710610051180
+  modifiedTime: 1710716336260
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ikeHJRLcT1G2vAFX'

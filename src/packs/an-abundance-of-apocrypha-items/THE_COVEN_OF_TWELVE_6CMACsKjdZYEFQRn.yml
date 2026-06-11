@@ -1,0 +1,60 @@
+folder: H0RDNpOeKBevlLyk
+name: THE COVEN OF TWELVE
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>Masters of closequarters butchery, the Coven of Twelve are known for
+    their inventive approach to violence, seeking to find novel forms of murder
+    to inflict upon their foes. When making a melee attack, the character
+    improves the AP of their weapon by 1 (i.e., from -1 to -2). In addition, the
+    character reduces the penalty of a Multi-Action by Rank.</p>
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: THE COVEN OF TWELVE
+    _id: xaM3dQ01mspYkP5r
+    changes:
+      - key: ap.bonus
+        mode: 6
+        value: '-1'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              When making a melee attack, the character improves the AP of their
+              weapon by 1
+            hide: ''
+    tint: null
+    _key: '!items.effects!6CMACsKjdZYEFQRn.xaM3dQ01mspYkP5r'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1vovgXwFFM4ogtMn
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710532282481
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6CMACsKjdZYEFQRn
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!6CMACsKjdZYEFQRn'

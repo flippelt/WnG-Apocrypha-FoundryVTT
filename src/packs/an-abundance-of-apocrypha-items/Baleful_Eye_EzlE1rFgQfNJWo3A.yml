@@ -1,0 +1,49 @@
+name: Baleful Eye
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.EzlE1rFgQfNJWo3A
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A baleful eye is a legendary archaeotech bionic
+    eye that incorporates a tiny las weapon, which sacrifices some of the normal
+    abilities of a cybernetic vision implant for this device to be included.
+    Each baleful eye has been passed from recipient to recipient across
+    centuries or millennia, reclaimed by the Machine Cult whenever its owner
+    dies. As might be imagined, it is very intimidating when used as a part of
+    negotiations with primitive societies.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A character with a Baleful Eye is considered to have a
+    Hot-Shot Laspistol within the eye. The weapon runs from an internal power
+    source, and never runs out of ammunition, but this also means that ammo may
+    not be spent on the weapon’s attacks.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: IMPERIUM, ADEPTUS MECHANICUS
+  requirements: ''
+  effect: ''
+_id: EzlE1rFgQfNJWo3A
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099784
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!EzlE1rFgQfNJWo3A'

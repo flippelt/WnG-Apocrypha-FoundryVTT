@@ -1,0 +1,145 @@
+folder: yFKwNivJm2h6RQHw
+name: Adamus Assassin
+type: archetype
+_id: yQeU77HBVdfkvMcg
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: ''
+    id: ''
+  influence: 0
+  cost: 290
+  keywords:
+    - IMPERIUM
+    - OFFICIO ASSASSINORUM
+    - TEMPLUM ADAMUS
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 2
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: 4
+    survival: 3
+    tech: 1
+    weaponSkill: 5
+  ability:
+    name: Decapitation Strike
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.YrYMmi3skw72aF2R
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Nemesii Blade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JJb2Er9ihmf322uJ
+      type: item
+      diff: {}
+      index: 1
+      groupId: cJAerERTxFrKSPzi
+    - name: Needlespine Blaster (Bolt)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.H2Rtwz5cm1uMTOdn
+      type: item
+      diff: {}
+      index: 2
+      groupId: jsxqhKxluvk05Nae
+    - name: Needlespine Blaster (Needler)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QdW6Kba5ZiRZgBK1
+      type: item
+      diff: {}
+      index: 3
+      groupId: z37y9n5gKAjucURf
+    - name: Assassinorum Bodyglove
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.50gYnTefq7FohjIH
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: cJAerERTxFrKSPzi
+      - index: 2
+        type: item
+        groupId: jsxqhKxluvk05Nae
+      - index: 3
+        type: item
+        groupId: z37y9n5gKAjucURf
+      - index: 4
+        type: item
+        groupId: qnQWMly0WKMtVvj5
+  suggested:
+    attributes:
+      strength: 5
+      toughness: 5
+      agility: 6
+      initiative: 6
+      willpower: 5
+      intellect: 4
+      fellowship: 3
+    skills:
+      athletics: 4
+      awareness: 3
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: 2
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: 5
+      survival: 3
+      tech: 2
+      weaponSkill: 6
+    talents:
+      - id: gM1zenlhkmIMBA5C
+        name: Eliminator
+      - id: GJUeAkAPhh5uYtlP
+        name: Silent
+      - id: S8nWbBtvhO0lOd0K
+        name: Blademaster
+effects: []
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710777808061
+  modifiedTime: 1710779575575
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!yQeU77HBVdfkvMcg'

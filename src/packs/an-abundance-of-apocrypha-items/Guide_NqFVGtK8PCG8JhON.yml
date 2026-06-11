@@ -1,0 +1,96 @@
+name: Guide
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Guide
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.bon'
+        priority: null
+    _id: UG9BxJTGYGz0lMIs
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!NqFVGtK8PCG8JhON.UG9BxJTGYGz0lMIs'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.NqFVGtK8PCG8JhON
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You twist the strands of destiny to your will, picking out targets from
+    amidst the swirling chaos of battle and guiding the shots of your allies to
+    where they might do the most harm. Select a number of allies equal to your
+    Willpower within range. Until the start of your next turn, affected allies
+    may re-roll all failures on ranged attacks.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: 1 Round
+  range: 50m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: AELDARI, FARSEER
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 bonus dice to the ranged attacks of affected allies.
+      cost: 1
+      property: bon
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: NqFVGtK8PCG8JhON
+folder: SWCK2I9zpJkIWpsv
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742856
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!NqFVGtK8PCG8JhON'

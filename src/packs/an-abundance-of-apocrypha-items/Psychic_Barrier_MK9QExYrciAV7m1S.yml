@@ -1,0 +1,111 @@
+name: Psychic Barrier
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Psychic Barrier
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@test.result.res'
+        priority: null
+    _id: NEYrtEoqiPpglqAh
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!MK9QExYrciAV7m1S.NEYrtEoqiPpglqAh'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.MK9QExYrciAV7m1S
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You weave an aegis of pure psychic energy around your allies, against
+    which enemy fire sparks and spatters harmlessly. Select a number of IMPERIUM
+    allies you can see within range equal to your Willpower. While this power
+    remains in effect, affected allies increase their Resilience by +2, and may
+    roll Determination against Mortal Wounds</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: KINETIC, PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Resilience
+      cost: 1
+      property: res
+      initial: 2
+      value: 1
+      single: false
+    - description: Affect +1 ally
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        Affected allies who roll Determination while this power is in effect may
+        roll a number of dice equal to your Willpower instead of their normal
+        Determination.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: MK9QExYrciAV7m1S
+folder: XzBZHQMRhqwSzD6z
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206723
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!MK9QExYrciAV7m1S'

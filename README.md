@@ -12,15 +12,17 @@ See **[CONVERSION-STATUS.md](CONVERSION-STATUS.md)** for the full, detailed
 checklist (PDF **v9** × compendium): every archetype and ascension package marked
 ✅ done / 🟡 stub / ❌ to do, plus a prioritized conversion plan.
 
-**Highlights (vs PDF v9):**
+**Highlights:**
 
 - ✅ **Done:** factions, species & variants, talents, psychic powers, gear,
-  weapons, armour, augmetics, keywords, and many NPC stat blocks.
-- 🟡 **In progress:** archetypes (~16 of 139) and ascension packages (7 of 16) —
-  including started T'au Empire and Leagues of Votann.
-- ❌ **To do:** most archetypes, the remaining ascension packages, and the new
-  v9 sections (Vehicles, Navigators, Imperial Navy, Companions, new Astartes
-  Chapters & Heretic Legions).
+  weapons, armour, augmetics, keywords, NPC stat blocks, **185 archetypes** and
+  **18 ascension packages** — the module is substantially complete.
+- 🟡 **Remaining:** 9 `(NYI)` archetype stubs (Windrider, Reaver, Speed Freek,
+  Hernkyn Pioneer ×2, Aeronautica Pilot, Crimson Hunter, Shining Spear,
+  Wraithblade), 8 of which are blocked on a **vehicle/mount** item that the
+  module does not model yet.
+- ❌ **To do:** the **Vehicles** subsystem (no `vehicle` item type), which
+  unblocks those stubs, plus minor spot fixes.
 
 ## Roadmap — *The Mekhanical Update*
 

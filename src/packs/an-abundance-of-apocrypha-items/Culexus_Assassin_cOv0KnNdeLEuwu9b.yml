@@ -1,0 +1,161 @@
+folder: yFKwNivJm2h6RQHw
+name: Culexus Assassin
+type: archetype
+_id: cOv0KnNdeLEuwu9b
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Pariah
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.M1Yy7gqMIn7GZedz
+  faction:
+    name: Officio Assassinorum
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GgJupC58AywMDFq9
+  influence: 0
+  cost: 308
+  keywords:
+    - IMPERIUM
+    - OFFICIO ASSASSINORUM
+    - TEMPLUM CULEXUS
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 2
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: 1
+    persuasion: null
+    pilot: 1
+    psychicMastery: null
+    scholar: 1
+    stealth: 4
+    survival: 3
+    tech: 1
+    weaponSkill: 4
+  ability:
+    name: Life Drain
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9bbIV29MG50f6Xoo
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Etherium
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.puNhmpfvYPkjreST
+      type: item
+      diff: {}
+      index: 1
+      groupId: 3CmFfYecCROgO7YH
+    - name: Force Matrix
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.SXsJ5MHSZSeyl7GQ
+      type: item
+      diff: {}
+      index: 2
+      groupId: Vua04zACUyWF92oR
+    - name: Animus Speculum
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QMCeV3Nu31ziVE5y
+      type: item
+      diff: {}
+      index: 3
+      groupId: Yd4b5BkQHMYYu3YQ
+    - name: Psyk-Out Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Rs98pBCteVE7y1GS
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: ZsUGwO72fJ6GTVY8
+    - name: Assassinorum Bodyglove
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.50gYnTefq7FohjIH
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 3CmFfYecCROgO7YH
+      - index: 2
+        type: item
+        groupId: Vua04zACUyWF92oR
+      - index: 3
+        type: item
+        groupId: Yd4b5BkQHMYYu3YQ
+      - index: 4
+        type: item
+        groupId: ZsUGwO72fJ6GTVY8
+      - index: 5
+        type: item
+        groupId: j9YApT8wrWq0EB8v
+  suggested:
+    attributes:
+      strength: 5
+      toughness: 4
+      agility: 6
+      initiative: 6
+      willpower: 5
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 3
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: 1
+      persuasion: null
+      pilot: 1
+      psychicMastery: null
+      scholar: 1
+      stealth: 5
+      survival: 3
+      tech: 1
+      weaponSkill: 5
+    talents:
+      - id: gM1zenlhkmIMBA5C
+        name: Eliminator
+      - id: GJUeAkAPhh5uYtlP
+        name: Silent
+      - id: KblllCqaUDvYbDGT
+        name: Anathema
+      - id: xna1CV43LaHeOtXE
+        name: Witch's Nightmare
+effects: []
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710779382604
+  modifiedTime: 1710779851815
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!cOv0KnNdeLEuwu9b'

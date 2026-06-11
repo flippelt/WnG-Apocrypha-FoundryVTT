@@ -1,0 +1,92 @@
+name: Hallucinogen Grenade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.sa7F2ZdqelPPUypk
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Harlequins are known to use carefully
+    cultivated hallucinogenic gases alongside holographic lightshows and psychic
+    manipulation in their performances. This extends to warfare as well as the
+    stage, where these grenades release hissing clouds of mind-altering gases
+    and glittering bursts of kaleidoscopic light, spreading dread and
+    confusion.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">Any creature caught in the blast of a Hallucinogen
+    Grenade must pass a </span><span class="fontstyle3">Terror </span><span
+    class="fontstyle0">test (TN 5). Further, if a creature suffers a
+    complication on this test, then they also suffer 1d3 mortal wounds.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: GAS, AELDARI, HARLEQUINS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 10
+    - name: gas
+      custom: true
+      display: Gas
+      description: >-
+        A Gas weapon deploys clouds of aerosolised or gaseous chemical agents.
+        To use a Gas weapon, make a Ballistic Skill test to target a specific
+        location; if it hits, that is where the gas emerges, filling the blast
+        area and affecting creatures within. The gas dissipates over time,
+        reducing the Blast Rating by 2 at the end of each round. Strong winds
+        may make the gas dissipate more quickly, at GM’s discretion. Characters
+        wearing a rebreather or a void suit, or armour which includes such
+        features, automatically succeed at any tests required to resist Gas
+        weapon’s effects, as are creatures which do not need to breathe, such as
+        unliving automata, NECRONS, or DAEMONS, or creatures impervious to
+        chemical weapons like TYRANIDS.
+  upgrades: []
+_id: sa7F2ZdqelPPUypk
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932543
+  modifiedTime: 1710782340294
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 0
+_key: '!items!sa7F2ZdqelPPUypk'

@@ -1,0 +1,102 @@
+folder: kcIfowy1n7OiCCwE
+name: Hearthkyn Warrior (Ironkin)
+type: archetype
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Ironkin
+    id: Item.B4Adt2q454nYiepT
+  faction:
+    name: Leagues of Votann
+    id: Item.HSaREh8NK25ui3Ou
+  influence: 0
+  cost: 72
+  keywords:
+    - LEAGUES OF VOTANN
+    - '[LEAGUE]'
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 1
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 3
+  ability:
+    name: Stalwart Comrade
+    id: Item.1NAtXbnrHHhu8UGI
+  wargear:
+    - - name: ''
+        id: ''
+  groups:
+    type: and
+    groupId: root
+    items: []
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 2
+      initiative: 3
+      willpower: 3
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: 1
+      weaponSkill: 3
+    talents: []
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.DQhIbYuSk5TSC9kC
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699537958558
+  modifiedTime: 1710451669914
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: r4LzMva9Qu5My16X
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!r4LzMva9Qu5My16X'

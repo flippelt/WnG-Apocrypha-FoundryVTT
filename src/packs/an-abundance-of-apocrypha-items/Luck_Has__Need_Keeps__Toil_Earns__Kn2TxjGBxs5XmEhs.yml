@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Luck Has. Need Keeps. Toil Earns.
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: LEAGUES OF VOTANN keyword, Willpower 4+
+  description: >-
+    <p>You believe that rightful ownership lies with whomever strives hard
+    enough to possess the prize.</p><p>At the start of any of your turns, you
+    may spend 1 Wrath point to enter a defiant stance. You may not move during
+    this turn, but you increase your Resolve, Conviction, and Determination by
+    +Rank. Until the start of your next turn.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Kn2TxjGBxs5XmEhs
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699803974027
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: Kn2TxjGBxs5XmEhs
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 4400000
+_key: '!items!Kn2TxjGBxs5XmEhs'

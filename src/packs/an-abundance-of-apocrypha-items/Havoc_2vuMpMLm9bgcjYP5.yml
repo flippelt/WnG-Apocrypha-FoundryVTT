@@ -1,0 +1,246 @@
+folder: cZ7bosRjx1cxapg8
+name: Havoc
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 1
+  cost: 270
+  keywords:
+    - CHAOS
+    - '[MARK OF CHAOS]'
+    - HERETIC ASTARTES
+    - '[LEGION]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 5
+    cunning: 1
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: 1
+    weaponSkill: 4
+  ability:
+    name: Addicted to Destruction
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bAMEhWgMIhZ3tQQf
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: jUQkVpYqx1vd11l1
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 2
+      groupId: Bhg6vsOwy3S2Zqqo
+    - name: Astartes Combat Knife
+      id: Compendium.wng-core.items.Item.4QVBQYWXXLyvFWkj
+      type: item
+      diff: {}
+      index: 3
+      groupId: SyKxd4bYk3GSaB6o
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: zQH2PUB9zgimnLZG
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: bUxO44xp2eAdCQn9
+    - name: Ammo Backpack
+      id: Compendium.wng-core.items.Item.Dh1HhVnPaURjpgTR
+      type: item
+      diff: {}
+      index: 6
+      groupId: Si0nJvmTHU4IUIJc
+    - name: Autocannon
+      id: Compendium.wng-core.items.Item.9DfD3HEoGmpIWLoC
+      type: item
+      diff: {}
+      index: 7
+      groupId: 6sT5bMJFlR4xnsu8
+    - name: Heavy Bolter
+      id: Compendium.wng-core.items.Item.ut6nsTPR0xL4mfET
+      type: item
+      diff: {}
+      index: 8
+      groupId: RkZKf7I1E2scelq5
+    - name: Missile Launcher
+      id: Compendium.wng-core.items.Item.Ir3TL7qFOrdSzgJs
+      type: item
+      diff: {}
+      index: 9
+      groupId: Ji4ndiFZ8mN9Aipt
+    - name: Frag Missile
+      id: Compendium.wng-core.items.Item.FHwIBN0uKcGPMnxn
+      type: item
+      diff:
+        system:
+          quantity: 6
+      index: 10
+      groupId: mDf6jPbrbwHwm6Ch
+    - name: Krak Missile
+      id: Compendium.wng-core.items.Item.YOwhm6xcXXT7BxDO
+      type: item
+      diff:
+        system:
+          quantity: 6
+      index: 11
+      groupId: 85PCmWR6VF3CItip
+    - name: Lascannon
+      id: Compendium.wng-core.items.Item.x1Ouy4jFDseOnm26
+      type: item
+      diff: {}
+      index: 12
+      groupId: nHweogPEe4Dv9mFE
+    - name: Reaper Chaincannon
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ikCrVCNix6HpW1QY
+      type: item
+      diff: {}
+      index: 13
+      groupId: aZBxLAxenN3OdYxE
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: jUQkVpYqx1vd11l1
+      - index: 2
+        type: item
+        groupId: Bhg6vsOwy3S2Zqqo
+      - index: 3
+        type: item
+        groupId: SyKxd4bYk3GSaB6o
+      - index: 4
+        type: item
+        groupId: zQH2PUB9zgimnLZG
+      - index: 5
+        type: item
+        groupId: bUxO44xp2eAdCQn9
+      - index: 6
+        type: item
+        groupId: Si0nJvmTHU4IUIJc
+      - type: or
+        items:
+          - index: 7
+            type: item
+            groupId: 6sT5bMJFlR4xnsu8
+          - index: 8
+            type: item
+            groupId: RkZKf7I1E2scelq5
+          - type: and
+            items:
+              - index: 9
+                type: item
+                groupId: Ji4ndiFZ8mN9Aipt
+              - index: 11
+                type: item
+                groupId: 85PCmWR6VF3CItip
+              - index: 10
+                type: item
+                groupId: mDf6jPbrbwHwm6Ch
+            groupId: dIjT97PegR1BsDRo
+          - index: 12
+            type: item
+            groupId: nHweogPEe4Dv9mFE
+          - index: 13
+            type: item
+            groupId: aZBxLAxenN3OdYxE
+        groupId: 5pitWXCjGJOhWzCq
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: 2aRTpVsPagGLd2Fz
+        name: Hail of Fire
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+      - id: Et1v8hcZkaotmOlp
+        name: Mark of Chaos
+effects: []
+flags:
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710683303414
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 2vuMpMLm9bgcjYP5
+sort: 900000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!2vuMpMLm9bgcjYP5'

@@ -1,0 +1,65 @@
+folder: e9EXVo6L2qnEFMDP
+name: Plasma Gun, Mk III
+type: weapon
+img: modules/wng-core/assets/icons/weapons/plasma-gun.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: ''
+  value: 6
+  keywords: PLASMA, IMPERIUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: rapidFire
+      rating: 1
+    - name: volatile-(d3)
+      custom: true
+      display: Volatile (d3)
+      description: >-
+        The weapon’s power is barely-contained, and it can be harmful to an
+        unwary wielder. If you suffer a Complication when wielding this weapon,
+        you immediately suffer X Mortal Wounds. X may either be a static value,
+        or it may be a die roll, such as d3 or d6. If a Volatile weapon has the
+        Blast trait, then a Complication inflicts X Mortal Wounds to all
+        creatures within the weapon’s Blast rating, centred on the wielder.
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709902518515
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: fl6ZrOTB6AVfbUFs
+_key: '!items!fl6ZrOTB6AVfbUFs'

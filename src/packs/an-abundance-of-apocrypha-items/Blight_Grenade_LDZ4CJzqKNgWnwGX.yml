@@ -1,0 +1,75 @@
+name: Blight Grenade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-ranged.Item.LDZ4CJzqKNgWnwGX
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">Also known as a Death’s-Head of Nurgle, Blight
+    Grenades are explosive devices bloated and swollen with pathogens used by
+    Plague Marines. When they explode the resulting shrapnel carries deadly
+    toxins and contagions that can penetrate cracks in armour, cause flesh to
+    boil and slough away, and fill the air with blinding spores, all the while
+    keeping the victim alive until the very end. Some versions of Blight
+    Grenades resemble maggot-filled shrunken heads, while others are made from
+    the actual heads of slain enemies.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: EXPLOSIVE, CHAOS, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+    - name: inflict
+      rating: Poisoned 4
+  upgrades: []
+_id: LDZ4CJzqKNgWnwGX
+folder: OUOFLqDJaP03QNHY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925967083
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!LDZ4CJzqKNgWnwGX'

@@ -1,0 +1,140 @@
+folder: FQ4YTlz56b4rSD2s
+name: Crisis Suit Pilot
+type: archetype
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Shas T'au
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zeiTGyhliTh7KZlG
+  faction:
+    name: T'au Empire
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymiA0vN6P5lSl08j
+  influence: 1
+  cost: 64
+  keywords:
+    - T'AU EMPIRE
+    - FIRE CASTE
+    - '[SEPT]'
+  attributes:
+    strength: null
+    toughness: 2
+    agility: 3
+    initiative: 3
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 2
+    ballisticSkill: 3
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 2
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: null
+  ability:
+    name: A Multitude of Weapons
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.SjlZRBSgcNZXlmzY
+  wargear:
+    - - name: ''
+        id: ''
+    - name: XV8 Crisis Battlesuit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VgEv4bhJtRsfO4V2
+      type: item
+      diff: {}
+      index: 1
+      groupId: 9Gegi3DgsmPz1Xm2
+    - name: Burst Cannon
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iBMOSMdFZnzZAFiJ
+      type: item
+      diff: {}
+      index: 2
+      groupId: L6L1jusNi8QZldkc
+    - name: T’au Flamer
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.PNuRVySQECjcHkMZ
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 9Gegi3DgsmPz1Xm2
+      - index: 2
+        type: item
+        groupId: L6L1jusNi8QZldkc
+      - index: 3
+        type: item
+        groupId: JPUYPH3vJp2ctroe
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 4
+      initiative: 4
+      willpower: 3
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 4
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: 1
+      medicae: null
+      persuasion: null
+      pilot: 2
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 2
+      tech: 2
+      weaponSkill: 1
+    talents:
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: 7UGuNT8yY0OZXQJq
+        name: Dynamic Offensive
+      - id: 1OzEfrtLvMDY3XgW
+        name: Strike and Fade
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.yitwSyaGbcdiZFkX
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699801076983
+  modifiedTime: 1710606405246
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: yitwSyaGbcdiZFkX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 200000
+_key: '!items!yitwSyaGbcdiZFkX'

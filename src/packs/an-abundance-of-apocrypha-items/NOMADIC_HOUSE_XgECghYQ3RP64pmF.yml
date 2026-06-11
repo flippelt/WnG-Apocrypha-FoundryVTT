@@ -1,0 +1,60 @@
+folder: mVwsA2RNYLWHNaKe
+name: NOMADIC HOUSE
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p>Nomadic Houses are well-travelled. They grant +Rank dice to Pilot tests
+    and Conviction.</p>
+effects:
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    changes:
+      - key: system.skills.pilot.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: NOMADIC HOUSE
+    _id: SgGXVMyqvrY0h9rm
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!XgECghYQ3RP64pmF.SgGXVMyqvrY0h9rm'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.b9rMGuC52XtOfY4Q
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699503217849
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: XgECghYQ3RP64pmF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!XgECghYQ3RP64pmF'

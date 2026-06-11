@@ -1,0 +1,66 @@
+folder: Jr1XUs92ggb9r4uN
+name: High Output Burst Cannon
+type: weapon
+_id: thwFIDcEMpj9LOqj
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">The more potent reactor and advanced recoil
+    stabilisers of the Coldstar Battlesuit is often combined with an up-rated
+    form of burst cannon, like those found on larger T’au vehicles.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 0
+  keywords: ''
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 10
+  traits:
+    - name: assault
+    - name: heavy
+      rating: 6
+    - name: rapidFire
+      rating: 5
+  upgrades: []
+effects: []
+sort: 500000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710106874299
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!thwFIDcEMpj9LOqj'

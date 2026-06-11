@@ -1,0 +1,58 @@
+name: Banshee Blade
+type: weapon
+_id: 1RNIRTNGDNSFLjlB
+img: modules/wng-core/assets/icons/weapons/sword.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>These refined, artfully crafted power swords are the traditional armament
+    of Howling Banshee Aspect Warriors. Each blade is perfectly balanced to
+    strike while the wielder is in motion, using the acrobatic style of their
+    users to add momentum and cutting power to each swing.</p>
+  value: 5
+  keywords: POWER, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: parry
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709854609748
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!1RNIRTNGDNSFLjlB'

@@ -1,0 +1,71 @@
+name: Stalker-pattern Boltgun
+type: weapon
+img: modules/wng-core/assets/icons/weapons/boltgun.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A modified boltgun, used by specialised snipers within the Adeptus
+    Astartes, particularly the Deathwatch. Not a dedicated sniping weapon, it
+    serves as a mid-point between boltgun and sniper rifle.</p>
+
+    <p>A Stalker-pattern Boltgun comes with a
+    @UUID[Item.SWEx4ZoVCxd0oz5O]{Monoscope} as standard.</p>
+  value: 7
+  keywords: BOLT, ADEPTUS ASTARTES, DEATHWATCH
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: brutal
+    - name: heavy
+      rating: 4
+    - name: rapidFire
+      rating: 1
+    - name: sniper
+      rating: 1
+  upgrades: []
+effects: []
+flags:
+  scene-packer:
+    hash: b81ce5bbbb902c242b9ff73f97bb3456220d70d7
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665426761238
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: YDZMGMH4daD0zFpU
+sort: 1600000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!YDZMGMH4daD0zFpU'

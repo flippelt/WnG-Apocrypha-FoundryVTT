@@ -1,0 +1,70 @@
+name: Electrostatic Gauntlets (Melee)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: QMfRKhIFUOHoAFXu
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Some Electro-Priests wield a set of metal apparatus around their wrists
+    that channel tremendous electrostatic potential from their capacitors. This
+    can be discharged in a cascade of deadly lightning. Ranged: Electrostatic
+    Gauntlets can be used</p>
+  value: 6
+  keywords: LUMINEN, 2-HANDED, ADEPTUS MECHANICUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: tesla
+      custom: true
+      display: Tesla
+      description: >-
+        The weapon fires arcs of crackling lightning, leaping from foe to foe.
+        When you shift Exalted Icons from a successful attack, you may shift
+        Exalted Icons to hit enemies within 3m of an existing target as well as
+        the main target, using the weapon’s normal damage and AP. Each Exalted
+        Icon shifted may only be used to hit additional enemies or to gain +ED,
+        not both.
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: WOPEbKg4r63ucuBD
+sort: 1400000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!WOPEbKg4r63ucuBD'

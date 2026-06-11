@@ -1,0 +1,127 @@
+name: Soul of Adamantium
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Soul of Adamantium
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.results.det'
+        priority: null
+      - key: difficulty.bonus
+        mode: 7
+        value: '@test.results.dif'
+        priority: null
+    _id: GsRmVpzMFPnSupcc
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: 'Soul of Adamantium: Determination roll'
+            hide: ''
+          '1':
+            script: ''
+            description: 'Soul of Adamantium: VS Willpower/Resolve'
+            hide: ''
+    tint: null
+    _key: '!items.effects!G3nUOACGzaWvXN0S.GsRmVpzMFPnSupcc'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.G3nUOACGzaWvXN0S
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Your mind is a powerful weapon, and your faith in the Emperor makes it
+    doubly so. With this technique, you cleave to the bond between yourself and
+    the God-Emperor, fortifying mind, body, and soul with the certainty of
+    faith. While this power remains in effect, you automatically pass all
+    Resolve and Conviction tests, and you may roll Determination against Mortal
+    Wounds.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        You also regain Shock equal to your Rank +1 at the start of each of your
+        turns while the power remains in effect.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: +1 die when you roll Determination
+      cost: 1
+      property: det
+      initial: ''
+      value: 1
+      single: false
+    - description: >-
+        Any effects which use your Willpower or your Resolve as their DN
+        increase their DN by +1.
+      cost: 1
+      property: dif
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: G3nUOACGzaWvXN0S
+folder: BOwa2ac4VoE8QlCY
+sort: 162500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206787
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!G3nUOACGzaWvXN0S'

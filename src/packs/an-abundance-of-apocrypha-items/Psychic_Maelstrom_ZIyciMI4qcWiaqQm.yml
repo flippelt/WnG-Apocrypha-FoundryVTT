@@ -1,0 +1,87 @@
+name: Psychic Maelstrom
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.ZIyciMI4qcWiaqQm
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You unleash the full might of your mind, summoning a roiling psychic
+    tempest that envelops the enemy, lifting them from the ground and wrenching
+    them about like a rag doll. This power affects enemies within a Blast (6)
+    you can see within range. This blast must touch the nearest enemy you can
+    see. Each enemy must pass a Strength test with a DN of 4, and failure means
+    they are flung 1d3 metres in a random direction and knocked Prone, suffering
+    Mortal Wounds equal to the distance they were thrown.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 DN
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: ' Blast rating is increased by +2.'
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Each target is thrown +1 metre
+      cost: 1
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: 4
+    type: attribute
+    specification: strength
+_id: ZIyciMI4qcWiaqQm
+folder: XzBZHQMRhqwSzD6z
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206726
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ZIyciMI4qcWiaqQm'

@@ -1,0 +1,54 @@
+name: Fleshmetal
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-armour.Item.aj4W4PqpEFZiPTdU
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A warp-spawned fusion of muscle and powered
+    steel, Fleshmetal forms a hideous exoskeleton to those followers of Chaos
+    whose armour has long since fused with their body. In most cases, Fleshmetal
+    was once power armour, but it has grown and mutated to the point where there
+    is no clear distinction between the wearer’s flesh and the armour plate they
+    once wore. Fleshmetal is not so much obtained as equipment as it is bestowed
+    by the powers of the Warp.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">6; Powered
+    (4)</span></p><p></p><p><span class="fontstyle2"><strong>Hideous
+    Symbiosis</strong>: </span><span class="fontstyle0">Fleshmetal armour cannot
+    be removed. Whenever the wearer rolls Determination, each Exalted Icon
+    causes them to recover 1 Wound.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: MUTATED, CHAOS, HERETIC ASTARTES
+  equipped: false
+  rating: 6
+  base: 0
+  traits:
+    - name: powered
+      rating: 4
+  invulnerable: false
+_id: aj4W4PqpEFZiPTdU
+folder: hnCJRxqh3cCsdcLF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090020851
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!aj4W4PqpEFZiPTdU'

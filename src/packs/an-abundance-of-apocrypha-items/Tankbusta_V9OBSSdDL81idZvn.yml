@@ -1,0 +1,145 @@
+folder: enJYSEZtnOYeu8p3
+name: Tankbusta
+type: archetype
+_id: V9OBSSdDL81idZvn
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Ork
+    id: Compendium.wng-core.items.Item.HkICqcWbRIsDHtMy
+  faction:
+    name: Ork
+    id: Compendium.wng-core.items.Item.BkBpSmTLEsh1tqCG
+  influence: 0
+  cost: 48
+  keywords:
+    - ORK
+    - '[CLAN]'
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: null
+  ability:
+    name: Tank Hunter
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ilooZTUfAJ1jdFRB
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Rokkit Launcha
+      id: Compendium.wng-core.items.Item.MxPF7AKrctxn9qYw
+      type: item
+      diff: {}
+      index: 1
+      groupId: SI4nfCjXzvMepEAu
+    - name: Ork Flak
+      id: Compendium.wng-core.items.Item.YArm2VCihbVlLurI
+      type: item
+      diff: {}
+      index: 2
+      groupId: sFXjOQysDw5S81YU
+    - name: Stikkbomb
+      id: Compendium.wng-core.items.Item.L7E0G56RBAn4Fmlv
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 3
+      groupId: vBtv41aAUTmYsMQR
+    - name: Tankbusta Bomb
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ScXqF3oyBi3qmPIQ
+      type: item
+      diff: {}
+      index: 4
+      groupId: OqVY6YdRMJP2WYm3
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: SI4nfCjXzvMepEAu
+      - index: 2
+        type: item
+        groupId: sFXjOQysDw5S81YU
+      - index: 3
+        type: item
+        groupId: vBtv41aAUTmYsMQR
+      - index: 4
+        type: item
+        groupId: OqVY6YdRMJP2WYm3
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 4
+      initiative: 3
+      willpower: 3
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: 3
+    talents:
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+      - id: TLV6c8FJhbKFKKUK
+        name: Tenacious
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710618575412
+  modifiedTime: 1710618714255
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!V9OBSSdDL81idZvn'

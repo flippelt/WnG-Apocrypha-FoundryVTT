@@ -1,0 +1,23 @@
+folder: NIfHOAfLrRCoYd1Y
+name: Runts
+type: keyword
+_id: bqL6783i6DVf3Ovq
+img: modules/wng-core/assets/factions/orks.svg
+system:
+  description: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  core:
+    sourceId: Item.bqL6783i6DVf3Ovq
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710435756971
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!bqL6783i6DVf3Ovq'

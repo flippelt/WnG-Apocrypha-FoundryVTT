@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Disarming Strike
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Weapon Skill rating 7+
+  description: >-
+    <p>You do not leave battle to chance, for you eliminate your foe’s weapon at
+    the first opportunity. You ignore up to Double Rank of the normal DN penalty
+    for a called shot when making a melee attack, so long as you are making the
+    called shot to disarm an opponent.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bd9KS0ZN1OJnhdgi
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699835141912
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 8WDRWk59pdmZzNLb
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!8WDRWk59pdmZzNLb'

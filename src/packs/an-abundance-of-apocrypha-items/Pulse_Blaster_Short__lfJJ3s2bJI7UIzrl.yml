@@ -1,0 +1,72 @@
+name: Pulse Blaster(Short)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.lfJJ3s2bJI7UIzrl
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">The Pulse Blaster, also known as a Pulse
+    Shotgun, is a type of T'au Pulse Weapon. Commonly used by Fire Warrior
+    Breacher Teams. Like the Human Shotgun in function, the Pulse Blaster is
+    designed to deliver powerful close-range firepower. Though the T'au are
+    historically disdainful of close-range warfare, the Pulse Blaster had to be
+    developed due to T'au difficulties in urban combat on labyrinthine confined
+    Imperial Hive Worlds.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">Pulse Blasters have different Damage, ED, and AP values
+    depending on whether the target is within Close range, Medium range, or Long
+    range.</span> </p>
+  value: 4
+  keywords: PULSE, T’AU EMPIRE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 8
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: assault
+    - name: spread
+  upgrades: []
+_id: lfJJ3s2bJI7UIzrl
+folder: KCVqHx1PYrcqXhMV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932681293
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!lfJJ3s2bJI7UIzrl'

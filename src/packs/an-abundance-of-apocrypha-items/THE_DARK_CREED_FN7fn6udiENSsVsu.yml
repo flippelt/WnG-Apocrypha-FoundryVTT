@@ -1,0 +1,26 @@
+folder: H0RDNpOeKBevlLyk
+name: THE DARK CREED
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>This monstrous coven cultivate terror, and wield it as the first weapon
+    in their arsenal. Enemies within 6m add +2 DN to all Resolve tests. In
+    addition, the character adds +Rank dice to all attacks against enemies with
+    a lower Resolve than them.</p>
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: FN7fn6udiENSsVsu
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!FN7fn6udiENSsVsu'

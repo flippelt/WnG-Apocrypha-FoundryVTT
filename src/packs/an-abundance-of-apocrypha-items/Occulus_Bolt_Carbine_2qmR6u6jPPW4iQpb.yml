@@ -1,0 +1,108 @@
+name: Occulus Bolt Carbine
+type: weapon
+img: modules/wng-core/assets/icons/weapons/bolt-rifle.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Like the Marksman Bolt Carbine, the Occulus differs mainly with the
+    addition of a potent array of sights that connect to an auspex for swift
+    target acquisition.</p>
+
+    <p>Oculus Bolt Carbines are fitted with a
+    @UUID[Item.j1mPgu7Yvx8rsK8a]{Preysense Sight} as standard.</p>
+
+    <p>Special: If used by a character equipped with a
+    @UUID[Item.Pvl31AN9paSaDLBk]{Divinator-class Auspex}, attacks with an
+    Occulus Bolt Carbine ignore all modifiers for the target being in cover.</p>
+  value: 6
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: brutal
+    - name: rapidFire
+      rating: 1
+  upgrades:
+    - _id: UAC9NG77Q8BjZtq8
+      name: Preysense Sight
+      type: weaponUpgrade
+      img: modules/wng-core/assets/icons/weaponUpgrade/preysense-sight.webp
+      effects: []
+      folder: JM3j5fSh91u6lb0V
+      sort: 0
+      flags:
+        wng-core:
+          initialization-folder: Upgrades
+          sort: 0
+        core:
+          sourceId: Item.j1mPgu7Yvx8rsK8a
+      system:
+        description: >-
+          <p>Preysense sights utilise precision thermal optics, allowing the
+          wearer to see targets in low light or even total darkness.</p>
+
+          <p><strong>Effect</strong>: This weapon upgrade allows the wielder to
+          detect targets via ambient heat, even in total darkness.</p>
+        effect: ''
+        value: 6
+        rarity: rare
+        keywords: IMPERIUM, SCUM, [ANY]
+        traits: []
+      ownership:
+        default: 0
+        TkdNPfNTgOk5SoMe: 3
+        xygrzIwcKUPawMWs: 3
+        cAphwWMEu7MQQzqi: 3
+      _stats:
+        systemId: null
+        systemVersion: null
+        coreVersion: null
+        createdTime: null
+        modifiedTime: null
+        lastModifiedBy: null
+effects: []
+flags:
+  scene-packer:
+    hash: 3725428aef6bac1016bf1ca9892c2ab755e45b36
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665426333051
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: 2qmR6u6jPPW4iQpb
+sort: 1400000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!2qmR6u6jPPW4iQpb'

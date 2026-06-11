@@ -1,0 +1,88 @@
+name: Wings
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects:
+  - icon: modules/wng-core/assets/icons/augmetics/augmetic.webp
+    name: Wings
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '-1'
+        priority: null
+      - key: system.combat.fly
+        mode: 5
+        value: '@combat.speed *2'
+        priority: null
+    _id: uqxgAqCiViX6WQJB
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!ZM3pWVsUuIDhmAmd.uqxgAqCiViX6WQJB'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.ZM3pWVsUuIDhmAmd
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">You have undergone the exquisite and
+    excruciating transformation to allow you to fly. The most obvious part of
+    this is the broad leather or feathered wings that spread from your back, but
+    the transformation runs much deeper, with surgical, bio-alchemical, and
+    genetic alterations that have rebuilt your entire body. Your bones now
+    contain hollows that lighten your physique, and your torso contains a mass
+    of vat-grown muscle and adreno-stim glands which give your wings the
+    strength to lift you. Your nervous system has been rewired to give you
+    control over those wings. You survived all that reengineering and can now
+    soar through the skies.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">You can fly at twice your walking Speed, though you
+    cannot fly if you are wearing armour which lacks the </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">LIGHT </span><span
+    class="fontstyle0">keyword. However, the process of granting you flight has
+    left your body fragile, reducing your Resilience by 1.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: DRUKHARI
+  requirements: ''
+  effect: ''
+_id: ZM3pWVsUuIDhmAmd
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099851
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!ZM3pWVsUuIDhmAmd'

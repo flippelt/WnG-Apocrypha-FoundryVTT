@@ -1,0 +1,84 @@
+name: Web of Skulls (Melee)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.sSgaVLH7mj4hFScM
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The Web of Skulls is an ancient Aeldari weapon,
+    consisting of three heavy crystalline skulls linked together by lengths of
+    chain. The weapon is grasped at the point where the chains meet and spun
+    quickly before being hurled at a target. Cunningly concealed antigrav
+    technology accelerates and propels the weapon to its targets, often to
+    strike several targets in a row before returning. It can also be used in
+    melee in a manner like a flail.</span> </p><p><span
+    class="fontstyle0"><strong>Special</strong>: </span><span
+    class="fontstyle2">A Web of Skulls ignores up to 4 points of DN increase for
+    making a Multi-Attack as part of a ranged attack, but it can Multi-Attack
+    against a maximum of three targets, each of whom must be within 12m of at
+    least one other target</span>.<br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: POWER, ANCIENT, AELDARI,ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: overwhelming
+      custom: true
+      display: Overwhelming
+      description: >-
+        The weapon can batter past even the most proficient defence. When you
+        make an attack with an Overwhelming weapon, the target does not benefit
+        from the Parry trait of any of their weapons or the Defence bonus from
+        Shields.
+  upgrades: []
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932603
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_id: G8eGLuePMuHzPFks
+_key: '!items!G8eGLuePMuHzPFks'

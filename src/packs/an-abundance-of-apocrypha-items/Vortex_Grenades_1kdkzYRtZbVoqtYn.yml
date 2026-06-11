@@ -1,0 +1,117 @@
+name: Vortex Grenades
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.1kdkzYRtZbVoqtYn
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Vortex grenades are exceptionally rare weapons,
+    for they are almost impossible to produce. Only the most skilled of Artisans
+    in the Adeptus Mechanicus are entrusted with the secrets to produce them,
+    and they are only deployed by the most senior Imperial agents in the direst
+    of circumstances. Each grenade, a bulky, dense sphere, contains a
+    miniaturised warp drive, too complex and temperamental to be anything but
+    destructive. When activated, the grenade opens a rift between realspace and
+    the Warp, which turns into a howling vortex that consumes all matter and
+    energy it touches. These vortices are deadly because they are completely
+    unpredictable once formed. Some collapse in a few moments, others remain for
+    longer, and some may even grow or drift around the battlefield. The Aeldari
+    are known to make use of similar technologies, though they favour more
+    stable D-Cannon and Wraithcannon forms over unpredictable Vortex
+    Grenades.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">A Vortex Grenade’s blast remains in effect after the
+    attack is resolved, and any creature still in the area at the end of their
+    turn suffers the listed damage. The vortex blocks all line of sight and
+    cannot be attacked or fired through. At the start of each combat round, roll
+    1d6 and consult the following table:</span></p><p></p><table
+    class="NormalTable"><tbody><tr><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2" style="color:rgb(255,255,255);"><strong>1d6
+    Roll</strong></span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2"
+    style="color:rgb(255,255,255);"><strong>Result</strong></span></p></td></tr><tr><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2"><strong>1-2</strong></span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle0">The grenade’s Blast is reduced in size by 1d6. If this
+    reduces it to Blast (0), the vortex closes, and the effect
+    ends.</span></p></td></tr><tr><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2"><strong>3-4</strong></span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle0">The grenade’s effects remain in
+    play.</span></p></td></tr><tr><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2"><strong>5-6</strong></span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle0">The vortex moves 1d6 metres in a random direction,
+    inflicting its damage on anything it moves into along that
+    path.</span></p></td></tr></tbody></table><p> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 13
+  keywords: EXOTIC, ADEPTUS MECHANICUS, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 20
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -6
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+    - name: warpWeapons
+    - name: mortal-(1)
+      custom: true
+      display: Mortal (1)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+_id: 1kdkzYRtZbVoqtYn
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430857
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!1kdkzYRtZbVoqtYn'

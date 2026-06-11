@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Spark of Divinity
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Custodian species
+  description: >-
+    <p>You bear a little of the Emperor&rsquo;s grace within you, which can
+    sometimes unravel the sorcerous workings of The Enemy.<br>When an enemy
+    psyker attempts to use a Psychic Power within 25m of you, you may spend 1
+    Glory as a Reflexive Action to immediately attempt to
+    @UUID[Item.qZ1MhJjRIuxJxEF7]{Deny The Witch,} as if you were a Psyker. You
+    use your Willpower for this, and add +Double Rank dice to the roll.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0JhD6FAo2HLtwI75
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127691152
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: efQnHiXu16aFS4W4
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 7900000
+_key: '!items!efQnHiXu16aFS4W4'

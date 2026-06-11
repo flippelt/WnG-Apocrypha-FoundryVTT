@@ -1,0 +1,93 @@
+name: Executioner
+type: weapon
+_id: 0yxIxmDD7vn1Wns6
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>The Executioner is a large two-handed glaive, axe, or halberd, commonly
+    used by Howling Banshee Exarchs, which can slice an opponent in half with a
+    single blow. Despite their size, they are lightweight and extremely swift in
+    the hands of their wielders, and their blades are often a blur as they move
+    from impenetrable defence to unstoppable attack.
+    </p><p><strong>Special:</strong> The Parry trait of an Executioner adds +2
+    to the wielder’s Defence in melee, rather than +1.</p>
+  value: 9
+  keywords: POWER FIELD, 2-HANDED, ANCIENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: parry
+  upgrades: []
+effects:
+  - icon: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    name: Executioner
+    _id: 0DRVP8bCWvHUmXjw
+    changes:
+      - key: difficulty.bonus
+        mode: 7
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: 'Executioner: Melee Attack'
+            hide: ''
+    tint: null
+    _key: '!items.effects!0yxIxmDD7vn1Wns6.0DRVP8bCWvHUmXjw'
+folder: 7JxtLZJLkCt2461j
+sort: 1300000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  core:
+    sourceId: Item.0yxIxmDD7vn1Wns6
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709855390483
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!0yxIxmDD7vn1Wns6'

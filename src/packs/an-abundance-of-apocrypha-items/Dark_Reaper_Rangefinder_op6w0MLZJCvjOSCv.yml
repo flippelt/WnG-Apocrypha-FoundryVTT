@@ -1,0 +1,77 @@
+name: Dark Reaper Rangefinder
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Dark Reaper Rangefinder
+    _id: E4FpeNeRraEPxjcK
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '3'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Aimed before making ranged attack
+            hide: ''
+    tint: null
+    _key: '!items.effects!op6w0MLZJCvjOSCv.E4FpeNeRraEPxjcK'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.op6w0MLZJCvjOSCv
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Dark Reaper Range Finder is a specialized
+    Eldar targeting system used by Dark Reapers. Composed of a complex array of
+    sensory and range-finding equipment incorporated into the helms of their
+    Aspect Armour and tied directly into their weapon, Dark Reapers can target
+    their enemies swiftly and accurately thanks to this
+    equipment.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The Reaper Rangefinder allows the wearer to see even in
+    complete darkness or through fog with no penalty. In addition, when a Dark
+    Reaper aims before making a ranged attack, they add +3d to their
+    attack.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: ASURYANI
+  effect: ''
+_id: op6w0MLZJCvjOSCv
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240228
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 1700000
+_key: '!items!op6w0MLZJCvjOSCv'

@@ -1,0 +1,64 @@
+folder: EJ6lK67pJ1JqvFo2
+name: THE YMYR CONGLOMERATE
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p><span class="fontstyle0">Considered an "elite" League, a Kindred's entry
+    into the Ymyr Conglomerate is dependent upon them proving exceptional skill
+    in craftsmanship and a territory that yields a suitably high bounty of
+    resources. There is no stigma attached to a Kindred effectively buying its
+    way in like this - for the Kin are ever pragmatic. Its Brôkhyrs are thus of
+    unparalleled skill and oversee great wealth to fuel their forges. In
+    exchange for sizable exports of raw materials, these resource-rich Kindreds
+    are rewarded with weapons, wargear, and vessels forged by their skilled
+    allies.</span></p><p></p><p><span class="fontstyle2"><strong>ELITE
+    ARTISANS</strong>: </span><span class="fontstyle0">You add +Rank to Tech
+    skill tests and add +1 to the AR of any armour you wear.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+effects:
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    changes:
+      - key: system.skills.tech.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: Tech
+    _id: fdhYTbjQVNXakZPg
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!WY8KZ4K8IA2Hr9jK.fdhYTbjQVNXakZPg'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Cc1a7Lhk22Y3pbyw
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699504031398
+  modifiedTime: 1710532405034
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: WY8KZ4K8IA2Hr9jK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 101563
+_key: '!items!WY8KZ4K8IA2Hr9jK'

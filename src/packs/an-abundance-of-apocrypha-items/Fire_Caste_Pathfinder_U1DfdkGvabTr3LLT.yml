@@ -1,0 +1,155 @@
+folder: FQ4YTlz56b4rSD2s
+name: Fire Caste Pathfinder
+type: archetype
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Shas T'au
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zeiTGyhliTh7KZlG
+  faction:
+    name: T'au Empire
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymiA0vN6P5lSl08j
+  influence: 0
+  cost: 10
+  keywords:
+    - T'AU EMPIRE
+    - FIRE CASTE
+    - '[SEPT]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 1
+    survival: null
+    tech: 1
+    weaponSkill: null
+  ability:
+    name: Vanguard
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.V5heRNnCR85HKOIx
+  wargear:
+    - name: T’au Recon Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.izQkBSoSpIHBZQN9
+      type: item
+      diff: {}
+      index: 0
+      groupId: mkwfUxwhm1eSSN8d
+    - name: Pulse Carbine
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WpxIh86qtdOP3BSk
+      type: item
+      diff: {}
+      index: 1
+      groupId: ioRjq66vinM7vTaC
+    - name: Markerlight
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.sypjiMeweXLd5qCP
+      type: item
+      diff: {}
+      index: 2
+      groupId: YUBNr0L3M8foL2gv
+    - name: Photon Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lZZX5TFoNgZBNDOu
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 3
+      groupId: sMPqqT1P7YOHNOZt
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: mkwfUxwhm1eSSN8d
+      - index: 1
+        type: item
+        groupId: ioRjq66vinM7vTaC
+      - index: 2
+        type: item
+        groupId: YUBNr0L3M8foL2gv
+      - index: 3
+        type: item
+        groupId: sMPqqT1P7YOHNOZt
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 3
+      initiative: 3
+      willpower: 2
+      intellect: 1
+      fellowship: 2
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: 2
+      weaponSkill: null
+    talents:
+      - id: GJUeAkAPhh5uYtlP
+        name: Silent
+      - id: xINMeqzjccMgbx1l
+        name: Supporting Fire
+      - id: yu5AnzdlMjCwN3Yl
+        name: Ta'lissera Bonding
+effects: []
+flags:
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664299789957
+  modifiedTime: 1710544710088
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: U1DfdkGvabTr3LLT
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!U1DfdkGvabTr3LLT'

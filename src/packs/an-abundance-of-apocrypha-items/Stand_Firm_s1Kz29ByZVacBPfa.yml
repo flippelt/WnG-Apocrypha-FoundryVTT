@@ -1,0 +1,33 @@
+folder: R6DiCyrJrBf1MKBz
+name: Stand Firm
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Willpower 5+
+  description: >-
+    <p>You possess absolute certainty and lead with unbreakable conviction:
+    nothing short of death will see your duty unfulfilled. When you, or any of
+    your Squad, attempt a Resolve or Conviction test, you automatically succeed
+    without needing to roll. In addition, any attack or effect which uses your,
+    or a member of your Squad’s, Resolve as a DN automatically fails.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cvTQT3Kj2688XfFd
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700067736577
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: s1Kz29ByZVacBPfa
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!s1Kz29ByZVacBPfa'

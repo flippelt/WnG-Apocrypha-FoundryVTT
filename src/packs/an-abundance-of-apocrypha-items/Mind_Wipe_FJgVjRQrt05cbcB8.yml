@@ -1,0 +1,74 @@
+name: Mind Wipe
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.FJgVjRQrt05cbcB8
+system:
+  dn: '@attributes.willpower.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You scourge the mind of your foe, dragging out every memory that makes
+    them who they are and reducing them to hollow shells of what they once were.
+    You must win at an opposed Willpower test against the target; if the power
+    is successful, the target counts all their skills as having a rating of 0
+    for as long as the power remains in effect (for Threats, all skills use the
+    Default score -2). This power is somewhat taxing to maintain, so you suffer
+    1 Shock for each round it is sustained.</p>
+  effect: ''
+  cost: 15
+  activation: full
+  duration: Sustained
+  range: 35m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: DARK ANGELS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The target also suffers 1 Shock.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: FJgVjRQrt05cbcB8
+folder: F3gTmYP6wHlaqWQF
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959257
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!FJgVjRQrt05cbcB8'

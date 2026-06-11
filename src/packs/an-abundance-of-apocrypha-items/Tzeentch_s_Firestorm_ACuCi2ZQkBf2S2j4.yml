@@ -1,0 +1,80 @@
+name: Tzeentch’s Firestorm
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.ACuCi2ZQkBf2S2j4
+system:
+  dn: '@combat.defence.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You conjure a raging storm of pink and blue fire down from the skies,
+    that mutates your foes and leaves capering daemons that claw and bite in its
+    wake. This targets an enemy within range and line of sight. If successful,
+    roll nine d6. For each Icon rolled, the target suffers 1 Mortal Wound. For
+    each Exalted Icon rolled, the target suffers 1d3 Mortal Wounds.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, TZEENTCH, PSYCHIC, FIRE
+  prerequisites: HERETIC ASTARTES, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: ' Increase the number rolled on each d6 by 1 (i.e., a roll of 3 or 4 is an Icon, while a 5 or 6 is an Exalted Icon).'
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: >-
+        If a target is killed by damage from this power, a single Pink Horror of
+        Tzeentch is summoned, appearing on the same spot as the slain target.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: ACuCi2ZQkBf2S2j4
+folder: Etpcm2KGN6kx7ODw
+sort: 262500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519066
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ACuCi2ZQkBf2S2j4'

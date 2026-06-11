@@ -1,0 +1,127 @@
+name: Legacy of the Cataclysm
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: JAViYYfLm2EtzLRE
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: Legacy of the Cataclysm
+    description: ''
+    statuses: []
+    _key: '!items.effects!2TabrjgJOKZMPr0e.JAViYYfLm2EtzLRE'
+  - _id: L10ugnTNrsWknldR
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: Legacy of the Cataclysm
+    description: ''
+    statuses: []
+    _key: '!items.effects!2TabrjgJOKZMPr0e.L10ugnTNrsWknldR'
+  - _id: RdEB3nZOWwqiZiAF
+    changes:
+      - key: system.combat.corruption.bonus
+        mode: 2
+        value: '3'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    tint: null
+    origin: null
+    name: Legacy of the Cataclysm
+    description: ''
+    statuses: []
+    _key: '!items.effects!2TabrjgJOKZMPr0e.RdEB3nZOWwqiZiAF'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.gJ3zneCWdjHQQVW8
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Your Resolve and Conviction increase by +1 each. You begin play with +3
+    corruption.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057113
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 2TabrjgJOKZMPr0e
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!2TabrjgJOKZMPr0e'

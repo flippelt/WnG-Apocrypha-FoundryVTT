@@ -1,0 +1,31 @@
+name: Alaitoc
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+effects: []
+folder: 16S9xUIVnroLJhc3
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 2000000
+system:
+  description: >-
+    <p>Far out on the frontiers of the galaxy, on the edge of explored space in
+    the Ultima Segmentum, lies the Alaitoc craftworld. The Alaitoc Asuryani are
+    zealous in their guard against the touch of Slaanesh, even more so than is
+    common amongst the other Craftworld Aeldari. As such, Alaitoc is strictly
+    governed to prevent any emergence of the sadistic obsessions that the
+    Aeldari are prone to as a species.</p><p><strong>PURITANICAL
+    DISCIPLINE:</strong> Your Conviction is increased by +Rank.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699479568268
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: sl08P0Ct7mvKz68D
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!sl08P0Ct7mvKz68D'

@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Sustained Assault
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Striking Scorpion aspect, Weapon Skill rating 6+
+  description: >-
+    <p>You are unrelenting, landing blow after ferocious blow upon your foes.
+    When you succeed at a melee attack and score a critical hit, you may choose
+    to make a second attack instead of inflicting a critical hit. This second
+    attack cannot generate further attacks.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.aI9Cakor9vvGfJ4T
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700067920378
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: n8mUQTt6MrNaOsNz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!n8mUQTt6MrNaOsNz'

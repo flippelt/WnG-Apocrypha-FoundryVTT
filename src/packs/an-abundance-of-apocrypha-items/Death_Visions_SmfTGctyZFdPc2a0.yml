@@ -1,0 +1,38 @@
+folder: ZMoR03HW5eXVf9E1
+name: Death Visions
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: BLOOD ANGELS keyword
+  description: >-
+    <p>Your mind and soul are upon the precipice, tormented by visions of
+    Sanguinius&rsquo; demise and barely able to slake the rage and bloodlust in
+    your heart.<br>When you charge into melee, you may add +Rank ED to the
+    damage of that attack. However, you increase the Difficulty of any Willpower
+    test to resist The Red Thirst by an amount equal to your Rank, and a
+    Complication suffered in combat may cause you to hallucinate that you are
+    Sanguinius himself, battling traitors in the Horus Heresy. Primaris Space
+    Marines who take this talent become subject to The Red Thirst despite being
+    Primaris.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.SmfTGctyZFdPc2a0
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663879570212
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: SmfTGctyZFdPc2a0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6900000
+_key: '!items!SmfTGctyZFdPc2a0'

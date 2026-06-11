@@ -1,0 +1,61 @@
+name: Pandemic Staff (Melee)
+type: weapon
+_id: SibNDxGLcIMWSjWm
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Lovingly crafted from the wood of one of the Gnarlmaw trees in Nurgle’s
+    garden, this staff has soaked in pestilential waters and the blood of the
+    infected for aeons uncounted in the Warp. At a moment’s notice, it can
+    unleash a great cloud of contagion</p>
+  value: 7
+  keywords: FORCE, 2-HANDED, CHAOS, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: force
+    - name: inflict
+      rating: Poisoned 4
+  upgrades: []
+effects: []
+folder: nyHPtRO8Z1XRcTRg
+sort: 900000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709854113547
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!SibNDxGLcIMWSjWm'

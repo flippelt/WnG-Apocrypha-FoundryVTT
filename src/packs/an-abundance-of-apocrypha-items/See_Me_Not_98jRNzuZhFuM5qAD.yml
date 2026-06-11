@@ -1,0 +1,82 @@
+name: See Me Not
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.98jRNzuZhFuM5qAD
+system:
+  dn: '@attributes.willpower.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You erase your presence from the minds of others. This is more than mere
+    invisibility: those affected by the power simply cannot perceive your
+    presence. Their senses still work, but their minds will not acknowledge you.
+    </p><p>While this power is in effect, the target cannot perceive you in any
+    way, though they will still be able to see the results of your actions. If
+    ever a target is confronted with evidence of your presence (such as being
+    attacked by you, or seeing a door open because of you), they may attempt a
+    Willpower test with a DN of 3 to try and shake off this power’s effects.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Sustained
+  range: 20m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The target’s Willpower test DN increases by +1
+      cost: 2
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: +10m range
+      cost: 2
+      property: range
+      initial: ''
+      value: 10
+      single: false
+  test:
+    dn: 3
+    type: attribute
+    specification: willpower
+_id: 98jRNzuZhFuM5qAD
+folder: Y2bAliRT8Nh9MTzR
+sort: 225000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247453
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!98jRNzuZhFuM5qAD'

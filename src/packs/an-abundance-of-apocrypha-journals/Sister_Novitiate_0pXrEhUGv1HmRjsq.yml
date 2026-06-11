@@ -1,0 +1,166 @@
+name: Sister Novitiate
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 499927
+pages:
+  - name: Sister Novitiate
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <blockquote><p>It is not enough to serve the Emperor, or even to love
+        Him. You must give to Him all that you had, all you have, and all you
+        shall ever have. You must give yourself over utterly and entirely to His
+        divine will and become a vessel of that will. Only then is your
+        sacrifice fitting.</p><p style="text-align:right"><em>—— From the Rule
+        of the Sororitas</em></p></blockquote><p><strong>You are a recent
+        recruit to the Adepta Sororitas. Your training under the Drill Abbots of
+        the Schola Progenium was intense, and now you hone your skills and test
+        your faith against the horrors of the galaxy, before you are judged
+        ready to be assigned to an Order of the Adepta
+        Sororitas.</strong></p><p>Most recruits into the Adepta Sororitas are
+        drawn from the Schola Progenium, having been identified by the Drill
+        Abbots and Abbesses of those Imperial orphanages as suitable candidates
+        from an early age.</p><p>A few may be transferred from outside
+        organisations, in particular the ranks of the servants of the
+        Inquisition, although this is relatively unusual and only undertaken
+        following lengthy consideration.</p><p>Having been identified as a
+        candidate for membership, the individual is shipped to one of the two
+        primary convents on Terra or Ophelia VII, where she will be subjected to
+        a lengthy and arduous regime of testing as a novice intended to gauge
+        her suitability to join the Sisterhood and to identify which of the
+        Orders she would be most suited to.</p><p>Regardless of which Order she
+        will eventually join, all novices undergo extensive instruction in the
+        traditions of the Adepta Sororitas, and most receive at least a modicum
+        of military instruction.</p><p>Once a novice is judged worthy to join
+        the Sisterhood, swear her vows to the Emperor and has completed her
+        basic training, the candidates are gathered in the great hall of the
+        convent before the canonesses and palatines of the Orders to which they
+        will be assigned.</p><p>Once she is assigned to her Order, the sister
+        will begin a period of even more rigorous training and indoctrination,
+        which, it is said, will never end until she sits in death at the right
+        hand of the Emperor.</p><table style="width:98.9228%;height:239px"
+        border="1"><tbody><tr class="table-header" style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8">SISTER
+        NOVITIATE</td></tr><tr style="height:16px"><td
+        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
+        colspan="2">TIER</td><td
+        style="width:8.3%;height:16px;text-align:center">1</td><td
+        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
+        colspan="2">SPECIES</td><td
+        style="width:11.7268%;height:16px;text-align:center">Human</td><td
+        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
+        Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center">22</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">IMPERIUM</a>,
+        <a class="keyword">ADEPTA SORORITAS[ORDER]</a>, <a
+        class="keyword">ADEPTUS MINISTORUM</a></td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px"
+        colspan="8"><strong>ATTRIBUTE</strong>: Strength 2, Toughness 2, Agility
+        2, Willpower 2</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
+        Ballistic Skill 2, Scholar 1, Weapon Skill 1</td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
+        ABILITY</strong>: @UUID[Item.xPZv5ZtIOug5Vg8h]{Impetuous
+        Fervour}</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
+        @UUID[Item.vZp4dj9eXhFcVwOB]{Clothing},
+        @UUID[Item.W028UmFNKkQrUBl6]{Chaplet Ecclesiasticus},
+        @UUID[Item.YXTc35poOQsWeSgD]{Rule of the Sororitas},
+        @UUID[Item.yvO2qu3FjYOs368z]{Carapace Armour},
+        @UUID[Item.JbTzZSQ0FZ4PIjdp]{Autopistol}, 2x
+        @UUID[Item.oDG9YpSKSiSUFLIY]{Frag Grenade}, 2x
+        @UUID[Item.SJ8UaYHEMtF71W1M]{Krak Grenade}, and either:
+        @UUID[Item.fQCOj3mVrhnIEOty]{Autogun} or 
+        @UUID[Item.JlXH8xNwZcDgtfcn]{Sword}</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;background-color:rgba(0, 0, 0, 0.2);height:16px"
+        colspan="8"><strong>INFLUENCE</strong>: +0</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left"
+        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">36</td></tr><tr
+        style="font-variant:small-caps;height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
+        style="width:12.5%;height:16px;text-align:center">S</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">T</td><td
+        style="width:5.17241%;height:16px;text-align:center">A</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">I</td><td
+        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">Int</td><td
+        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
+        style="width:12.5%;height:16px;text-align:center">2</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">3</td><td
+        style="width:5.17241%;height:16px;text-align:center">3</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">3</td><td
+        style="width:11.7268%;height:16px;text-align:center">3</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">2</td><td
+        style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left"
+        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">12</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%" colspan="8">Athletics 1, Awareness 1,
+        Ballistic Skill 2, Intimidation 1, Scholar 1, Weapon Skill
+        2</td></tr><tr style="height:16px"><td class="table-header"
+        style="width:92.7291%;height:16px" colspan="8">SUGGESTED
+        TALENTS</td></tr><tr style="height:16px"><td
+        style="height:15px;width:92.7291%"
+        colspan="8">@UUID[Item.jlrOP1uvd0x0VRiK]{Death Or Glory!},
+        @UUID[Item.ndXKRj7tRorEKRzk]{Orthopraxy},
+        @UUID[Item.5w6YjUogrXbNjgR6]{By His Will}</td></tr></tbody></table>
+      markdown: ''
+    _id: 6VIdIZs0RFiBmFtW
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!0pXrEhUGv1HmRjsq.6VIdIZs0RFiBmFtW'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664173162519
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 0pXrEhUGv1HmRjsq
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!0pXrEhUGv1HmRjsq'
+categories: []

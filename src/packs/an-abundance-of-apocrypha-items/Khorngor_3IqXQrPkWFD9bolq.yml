@@ -1,0 +1,147 @@
+folder: cZ7bosRjx1cxapg8
+name: Khorngor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Beastman
+    id: Item.Pmkvgia9uKxhEOVk
+  faction:
+    name: Chaos
+    id: Item.oNSe7G9pJIHehwhI
+  influence: 0
+  cost: 36
+  keywords:
+    - CHAOS
+    - ABHUMAN
+    - HERETIC
+    - KHORNE
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: The Scent of Blood
+    id: Item.kGI5sUM9TWSxVHmj
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Flak Armour
+      id: Item.fLx8DzWDgWDZIMSK
+      type: item
+      diff: {}
+      index: 1
+      groupId: muN2jrQ8cxtgx1KG
+    - name: Axe
+      id: Item.4cJ8ZBlUT4grfFRs
+      type: item
+      diff: {}
+      index: 2
+      groupId: S7kgnRDffb6AIniG
+    - name: Chainaxe
+      id: Item.HVZUg1rOLXh7OnKM
+      type: item
+      diff: {}
+      index: 3
+      groupId: VGCi1bY3JDjjRY1i
+    - name: Autopistol
+      id: Item.JbTzZSQ0FZ4PIjdp
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: muN2jrQ8cxtgx1KG
+      - type: or
+        items:
+          - index: 3
+            type: item
+            groupId: VGCi1bY3JDjjRY1i
+          - type: and
+            items:
+              - index: 2
+                type: item
+                groupId: S7kgnRDffb6AIniG
+              - index: 4
+                type: item
+                groupId: zFG70pJ0lT6DzmgT
+            groupId: Rq6i7UyeL9Nli7zs
+        groupId: g6DpOSknyIVLLErg
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 3
+      initiative: 2
+      willpower: 2
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 1
+      awareness: null
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: YaiXDgjj9UxA1EtI
+        name: Berzerker
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664831740666
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 3IqXQrPkWFD9bolq
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!3IqXQrPkWFD9bolq'

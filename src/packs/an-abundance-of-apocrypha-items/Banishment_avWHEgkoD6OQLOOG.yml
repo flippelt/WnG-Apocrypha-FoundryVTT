@@ -1,0 +1,108 @@
+name: Banishment
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Hindered
+    icon: systems/wrath-and-glory/asset/icons/conditions/hindered.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '1'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - hindered
+    _id: 2YD0cjdnP30L5pow
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    _key: '!items.effects!avWHEgkoD6OQLOOG.2YD0cjdnP30L5pow'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.avWHEgkoD6OQLOOG
+system:
+  dn: '@attributes.willpower.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>By tapping into the ability to sense tenuous connections between the warp
+    and warp-entities, you are able to attack the ties and create a discordant
+    resonance within them. Target a single DAEMON you can see within range. The
+    target suffers Mortal Wounds equal to your Willpower and may not roll
+    Determination against this damage. If the target is slain by this power, it
+    is cast back into the warp.</p>
+  effect: ''
+  cost: 25
+  activation: full
+  duration: Instant
+  range: Willpower x 5m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: '+1 Mortal Wound. '
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: 'The target is Hindered. '
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: avWHEgkoD6OQLOOG
+folder: BOwa2ac4VoE8QlCY
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206777
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!avWHEgkoD6OQLOOG'

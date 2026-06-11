@@ -1,0 +1,38 @@
+folder: 0e4JnvdZPT2mvK1p
+name: A Test of Faith
+type: ascension
+_id: kmzxWbLRHFPFIL7X
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 10
+  description: >-
+    <p>Your faith has always been strong, but seldom has it been tested so
+    strenuously. You encountered some threat, danger, or catastrophe so great
+    that your devotion to the Emperor was put into question… but when you
+    emerged, your piety was rewarded. </p><p>Strengthened by the challenge, your
+    faith draws other faithful to you; drawn by the fire in your eyes and the
+    conviction in your voice, and the need to have their own doubts
+    expunged.</p>
+  requirements: Willpower 3, Persuasion 2+, IMPERIUM and ADEPTUS MINISTORUM keywords
+  keywords: ''
+  influence: 1
+  benefits: >-
+    <p><strong>INFLUENCE BONUS</strong>: +1 per Tier ascended.
+    </p><p><strong>STORY ELEMENT</strong>: Your faith is strengthened, granting
+    you +1 Faith point. Further, your Conviction and Resolve are both increased
+    by +1. </p><p><strong>WARGEAR</strong>: Select one weapon you possess. That
+    weapon gains the Blessed (1) trait.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710791300112
+  modifiedTime: 1710793076513
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!kmzxWbLRHFPFIL7X'

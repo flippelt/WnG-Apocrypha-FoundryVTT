@@ -1,0 +1,136 @@
+name: Primaris Agressor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects: []
+folder: j5mcT1m1I7srvO3E
+flags:
+  cf: null
+  core: {}
+system:
+  tier: 41
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: CN5E9Z5GqfiR1MDn
+  influence: 0
+  cost: 228
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - PRIMARIS
+    - '[CHAPTER]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 4
+    initiative: 4
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Relentless Advance
+    id: NLsZwAKfJwRFNcM5
+  wargear:
+    - name: Mk X Gravis Power Armour
+      id: zw6MLavSEUWmNjUt
+      type: item
+      diff: {}
+      index: 0
+      groupId: xbfiowk1sfcnozjn
+    - name: Ammo Backpack
+      id: Dh1HhVnPaURjpgTR
+      type: item
+      diff: {}
+      index: 1
+      groupId: kl06bd4f7vj7disq
+    - name: Auto-Bolstorm Gauntlet
+      id: O3nHflHmV3A3mlkw
+      type: item
+      diff:
+        data:
+          quantity: 2
+      index: 2
+      groupId: ccodl3sujmm1y5qj
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: xbfiowk1sfcnozjn
+      - type: item
+        index: 1
+        groupId: kl06bd4f7vj7disq
+      - index: 2
+        type: item
+        groupId: ccodl3sujmm1y5qj
+  suggested:
+    attributes:
+      strength: 6
+      toughness: 6
+      agility: 5
+      initiative: 5
+      willpower: 3
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 4
+      ballisticSkill: 6
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: 3
+      survival: null
+      tech: null
+      weaponSkill: 4
+    talents:
+      - id: YB4sl4A5toyumeAy
+        name: Angel Of Death
+      - id: PB5cA0QmFNcxpHm4
+        name: Simultaneous Strike
+      - id: emVrUoi21aS8WOwA
+        name: Promethium Proficiency
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219054947
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: BnmkGyrfpExz1Gk8
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!BnmkGyrfpExz1Gk8'

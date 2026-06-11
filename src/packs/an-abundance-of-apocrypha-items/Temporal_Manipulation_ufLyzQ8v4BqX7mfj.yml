@@ -1,0 +1,77 @@
+name: Temporal Manipulation
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.ufLyzQ8v4BqX7mfj
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Fashioning a pocket of dilated time around an injured ally, the psyker
+    accelerates the rate at which their flesh reknits. Select a single CHAOS
+    ally within range and line of sight: that ally immediately regains wounds
+    equal to your Intellect.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: HERETIC ASTARTES, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The ally regains +1 Wound.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: The ally regains 1 Shock.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: ufLyzQ8v4BqX7mfj
+folder: Etpcm2KGN6kx7ODw
+sort: 275000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519063
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ufLyzQ8v4BqX7mfj'

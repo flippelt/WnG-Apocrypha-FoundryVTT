@@ -1,0 +1,144 @@
+folder: ynSNkXL3NdmXm43i
+name: Fulgurite Electro-Priest
+type: archetype
+_id: JZ6ez6q7KDPiTk6l
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Compendium.wng-core.items.Item.NEkaKMEm79MWGo8b
+  influence: 1
+  cost: 50
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - CULT MECHANICUS
+    - '[FORGE WORLD]'
+  attributes:
+    strength: null
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: 3
+  ability:
+    name: Voltaic Fanaticism
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IoWSOVHsvj4MM0kD
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Luminen Capacitor
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wxDBQysoHwoweKXp
+      type: item
+      diff: {}
+      index: 1
+      groupId: HPW12cS7BXpneEoa
+    - name: Electroleech Staff
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.V59c7UbvI6f577bP
+      type: item
+      diff: {}
+      index: 2
+      groupId: HC3ROX7QPaYZdlqm
+    - name: Voltagheist Field Generator
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.yS1RHxcGK6fMQFcF
+      type: item
+      diff: {}
+      index: 3
+      groupId: F3iz5P0T0EtKAbk3
+    - type: generic
+      name: any two augmetics
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: HPW12cS7BXpneEoa
+      - index: 2
+        type: item
+        groupId: HC3ROX7QPaYZdlqm
+      - index: 3
+        type: item
+        groupId: F3iz5P0T0EtKAbk3
+      - type: item
+        index: 4
+        groupId: LFyG8UoT8RH51WBp
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 3
+      initiative: 3
+      willpower: 4
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: 1
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: 2
+    talents:
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: UnWnJIE3XhYMVKx3
+        name: Duty Until Death
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710606857600
+  modifiedTime: 1710607043849
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!JZ6ez6q7KDPiTk6l'

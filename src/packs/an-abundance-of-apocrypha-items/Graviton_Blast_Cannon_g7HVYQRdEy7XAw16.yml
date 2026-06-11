@@ -1,0 +1,81 @@
+name: Graviton Blast Cannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.g7HVYQRdEy7XAw16
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Similar in function to Imperial grav-weaponry,
+    the graviton blast cannon projects an area within which the force of gravity
+    is greatly increased, crushing foes under their own mass. These weapons and
+    their power supplies cannot easily be carried even by redoubtable Kin
+    infantry, so they are normally mounted on the bulky exo-frames of Brôkhyr
+    Thunderkyn.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: GRAV, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: blast
+      rating: 6
+    - name: heavy
+      rating: 6
+    - name: grav
+      custom: true
+      display: Grav
+      description: >-
+        Grav weaponry turn their targets’ own mass against them. The weapon
+        gains additional ED equal to half the target’s Resilience, and the
+        target is Staggered until the end of its next turn if they suffer any
+        wounds or shock from the attack.
+  upgrades: []
+_id: g7HVYQRdEy7XAw16
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976131
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!g7HVYQRdEy7XAw16'

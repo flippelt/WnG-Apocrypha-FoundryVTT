@@ -1,0 +1,57 @@
+folder: fgtFfRbmshJ8KM1n
+name: State of the Art
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you attempt to repair @UUID[Item.sZ1aS0kdkGJhzlyy]{T'AU}technology,
+    or attempt to operate a complex piece of
+    @UUID[Item.sZ1aS0kdkGJhzlyy]{T'AU}technology using a Tech test, you may
+    re-roll a number of dice equal to twice your Rank.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.uw1BouEFXLCdEkXq
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664208060365
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: LuhXHFKXSFHKwl3z
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!LuhXHFKXSFHKwl3z'

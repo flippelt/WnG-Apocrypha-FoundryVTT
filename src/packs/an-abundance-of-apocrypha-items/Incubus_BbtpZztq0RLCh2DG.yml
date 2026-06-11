@@ -1,0 +1,129 @@
+folder: lEqVRehKQvTYGEoK
+name: Incubus
+type: archetype
+_id: BbtpZztq0RLCh2DG
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 1
+  cost: 102
+  keywords:
+    - AELDARI
+    - DRUKHARI
+    - INCUBUS
+  attributes:
+    strength: 3
+    toughness: null
+    agility: 4
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 2
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Lethal Precision
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kBdsY99CG85TsLo8
+  wargear:
+    - name: Incubus Warsuit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jFmaqDyaQGaw5wC3
+      type: item
+      diff: {}
+      index: 1
+      groupId: GFuzQBOAamLJt8DE
+    - name: Klaive
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.nrsumOyZTZUPnwLA
+      type: item
+      diff: {}
+      index: 2
+      groupId: tjpa0YMTSQewRfVI
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: 43ChJHrIji1VZ0Hy
+      - type: item
+        index: 1
+        groupId: hWowHq8c3mzgSYBw
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 5
+      initiative: 5
+      willpower: 4
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 3
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 3
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: 2
+      survival: null
+      tech: null
+      weaponSkill: 6
+    talents:
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: 2G1RaWceBpoHoUBb
+        name: Storm of Death
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: bFBAoDYHeegNgDIQ
+        name: Deceptive Retreat
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710687557371
+  modifiedTime: 1710688044038
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!BbtpZztq0RLCh2DG'

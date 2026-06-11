@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Scorpion’s Grasp
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Striking Scorpion aspect
+  description: >-
+    <p>Your claw is especially deadly, tearing foes apart in a spectacular
+    fashion. When you wield a Scorpion’s Claw or similar weapon, add the
+    @UUID[JournalEntry.ZFKuifc3mGn2RgTb.JournalEntryPage.anBLJX16REDKapOs#mortal-(x)]{Mortal
+    (1d3)} trait to the weapon.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.EbcsQR9f38oCcXTq
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700066444016
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 9OitNQf5hQb6rf87
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!9OitNQf5hQb6rf87'

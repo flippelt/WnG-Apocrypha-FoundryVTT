@@ -1,0 +1,79 @@
+name: Reaper Chaincannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/autocannon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-ranged.Item.ikCrVCNix6HpW1QY
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">These brutal antipersonnel weapons are a
+    Chaostainted evolution of the rotor cannons employed by Legiones Astartes
+    forces during the Great Crusade and the Horus Heresy. With a few seconds of
+    fire, scores of foes can be massacred.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: PROJECTILE, CHAOS, HERETICASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 8
+  traits:
+    - name: heavy
+      rating: 6
+    - name: rapidFire
+      rating: 3
+    - name: sustained
+      custom: true
+      display: Sustained
+      description: >-
+        The weapon is well-suited for delivering attack after attack. For each
+        Exalted Icon rolled when you make an attack with this weapon, you may
+        roll one additional attack die. These additional dice cannot themselves
+        generate additional dice.
+  upgrades: []
+_id: ikCrVCNix6HpW1QY
+folder: OUOFLqDJaP03QNHY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925967111
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!ikCrVCNix6HpW1QY'

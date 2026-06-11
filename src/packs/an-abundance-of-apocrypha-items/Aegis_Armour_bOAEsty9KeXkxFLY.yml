@@ -1,0 +1,88 @@
+name: Aegis Armour
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Aegis Armour is a specialized form of Astartes
+    Power Armour worn by members of the Grey Knights chapter. Worked into their
+    Armour, each Aegis Suit contains a lattice of psycho-conductive filaments
+    and protective amulets, layered hexagrammic wards, and is inscribed with
+    anti-daemonic prayers. Aegis Armour allows Grey Knights to better combat
+    Warp Entities and Rogue Psykers by protecting them from psychic attack. The
+    technology incorporated into The Aegis represents the most potent
+    anti-psychic defences in the Imperium of Man.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">5; Powered
+    (3)</span></p><p></p><p><span class="fontstyle2"><strong>The Aegis</strong>:
+    </span><span class="fontstyle0">Enemy psychic powers which target the wearer
+    suffer +2DN. In addition, the wearer adds +Rank bonus dice when rolling
+    Determination against attacks from a </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">DAEMON</span><span class="fontstyle0">.</span>
+    </p>
+  value: 9
+  keywords: POWERED, IMPERIUM, ADEPTUS ASTARTES, GREY KNIGHTS
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powered
+      rating: 3
+  invulnerable: false
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    _id: BsZ8cVWjdLcNcII2
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+      - key: difficulty.base
+        mode: 7
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Determination against attacks from a Daemon
+          '1':
+            script: ''
+            description: Psychic power
+    name: Aegis Armour
+    description: ''
+    statuses: []
+    _key: '!items.effects!bOAEsty9KeXkxFLY.BsZ8cVWjdLcNcII2'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bOAEsty9KeXkxFLY
+  cf: null
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663989390951
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: 9qcY1oNgsxJI58Au
+_id: bOAEsty9KeXkxFLY
+sort: 800000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!bOAEsty9KeXkxFLY'

@@ -1,0 +1,76 @@
+name: Daemonic Fire
+type: weapon
+img: modules/wng-core/assets/icons/weapons/flamer.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-ranged.Item.LVk0I1kWTfY2M6Qv
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">A gift granted to some servants of the Dark Gods
+    is the ability to conjure warp-flame from thin air and hurl it at their
+    enemies. Daemonic fire has the added advantage that it does not take the
+    form of a weapon, and the bearer cannot be
+    disarmed.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">When you make a Salvo attack with Daemonic Fire, suffer
+    1d3 Shock instead of spending Ammo. When you first obtain Daemonic Fire, it
+    becomes a permanent part of you, and you gain 1d3+1 Corruption
+    points.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: FIRE, CHAOS, DAEMON
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: assault
+    - name: inflict
+      rating: On Fire
+  upgrades: []
+_id: LVk0I1kWTfY2M6Qv
+folder: OUOFLqDJaP03QNHY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925967088
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!LVk0I1kWTfY2M6Qv'

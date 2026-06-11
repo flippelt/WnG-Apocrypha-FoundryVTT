@@ -1,0 +1,52 @@
+name: Force Matrix
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.SXsJ5MHSZSeyl7GQ
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The Force Matrix consists of a series of psychic
+    conduits which are made of a material like that used in the construction of
+    Force Weapons. When connected to a Culexus Assassin, the Force Matrix
+    gathers excess warp energy drawn upon by nearby psykers, storing it so that
+    it can be used to fuel the assassin’s Animus
+    Speculum.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Whenever a </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">PSYKER </span><span class="fontstyle0">within
+    25m of the wearer attempts to use a psychic power (other than Psyniscience
+    or Deny the Witch), the Force Matrix gains a single charge. If a
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">PSYKER
+    </span><span class="fontstyle0">within that range suffers psychic phenomena,
+    then the Force Matrix gains one additional charge. Charges may be used as
+    Reloads for the Animus Speculum. Charges gained dissipate during a Regroup
+    or Respite.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 11
+  keywords: TEMPLUM CULEXUS
+  effect: ''
+_id: SXsJ5MHSZSeyl7GQ
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937579
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!SXsJ5MHSZSeyl7GQ'

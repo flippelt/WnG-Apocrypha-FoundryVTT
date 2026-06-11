@@ -1,0 +1,138 @@
+folder: lEqVRehKQvTYGEoK
+name: Kabalite Warrior
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 0
+  cost: 38
+  keywords:
+    - AELDARI
+    - DRUKHARI
+    - KABALITE
+    - '[KABAL]'
+  attributes:
+    strength: 2
+    toughness: null
+    agility: 3
+    initiative: 3
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: 1
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Innate Cruelty
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zzhEqN7W4Ft58HcN
+  wargear:
+    - name: Kabalite Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GXJLH3Kqkaqgmi4T
+      type: item
+      diff: {}
+      index: 0
+      groupId: mFJObeHN52hoH9ul
+    - name: Splinter Rifle
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QpZiXAMqrRNiZsKO
+      type: item
+      diff: {}
+      index: 1
+      groupId: epxt0mJv5JzT6XiC
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: mFJObeHN52hoH9ul
+      - index: 1
+        type: item
+        groupId: epxt0mJv5JzT6XiC
+      - index: 2
+        type: item
+        groupId: xBpAWvWL5AqprstZ
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 4
+      initiative: 4
+      willpower: 2
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 2
+      ballisticSkill: 2
+      cunning: 1
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: 1
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+      - id: 5HchXpu60DlodyV8
+        name: Disturbing Voice
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.azKyOQyTKrHc4esL
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664401595370
+  modifiedTime: 1710599358651
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: F8WYLtwrTRVzcHeI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 300000
+_key: '!items!F8WYLtwrTRVzcHeI'

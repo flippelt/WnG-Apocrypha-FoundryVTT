@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Transhuman Physiology
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Primaris species or Custodes species
+  description: >-
+    <p>Your enhanced form can withstand injuries that would slay even Firstborn
+    Astartes.<br>When you are the target of an attack, you may spend 1 Wrath.
+    The attack can deal a maximum number of wounds equal to the total rolled on
+    the attack&rsquo;s ED.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QENS2Y3cLMX901r5
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664128344037
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: QENS2Y3cLMX901r5
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6200000
+_key: '!items!QENS2Y3cLMX901r5'

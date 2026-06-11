@@ -1,0 +1,72 @@
+folder: jJ48QZuiHQIFQOyL
+name: Djin Blade
+type: weapon
+_id: lQkGVzTcDi7SAgZA
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: ''
+  value: 10
+  keywords: BLADE, DAEMON, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: parry
+    - name: sustained
+      custom: true
+      display: Sustained
+      description: >-
+        The weapon is well-suited for delivering attack after attack. For each
+        Exalted Icon rolled when you make an attack with this weapon, you may
+        roll one additional attack die. These additional dice cannot themselves
+        generate additional dice.
+    - name: volatile-(1)
+      custom: true
+      display: Volatile (1)
+      description: >-
+        The weapon’s power is barely-contained, and it can be harmful to an
+        unwary wielder. If you suffer a Complication when wielding this weapon,
+        you immediately suffer X Mortal Wounds. X may either be a static value,
+        or it may be a die roll, such as d3 or d6. If a Volatile weapon has the
+        Blast trait, then a Complication inflicts X Mortal Wounds to all
+        creatures within the weapon’s Blast rating, centred on the wielder.
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709897157325
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!lQkGVzTcDi7SAgZA'

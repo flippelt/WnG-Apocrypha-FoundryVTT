@@ -1,0 +1,53 @@
+name: Kustom Force Field Projekta
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ork-armour.Item.8w90f9rNdd0XD5SZ
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Big Meks often build and customise powerful
+    force field projectors they use to protect themselves as well as their Boyz
+    and vehicles in the vicinity. It will absorb enemy fire, crackling with
+    energy and protecting everything under its bubble. These devices are carried
+    on a Big Mek's back or are sometimes attached to Mekboy Junkas, walkers—from
+    Killa Kans to Stompas— or even buildings.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span
+    class="fontstyle0">0</span></p><p></p><p><span
+    class="fontstyle2"><strong>Big Bubble</strong>: </span><span
+    class="fontstyle0">The generator produces a bubble which covers everything
+    within 20m of the wearer. Any creature within the bubble receives +2 Defence
+    and +2 Resilience against any attack which originated outside the
+    bubble.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: FORCE FIELD, KUSTOM, ORK
+  equipped: false
+  rating: 0
+  base: 0
+  traits: []
+  invulnerable: false
+_id: 8w90f9rNdd0XD5SZ
+folder: YBWDhNVhOyMYZjQw
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090272136
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!8w90f9rNdd0XD5SZ'

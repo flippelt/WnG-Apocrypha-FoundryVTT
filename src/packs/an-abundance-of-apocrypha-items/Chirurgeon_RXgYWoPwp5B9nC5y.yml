@@ -1,0 +1,164 @@
+folder: ROlAnhrCE5Xnjc9P
+name: Chirurgeon
+type: archetype
+img: modules/wng-core/assets/icons/abilities/the-inquisition.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: The Inquisition
+    id: Compendium.wng-core.items.Item.ox4kbeKwe9jd5MbL
+  influence: 2
+  cost: 99
+  keywords:
+    - IMPERIUM
+    - INQUISITION
+    - '[ORDO]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 2
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 2
+    leadership: null
+    medicae: 5
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: 1
+  ability:
+    name: Morbid Expertise
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.5uVaP2IMqqTPuL2y
+  wargear:
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 0
+      groupId: kjnd1ruRroriRQ7z
+    - name: Needle Pistol
+      id: Compendium.wng-core.items.Item.8Ms9swxyPUJJeh7C
+      type: item
+      diff: {}
+      index: 1
+      groupId: K7zTiJ1GvldvzX5D
+    - name: Bodyglove
+      id: Compendium.wng-core.items.Item.alCEdr91k6ttGBw9
+      type: item
+      diff: {}
+      index: 2
+      groupId: EDvcoyUlNE2vssxK
+    - name: Diagnostor
+      id: Compendium.wng-core.items.Item.eVKhnZo0ekm7DobY
+      type: item
+      diff: {}
+      index: 3
+      groupId: z8uCk2SW5C26uSA8
+    - name: Chirurgeon’s Tools
+      id: Compendium.wng-core.items.Item.zAGF6bxtsk4sbyao
+      type: item
+      diff: {}
+      index: 4
+      groupId: LrdzKNM5wlUuF8tB
+    - name: Stimm
+      id: Compendium.wng-core.items.Item.513qP2VR5xzozMSY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: 89XsqTDhLcXDuiQq
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: kjnd1ruRroriRQ7z
+      - index: 1
+        type: item
+        groupId: K7zTiJ1GvldvzX5D
+      - index: 2
+        type: item
+        groupId: EDvcoyUlNE2vssxK
+      - index: 3
+        type: item
+        groupId: z8uCk2SW5C26uSA8
+      - index: 4
+        type: item
+        groupId: LrdzKNM5wlUuF8tB
+      - index: 5
+        type: item
+        groupId: 89XsqTDhLcXDuiQq
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 3
+      willpower: 4
+      intellect: 5
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 3
+      investigation: 3
+      leadership: null
+      medicae: 5
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: 2
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: l6ooX0I3lk8DuiBT
+        name: Anatomical Scourge
+      - id: qQzSkLwWcKfgzrnD
+        name: Angel Of Mercy
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.CtBHgSC8eeFnTJWf
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699739112214
+  modifiedTime: 1710606100138
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: RXgYWoPwp5B9nC5y
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!RXgYWoPwp5B9nC5y'

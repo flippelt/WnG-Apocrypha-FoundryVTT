@@ -1,0 +1,69 @@
+name: Laspistol, Holdout
+type: weapon
+img: modules/wng-core/assets/icons/weapons/laspistol.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>Carried by diplomats, assassins and other people who want a tiny,
+    concealable weapon, the Holdout Laspistol&mdash;often known as the
+    Las-Derringer, after an Ancient Terran weapon of similar size&mdash;is small
+    enough to fit into the palm of the hand, and both light and thin enough to
+    go almost unnoticed under clothing. Its principal drawbacks are a lack of
+    effective range, and limited power, but this is of little concern for those
+    who choose to wield them. Its tiny power cell cannot be easily removed,
+    though the weapon can be recharged after it has expended its ammunition.</p>
+
+    <p>CONCEALABLE: The weapon can easily be hidden, and cannot be detected on a
+    character without a thorough search or an auspex scan (Awareness Test, DN
+    4).</p>
+  value: 2
+  keywords: LAS, IMPERIUM, SCUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 3
+    medium: 6
+    long: 9
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: pistol
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665492647865
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: KtMQP20MTYUwmoWw
+_id: qQTiZLjOOdg5nXCn
+sort: 1100000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!qQTiZLjOOdg5nXCn'

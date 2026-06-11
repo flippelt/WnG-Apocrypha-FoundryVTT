@@ -1,0 +1,148 @@
+folder: enJYSEZtnOYeu8p3
+name: Burna Boy
+type: archetype
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Ork
+    id: Item.HkICqcWbRIsDHtMy
+  faction:
+    name: Ork
+    id: Item.BkBpSmTLEsh1tqCG
+  influence: 0
+  cost: 48
+  keywords:
+    - ORK
+    - '[CLAN]'
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: 2
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 2
+  ability:
+    name: Da Burny Dance
+    id: Item.9YflQgzI04L6PaN7
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Burna
+      id: Item.BfcIQcvK9NflPkUI
+      type: item
+      diff: {}
+      index: 1
+      groupId: mScurE3wCvP0zmvG
+    - name: Ork Flak
+      id: Item.YArm2VCihbVlLurI
+      type: item
+      diff: {}
+      index: 2
+      groupId: QaHLSWYFj1qy6D98
+    - name: Stikkbomb
+      id: Item.L7E0G56RBAn4Fmlv
+      type: item
+      diff: {}
+      index: 3
+      groupId: qmOqTm0RQpQqz2HZ
+    - name: Stikkbomb
+      id: Item.L7E0G56RBAn4Fmlv
+      type: item
+      diff: {}
+      index: 4
+      groupId: KzjNFKvbZfRdYQDO
+    - name: Stikkbomb
+      id: Item.L7E0G56RBAn4Fmlv
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: mScurE3wCvP0zmvG
+      - index: 2
+        type: item
+        groupId: QaHLSWYFj1qy6D98
+      - index: 3
+        type: item
+        groupId: qmOqTm0RQpQqz2HZ
+      - index: 4
+        type: item
+        groupId: KzjNFKvbZfRdYQDO
+      - index: 5
+        type: item
+        groupId: 1JSFSAR8M1JiiHCC
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 4
+      initiative: 3
+      willpower: 1
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 2
+      cunning: 1
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: 2
+      weaponSkill: 4
+    talents:
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: P9uTwYByV17eTfzf
+        name: More Dakka!
+      - id: bOIcPXwLQWQzDrKZ
+        name: Trademark Weapon
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699734486556
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: YneiNxNfN9CanYY7
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!YneiNxNfN9CanYY7'

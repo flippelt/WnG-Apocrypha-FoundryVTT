@@ -1,0 +1,151 @@
+folder: tT0eF3TBVmGD5iGo
+name: Magistrate
+type: archetype
+_id: bTw6A1dKRkbqSr80
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Arbites
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IokkMeiQ7h80grCb
+  influence: 1
+  cost: 70
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ARBITES
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 3
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: 2
+    intimidation: 2
+    investigation: 2
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Cast Judgement
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.NdfDYDXpGoXTHCop
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Flak Coat
+      id: Compendium.wng-core.items.Item.Ru3JSdSw8LOCd3z8
+      type: item
+      diff: {}
+      index: 1
+      groupId: Pa1VSQrLrBTYi0TM
+    - name: Stubber
+      id: Compendium.wng-core.items.Item.BpQ1EYnjQP61Edvp
+      type: item
+      diff: {}
+      index: 2
+      groupId: E0P2fhQvlg1MCfh4
+    - name: Auto-Quill
+      id: Compendium.wng-core.items.Item.YpCzpRX37328Md1h
+      type: item
+      diff: {}
+      index: 3
+      groupId: Bxedfe8daaAz9NTW
+    - name: Data-Slate
+      id: Compendium.wng-core.items.Item.9406td13uMAaKNmc
+      type: item
+      diff: {}
+      index: 4
+      groupId: MIvBPzWbjSZHbbSg
+    - name: Book of Judgement (Abridged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qRC8vHhJWuKSvOrj
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: Pa1VSQrLrBTYi0TM
+      - index: 2
+        type: item
+        groupId: E0P2fhQvlg1MCfh4
+      - index: 3
+        type: item
+        groupId: Bxedfe8daaAz9NTW
+      - index: 4
+        type: item
+        groupId: MIvBPzWbjSZHbbSg
+      - index: 5
+        type: item
+        groupId: osBUOiFz5FzxyOTN
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 3
+      willpower: 4
+      intellect: 4
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 1
+      cunning: 2
+      deception: null
+      insight: 3
+      intimidation: 3
+      investigation: 3
+      leadership: null
+      medicae: null
+      persuasion: 1
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+      - id: W8Tj4tvuuXovyUXL
+        name: Jargon [Skill]
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710609325549
+  modifiedTime: 1710609639310
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!bTw6A1dKRkbqSr80'

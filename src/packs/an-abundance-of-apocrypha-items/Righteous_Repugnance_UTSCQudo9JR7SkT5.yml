@@ -1,0 +1,99 @@
+name: Righteous Repugnance
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Righteous Repugnance
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.melee'
+        priority: null
+    _id: eH05Ce50HvcxA5zc
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!UTSCQudo9JR7SkT5.eH05Ce50HvcxA5zc'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.UTSCQudo9JR7SkT5
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Reaching into the minds of your brothers, you stoke the fires of their
+    hate, and the Dark Angels respond with a surge of cold, furious violence. If
+    manifested, pick an ally with DARK ANGELS keyword (or the [CHAPTER] keyword
+    of a Dark Angels successor) within range. Until the start of your next turn,
+    the chosen ally may re-roll all failures on melee attacks and melee damage
+    rolls.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 25m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: DARK ANGELS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        The affected ally also receives +1d on melee attacks while under the
+        power’s effect.
+      cost: 1
+      property: melee
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: UTSCQudo9JR7SkT5
+folder: F3gTmYP6wHlaqWQF
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959266
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!UTSCQudo9JR7SkT5'

@@ -1,0 +1,82 @@
+name: Hexagrammic Wards
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Hexagrammic Wards
+    _id: sHCXoJQtlX1bhT9u
+    changes:
+      - key: difficulty.base
+        mode: 7
+        value: '4'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: psychic power upon a target protected by Hexagrammic Wards
+            hide: ''
+    tint: null
+    _key: '!items.effects!lRDMc1xrJh8odBtn.sHCXoJQtlX1bhT9u'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.force-shields.Item.lRDMc1xrJh8odBtn
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Protective glyphs and sigils inscribed upon
+    amulets and other charms and inlaid with blessed substances can be used to
+    protect against the attacks of psykers. They are extensively used by Ordo
+    Hereticus Inquisitors and the League of Blackships to contain witches and
+    sorcerers.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">*3, Power Field</span></p><p></p><p><span
+    class="fontstyle2"><strong>Witch-proof</strong>: </span><span
+    class="fontstyle0">Any attempt to use a psychic power upon a target
+    protected by Hexagrammic Wards increases the difficulty by +4 DN.
+    Hexagrammic wards provide no protection—not even Armour Rating—against
+    non-psychic attacks.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: WARD, IMPERIUM, INQUISITION, ADEPTUS ASTRA TELEPATHICA
+  equipped: false
+  rating: 0
+  base: 0
+  traits:
+    - name: powerField
+  invulnerable: true
+_id: lRDMc1xrJh8odBtn
+folder: tfjVFu4f5w54iLmI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089903092
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!lRDMc1xrJh8odBtn'

@@ -1,0 +1,132 @@
+name: Air Caste Messenger
+type: archetype
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+effects: []
+folder: FQ4YTlz56b4rSD2s
+flags:
+  cf: null
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Kor T'au
+    id: MTHDqZMgGYtst3MW
+  faction:
+    name: T'au Empire
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymiA0vN6P5lSl08j
+  influence: 0
+  cost: 20
+  keywords:
+    - T'AU EMPIRE
+    - AIR CASTE
+    - '[SEPT]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 1
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 2
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: At Home in the Skies
+    id: 6ZG6OyaEHP64CA3D
+  wargear:
+    - - name: ''
+        id: ''
+    - name: T’au Flight Suit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JjTJIm4qdA9w2DUR
+      type: item
+      diff: {}
+      index: 1
+      groupId: EL19W1YKqQqDRN5K
+    - name: Pulse Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.UCx3M7VWPCnIel2r
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: EL19W1YKqQqDRN5K
+      - index: 2
+        type: item
+        groupId: gmFG7jPP4Q0WHwjK
+  suggested:
+    attributes:
+      strength: 1
+      toughness: 2
+      agility: 4
+      initiative: 3
+      willpower: 2
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: null
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 3
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: null
+    talents:
+      - id: W8Tj4tvuuXovyUXL
+        name: Jargon [Skill]
+      - id: i2iaIBRjeULHMMHD
+        name: Combat Driving
+      - id: yu5AnzdlMjCwN3Yl
+        name: Ta'lissera Bonding
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663790168149
+  modifiedTime: 1710533243241
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: qLWtiNdI5vD3rzDV
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!qLWtiNdI5vD3rzDV'

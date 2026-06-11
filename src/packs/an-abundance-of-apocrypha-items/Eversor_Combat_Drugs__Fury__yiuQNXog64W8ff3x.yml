@@ -1,0 +1,59 @@
+name: Eversor Combat Drugs (Fury)
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Eversor Combat Drugs (Fury)
+    changes:
+      - key: system.combat.speed
+        mode: 1
+        value: '2'
+        priority: null
+    _id: IvMA3RU2oIvJ8wZi
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: 1
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!yiuQNXog64W8ff3x.IvMA3RU2oIvJ8wZi'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.1HdUYd8P3yCGg54q
+system:
+  quantity: 3
+  rarity: ''
+  description: >-
+    <p><span class="fontstyle0"><strong>Fury</strong>: </span><span
+    class="fontstyle2">The Eversor’s Speed is doubled for the duration of this
+    turn.</span></p>
+  value: null
+  keywords: TEMPLUM EVERSOR
+  effect: ''
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099173
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 200000
+_id: yiuQNXog64W8ff3x
+_key: '!items!yiuQNXog64W8ff3x'

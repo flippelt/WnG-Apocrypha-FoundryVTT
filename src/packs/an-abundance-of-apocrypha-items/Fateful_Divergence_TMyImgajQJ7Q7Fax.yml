@@ -1,0 +1,70 @@
+name: Fateful Divergence
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.TMyImgajQJ7Q7Fax
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Exerting your will upon destiny, you shift the paths of fate. Select an
+    ally within range. Until the start of your next turn, they may re-roll a
+    single die in any dice pool.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 6m
+  multiTarget: true
+  keywords: AELDARI, PSYCHIC
+  prerequisites: ASURYANI, ANHRATHE, HARLEQUIN or YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The target may re-roll one additional die during this power’s effect.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: TMyImgajQJ7Q7Fax
+folder: epIgLsUsKe7P6BrA
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742826
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TMyImgajQJ7Q7Fax'

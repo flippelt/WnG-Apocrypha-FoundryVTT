@@ -1,0 +1,27 @@
+name: T'AU
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+effects: []
+folder: Jm20iuk9Lwy8bOR4
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.F7FRdD4PlRSmS3xN
+system:
+  description: >-
+    <p>A young but technologically advanced xenos Species, the T&rsquo;au empire
+    is rapidly spreading on the eastern fringes of the galaxy.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710357285239
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: PXdbzGXD1Iefer05
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 200000
+_key: '!items!PXdbzGXD1Iefer05'

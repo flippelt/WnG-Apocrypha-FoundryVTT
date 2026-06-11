@@ -1,0 +1,87 @@
+folder: fgtFfRbmshJ8KM1n
+name: Cacophony and Ecstasy
+type: ability
+_id: WcuBegcMI9pKoLol
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Double Rank bonus dice on Awareness and Insight tests that
+    relate specifically to hearing, and you can pick out sounds, and variations
+    in sounds that a normal human cannot. Further, you recover Rank Shock at the
+    end of every turn, as you revel in the din of battle. However, if you reach
+    Max Shock, you are Staggered as well as Exhausted, as you are overcome by
+    sensation. </p><p>In addition, you gain 1d3x4 Corruption when you select
+    this Archetype.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/chaos.webp
+    name: Cacophony and Ecstasy
+    _id: tvpLt8pBlIYzkEgh
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank * 2'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              +Double Rank bonus dice on Awareness and Insight tests that relate
+              specifically to hearing
+            hide: ''
+    tint: null
+    _key: '!items.effects!WcuBegcMI9pKoLol.tvpLt8pBlIYzkEgh'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710715602721
+  modifiedTime: 1710715665785
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!WcuBegcMI9pKoLol'

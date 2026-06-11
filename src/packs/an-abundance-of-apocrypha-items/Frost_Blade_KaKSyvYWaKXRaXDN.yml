@@ -1,0 +1,61 @@
+name: Frost Blade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/chainsword.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Unique to the frozen death world of Fenris, home of the Space Wolves
+    Space Marines Chapter, Frost Blades are exceptional forms of chain weapon,
+    incorporating the diamond-hard fangs of ice kraken, or hyperdense ice from
+    the heart of a Fenrisian glacier. In the hands of a skilled wielder, they
+    are deadlier than any conventional power weapon. They take the form of
+    ornate chainswords and chain axes.</p>
+  value: 8
+  keywords: CHAIN, SPACE WOLVES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: parry
+  upgrades: []
+effects: []
+folder: M81y3pnOdLuRP51r
+sort: 500000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709831478271
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: KaKSyvYWaKXRaXDN
+_key: '!items!KaKSyvYWaKXRaXDN'

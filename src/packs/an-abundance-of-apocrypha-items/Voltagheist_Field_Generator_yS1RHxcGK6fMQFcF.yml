@@ -1,0 +1,60 @@
+name: Voltagheist Field Generator
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.force-shields.Item.yS1RHxcGK6fMQFcF
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Connected into the implants and electoos of an
+    Electro-Priest, these generators tune the voltaic Motive Force to generate a
+    pulsing, crackling field of electromagnetic power that repels physical
+    projectiles and energy alike. This energy is not purely defensive, as arcs
+    of bioelectricity can leap away to strike any who stray too
+    near.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">*3; Power Field</span></p><p></p><p><span
+    class="fontstyle2"><strong>Discharge</strong>: </span><span
+    class="fontstyle0">When you charge while wearing a Voltagheist Field
+    generator, roll a d6 for each enemy within 2m of you when you finish the
+    charge. For each 6 rolled, that enemy suffers a Mortal Wound. Any enemy who
+    rolls a 1 on their Wrath die when making a melee attack against you also
+    suffers one Mortal Wound.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Luminen Charge</strong>: </span><span
+    class="fontstyle0">A Voltagheist field generator will not function unless
+    you have a Luminen Capacitor implant with one or more charges. If the
+    Capacitor has more charges than its normal amount, then add +1 to the Armour
+    Rating of the field for every additional charge you have, to a maximum
+    Armour Rating of 6.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: FORCE FIELD, ADEPTUS MECHANICUS, CULT MECHANICUS
+  equipped: false
+  rating: 3
+  base: 0
+  traits:
+    - name: powerField
+  invulnerable: true
+_id: yS1RHxcGK6fMQFcF
+folder: tfjVFu4f5w54iLmI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089903104
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!yS1RHxcGK6fMQFcF'

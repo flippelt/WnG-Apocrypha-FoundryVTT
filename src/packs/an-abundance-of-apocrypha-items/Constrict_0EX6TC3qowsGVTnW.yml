@@ -1,0 +1,87 @@
+name: Constrict
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.0EX6TC3qowsGVTnW
+system:
+  dn: '@attributes.toughness.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p><span class="fontstyle0">With a word, thought, or gesture, you can
+    command the flesh of your target to sharply contract. The target’s windpipe
+    closes, choking them and cutting off their breath.</span></p><p></p><p><span
+    class="fontstyle0">The target begins to suffocate (see p. 201) and will fall
+    unconscious after a number of rounds equal to twice their Toughness
+    (Astartes characters double this). Each round they must pass a DN 3
+    Toughness test or suffer 1d3 Shock, falling unconscious when they reach
+    maximum Shock.</span></p><p><span class="fontstyle0">Ending the power’s
+    effect allows the target to breathe again.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: 10m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: 1d3
+  potency:
+    - description: +1 DN to the target’s Toughness tests
+      cost: 2
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: +1 Shock from a failed test
+      cost: 2
+      property: damage.other.shock.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: 3
+    type: attribute
+    specification: toughness
+_id: 0EX6TC3qowsGVTnW
+folder: 0PEq5NH9Y81S2Ejf
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247328
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0EX6TC3qowsGVTnW'

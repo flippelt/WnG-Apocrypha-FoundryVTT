@@ -1,0 +1,62 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Willing Possession
+type: ascension
+_id: 4xmv7G75WbAioOj3
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 10
+  description: >-
+    <p>Daemonic Possession is the act of the essence of a Daemon possessing and
+    controlling the body of another being. As Daemons can only exist in the
+    Materium for a limited period before being forced back into the Warp,
+    Daemonic Possession is one of the most common methods for Daemons to enter
+    the material realm. Daemonic Possession can occur involuntarily to those of
+    psychic potential, but the host sometimes willingly gives themselves over to
+    Daemonic Possession, as is the case with Possessed Chaos Space Marines and
+    certain Cultists. Possessed individuals can often be used as gateways to the
+    Warp, allowing Daemons to spill into the Materium.</p><p>A character
+    selecting this Ascension Package has invited a daemon into their flesh,
+    granting them tremendous power, at the cost of subjecting their body, mind,
+    and soul to the ravening touch of the Warp. Few who become possessed can
+    endure it for long, often finding their bodies degenerating into spawndom or
+    becoming purely a vessel for the daemon’s will, but some can find a degree
+    of symbiosis with the daemon they are host to, becoming a singular mighty
+    entity.</p>
+  requirements: Willpower 4+, CHAOS keyword
+  keywords: DAEMON
+  influence: 3
+  benefits: >-
+    <p><strong>INFLUENCE BONUS:</strong> +3</p><p><strong>STORY
+    ELEMENT:</strong> The character is now possessed by a daemon of Chaos. You
+    immediately gain 1d3 Corruption per Tier ascended. Then, you gain a number
+    of benefits:</p><p><strong>DAEMONIC</strong>: You may roll Determination
+    against Mortal Wounds, and you do not suffer Shock when you roll
+    Determination.</p><p><strong>ACCURSED VIGOUR</strong>: Select three
+    attributes when you take this Ascension Package; as a Free Action on your
+    turn, you may gain a number of bonus dice to those attributes equal to the
+    campaign’s Tier. You may sustain this for as many rounds as you wish (or
+    minutes, if outside of combat), but when you stop using this ability, you
+    must pass a Corruption Test with a DN equal to the number of rounds (or
+    minutes) you used this ability. If your Corruption Level reaches 5 while
+    possessed, the Daemon consumes your soul and you cease to
+    exist.</p><p><strong>MUTATED FORM</strong>: While using the daemon’s power,
+    you gain the Horns, Spines, Fangs, or Claws minor mutation (page 290 of the
+    Wrath & Glory rulebook), and a single severe mutation, determined when the
+    character first became possessed.</p><p><strong>WARGEAR</strong>: None.
+    While manifesting the daemon’s power, it tends to meld your wargear and your
+    flesh together, but this effect is normally reversed when you revert to your
+    mortal state.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710794717626
+  modifiedTime: 1710794858472
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!4xmv7G75WbAioOj3'

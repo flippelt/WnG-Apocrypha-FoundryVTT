@@ -1,0 +1,73 @@
+name: Inspire
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.NGMKtPFXpa1vmsTK
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You bolster your allies by subtly implanting images of great courage and
+    masking various negative emotions, allowing them to shake off fears and
+    doubts. All allies within range immediately remove any Fear, Terror, or
+    Pinned conditions they’re currently suffering from, and remain immune to
+    those effects as well as Intimidation-based Interaction Attacks while they
+    remain within range.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: 6m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +2m range
+      cost: 1
+      property: range
+      initial: ''
+      value: 2
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: NGMKtPFXpa1vmsTK
+folder: Y2bAliRT8Nh9MTzR
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247440
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!NGMKtPFXpa1vmsTK'

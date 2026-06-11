@@ -1,0 +1,112 @@
+name: Blessing of the Machine God
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Blessing of the Machine God
+    changes:
+      - key: pool.bonus
+        mode: 2
+        value: '2'
+        priority: null
+      - key: ed.bonus
+        mode: 2
+        value: '@test.result.extra'
+        priority: null
+    _id: x4pTDhoAPvniNvWe
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!PD6F2aE31n4hkHxl.x4pTDhoAPvniNvWe'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.PD6F2aE31n4hkHxl
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You reach out with your mind and binharically amplify the anger of a
+    nearby machine spirit, driving it to lash out at the enemy with renewed
+    purpose. Select a single IMPERIAL vehicle you can see within range; that
+    vehicle adds +2 bonus dice to its ranged attacks before the start of your
+    next turn.</p>
+  effect: ''
+  cost: 10
+  activation: full
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: IRON HANDS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The vehicle’s weapons inflict +1ED damage
+      cost: 2
+      property: extra
+      initial: ''
+      value: 1
+      single: false
+    - description: 'Activation reduced to an Action. '
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: PD6F2aE31n4hkHxl
+folder: S7O8QSVPBRof9hTZ
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959319
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!PD6F2aE31n4hkHxl'

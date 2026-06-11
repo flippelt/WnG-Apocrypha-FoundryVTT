@@ -1,0 +1,60 @@
+name: Psychic Abomination
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.LIRPvUwnRcSM1uSZ
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>A pariah cannot be directly affected by psychic powers or other
+    warp&nbsp;phenomena, whether positive or negative. A&nbsp;pariah can never
+    gain the @Item[JVz6FoVEc7p1DJUj]{PSYKER} keyword, nor can they ever gain
+    Faith points or any other&nbsp;ability that requires drawing upon the Warp
+    for&nbsp;power. Any psychic powers attempted or&nbsp;targeted within a
+    number of metres of the&nbsp;Pariah equal to their Willpower increase
+    their&nbsp;DN by twice the Pariah&rsquo;s Rank</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057163
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: LIRPvUwnRcSM1uSZ
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!LIRPvUwnRcSM1uSZ'

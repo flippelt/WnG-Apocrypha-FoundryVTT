@@ -1,0 +1,81 @@
+name: Airbursting Fragmentation Projector
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.7UdQuAOsjFgdcYlS
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Airbursting Fragmentation Projector was
+    developed by the T'au Empire during the Third Sphere Expansion. The weapon
+    operates by firing a proximityfused explosive projectile on a trajectory
+    computed by a simple on-board drone intelligence within the warhead
+    itself.</span></p><p></p><p><span class="fontstyle0">This AI calculates the
+    precise height and distance of each submunition it fires to provide optimum
+    explosive damage across a wide area.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: EXPLOSIVE, T’AU EMPIRE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+    - name: heavy
+      rating: 6
+    - name: indirect
+      custom: true
+      display: Indirect
+      description: >-
+        The weapon can be fired at enemies which are not visible to the bearer,
+        adding +2 to the DN. Enemies attacked indirectly do not receive any
+        bonus to Defence for being in cover.
+  upgrades: []
+_id: 7UdQuAOsjFgdcYlS
+folder: KCVqHx1PYrcqXhMV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932681258
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!7UdQuAOsjFgdcYlS'

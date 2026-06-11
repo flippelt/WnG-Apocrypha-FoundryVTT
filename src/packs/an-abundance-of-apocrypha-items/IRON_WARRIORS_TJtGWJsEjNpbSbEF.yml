@@ -1,0 +1,56 @@
+name: IRON WARRIORS
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/iron-warriors-white.png
+effects: []
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.TJtGWJsEjNpbSbEF
+system:
+  description: >-
+    <p>One of the nine Legions that betrayed the Emperor during the Horus
+    Heresy, the Iron Warriors were siegemasters, specialising in the destruction
+    of fortified positions. Even while loyal, they were rivals to the Imperial
+    Fists, and their fury and resentment went hand-in-hand, making them
+    ferocious and merciless in battle. Since their fall, they have grown
+    crueller still, creating twisted fortifications that entrap and punish their
+    foes, using slaves as cannon fodder to expend an enemy&rsquo;s ammunition,
+    and exploiting whatever technological abominations they can create to gain
+    an advantage.</p>
+
+    <p>Iron Warriors are known to despise mutation, and often replace mutated
+    flesh with augmetics.</p>
+
+    <h5>Siege Masters</h5>
+
+    <p>Iron Warriors know fortifications&nbsp;</p>
+
+    <p>You may reroll Double Rank dice whenever you attack a building,
+    fortification, or an enemy in cover.</p>
+
+    <p>You may also add +Rank dice whenever you make a test related to
+    architectural engineering.</p>
+
+    <h5>Scorn for the Weak (Tradition)</h5>
+
+    <p>Iron Warriors despise weakness in their comrades.</p>
+
+    <p>If one of your allies fails a Resolve test, you must pass a Willpower
+    test (DN 3). On a failure, you feel a strong urge to punish that ally. If
+    the failure involves a complication, the urge becomes a compulsion. The GM
+    may alter the DN based on the severity or significance of the failure.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056350
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: TJtGWJsEjNpbSbEF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!TJtGWJsEjNpbSbEF'

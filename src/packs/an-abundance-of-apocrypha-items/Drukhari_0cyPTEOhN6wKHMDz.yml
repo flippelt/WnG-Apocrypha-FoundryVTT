@@ -1,0 +1,69 @@
+name: Drukhari
+type: species
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+effects: []
+folder: ct8TKkELuAnX5bLq
+flags:
+  cf: null
+  core: {}
+system:
+  cost: 20
+  speed: 8
+  size: average
+  journal: ''
+  abilities:
+    - id: YBxj5jNBR9dk4Xo5
+      name: Blade Artist
+    - id: vlImvFGdYJDVNE7P
+      name: The Thirst
+    - id: M6mFg2OTSUN53WnO
+      name: She Who Thirsts
+  attributes:
+    strength: 2
+    toughness: null
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: 7
+    toughness: 7
+    agility: 12
+    initiative: 12
+    willpower: 12
+    intellect: 10
+    fellowship: 6
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056656
+  modifiedTime: 1710190655617
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 0cyPTEOhN6wKHMDz
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!0cyPTEOhN6wKHMDz'

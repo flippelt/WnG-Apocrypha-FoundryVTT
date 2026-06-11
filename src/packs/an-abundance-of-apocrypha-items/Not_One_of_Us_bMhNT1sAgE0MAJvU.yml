@@ -1,0 +1,84 @@
+name: Not One of Us
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: c82PLB4CjZLlWhl2
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: +1DN to all Interaction tests with those who aren’t Deathworlders.
+    tint: null
+    origin: null
+    name: Not One of Us
+    description: ''
+    statuses: []
+    _key: '!items.effects!bMhNT1sAgE0MAJvU.c82PLB4CjZLlWhl2'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core: {}
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Deathworlders&nbsp;don&rsquo;t easily trust those who&nbsp;haven&rsquo;t
+    endured the same kind of&nbsp;hostile environments. They suffer&nbsp;+1DN to
+    all Interaction tests with&nbsp;those who aren&rsquo;t Deathworlders.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057129
+  modifiedTime: 1710190653641
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: bMhNT1sAgE0MAJvU
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!bMhNT1sAgE0MAJvU'

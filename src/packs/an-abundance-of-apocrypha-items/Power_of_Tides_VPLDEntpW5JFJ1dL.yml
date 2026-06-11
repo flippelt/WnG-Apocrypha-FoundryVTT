@@ -1,0 +1,91 @@
+name: Power of Tides
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + T'AU EMPIRE/ETHEREAL CASTE
+  description: >-
+    <p><span class="fontstyle0">It is not only the T’au who are inspired by the
+    presence of the Ethereals. As surely as a world’s moons govern the tides of
+    its oceans, so are even the strangest alien auxiliaries given fresh heart by
+    such a serene presence.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">If this Prayer is successful, then while the Prayer
+    remains in effect, a single group of non-T’au allies with the </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">T’AU EMPIRE </span><span
+    class="fontstyle0">keyword, numbering no more than your Willpower score, may
+    add +Rank ED to the damage their attacks inflict.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects:
+  - icon: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+    name: Power of Tides
+    changes:
+      - key: ed.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: q0wvMHzlB2PiXuGR
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!VPLDEntpW5JFJ1dL.q0wvMHzlB2PiXuGR'
+folder: vWDpSrn0D0gaKrxv
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags:
+  core:
+    sourceId: Item.XsZKTerYz3pcnW6W
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: VPLDEntpW5JFJ1dL
+_key: '!items!VPLDEntpW5JFJ1dL'

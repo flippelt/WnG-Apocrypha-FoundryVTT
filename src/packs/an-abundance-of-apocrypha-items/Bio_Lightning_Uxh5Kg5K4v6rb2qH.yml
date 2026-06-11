@@ -1,0 +1,112 @@
+name: Bio-Lightning
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Bio-Lightning
+    _id: i1uS9No4CV0mcQGZ
+    changes:
+      - key: damage.bonus
+        mode: 6
+        value: '@attributes.willpower.total'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!Uxh5Kg5K4v6rb2qH.i1uS9No4CV0mcQGZ'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.Uxh5Kg5K4v6rb2qH
+system:
+  dn: '@combat.defence.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p><span class="fontstyle0">You channel your life force through the
+    meridians of your body, causing your form to crackle with living
+    energy.</span></p><p></p><p><span class="fontstyle0">A target hit by this
+    power suffers damage equal to 7 + your Willpower score +1ED with the
+    Agonizing trait.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 10m
+  multiTarget: true
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1ED
+      cost: 1
+      property: damage.ed.number
+      initial: ''
+      value: 1
+      single: false
+    - description: +10m range
+      cost: 2
+      property: range
+      initial: ''
+      value: 10
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: Uxh5Kg5K4v6rb2qH
+folder: 0PEq5NH9Y81S2Ejf
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247318
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Uxh5Kg5K4v6rb2qH'

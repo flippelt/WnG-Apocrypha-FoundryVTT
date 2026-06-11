@@ -1,0 +1,16 @@
+name: Tools & Equipment
+type: Item
+color: null
+folder: 5byiOc8cFmrZ7KKF
+_id: ZwPIB4alS3jCA97B
+sorting: a
+sort: 0
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710258956400
+  modifiedTime: 1710451653357
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!ZwPIB4alS3jCA97B'

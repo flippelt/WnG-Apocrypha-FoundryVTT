@@ -1,0 +1,34 @@
+folder: R6DiCyrJrBf1MKBz
+name: Whirling Blades
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Howling Banshee aspect
+  description: >-
+    <p>You are a razor-edged whirlwind in battle, slicing apart any foe who
+    steps within reach. If you are wielding a pair of Mirrorswords or other
+    Paired weapon, you may ignore up to 4 points of DN penalty when making a
+    multi-attack in melee. Further, when making a multi-action in melee, you may
+    make up to three melee attacks with their Mirrorswords, each as separate
+    actions within a multi-action.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.UZlxLQKHSA5nbO9T
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700068542661
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: UZlxLQKHSA5nbO9T
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!UZlxLQKHSA5nbO9T'

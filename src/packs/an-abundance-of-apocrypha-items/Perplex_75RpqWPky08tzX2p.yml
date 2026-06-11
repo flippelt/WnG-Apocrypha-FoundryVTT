@@ -1,0 +1,72 @@
+name: Perplex
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.75RpqWPky08tzX2p
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>With perspective-warping illusions you obfuscate your enemies’ vision,
+    rendering their targets fluid and indistinct. This targets enemies within
+    Blast (6) within range and line of sight. The affected enemies cannot see
+    enemies or make ranged attacks against targets more distant than 25m
+    away.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 25m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: HERETIC ASTARTES, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Increase the size of the Blast by +2.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 75RpqWPky08tzX2p
+folder: Etpcm2KGN6kx7ODw
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519059
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!75RpqWPky08tzX2p'

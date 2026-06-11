@@ -1,0 +1,63 @@
+name: Paragon Mace
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Huge, powered maces, able to crush almost any resistance the wielder
+    faces.</p>
+  value: 10
+  keywords: POWERED, WARSUIT, ADEPTA SORORITAS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: unwieldy
+      rating: 2
+    - name: blessed
+      rating: 1
+  upgrades: []
+effects: []
+flags:
+  core: {}
+  cf: null
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663853859033
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: Jr1XUs92ggb9r4uN
+_id: vOI5ZMla1MYvTDLg
+sort: 1800000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!vOI5ZMla1MYvTDLg'

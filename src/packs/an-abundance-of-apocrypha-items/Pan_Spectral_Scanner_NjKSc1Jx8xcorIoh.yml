@@ -1,0 +1,59 @@
+name: Pan-Spectral Scanner
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.leagues-of-votann-equipment.Item.NjKSc1Jx8xcorIoh
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A pan spectral scanner, also called a pan
+    spectral array, is a powerful information-gathering and diagnostic tool
+    available to the Kin of the Leagues of Votann. Pan spectral scanners exist
+    in several different sizes, including Kin-portable or vehicle or
+    installationmounted. The larger systems possess more range, power and
+    diagnostic capability.</span></p><p></p><p><span class="fontstyle0">The
+    Kin's pan spectral scanners are useful both in prospecting for strategic
+    resources and combat. They can detect an incredible range of energy spectra
+    not only through solid matter, but even across multidimensional wavelengths,
+    such as Warp energy signatures, ensuring the Hernkyn are rarely surprised
+    during their explorations by even the most cunning or esoterically empowered
+    foes.</span></p><p></p><p><span class="fontstyle0">These scanners are
+    equally unlikely to miss the presence of natural resources the Kin would
+    prize. When such rich discoveries are made, Hernkyn mark the location using
+    powerful claim-beacons, whose multispectral energy signatures are bounced
+    back along networks of relay satellites all the way to League space. It is
+    at such times that the Cthonian Mining Guilds rumble into action to begin
+    exploiting the new resource deposits.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">This functions as an Auspex (page 236 of the </span><span
+    class="fontstyle3">Wrath & Glory core rulebook</span><span
+    class="fontstyle0">). In addition, the user increases their Passive
+    Awareness by Double Rank.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: LEAGUES OF VOTANN
+  effect: ''
+_id: NjKSc1Jx8xcorIoh
+folder: OBM5CJDK3tWaYAVA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257385297
+  modifiedTime: 1710625204854
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 600000
+_key: '!items!NjKSc1Jx8xcorIoh'

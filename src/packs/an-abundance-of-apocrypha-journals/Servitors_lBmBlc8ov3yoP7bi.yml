@@ -1,0 +1,76 @@
+folder: nDYleZkn0ESlN5hn
+name: Servitors
+_id: lBmBlc8ov3yoP7bi
+pages:
+  - sort: 100000
+    name: Servitors
+    type: text
+    _id: BbFNvYSnthJsMWtL
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>A servitor is the catch-all term applied to a wide class of mindless,
+        cybernetic drones created from a fusion of Human flesh and robotic
+        technology that are used to carry out simple, manual tasks across the
+        Imperium of Man. Servitors were created due to the strict prohibitions
+        against the development or use of machine intelligences according to the
+        tenets of the Cult Mechanicus, whose tech-priests deeply fear the
+        creation of Silica Animus. They believe such artificial general
+        intelligences to be the embodiments of blasphemy against the
+        Omnissiah.</p><p></p><p>While many of these programmable cybernetic
+        slaves are genetically-engineered, vat-grown, sub-Human clones or
+        replicae created by the Adeptus Mechanicus from Human genomes who have
+        their bionic implants installed after "birth", others were once truly
+        Human.</p><p></p><p>These servitors were usually criminals who fell
+        afoul of Imperial Law, particularly a person who has offended or damaged
+        the Adeptus Mechanicus in some fashion. These unfortunate criminals will
+        be sentenced to Servitude Imperpituis by the Arbitrators or Judges of
+        the Adeptus Arbites and will be handed over to the Mechanicus'
+        Tech-priests to be mind-wiped, reprogrammed, and cybernetically-enhanced
+        to serve some specific, rudimentary function. Once lobotomised and
+        "improved" through the process of painful operations, even criminals and
+        Heretics are granted one last chance to serve the
+        Imperium.</p><p></p><p>Servitors are generally mindless, semi-organic
+        robots, possessing only the most basic of instincts, though some are
+        fully capable of speech if such functions and knowledge are programmed
+        into them. Their brains are reprogrammed to perform only the task they
+        were designed for, whether that be maintenance, construction, or even
+        warfare.</p><p></p><p>The altered and fragmented brain of a servitor
+        functions poorly unless constantly supervised. Most will eventually go
+        into a state of mindlock, babbling incoherent nonsense as the servitor
+        tries to assert some form of control over its functions.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710363413617
+      modifiedTime: 1710363583914
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!lBmBlc8ov3yoP7bi.BbFNvYSnthJsMWtL'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710363404371
+  modifiedTime: 1710363583914
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!journal!lBmBlc8ov3yoP7bi'
+categories: []

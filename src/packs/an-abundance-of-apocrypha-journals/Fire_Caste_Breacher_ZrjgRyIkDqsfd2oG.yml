@@ -1,0 +1,46 @@
+folder: Eur8pJbhW3UOXOhY
+name: Fire Caste Breacher
+pages:
+  - sort: 200000
+    name: Fire Caste Breacher
+    type: text
+    _id: FqN8NsvqDywleKNZ
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: "<blockquote><p>Learn to shorten your reach! If your foe can come close enough to negate your striking power, all stratagem is lost and when all stratagem is lost, the battle is lost.</p><p style=\"text-align:right\"><em>—— Attributed to Commander Farsight</em></p></blockquote><p><strong>You are a warrior of the T’au Empire, a member of the Fire Caste. You specialise in close-quarters assault, equipped with short-ranged, powerful pulse blasters, and trained to efficiently clear buildings and fortifications of enemies.</strong></p><p>Having been bred and trained to be soldiers at birth, Tau Fire Warriors strictly follow both the Greater Good and the Code of Fire and represent the best fighters of their species. They are soldiers outfitted with a wide variety of advanced technology. Their main firearm is the Pulse Rifle, although they do sometimes use Pulse Carbines.</p><p>The Breacher Team is a type of Tau Fire Warrior deployment. The Breacher Team specializes in brutally effective close-range assaults, clearing buildings of threats in a tight, tactical formation and delivering sharp, shockingly sudden frontline displays of raw incendiary power that grind enemy soldiers into dust, discharging Pulse Blasters and hurling Photon Grenades until they are certain every path is clear.</p><div class=\"journal-image centered\"><img src=\"modules/wng-apocrypha/assets/images/archetypes/fc-breacher.webp\" width=\"215\" height=\"300\" /></div><table style=\"width:98.9228%;height:234px\" border=\"1\"><tbody><tr class=\"table-header\" style=\"background-color:#846404;height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\">FIRE CASTE BREACHER</td></tr><tr style=\"height:16px\"><td style=\"background-color:#846404;color:white;text-align:center;width:26.5674%;height:16px\" colspan=\"2\">TIER</td><td style=\"width:8.3%;height:16px;text-align:center\">1</td><td style=\"background-color:#846404;color:white;width:16.2617%;height:16px;text-align:center\" colspan=\"2\">SPECIES</td><td style=\"width:11.7268%;height:16px;text-align:center\">Shas T'au</td><td style=\"background-color:#846404;color:white;width:11.6223%;height:16px;text-align:center\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center\">8</td></tr><tr style=\"height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>KEYWORDS</strong>:@UUID[Item.F7FRdD4PlRSmS3xN]{T'AU EMPIRE}, @UUID[Item.IZKow5SDbQX6vBIn]{FIRE CASTE},@UUID[Item.Qr5PyX5ivlRSnOZV]{[SEPT]}</td></tr><tr style=\"height:16px;background-color:rgba(0, 0, 0, .2)\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>SKILLS</strong>:\_Ballistic Skill 2, Tech 1</td></tr><tr style=\"height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><p><strong>ARCHETYPE ABILITY</strong>:@UUID[Item.4fIZoH2IpPcSnRiR]{Breach and Clear}</p></td></tr><tr style=\"height:16px;background-color:rgba(0, 0, 0, .2)\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>WARGEAR</strong>: : T’au Body Armour, Field Relay Amplifier, Pulse Blaster, 3 Photon Grenades.</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"width:51.1291%;height:16px;background-color:#846404;text-align:left\" colspan=\"5\"><strong>SUGGESTED ATTRIBUTES</strong></td><td style=\"background-color:#846404;color:white;text-align:center;width:23.3491%;height:16px\" colspan=\"2\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">48</td></tr><tr style=\"font-variant:small-caps;height:16px\"><td style=\"background-color:#846404;color:white;width:14.0674%;height:16px\">ATTRITBUTE</td><td style=\"width:12.5%;height:16px;text-align:center\">S</td><td style=\"width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">T</td><td style=\"width:5.17241%;height:16px;text-align:center\">A</td><td style=\"width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">I</td><td style=\"width:11.7268%;height:16px;text-align:center\">Wil</td><td style=\"width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">Int</td><td style=\"width:18.2509%;height:16px;text-align:center\">Fel</td></tr><tr style=\"height:16px\"><td style=\"background-color:#846404;color:white;width:14.0674%;height:16px\">RATING</td><td style=\"width:12.5%;height:16px;text-align:center\">3</td><td style=\"width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">3</td><td style=\"width:5.17241%;height:16px;text-align:center\">3</td><td style=\"width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">3</td><td style=\"width:11.7268%;height:16px;text-align:center\">2</td><td style=\"width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">1</td><td style=\"width:18.2509%;height:16px;text-align:center\">3</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"background-color:#846404;width:51.1291%;height:16px;text-align:left\" colspan=\"5\"><strong>SUGGESTED SKILLS</strong></td><td style=\"background-color:#846404;color:white;text-align:center;width:23.3491%;height:16px\" colspan=\"2\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">20</td></tr><tr style=\"height:16px\"><td style=\"height:16px;width:92.7291%\" colspan=\"8\">Athletics 2, Awareness 1, Ballistic Skill 3, Survival 1, Tech 2</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"background-color:#846404;width:92.7291%;height:16px\" colspan=\"8\">SUGGESTED TALENTS</td></tr><tr style=\"height:16px\"><td style=\"height:16px;width:92.7291%\" colspan=\"8\">@UUID[Item.HYuKXdU1r5yNyRU1]{Die Hard},@UUID[Item.cIJSwqHfDGxq6QID]{Supporting Fire}, @UUID[Item.yu5AnzdlMjCwN3Yl]{Ta'lissera Bonding}</td></tr></tbody></table>"
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ZrjgRyIkDqsfd2oG.FqN8NsvqDywleKNZ'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664171799977
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: ZrjgRyIkDqsfd2oG
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!ZrjgRyIkDqsfd2oG'
+categories: []

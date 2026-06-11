@@ -1,0 +1,159 @@
+name: Scourging
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Hindered
+    icon: systems/wrath-and-glory/asset/icons/conditions/hindered.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '1'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - hindered
+    _id: dnc2Y0d8ykaU96q2
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    _key: '!items.effects!Nw3IunyqdgRARdCi.dnc2Y0d8ykaU96q2'
+  - name: Restrained
+    icon: systems/wrath-and-glory/asset/icons/conditions/restrained.svg
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '-2'
+        priority: null
+      - key: system.combat.speed
+        mode: 5
+        value: '0'
+        priority: null
+    statuses:
+      - restrained
+    _id: GBgIt9zYWY2iZpSO
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!Nw3IunyqdgRARdCi.GBgIt9zYWY2iZpSO'
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Scourging (Psyker)
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: OopWpgJ5e3zhsKPP
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!Nw3IunyqdgRARdCi.OopWpgJ5e3zhsKPP'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.Nw3IunyqdgRARdCi
+system:
+  dn: '@combat.conviction.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You fashion a lash from your foe’s own guilt and uses it to flay their
+    writhing mind. Select a single enemy you can see within range. The target is
+    Hindered and Restrained until the start of your next turn. If the target has
+    the PSYKER keyword, they also increase the DN of any Psychic Mastery tests
+    they attempt by +2.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: INQUISITION and ORDO HERETICUS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The duration is increased by +1 Round.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: ' The Hindered effect is increased by 1.'
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: Nw3IunyqdgRARdCi
+folder: Xna24or3vCqYsURu
+sort: 175000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206766
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Nw3IunyqdgRARdCi'

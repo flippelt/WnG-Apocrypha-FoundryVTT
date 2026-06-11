@@ -1,0 +1,174 @@
+folder: cZ7bosRjx1cxapg8
+name: Plague Marine
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 2
+  cost: 320
+  keywords:
+    - CHAOS
+    - NURGLE
+    - HERETIC ASTARTES
+    - '[LEGION]'
+  attributes:
+    strength: 5
+    toughness: 6
+    agility: 4
+    initiative: 5
+    willpower: 5
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 3
+    investigation: null
+    leadership: 1
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 4
+  ability:
+    name: Disgustingly Resilient
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3dtZyTw2kFsveCs1
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: oRGr8BckO5VrdVSx
+    - name: Boltgun
+      id: Compendium.wng-core.items.Item.I7yC0O7DawbOznUf
+      type: item
+      diff: {}
+      index: 2
+      groupId: iaMVItpwSoZrjiBB
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 3
+      groupId: pKXnuJcGPA1d54J5
+    - name: Plague Knife
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RYl5lvSY97e9x82z
+      type: item
+      diff: {}
+      index: 4
+      groupId: 2JSqFNOEcQ15pjqi
+    - name: Blight Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.LDZ4CJzqKNgWnwGX
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: 5zhXuPMhg9JALPsB
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: HwFHGqLG8eXC7BwD
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: oRGr8BckO5VrdVSx
+      - index: 2
+        type: item
+        groupId: iaMVItpwSoZrjiBB
+      - index: 3
+        type: item
+        groupId: pKXnuJcGPA1d54J5
+      - index: 4
+        type: item
+        groupId: 2JSqFNOEcQ15pjqi
+      - index: 5
+        type: item
+        groupId: 5zhXuPMhg9JALPsB
+      - index: 6
+        type: item
+        groupId: HwFHGqLG8eXC7BwD
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: HYuKXdU1r5yNyRU1
+        name: Die Hard
+      - id: YOJXISADzQlwp1Lc
+        name: Fear
+      - id: 5iNJHYKgdbVqNRwo
+        name: Feel No Pain
+effects: []
+flags:
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710716489013
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: D99aE5goYPb1w5zQ
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!D99aE5goYPb1w5zQ'

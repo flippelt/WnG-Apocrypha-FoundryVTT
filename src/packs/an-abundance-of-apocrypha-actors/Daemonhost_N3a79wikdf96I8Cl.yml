@@ -1,0 +1,1157 @@
+folder: FUoucq3Qte8aJ3HB
+name: Daemonhost
+type: threat
+_id: N3a79wikdf96I8Cl
+img: modules/wng-core/assets/tokens/chaos.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 11
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: null
+      bonus: 0
+      max: null
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: '-'
+      second: '-'
+      third: E
+      fourth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 8 Unique</p><p>A Daemonhost is an unholy creation
+    of foul and dangerous rituals in which a powerful Daemon of Chaos is bound
+    into a living Human or other mortal host body and enslaved to its creator's
+    will. An utterly foul act, the creation of a Daemonhost condemns the soul of
+    the host body to eternal torment and provides a lasting home in the material
+    universe for a Daemon to work its malignant evil. Daemons do not rest easily
+    under the will of any mortal, and to earn the enmity of such a creature is
+    to gain an immortal enemy, so a Daemonhost's creator is faced with a
+    dangerous conundrum: the more powerful the Daemonhost created, the weaker
+    the bindings of the Daemon.</p><p>When first acquired, a Daemonhost is
+    Thrice-Bound</p>
+prototypeToken:
+  name: Daemonhost
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/chaos.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: Daemonic Aura
+    type: armour
+    _id: GcrJZT4pUo7IF8g4
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 3
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710420085276
+      modifiedTime: 1710420109634
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.GcrJZT4pUo7IF8g4'
+  - _id: k6UTKiCVZb10wBLE
+    name: CHAOS
+    type: keyword
+    img: modules/wng-core/assets/factions/chaos.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 2800000
+      core:
+        sourceId: Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF
+    system:
+      description: <p>The forces and worshippers of the Chaos Gods. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656025
+      modifiedTime: 1710420337394
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!N3a79wikdf96I8Cl.k6UTKiCVZb10wBLE'
+  - _id: MBc1xp6CLxngG1Sp
+    name: '[MARK OF CHAOS]'
+    type: keyword
+    img: modules/wng-core/assets/factions/chaos.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 1200000
+      core:
+        sourceId: Compendium.wng-core.items.Item.TXRdb9GJ55fjSODX
+    system:
+      description: >-
+        <p>Those that worship the Ruinous Powers may be gifted with a Mark of
+        Chaos, a foul manifestation of the favor of the Dark Gods that defines a
+        mortal as a servant of Chaos. Most of these traitors are marked with the
+        eight-pointed star of Chaos undivided, but some focus their worship on a
+        single god and in turn receive their specific mark. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656025
+      modifiedTime: 1710420342082
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!N3a79wikdf96I8Cl.MBc1xp6CLxngG1Sp'
+  - _id: mytlDtSp4cr2dv23
+    name: DAEMON
+    type: keyword
+    img: modules/wng-core/assets/factions/chaos.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 2900000
+      core:
+        sourceId: Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0
+    system:
+      description: >-
+        <p>The twisted creatures native to the Immaterium are named daemons and
+        are believed to be made of Warp energy. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656028
+      modifiedTime: 1710420355951
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!N3a79wikdf96I8Cl.mytlDtSp4cr2dv23'
+  - _id: CR1nQRnPRRWhSyyJ
+    name: PSYKER
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-astra-telepathica.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj
+    system:
+      description: "<p>You are a Psyker, capable of channeling the raw energies of the Warp. If you have this Keyword, you:\_</p><ul><li>Know the @UUID[JournalEntry.PA2r8GQau2kyGwCO.JournalEntryPage.a3kO9CDWpBUWHtEr#universal-psychic-discipline]{Universal Psyker Abilities}.</li><li>Can spend XP to learn psychic powers.</li><li>Can spend XP to improve your Psychic Mastery Skill.</li></ul><p>None truly know how an individual becomes a Psyker. Some are born with this twisted gift, others are cursed through exposure to the Warp. Becoming a Psyker will dramatically change your character, making them a powerful, feared, and potentially illegal citizen of the Imperium. Talk to your GM and your group before choosing this Keyword.</p>"
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656023
+      modifiedTime: 1710420371575
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!N3a79wikdf96I8Cl.CR1nQRnPRRWhSyyJ'
+  - name: Bound Daemon
+    type: talent
+    _id: y6vy4SKnXBYx6zBn
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Daemonhost’s abilities depend on how strongly the daemon is bound
+        into the host. </p><ul><li><p><strong>Thrice-Bound</strong>: The
+        Daemonhost’s profile is unchanged.
+        </p></li><li><p><strong>Twice-Bound</strong>: The Daemonhost’s AR, the
+        DN of its Fear Test, the ED of its attacks, and its Intimidation,
+        Scholar, and Psychic Mastery skills all increase by +1. The Daemonhost
+        has a Flight speed of 6, and it knows one additional psychic power.
+        </p></li><li><p><strong>Once-Bound</strong>: The Daemonhost’s AR, the DN
+        of its Fear Test, the ED of its attacks, and its Intimidation, Scholar,
+        and Psychic Mastery skills all increase by +2. The Daemonhost has a
+        Flight speed of 7, and it knows two additional psychic powers.
+        </p></li><li><p><strong>Unbound</strong>: The Daemonhost’s AR, the DN of
+        its Fear Test, the ED of its attacks, and its Intimidation, Scholar, and
+        Psychic Mastery skills all increase by +3. The Daemonhost has a Flight
+        speed of 8, and it knows three additional psychic powers.</p></li></ul>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710420400854
+      modifiedTime: 1710420653183
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.y6vy4SKnXBYx6zBn'
+  - name: Servant of the Lord of Skulls
+    type: talent
+    _id: 5R8iEIdB1KEcPAv2
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>A Daemonhost with the KHORNE keyword does not have the PSYKER
+        keyword, the Psychic Mastery skill, and cannot use Psychic Powers.
+        Instead, it has Weapon Skill 10 (which increases according to the Bound
+        Daemon rule, above), and gains the Brutal trait on its Warp Grasp melee
+        attack. A KHORNE Daemonhost may enter a Frenzied state as a Simple
+        Action.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710420700223
+      modifiedTime: 1710420767575
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.5R8iEIdB1KEcPAv2'
+  - name: Unholy Changes
+    type: talent
+    _id: tqltHmOAtHtnFZSv
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Daemonhost’s form is twisted by the entity within. Roll one or
+        more times on the Mutation tables on page 287 of the Wrath & Glory Core
+        Rulebook. An Unbound Daemonhost rolls four times. A Once-Bound
+        Daemonhost rolls three times. A Twice-Bound Daemonhost rolls twice. A
+        Thrice-Bound Daemonhost rolls once.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710420783510
+      modifiedTime: 1710420798069
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.tqltHmOAtHtnFZSv'
+  - name: Daemonic Dread
+    type: ability
+    _id: YBFLlUBsqucgDiyv
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Anyone who can see this Follower, other than its owner, must take a
+        DN 3 Fear Test.</p>
+      display: true
+      abilityType: battlecry
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710420813831
+      modifiedTime: 1710420843126
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.YBFLlUBsqucgDiyv'
+  - name: Maleficarum
+    type: ability
+    _id: DBBib0NFZaeiCojn
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Daemonhost may attempt to activate any psychic power it knows. It
+        knows Smite, Psyniscience, Deny the Witch, and one power from the
+        Maleficarum discipline (page 280 of the Wrath & Glory Core
+        Rulebook).</p>
+      display: true
+      abilityType: action
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710420877758
+      modifiedTime: 1710420917181
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.DBBib0NFZaeiCojn'
+  - name: Unholy Gaze
+    type: weapon
+    _id: Bstb7xmWBZjlFJOe
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 1
+      traits:
+        - name: mortal-(1)
+          custom: true
+          display: Mortal (1)
+          description: >-
+            The weapon deals horrific, deadly wounds that are nigh-impossible to
+            withstand. For each Exalted Icon you roll on the weapon’s ED, you
+            inflict X Mortal Wounds, in addition to any damage the attack
+            inflicts.
+        - name: beam
+          custom: true
+          display: Beam
+          description: >-
+            The weapon fires a focused beam of energy that bores through
+            everything in your path. Each time an attack is made with this
+            weapon, draw a line back from the target of the attack back to the
+            weapon. The Multi-Attack DN penalty for attacks with this weapon is
+            reduced by twice the weapon’s Salvo, in addition to effects from a
+            Salvo attack. Against a Mob, an attack with the weapon scores a
+            number of additional icons equal to the weapon’s Salvo.
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710420961978
+      modifiedTime: 1710421163856
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.Bstb7xmWBZjlFJOe'
+  - name: Warp Grasp
+    type: weapon
+    _id: GiOvXtJNp3fbeVlz
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: warpWeapons
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710421165171
+      modifiedTime: 1710421206164
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.GiOvXtJNp3fbeVlz'
+  - name: Daemonic Rebellion
+    type: ability
+    _id: R1fPryiPoZFL3jJm
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Daemon attempts to break free of its bindings. It attempts a
+        Willpower Test, with a DN based on its binding level: Thrice-bound is DN
+        5, Twice-bound is DN 4, Once-bound is DN 3. If it succeeds, its level of
+        binding is reduced by one, towards Unbound. If already unbound, the
+        daemon betrays its owner.</p>
+      display: true
+      abilityType: complication
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710421215561
+      modifiedTime: 1710421255026
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.R1fPryiPoZFL3jJm'
+  - name: Daemonic Aura
+    type: ability
+    _id: FfMxQWdeApTx3edl
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Spend 1 Glory to roll 6d6. This Follower may roll Determination
+        against Mortal Wounds, and any Wounds negated by Determination are
+        ignored instead of being converted to Shock.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710421269651
+      modifiedTime: 1710421296072
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!N3a79wikdf96I8Cl.FfMxQWdeApTx3edl'
+  - _id: LPTIHix2YfKBVS3Q
+    name: Smite
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/smite.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Psychic Powers
+        sort: 1700000
+      core:
+        sourceId: Compendium.wng-core.items.Item.n0bj5UJjgglDzFcB
+    system:
+      dn: '@combat.defence.total'
+      type: ''
+      specification: ''
+      description: >-
+        <p>You concentrate destructive power through the lens of your will,
+        summoning lethal bolts of raw psychic energy that blast your enemies
+        into ash.</p>
+
+        <p>Target one enemy within range and make a Psychic Master (Wil) Test
+        against their Defence. If successful, the target suffers [[/r 1d3]]
+        Mortal Wounds.</p>
+      effect: ''
+      cost: 0
+      activation: action
+      duration: Instant
+      range: 35 m
+      multiTarget: true
+      keywords: PSYCHIC
+      prerequisites: ''
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: 1d3
+        wounds: ''
+        shock: ''
+      potency:
+        - description: +1 Mortal Wound
+          cost: 3
+          property: damage.other.mortalWounds.bonus
+          initial: ''
+          value: 1
+          single: false
+      test:
+        dn: null
+        type: ''
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654951
+      modifiedTime: 1710422780470
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: oXMnmUZwSQjKBPAj
+    sort: 0
+    _key: '!actors.items!N3a79wikdf96I8Cl.LPTIHix2YfKBVS3Q'
+  - _id: UJLGm6vv9isNoB9N
+    name: Psyniscience
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/psyniscience.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Psychic Powers
+        sort: 100000
+      core:
+        sourceId: Compendium.wng-core.items.Item.EkYPs1ktKn4EaGFq
+    system:
+      dn: '3'
+      type: ''
+      specification: ''
+      description: >-
+        <p>You can sense the presence of the Warp pressing in against the
+        material world. Existing or imminent distortions of the barrier between
+        Materium and Immaterium in your immediate presence may betray themselves
+        in the flicker of shadows, a brief chill on the flesh, or in a thousand
+        other ways.</p>
+
+        <p>You can attempt to detect the presence of Warp phenomena within range
+        and line of sight, including sustained psychic powers, psychic powers
+        being activated, and similar effects as decided by the GM.</p>
+
+        <p>This won&rsquo;t show the source of any such phenomenon, only that it
+        is present within the restrictions, nor does it detect any Psykers. It
+        does, however, provide enough information to activate Deny the
+        Witch.</p>
+
+        <p>If you attempt to activate this power and fail, the mysteries of the
+        Warp assail your mind. You are automatically under the effects of
+        Fear.</p>
+
+        <p>As it is not considered a psychic power, Psyniscience can&rsquo;t
+        trigger the @UUID[RollTable.7LR1oOovQa0iqcJu]{Perils of the Warp}.</p>
+      effect: ''
+      cost: 0
+      activation: free
+      duration: Instant
+      range: 50 m
+      multiTarget: false
+      keywords: PSYCHIC
+      prerequisites: ''
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      potency: []
+      test:
+        dn: null
+        type: ''
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654945
+      modifiedTime: 1710422801568
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: oXMnmUZwSQjKBPAj
+    sort: 0
+    _key: '!actors.items!N3a79wikdf96I8Cl.UJLGm6vv9isNoB9N'
+  - _id: rxzZCPSwmjyHebZL
+    name: Deny The Witch
+    type: psychicPower
+    img: modules/wng-core/assets/icons/powers/deny-the-witch.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Psychic Powers
+        sort: 200000
+      core:
+        sourceId: Compendium.wng-core.items.Item.qZ1MhJjRIuxJxEF7
+    system:
+      dn: ''
+      type: ''
+      specification: ''
+      description: >-
+        <p>You can unravel another psyker&rsquo;s attempt to manipulate the
+        Warp.</p>
+
+        <p>All characters with the <a class="keyword">PSYKER</a> keyword can
+        attempt to prevent the activation of a psychic power within range, or
+        nullify an already active Sustained or timed duration psychic power.
+        Your character must be aware that a power is being used in order to Deny
+        the Witch.</p>
+
+        <p>The DN for Deny the Witch is 2 + the DN of the psychic power you are
+        trying to deny. If the power you are trying to deny has increased
+        potency from shifting an Exalted Icon, the DN is increased by +1 for
+        each Exalted Icon shifted.</p>
+
+        <p>If Deny the Witch succeeds, the power fails to activate or
+        immediately stops working.</p>
+
+        <p>*Unlike other Actions, this can be used to deny a power occurring
+        before your Turn, but this uses your Combat Action for the Round. If you
+        have used your Action for the Round then you can&rsquo;t Deny the
+        Witch.</p>
+      effect: ''
+      cost: 0
+      activation: free
+      duration: Instant
+      range: 50 m
+      multiTarget: false
+      keywords: PSYCHIC
+      prerequisites: ''
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      potency: []
+      test:
+        dn: null
+        type: ''
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654954
+      modifiedTime: 1710422813393
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: oXMnmUZwSQjKBPAj
+    sort: 0
+    _key: '!actors.items!N3a79wikdf96I8Cl.rxzZCPSwmjyHebZL'
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710419953967
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!actors!N3a79wikdf96I8Cl'

@@ -1,0 +1,139 @@
+name: Khorngor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 499927
+pages:
+  - name: Khorngor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <blockquote><p>Stamp and trample! Gore and crush!</p><p
+        style="text-align:right"><em>—— Unknown
+        Khorngor</em></p></blockquote><p><strong>You embrace your rage. You give
+        in to the bloodlust that thunders in your head and your heart like the
+        beating of a war drum</strong></p><p>Beastmen devoted to the Chaos God
+        Khorne, Khorngor are bloodthirsty monstrosities even by the standards of
+        their bestial kind. Khorngor tend to have ruddy flesh and dark fur, and
+        many find that their features mutate to become more canine or ursine.
+        They are often herded into battle by Khornate warbands as cannon fodder,
+        driven into a berserker rage by the scent of spilled blood.</p><table
+        style="width:98.9228%;height:239px" border="1"><tbody><tr
+        class="table-header" style="height:16px;background-color:#301444"><td
+        style="width:92.7291%;height:16px" colspan="8">KHORNGOR</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
+        colspan="2">TIER</td><td
+        style="width:8.3%;height:16px;text-align:center">1</td><td
+        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
+        colspan="2">SPECIES</td><td
+        style="width:11.7268%;height:16px;text-align:center">Beastman</td><td
+        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
+        Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center">36</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">CHAOS</a>, <a
+        class="keyword">ABHUMAN</a>, <a class="keyword">HERETIC</a>, <a
+        class="keyword">KHORNE</a></td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px"
+        colspan="8"><strong>ATTRIBUTE</strong>: Agility 3, Strength 3, Toughness
+        3</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
+        Weapon Skill 2</td></tr><tr style="height:16px;background-color:rgba(0,
+        0, 0, .2)"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>ARCHETYPE ABILITY</strong>:
+        @UUID[Item.kGI5sUM9TWSxVHmj]{The Scent of Blood}</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>WARGEAR</strong>: @UUID[Item.fLx8DzWDgWDZIMSK]{Flak
+        Armour} and one of the following - two
+        @UUID[Item.4cJ8ZBlUT4grfFRs]{Axes} or a
+        @UUID[Item.HVZUg1rOLXh7OnKM]{Chainaxe} and
+        @UUID[Item.JbTzZSQ0FZ4PIjdp]{Autopistol}</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
+        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">18</td></tr><tr
+        style="font-variant:small-caps;height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
+        style="width:12.5%;height:16px;text-align:center">S</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">T</td><td
+        style="width:5.17241%;height:16px;text-align:center">A</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">I</td><td
+        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">Int</td><td
+        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
+        style="width:12.5%;height:16px;text-align:center">4</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">3</td><td
+        style="width:5.17241%;height:16px;text-align:center">3</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">2</td><td
+        style="width:11.7268%;height:16px;text-align:center">2</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">1</td><td
+        style="width:18.2509%;height:16px;text-align:center">1</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
+        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">12</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%" colspan="8">Athletics 1, Ballistic
+        Skill 1, Intimidation 1, Weapon Skill 3</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:92.7291%;height:16px;background-color:#301444"
+        colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td
+        style="height:15px;width:92.7291%"
+        colspan="8">@UUID[Item.YaiXDgjj9UxA1EtI]{Berzerker},
+        @UUID[Item.3uI0Gw1jMR7J0GG6]{Brutalist},
+        @UUID[Item.kj8Jm2JKxELokK4X]{Let The Galaxy
+        Burn}</td></tr></tbody></table>
+      markdown: ''
+    _id: 6VIdIZs0RFiBmFtW
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!1ZMhwBJITTRain1R.6VIdIZs0RFiBmFtW'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664173162519
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 1ZMhwBJITTRain1R
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!1ZMhwBJITTRain1R'
+categories: []

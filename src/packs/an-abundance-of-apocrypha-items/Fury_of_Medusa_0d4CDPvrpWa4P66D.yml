@@ -1,0 +1,73 @@
+name: Fury of Medusa
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.0d4CDPvrpWa4P66D
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You channel the might of Medusa’s furious electrical storms, unleashing a
+    leaping psychic geist that surges through the enemy. Select a single enemy
+    you can see within range and draw a straight line between them and you. Any
+    foe along this line must roll 1d6, or 3d6 if it is a Vehicle. Each roll of
+    an Icon inflicts 1d3 Mortal Wounds, while each Exalted Icon inflicts 3
+    Mortal Wounds.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: IRON HANDS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Each enemy rolls 1 additional d6.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 0d4CDPvrpWa4P66D
+folder: S7O8QSVPBRof9hTZ
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959324
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0d4CDPvrpWa4P66D'

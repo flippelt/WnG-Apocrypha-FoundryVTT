@@ -1,0 +1,55 @@
+folder: LIn5nQ6d7ozuoIpO
+name: Veil of Illusion
+type: ability
+_id: 8oduWSi50k7Pjd2r
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Whenever a ranged attack targets an ally within 6 metres of you, the
+    attacker counts the range to their attacker as being +Triple Rank metres
+    longer than it actually is.</p><p></p><p><strong>Psyker</strong>: You are a
+    Psyker, and you know the Smite psychic power, and one power from the
+    Phantasmancy discipline. You may learn additional psychic powers from the
+    Divination, Telepathy, and Phantasmancy disciplines.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710782168243
+  modifiedTime: 1710782190526
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!8oduWSi50k7Pjd2r'

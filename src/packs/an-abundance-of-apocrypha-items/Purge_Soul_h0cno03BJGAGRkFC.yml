@@ -1,0 +1,96 @@
+name: Purge Soul
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Staggered
+    icon: systems/wrath-and-glory/asset/icons/conditions/staggered.svg
+    changes:
+      - key: system.combat.speed
+        mode: 1
+        value: '0.5'
+        priority: null
+    statuses:
+      - staggered
+    _id: nYmNiP8svHP8wr2W
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!h0cno03BJGAGRkFC.nYmNiP8svHP8wr2W'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.h0cno03BJGAGRkFC
+system:
+  dn: '@combat.resolve.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You draw upon all of your willpower to purge the evil of your foes’
+    souls, scouring every trace of corruption even if it destroys them in the
+    process. You target one enemy with a psychic ranged attack. If successful,
+    the target suffers 1 Mortal Wound and is staggered until the start of its
+    next turn.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 25m
+  multiTarget: true
+  keywords: PSYCHIC
+  prerequisites: GREY KNIGHTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: '1'
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound.
+      cost: 1
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: h0cno03BJGAGRkFC
+folder: KxBz8XrM98q2ZcAs
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959182
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!h0cno03BJGAGRkFC'

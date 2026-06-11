@@ -1,0 +1,53 @@
+name: '''Ere We Go!'
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+effects:
+  - _id: al1UwtuhMFIwY9mZ
+    changes:
+      - key: ''
+        mode: 6
+        value: ''
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/talents/talent.webp
+    transfer: true
+    flags: {}
+    tint: null
+    origin: null
+    name: '''Ere We Go!'
+    description: ''
+    statuses: []
+    _key: '!items.effects!rUN6f0HQx334Gt7N.al1UwtuhMFIwY9mZ'
+folder: ZMoR03HW5eXVf9E1
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rUN6f0HQx334Gt7N
+system:
+  effect: ''
+  cost: 20
+  requirements: Ork Species
+  description: ''
+  display: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663790169793
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: rUN6f0HQx334Gt7N
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 10200000
+_key: '!items!rUN6f0HQx334Gt7N'

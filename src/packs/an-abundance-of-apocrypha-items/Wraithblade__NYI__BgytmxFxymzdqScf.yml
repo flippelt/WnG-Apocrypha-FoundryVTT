@@ -1,0 +1,111 @@
+folder: GHP0SxnnlNKFusRJ
+name: Wraithblade (NYI)
+type: archetype
+_id: BgytmxFxymzdqScf
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Asuryani Ghost Warrior
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lkFYDPtPweJozl3m
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 358
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - WRAITH CONSTRUCT
+  attributes:
+    strength: 9
+    toughness: 6
+    agility: 4
+    initiative: 5
+    willpower: 5
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 2
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 3
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 2
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 4
+  ability:
+    name: Deathless Fury
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.AiVqSYBRnFHNGOJd
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Force Shield
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ITLQfWGwbXHWLCgq
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: lqkP63B6bgU8r6Oa
+  suggested:
+    attributes:
+      strength: 9
+      toughness: 7
+      agility: 4
+      initiative: 6
+      willpower: 6
+      intellect: 4
+      fellowship: 1
+    skills:
+      athletics: 4
+      awareness: 4
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 3
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: 2
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 6
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710790550735
+  modifiedTime: 1710790828827
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!BgytmxFxymzdqScf'

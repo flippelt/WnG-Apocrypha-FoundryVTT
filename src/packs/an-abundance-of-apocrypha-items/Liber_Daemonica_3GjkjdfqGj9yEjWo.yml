@@ -1,0 +1,115 @@
+name: Liber Daemonica
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Liber Daemonica
+    _id: 46RyvxvntUUBQFzW
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Scholar test regarding combating Daemons and their allies
+            hide: ''
+    tint: null
+    _key: '!items.effects!3GjkjdfqGj9yEjWo.46RyvxvntUUBQFzW'
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Liber Daemonica, Read Routinely
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: JIneq6v3kgdowp82
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!3GjkjdfqGj9yEjWo.JIneq6v3kgdowp82'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.3GjkjdfqGj9yEjWo
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Liber Daemonica is the Grey Knights
+    Chapter's sacred book that contains prayers, battle rituals, litanies,
+    funeral rites, and Chaos lore. Inquisitors of the Ordo Malleus are also
+    known to possess copies of the book. While it may appear to be a normal
+    book, opening it will reveal a series of wafer-screens that contain
+    instructional hololiths and reactive picts which respond to the reader’s
+    needs. Page after page discusses tactics and how to fight the denizens of
+    the Immaterium, as well as listing the True Names of a great many Daemonic
+    entities, information collected from the Librarium Daemonica, and the
+    repository of dangerous knowledge pieced together by the Ordo Malleus over
+    the millennia. The book pulls no punches; it includes an extensive discourse
+    of when to terminate compromised allies and a whole chapter discussing the
+    moral implications and appropriate use of
+    Exterminatus.</span></p><p></p><p><span class="fontstyle0">Each Grey Knight
+    fights with a copy of the book displayed in a ceramite case fastened to his
+    breastplate or hanging from a chain around his neck. The book is also
+    represented in Grey Knight iconography, on the chestplate and pauldron of
+    both power armour and Terminator Armour. It is a symbol of the greatest
+    weapon against the forces of Chaos - an unshakable faith in the Emperor of
+    Mankind.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A character reading from the Liber Daemonica may add
+    +Rank bonus dice to any Scholar test regarding combating Daemons and their
+    allies. A character who keeps the book on their person and reads from it
+    routinely gains +2 Conviction.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: INQUISITION, ORDO MALLEUS, GREY KNIGHTS
+  effect: ''
+_id: 3GjkjdfqGj9yEjWo
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937584
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!3GjkjdfqGj9yEjWo'

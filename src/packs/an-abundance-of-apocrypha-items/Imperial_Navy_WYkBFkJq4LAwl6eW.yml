@@ -1,0 +1,16 @@
+name: Imperial Navy
+sorting: a
+folder: RC6gHoAUyWZvLdky
+type: Item
+_id: WYkBFkJq4LAwl6eW
+sort: 100000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699540948237
+  modifiedTime: 1710451661814
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!WYkBFkJq4LAwl6eW'

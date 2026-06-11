@@ -1,0 +1,63 @@
+name: EtaCarn Plasma Pistol
+type: weapon
+img: modules/wng-core/assets/icons/weapons/plasma-pistol.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.LL8MlEFCCCB25cAC
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">These compact plasma pistols have an extremely
+    short range, but extremely high stopping power, making them a common sidearm
+    and weapon of last resort for close quarters fighting</span>.</p>
+  value: 6
+  keywords: PLASMA, LEAGUES OFVOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 3
+    medium: 6
+    long: 9
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: pistol
+  upgrades: []
+_id: LL8MlEFCCCB25cAC
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976122
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!LL8MlEFCCCB25cAC'

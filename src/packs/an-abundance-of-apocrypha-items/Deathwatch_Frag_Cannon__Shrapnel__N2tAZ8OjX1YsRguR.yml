@@ -1,0 +1,89 @@
+name: Deathwatch Frag Cannon (Shrapnel)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/combat-shotgun.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.N2tAZ8OjX1YsRguR
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">A specialised firearm that projects adamantium
+    shells, either solid or broken into a cloud of razor-sharp shrapnel. Though
+    short-ranged, the weapon is extremely effective at slaying all manner of
+    alien monstrosities.</span></p><p><span
+    class="fontstyle0"><strong>Special</strong>: </span><span
+    class="fontstyle2">When firing a Deathwatch frag cannon, select either
+    shrapnel or solid shell mode. When the solid shell mode is used, add +2ED to
+    the damage, and increase the AP to -3 when the target is within short
+    range.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "><br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: EXPLOSIVE, PROJECTILE, DEATHWATCH
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 4
+    medium: 8
+    long: 12
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: assault
+    - name: blast
+      rating: 10
+    - name: heavy
+      rating: 6
+    - name: spread
+    - name: barrage
+      custom: true
+      display: Barrage
+      description: >-
+        The weapon fires salvoes of explosive ammunition that scatter over a
+        wide area. When this weapon makes a Salvo attack, increase the weapon’s
+        Blast rating by the weapon’s Salvo value.
+  upgrades: []
+_id: N2tAZ8OjX1YsRguR
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711882
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!N2tAZ8OjX1YsRguR'

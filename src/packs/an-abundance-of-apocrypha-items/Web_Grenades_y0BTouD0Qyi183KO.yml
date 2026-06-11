@@ -1,0 +1,76 @@
+name: Web Grenades
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.y0BTouD0Qyi183KO
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">Web Grenades use the same ensnaring
+    filament-filled gel as other webber weaponry, and a single grenade can
+    entangle masses of targets in moments when they detonate. Over time, the web
+    filaments will eventually become brittle and dissolve
+    away.</span></p><p></p><p><span class="fontstyle2"><strong>Special</strong>:
+    </span><span class="fontstyle0">Web Grenades do not inflict damage. Rather,
+    any creature caught in the blast must pass a DN 4 Athletics test or suffer
+    the </span><span class="fontstyle3">Restrained 4 </span><span
+    class="fontstyle0">condition.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: WEB, IMPERIUM, ADEPTUS ARBITES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+    - name: inflict
+      rating: Restrained 4
+  upgrades: []
+_id: y0BTouD0Qyi183KO
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430861
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!y0BTouD0Qyi183KO'

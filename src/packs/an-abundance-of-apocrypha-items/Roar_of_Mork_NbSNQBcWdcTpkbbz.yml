@@ -1,0 +1,132 @@
+name: Roar of Mork
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Roar of Mork
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '@test.result.dif'
+        priority: null
+    _id: H7PsbFm3uNsak7Sq
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!NbSNQBcWdcTpkbbz.H7PsbFm3uNsak7Sq'
+  - name: Pinned
+    icon: systems/wrath-and-glory/asset/icons/conditions/pinned.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '2'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: 'Pinned: Ballistic Skill Test Penalty'
+            script: ''
+    statuses:
+      - pinned
+    _id: YnUqDrnFitTP566z
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    _key: '!items.effects!NbSNQBcWdcTpkbbz.YnUqDrnFitTP566z'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.NbSNQBcWdcTpkbbz
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You open your gob impossibly wide and give vent to a bellowing roar that
+    reverberates through your enemies’ minds. Coherent thought becomes
+    nigh-impossible, and as the roar thunders on, panic begins to spread. While
+    this power remains in effect, all enemies within range add +2 DN to all
+    Resolve tests.</p>
+  effect: ''
+  cost: 15
+  activation: full
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: ORK, TELEPATHY ,PSYCHIC
+  prerequisites: ORK
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 DN
+      cost: 1
+      property: dif
+      initial: 2
+      value: 1
+      single: false
+    - description: 'Enemies within range must make a Resolve test (DN 3) or become pinned. '
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: 3
+    type: resolve
+    specification: ''
+_id: NbSNQBcWdcTpkbbz
+folder: Vt31I1SOn32VDAY2
+sort: 225000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742903
+  modifiedTime: 1712707816516
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!NbSNQBcWdcTpkbbz'

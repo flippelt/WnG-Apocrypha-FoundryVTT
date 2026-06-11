@@ -1,0 +1,136 @@
+folder: FQ4YTlz56b4rSD2s
+name: Ethereal
+type: archetype
+_id: TpJo9vk4zeCJsh7z
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Aun T'au
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WxtU8DqR7yEMLRvV
+  faction:
+    name: T'au Empire
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymiA0vN6P5lSl08j
+  influence: 4
+  cost: 170
+  keywords:
+    - T'AU EMPIRE
+    - ETHEREAL CASTE
+    - '[SEPT]'
+    - PRIEST
+  attributes:
+    strength: null
+    toughness: null
+    agility: 3
+    initiative: 3
+    willpower: 4
+    intellect: 4
+    fellowship: 4
+  skills:
+    athletics: null
+    awareness: 1
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: 4
+    intimidation: null
+    investigation: null
+    leadership: 4
+    medicae: null
+    persuasion: 4
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Voice of the Tau’va
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.evnyct00jVlSXCae
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Honour Staff
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bvMXVGulZUwXYrPA
+      type: item
+      diff: {}
+      index: 1
+      groupId: hqU2SFspkl5GxyVR
+    - name: Armoured Robes
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ez1IOM9Q8BIHqHco
+      type: item
+      diff: {}
+      index: 2
+      groupId: FW42r0y1WN2PdAel
+    - type: generic
+      name: up to two Drones (Gun Drone, Marker Drone, or Shield Drone).
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: hqU2SFspkl5GxyVR
+      - index: 2
+        type: item
+        groupId: FW42r0y1WN2PdAel
+      - type: item
+        index: 3
+        groupId: Uq7EIvH6TMEFeC0M
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 3
+      initiative: 3
+      willpower: 5
+      intellect: 4
+      fellowship: 5
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: null
+      cunning: 2
+      deception: 2
+      insight: 4
+      intimidation: null
+      investigation: null
+      leadership: 5
+      medicae: null
+      persuasion: 5
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: 7wlAYMJ34fusZfiA
+        name: Supreme Presence [Skill]
+      - id: 8PILQkRcNL8W54r2
+        name: Inspirational
+      - id: BaYUMttlJNHlcV8h
+        name: Overseer
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710681849732
+  modifiedTime: 1710682434745
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TpJo9vk4zeCJsh7z'

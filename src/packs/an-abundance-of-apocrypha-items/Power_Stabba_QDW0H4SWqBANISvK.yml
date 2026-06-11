@@ -1,0 +1,56 @@
+folder: RjR50Xwp2nsZW0E5
+name: Power Stabba
+type: weapon
+img: modules/wng-core/assets/icons/weapons/knife.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>A Power Stabba is an Ork Choppa, equipped with additional “sparky bitz”
+    that generate a disruptive energy field.</p>
+  value: 6
+  keywords: POWER FIELD, ORK
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: waaagh!
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709860039201
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: QDW0H4SWqBANISvK
+_key: '!items!QDW0H4SWqBANISvK'

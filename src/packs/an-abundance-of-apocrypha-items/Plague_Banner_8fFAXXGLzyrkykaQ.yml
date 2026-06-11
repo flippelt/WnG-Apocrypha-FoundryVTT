@@ -1,0 +1,68 @@
+name: Plague Banner
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-equipment.Item.8fFAXXGLzyrkykaQ
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">This frightening creation of rotting hide flaps
+    in a pestilent breeze. Powerful magics hold a great spell of corruption in
+    check until the time is ripe to send disease and decay scything through the
+    enemy ranks.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">NURGLE DAEMONS </span><span
+    class="fontstyle0">within 7m of this banner may re-roll any 1s when rolling
+    Determination. Further, you may unleash the banner’s power as a Combat
+    Action. This counts as a ranged attack with the profile below. Once you have
+    unleashed the banner’s power, it may not be unleashed again until after your
+    next Regroup.</span></p><p></p><table class="NormalTable"><tbody><tr><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2">Damage</span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2">ED</span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2">AP</span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2">Range</span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle2">Traits</span></p></td></tr><tr><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle0">7</span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle0">7</span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle0">-2</span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle0">14</span></p></td><td
+    style="border-left-style:none;border-bottom-style:none;border-right-style:none;border-top-style:none;"><p><span
+    class="fontstyle0">Gas, Blast (7), Fleshbane, Mortal
+    (1)</span></p></td></tr></tbody></table><p> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: CHAOS, NURGLE, ICON
+  effect: ''
+_id: 8fFAXXGLzyrkykaQ
+folder: UZO0XBlvHEumtcSK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257172288
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!8fFAXXGLzyrkykaQ'

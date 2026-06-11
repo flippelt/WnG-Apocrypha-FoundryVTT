@@ -1,0 +1,97 @@
+name: Heresy Mark V
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Heresy Mark V
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '1'
+        priority: null
+      - key: difficulty.base
+        mode: 6
+        value: '1'
+        priority: null
+    _id: 8DBwf501fuyT1YVU
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: Non-hostile interaction tests with members of the Inquisition
+            hide: ''
+    tint: null
+    _key: '!items.effects!J8eapSBm2NRW5IME.8DBwf501fuyT1YVU'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes-armour.Item.J8eapSBm2NRW5IME
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">With the outbreak of rebellion, supply lines
+    fell into turmoil and it became difficult to repair and maintain the
+    advanced Mk4 suits. Mk5 was created as a stopgap, a style with the
+    flexibility to use new or old materials depending on availability. In many
+    cases older, heavy power cabling was used, which created a weak point on the
+    chest. The armour was reinforced with an extra skin plate fitted over the
+    top using molecular bonding studs, thus giving “Heresy Armour” its
+    distinctive appearance. After the Heresy, most examples of the armour were
+    dismantled and used for spares—the Chapters preferring not to be reminded of
+    those dark days. However, it is still commonplace among the hated Traitor
+    Legions.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">5; Powered (3)</span></p><p></p><p><span
+    class="fontstyle2"><strong>Rugged</strong>: </span><span
+    class="fontstyle0">The tough, studded outer shell of Heresy armour was ideal
+    for the brutal combat of the Heresy itself. The wearer of this armour may
+    add +1 to their Determination.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Suspicious</strong>: </span><span
+    class="fontstyle0">This armour remains common amongst the Traitor Legions
+    and draws the incisive gaze of the Inquisition. The wearer adds +1DN to all
+    non-hostile interaction tests with members of the Inquisition.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: POWERED, IMPERIUM, ADEPTUS ASTARTES
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powered
+      rating: 3
+  invulnerable: false
+_id: J8eapSBm2NRW5IME
+folder: 9qcY1oNgsxJI58Au
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089763015
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 700000
+_key: '!items!J8eapSBm2NRW5IME'

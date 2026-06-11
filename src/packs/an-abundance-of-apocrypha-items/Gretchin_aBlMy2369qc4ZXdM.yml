@@ -1,0 +1,23 @@
+folder: NIfHOAfLrRCoYd1Y
+name: Gretchin
+type: keyword
+_id: aBlMy2369qc4ZXdM
+img: modules/wng-core/assets/factions/orks.svg
+system:
+  description: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  core:
+    sourceId: Item.aBlMy2369qc4ZXdM
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710435737318
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!aBlMy2369qc4ZXdM'

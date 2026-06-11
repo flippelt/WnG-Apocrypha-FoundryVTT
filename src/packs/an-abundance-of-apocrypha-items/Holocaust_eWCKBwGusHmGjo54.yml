@@ -1,0 +1,80 @@
+name: Holocaust
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.eWCKBwGusHmGjo54
+system:
+  dn: '8'
+  type: ''
+  specification: ''
+  description: >-
+    <p>A legendary power that few pyrokines are strong enough to attempt, the
+    psyker attempts to conjure the inferno of their own soul. All enemies within
+    6m of you suffer Mortal Wounds equal to your Willpower, and again at the
+    start of each turn you sustain the power. Each round that you sustain this
+    power, you suffer 1 Mortal Wound.</p>
+  effect: ''
+  cost: 25
+  activation: full
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: FIRE, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The power inflicts +1 Mortal Wound to enemies.
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        DAEMONS may not roll Determination against Mortal Wounds inflicted by
+        this power
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: eWCKBwGusHmGjo54
+folder: jJsPKwdlThlL4b30
+sort: 106250
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247403
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!eWCKBwGusHmGjo54'

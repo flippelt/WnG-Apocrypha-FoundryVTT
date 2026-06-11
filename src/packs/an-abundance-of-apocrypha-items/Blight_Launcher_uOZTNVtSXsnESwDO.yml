@@ -1,0 +1,79 @@
+name: Blight Launcher
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade-launcher.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-ranged.Item.uOZTNVtSXsnESwDO
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Blight Launchers are heavy grenade launchers,
+    bombarding the enemy with toxin-filled grenades. Little can withstand the
+    virulence of the diseases that infest these grenades.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: EXPLOSIVE, CHAOS, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: assault
+    - name: blast
+      rating: 6
+    - name: inflict
+      rating: Poisoned 4
+    - name: barrage
+      custom: true
+      display: Barrage
+      description: >-
+        The weapon fires salvoes of explosive ammunition that scatter over a
+        wide area. When this weapon makes a Salvo attack, increase the weapon’s
+        Blast rating by the weapon’s Salvo value.
+  upgrades: []
+_id: uOZTNVtSXsnESwDO
+folder: OUOFLqDJaP03QNHY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925967085
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!uOZTNVtSXsnESwDO'

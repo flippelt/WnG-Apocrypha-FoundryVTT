@@ -1,0 +1,118 @@
+name: Seal the Breach
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Seal the Breach
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '@test.results.pm'
+        priority: null
+    _id: ZxGDumI619bMeq6Q
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: 'Seal the Breach: Pyschic Mastery tests'
+            hide: ''
+    tint: null
+    _key: '!items.effects!Lk2EvcwkrBZtMYz4.ZxGDumI619bMeq6Q'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.Lk2EvcwkrBZtMYz4
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You sever the connection between the Materium and the Immaterium. Daemons
+    and warp entities will diminish and fade without their link to the warp, and
+    others who draw upon the Immaterium will struggle to wield their powers. If
+    successful, an area centred on you with a radius of your Willpower x 5m is
+    temporarily sealed off from the Warp. This area remains fixed in place and
+    does not move with you. DAEMONS suffer 1d3 Mortal Wounds at the start of
+    each turn they begin within that area, and they cannot roll Determination
+    while within the area. PSYKERS within the area can only use their powers at
+    the Bound power level, and they add +2 DN to all Psychic Mastery tests.</p>
+  effect: ''
+  cost: 15
+  activation: full
+  duration: 1 Day
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound to DAEMONS
+      cost: 1
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+    - description: The area’s radius is increased to Willpower x 10m
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: +1 DN to Psychic Mastery tests for PSYKERS
+      cost: 1
+      property: pm
+      initial: 2
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: Lk2EvcwkrBZtMYz4
+folder: BOwa2ac4VoE8QlCY
+sort: 175000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206784
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Lk2EvcwkrBZtMYz4'

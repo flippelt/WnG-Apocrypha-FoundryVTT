@@ -1,0 +1,28 @@
+folder: R6DiCyrJrBf1MKBz
+name: Crushing Blow
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Strength 5+
+  description: >-
+    <p>Your physical might is bolstered by your will to overcome the foes
+    arrayed before you, and little can withstand the impact of their blows. The
+    base damage of your melee attacks is increased by +Double Rank.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699811163216
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 47A24impR4HodDsV
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!47A24impR4HodDsV'

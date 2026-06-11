@@ -1,0 +1,60 @@
+folder: RjR50Xwp2nsZW0E5
+name: Grot Prod
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>The more progressive Runtherdz use a simple Mek invention known as
+    Grot-Prod to deliver a short, sharp shock to an errant Grot's vulnerable
+    parts. It is like a cattle-prod and works by delivering jolts of electricity
+    into a Grots body. These electric prods can also be made into a formidable
+    close combat weapons by increasing the voltage to lethal levels.</p>
+  value: 5
+  keywords: EXOTIC, ORK
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: waaagh!
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709860039201
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: nolJv3alSGFBoVk5
+_key: '!items!nolJv3alSGFBoVk5'

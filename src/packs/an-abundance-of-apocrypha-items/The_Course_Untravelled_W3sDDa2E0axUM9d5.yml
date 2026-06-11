@@ -1,0 +1,87 @@
+name: The Course Untravelled
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.W3sDDa2E0axUM9d5
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Time is not an arrow that flies straight and true, but rather a tangled
+    web of moments and possibilities. This technique allows you to walk this
+    web, stepping fractionally from one moment to another, altering your
+    position in the physical world as you step between infinitesimally different
+    timelines, no matter the cost to yourself. If this power is successful, you
+    instantly move to any point within twice your Intellect in metres, so long
+    as you could have reached that location naturally. You then immediately
+    suffer 1d3+3 Shock due to the strain on your body.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: Self
+  multiTarget: false
+  keywords: NAVIS NOBILITE, PSYCHIC
+  prerequisites: NAVIS NOBILITE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: 1d3+3
+  potency:
+    - description: Reduce the amount of Shock suffered by 1.
+      cost: 1
+      property: damage.other.shock.bonus
+      initial: ''
+      value: -1
+      single: false
+    - description: Increase the distance moved by your Intellect in metres
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: The power can now be activated as a Simple Action.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: W3sDDa2E0axUM9d5
+folder: rt2QsMjxN0O6qf5z
+sort: 218750
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206835
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!W3sDDa2E0axUM9d5'

@@ -1,0 +1,176 @@
+name: Astartes Techmarine
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects: []
+folder: j5mcT1m1I7srvO3E
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fAzNPcUIm4Gu89AJ
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: KpwHo0A92bR7iVMB
+  faction:
+    name: Adeptus Astartes
+    id: CN5E9Z5GqfiR1MDn
+  influence: 2
+  cost: 329
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+    - ADEPTUS MECHANICUS
+    - CULT MECHANICUS
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 2
+    psychicMastery: null
+    scholar: 3
+    stealth: 3
+    survival: null
+    tech: 4
+    weaponSkill: 4
+  ability:
+    name: Hymn of Reforging
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rjmmcEJ6Q63W2Xxh
+  wargear:
+    - name: Artificer Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.v7KbIU7uRDRMkdUM
+      type: item
+      diff: {}
+      index: 0
+      groupId: 1oBVwacEz8jf1DtL
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 1
+      groupId: FqZU0xPrXAOnjbca
+    - name: Omnissian Axe
+      id: Compendium.wng-core.items.Item.gp881IiZhvjfvLfF
+      type: item
+      diff: {}
+      index: 2
+      groupId: 42oKPV2NPFTXKPfy
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 3
+      groupId: BCjVTYN6KmQQCKmu
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: Md2roOp9ilfWeHP4
+    - name: Servo Arm
+      id: Compendium.wng-core.items.Item.MYkAkn0Dye79EdmW
+      type: item
+      diff: {}
+      index: 5
+      groupId: wlDjeyloHeus1jNP
+    - type: generic
+      name: any 2 augmetics.
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: 1oBVwacEz8jf1DtL
+      - index: 1
+        type: item
+        groupId: FqZU0xPrXAOnjbca
+      - index: 2
+        type: item
+        groupId: 42oKPV2NPFTXKPfy
+      - index: 3
+        type: item
+        groupId: BCjVTYN6KmQQCKmu
+      - index: 4
+        type: item
+        groupId: Md2roOp9ilfWeHP4
+      - index: 5
+        type: item
+        groupId: wlDjeyloHeus1jNP
+      - type: item
+        index: 6
+        groupId: 4CQMQkF9L39YSGw8
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: qnFSOCg0b29eWJBz
+        name: Armourbane
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: 7f6YZ8n6oolZxXup
+        name: Binary Chatter
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219054928
+  modifiedTime: 1710720690915
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: PY0SvzaUrYahaQSl
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!PY0SvzaUrYahaQSl'

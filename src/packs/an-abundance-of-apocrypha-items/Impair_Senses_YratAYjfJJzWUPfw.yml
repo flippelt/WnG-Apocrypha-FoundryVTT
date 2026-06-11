@@ -1,0 +1,103 @@
+name: Impair Senses
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Impair Senses
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '@test.result.dif'
+        priority: null
+    _id: ZIKw49rVPXooCHPe
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition: {}
+    tint: null
+    _key: '!items.effects!YratAYjfJJzWUPfw.ZIKw49rVPXooCHPe'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.YratAYjfJJzWUPfw
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The psyker dims the foe’s senses. The power affects all enemies in a
+    Blast (6) within range. Until the start of the psyker’s next turn, the
+    affected enemies add +2DN to all Awareness tests, reduce their Passive
+    Awareness to 0, and may only make ranged attacks at the closest target.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: ASURYANI, ANHRATHE, HARLEQUIN or YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The area affected is a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: An additional +1DN to the targets’ Awareness tests.
+      cost: 1
+      property: dif
+      initial: 2
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: YratAYjfJJzWUPfw
+folder: epIgLsUsKe7P6BrA
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742833
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!YratAYjfJJzWUPfw'

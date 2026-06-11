@@ -1,0 +1,88 @@
+name: Spook
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Spook
+    _id: cu87DuIuGpn31pVE
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Psychic Mastery test
+            hide: ''
+    tint: null
+    _key: '!items.effects!2gY4DbBLU5UCWmNH.cu87DuIuGpn31pVE'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.2gY4DbBLU5UCWmNH
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Spook is an addictive and highly illegal psychic
+    combat drug manufactured in several Hive Cities, normally from ingredients
+    too unpleasant to mention. When drunk in small amounts, spook awakens the
+    imbiber's psychic abilities. It is for this reason that spook is an
+    extremely dangerous substance, and its use viciously repressed by the
+    Imperium.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">When taken by a </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">PSYKER</span><span class="fontstyle0">, Spook
+    adds a +2d bonus to all Psychic Mastery tests attempted in the next hour,
+    but they also add +20 to all rolls on the Perils of the Warp table. At the
+    end of the hour, the character must take a DN 5 Corruption
+    test.</span></p><p></p><p><span class="fontstyle0">When taken by a
+    non-</span><span class="fontstyle2" style="color:rgb(112,0,0);">PSYKER
+    </span><span class="fontstyle0">keyword, the character must immediately take
+    a DN 5 Corruption test, with failure adding [[/r 1d3]] Corruption instead of
+    1. If the character succeeds, they gain the </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">PSYKER </span><span class="fontstyle0">keyword,
+    and a Minor Psychic Power (randomly determined using the table on page 258
+    of the </span><span class="fontstyle3">Wrath & Glory </span><span
+    class="fontstyle0">rulebook) for the next [[/r 1d3+2]] hours. A single
+    purchase contains 1 dose.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: CHAOS, SCUM
+  effect: ''
+_id: 2gY4DbBLU5UCWmNH
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099208
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 300000
+_key: '!items!2gY4DbBLU5UCWmNH'

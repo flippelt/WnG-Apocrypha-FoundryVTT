@@ -1,0 +1,84 @@
+folder: fgtFfRbmshJ8KM1n
+name: Fiery Destruction
+type: ability
+_id: Rhf5NhHKXeygORmm
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you attack a vehicle, structure, or monstrous creature, add +Rank ED
+    to the attack. In addition, add +Rank to your Resilience against attacks
+    with the FIRE or MELTA keywords.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    name: Fiery Destruction
+    _id: 7dsbtczyKT2AfQ3Q
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              When you attack a vehicle, structure, or monstrous creature, add
+              +Rank ED to the attack.
+            hide: ''
+    tint: null
+    _key: '!items.effects!Rhf5NhHKXeygORmm.7dsbtczyKT2AfQ3Q'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710682769173
+  modifiedTime: 1710682994021
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Rhf5NhHKXeygORmm'

@@ -1,0 +1,23 @@
+folder: Jm20iuk9Lwy8bOR4
+name: PATHFINDER
+type: keyword
+_id: jRZIHqnyGgPAv3lk
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+system:
+  description: ''
+effects: []
+sort: 100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  core:
+    sourceId: Item.jRZIHqnyGgPAv3lk
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710444732804
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!jRZIHqnyGgPAv3lk'

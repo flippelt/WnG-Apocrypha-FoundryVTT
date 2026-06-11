@@ -1,0 +1,174 @@
+folder: GHP0SxnnlNKFusRJ
+name: Harlequin Shadowseer
+type: archetype
+_id: DWgeP1XHKwWFyTo9
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Harlequins of the Laughing God
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MZLyJ0QPkPgJg0Y9
+  influence: 4
+  cost: 281
+  keywords:
+    - AELDARI
+    - HARLEQUIN
+    - '[SAEDATH]'
+    - PSYKER
+  attributes:
+    strength: 3
+    toughness: null
+    agility: 5
+    initiative: 5
+    willpower: 6
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 4
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: 3
+    insight: 3
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 4
+    scholar: 2
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Shield from Harm
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Hmdf0vBqa6ZXDPnH
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Holo-Suit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.tet6rHIN1D1iJUgu
+      type: item
+      diff: {}
+      index: 1
+      groupId: dXKoLZ3h0kqmzzNV
+    - name: Agaith
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zhhjpbUPHqKFBBVW
+      type: item
+      diff: {}
+      index: 2
+      groupId: vA7E5sjzFefIO8Uo
+    - name: Flip-Belt
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GKoH1CLvFjMlzJnL
+      type: item
+      diff: {}
+      index: 3
+      groupId: K049ODZiDbLeC1H0
+    - name: Miststave
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rJgEzXUiu5XcQ90V
+      type: item
+      diff: {}
+      index: 4
+      groupId: KHpi7aIthuMVoReI
+    - name: Shuriken Pistol
+      id: Compendium.wng-core.items.Item.ueTuXr4xkzevIL4X
+      type: item
+      diff: {}
+      index: 5
+      groupId: KN4cxTOxuZZA0Hxb
+    - name: Pack Grenade Launcher
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kmt2eNyYToxqiQPb
+      type: item
+      diff: {}
+      index: 6
+      groupId: 2ihF9tQSBl5IbYuY
+    - name: Hallucinogen Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.sa7F2ZdqelPPUypk
+      type: item
+      diff:
+        system:
+          quantity: 6
+      index: 7
+      groupId: pY3m2AE0SFHPvVqV
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: dXKoLZ3h0kqmzzNV
+      - index: 2
+        type: item
+        groupId: vA7E5sjzFefIO8Uo
+      - index: 3
+        type: item
+        groupId: K049ODZiDbLeC1H0
+      - index: 4
+        type: item
+        groupId: KHpi7aIthuMVoReI
+      - index: 5
+        type: item
+        groupId: KN4cxTOxuZZA0Hxb
+      - index: 6
+        type: item
+        groupId: 2ihF9tQSBl5IbYuY
+      - index: 7
+        type: item
+        groupId: pY3m2AE0SFHPvVqV
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 7
+      initiative: 6
+      willpower: 7
+      intellect: 4
+      fellowship: 3
+    skills:
+      athletics: 5
+      awareness: 4
+      ballisticSkill: 2
+      cunning: null
+      deception: 3
+      insight: 4
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: 5
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 5
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710781906030
+  modifiedTime: 1710782380255
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!DWgeP1XHKwWFyTo9'

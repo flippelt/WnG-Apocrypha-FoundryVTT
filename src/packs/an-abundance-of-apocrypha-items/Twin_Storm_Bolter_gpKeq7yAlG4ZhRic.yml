@@ -1,0 +1,61 @@
+name: Twin Storm Bolter
+type: weapon
+img: modules/wng-core/assets/icons/weapons/storm-bolter.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>A linked pair of Storm Bolters, well-suited to unleashing a torrent of
+    antipersonnel fire.</p>
+  value: 10
+  keywords: POWERED, WARSUIT, ADEPTA SORORITAS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 8
+  traits:
+    - name: brutal
+    - name: rapidFire
+      rating: 3
+  upgrades: []
+effects: []
+flags:
+  core: {}
+  cf: null
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663853366880
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: gpKeq7yAlG4ZhRic
+sort: 1700000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!gpKeq7yAlG4ZhRic'

@@ -1,0 +1,85 @@
+name: Chasm
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.BRqPgoyimYvJivd5
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You slam your palms together, and then pull them slowly apart. As you do,
+    a wide chasm opens beneath the feet of your foes, and they tumble screaming
+    into the darkness below In such a state, you are nigh-unstoppable. This
+    power affects all creatures in a Blast (6) within range. The ground under
+    the target area opens up, creating a sheer-walled pit with a depth equal to
+    ten times your Willpower in metres. Any creature in the area, excluding
+    those which can fly, may attempt an Agility test with a DN of 5 to scramble
+    away; if they succeed, they move up to half their Speed away from the chasm.
+    If they fail, they suffer falling damage as they plummet to the bottom. The
+    pit remains once the power has been used. You suffer 1d3+2 Shock when you
+    use this power, as it is draining to manifest.</p>
+  effect: ''
+  cost: 25
+  activation: full
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: IMPERIAL FISTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: 1d3+2
+  potency:
+    - description: Time to activate reduced to a Combat Action.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: Increase the area of effect to a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: 5
+    type: attribute
+    specification: agility
+_id: BRqPgoyimYvJivd5
+folder: FBWgnducTeuqGBkw
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959225
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!BRqPgoyimYvJivd5'

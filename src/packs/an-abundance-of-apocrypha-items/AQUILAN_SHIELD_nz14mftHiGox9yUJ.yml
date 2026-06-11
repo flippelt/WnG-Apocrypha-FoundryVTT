@@ -1,0 +1,38 @@
+folder: QS8D6Ywysk6wC2xq
+name: AQUILAN SHIELD
+type: keyword
+_id: nz14mftHiGox9yUJ
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p><span class="fontstyle0">Certain servants of the Emperor bear great
+    responsibilities deemed directly relevant to the safety of Terra. Such
+    esteemed figures are afforded the protection of the Aquilan Shield, until
+    their usefulness is thought to be at its end. These warriors devote every
+    iota of their strength and will to the defence of their assigned charge, be
+    that an Indomitus Crusade Fleetmaster or a lowly Imperial Guardsman turned
+    visionary prophet.</span></p><p></p><p><span
+    class="fontstyle2"><strong>GUARDIAN</strong>: </span><span
+    class="fontstyle0">At the start of the first round of combat, or when you
+    enter combat, you may select a single ally with the </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">IMPERIUM </span><span
+    class="fontstyle0">keyword. While that ally is within 3 metres of you, they
+    add +Rank to their Defence.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710531013191
+  modifiedTime: 1710531018359
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!nz14mftHiGox9yUJ'

@@ -1,0 +1,103 @@
+name: BLACK LEGION
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/black-legion-white.png
+effects:
+  - icon: modules/wng-apocrypha/assets/images/factions/black-legion-white.png
+    name: The Tip of the Spear
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: WvSInGrHV4k5AcUW
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    _key: '!items.effects!2o7fCYe3ffyoppxb.WvSInGrHV4k5AcUW'
+  - icon: modules/wng-apocrypha/assets/images/factions/black-legion-white.png
+    name: Bitter Pride
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+    _id: GBWhvCbalOWqHI29
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              You suffer a +2DN penalty for Interaction tests involving anyone
+              outside the Black Legion
+            hide: ''
+    tint: null
+    _key: '!items.effects!2o7fCYe3ffyoppxb.GBWhvCbalOWqHI29'
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ehppcZ5ZKjycVNx6
+system:
+  description: >-
+    <p>Once the Luna Wolves, and later the Sons of Horus, the Black Legion are
+    what remains of the legion that Horus commanded during the Heresy. The Luna
+    Wolves were a proud force, that exemplified the best qualities of the
+    Legiones Astartes, but when they came became the Sons of Horus, a darker
+    character has overcome them, a spiteful savagery that has only grown deeper
+    and darker since the Heresy ended. The survivors reforged themselves as the
+    Black Legion, to expunge the stain of Horus&rsquo; defeat, and their hatred
+    for the Imperium is greater than ever.</p>
+
+    <h5>The Tip of the Spear</h5>
+
+    <p>The Black Legion epitomise the Traitor Legions&rsquo; threat, swift,
+    ruthless, and unyielding in their hateful fervour.</p>
+
+    <p>You add +Rank bonus dice on all Ballistic Skill tests made with a ranged
+    weapon at close range. You also gain +1 Resolve.</p>
+
+    <h5>Bitter Pride (Tradition)&nbsp;</h5>
+
+    <p>The Black Legion have little love for those outside their ranks.</p>
+
+    <p>You suffer a +2DN penalty for Interaction tests involving anyone outside
+    the Black Legion, unless those people are subordinate to the Black Legion
+    character.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056305
+  modifiedTime: 1710524689582
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 2o7fCYe3ffyoppxb
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!2o7fCYe3ffyoppxb'

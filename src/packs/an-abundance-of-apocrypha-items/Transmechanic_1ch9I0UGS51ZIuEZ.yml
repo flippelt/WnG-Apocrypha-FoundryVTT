@@ -1,0 +1,152 @@
+folder: ynSNkXL3NdmXm43i
+name: Transmechanic
+type: archetype
+_id: 1ch9I0UGS51ZIuEZ
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Compendium.wng-core.items.Item.NEkaKMEm79MWGo8b
+  influence: 1
+  cost: 48
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - '[FORGE WORLD]'
+    - CULT MECHANICUS
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 2
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 2
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: null
+  ability:
+    name: Vox Communion
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4f3h3h4cG37bVOSZ
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Auger Array (Auspex)
+      id: Compendium.wng-core.items.Item.ao9aV67Lzcvi03KR
+      type: item
+      diff:
+        name: Auger Array (Auspex)
+      index: 1
+      groupId: vqWtvhGRMOh0KwHO
+    - name: Enhanced Data-Tether
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.XNNfHCcsg3WpGKzt
+      type: item
+      diff: {}
+      index: 2
+      groupId: 6BS65yMgLJMgk357
+    - type: generic
+      name: any two augmetics
+      filters: []
+      index: 3
+      groupId: vTgEaOrpRvzpfLLE
+    - name: Mesh Armour
+      id: Compendium.wng-core.items.Item.Gkvz8V1xP8wrBBk8
+      type: item
+      diff: {}
+      index: 4
+      groupId: 6lfHRZWlNMXzqYEj
+    - name: Laspistol
+      id: Compendium.wng-core.items.Item.STrmO2xhRZgClDSR
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: vqWtvhGRMOh0KwHO
+      - index: 2
+        type: item
+        groupId: 6BS65yMgLJMgk357
+      - type: item
+        index: 3
+        groupId: vTgEaOrpRvzpfLLE
+      - index: 4
+        type: item
+        groupId: 6lfHRZWlNMXzqYEj
+      - index: 5
+        type: item
+        groupId: 5Th34jIKqusVzDR7
+  suggested:
+    attributes:
+      strength: 1
+      toughness: 2
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 5
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: null
+      cunning: null
+      deception: 2
+      insight: 2
+      intimidation: null
+      investigation: 3
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 5
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: null
+    talents:
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: VLWzaaUTYv6c3X2A
+        name: Conversational Cogitator
+      - id: vxsi953ncB48aylK
+        name: Rite of Pure Thought
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710618739231
+  modifiedTime: 1710618953802
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!1ch9I0UGS51ZIuEZ'

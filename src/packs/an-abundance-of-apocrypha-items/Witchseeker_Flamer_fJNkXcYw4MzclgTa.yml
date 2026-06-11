@@ -1,0 +1,62 @@
+name: Witchseeker Flamer
+type: weapon
+img: modules/wng-core/assets/icons/weapons/flamer.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A sophisticated model of flamer used exclusively by the Sisters of
+    Silence. The particular delivery method and the formulation of fuel it uses
+    is especially good at working its way past intervening obstacles and
+    protective gear.</p>
+  value: 7
+  keywords: FIRE, ANATHEMA PSYKANA
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: flamer
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665494451798
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: LOBB1JvXThQYsXF2
+_id: fJNkXcYw4MzclgTa
+sort: 600000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!fJNkXcYw4MzclgTa'

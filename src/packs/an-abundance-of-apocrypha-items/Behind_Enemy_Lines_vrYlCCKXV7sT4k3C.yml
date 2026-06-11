@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: Behind Enemy Lines
+type: ability
+_id: vrYlCCKXV7sT4k3C
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you attempt a Stealth test while operating a Stealth Battlesuit, you
+    may reduce your Stealth dice pool by Rank. For each die removed, you score 1
+    Icon on the test.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710618459868
+  modifiedTime: 1710618497974
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!vrYlCCKXV7sT4k3C'

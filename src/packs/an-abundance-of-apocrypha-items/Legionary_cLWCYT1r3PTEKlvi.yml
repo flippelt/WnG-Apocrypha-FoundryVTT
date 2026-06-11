@@ -1,0 +1,193 @@
+folder: cZ7bosRjx1cxapg8
+name: Legionary
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 2
+  cost: 270
+  keywords:
+    - CHAOS
+    - '[MARK OF CHAOS]'
+    - HERETIC ASTARTES
+    - '[LEGION]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 1
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: 1
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Master of Slaughter
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KYpzYjcvI0g9qcHi
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: D5uIeLNpriJOx5H4
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 2
+      groupId: bAErpyVJU5Qz41cl
+    - name: Boltgun
+      id: Compendium.wng-core.items.Item.I7yC0O7DawbOznUf
+      type: item
+      diff: {}
+      index: 3
+      groupId: lIdpGSeRfy9HOckh
+    - name: Astartes Chainsword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cl2SkggR4PWY2pxi
+      type: item
+      diff: {}
+      index: 4
+      groupId: tQNZQeD1J3jsNE7C
+    - name: Astartes Combat Knife
+      id: Compendium.wng-core.items.Item.4QVBQYWXXLyvFWkj
+      type: item
+      diff: {}
+      index: 5
+      groupId: XfHTuzNSlcqx1CIa
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: OQEajJmYjv5l48Xe
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 7
+      groupId: Xs0jmXGD1xNqJEbp
+    - name: Grisly Trophies
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rpau9cBYrZi7Gf1V
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: D5uIeLNpriJOx5H4
+      - index: 2
+        type: item
+        groupId: bAErpyVJU5Qz41cl
+      - type: or
+        items:
+          - index: 3
+            type: item
+            groupId: lIdpGSeRfy9HOckh
+          - index: 4
+            type: item
+            groupId: tQNZQeD1J3jsNE7C
+        groupId: KgvN44SrNuBamq4d
+      - index: 5
+        type: item
+        groupId: XfHTuzNSlcqx1CIa
+      - index: 6
+        type: item
+        groupId: OQEajJmYjv5l48Xe
+      - index: 7
+        type: item
+        groupId: Xs0jmXGD1xNqJEbp
+      - index: 8
+        type: item
+        groupId: tcSXAb9PioTSZwpJ
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: 5HchXpu60DlodyV8
+        name: Disturbing Voice
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+      - id: Et1v8hcZkaotmOlp
+        name: Mark of Chaos
+effects: []
+flags:
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710688123472
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: cLWCYT1r3PTEKlvi
+sort: 600000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!cLWCYT1r3PTEKlvi'

@@ -1,0 +1,57 @@
+name: Chain Knife
+type: weapon
+_id: VAtzasvaGt8OaF0D
+img: modules/wng-core/assets/icons/weapons/chain-bayonet.webp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p>More commonly found in underhive gangs and carried on some jungle death
+    worlds, chain knives are shorter forms of chainsword, commonly taking the
+    forms of cleavers or machetes</p>
+  value: 4
+  keywords: CHAIN, SCUM, IMPERIUM, CHAOS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+  upgrades: []
+effects: []
+folder: M81y3pnOdLuRP51r
+sort: 200000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709830435372
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!VAtzasvaGt8OaF0D'

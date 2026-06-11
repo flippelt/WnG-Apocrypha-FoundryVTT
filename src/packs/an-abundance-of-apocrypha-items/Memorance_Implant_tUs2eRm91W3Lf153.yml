@@ -1,0 +1,83 @@
+name: Memorance Implant
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects:
+  - icon: modules/wng-core/assets/icons/augmetics/augmetic.webp
+    name: Memorance Implant
+    _id: h03y1JdxschWmNNB
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Investigation or Scholar tests based on information already
+              witnessed and recorded
+            hide: ''
+    tint: null
+    _key: '!items.effects!tUs2eRm91W3Lf153.h03y1JdxschWmNNB'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.tUs2eRm91W3Lf153
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A neurally-linked datavault and pict-capture
+    array is built into the recipient’s brain and eyes (which are normally
+    replaced with augmetics), which records information on people or scenes
+    viewed. These images can later be replayed, or the implant can apply data
+    from previous recordings as an overlay onto the present view. It is a tool
+    of remembrancers, chroniclers, and any who need detailed information close
+    at hand.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The recipient always has a perfect visual record of
+    everything they see, which may be transferred to other data storage if they
+    have a way to connect to those devices (such as an interface port). Further,
+    they gain a +1d bonus on any Investigation or Scholar tests based on
+    information they have already witnessed and recorded.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: ADEPTUS MECHANICUS
+  requirements: ''
+  effect: ''
+_id: tUs2eRm91W3Lf153
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099811
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!tUs2eRm91W3Lf153'

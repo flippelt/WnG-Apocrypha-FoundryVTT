@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Channelled Strikes
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You have honed your connection to the Immaterium, allowing you to deliver
+    punishing warp-fuelled strikes.</p><p>When you attack with a melee weapon
+    with the
+    @UUID[JournalEntry.9arSrx8B2oOHRWrP.JournalEntryPage.obcnn370Zz0ZxUEv#force]{FORCE}
+    keyword, the weapon gains the
+    @UUID[JournalEntry.ZFKuifc3mGn2RgTb.JournalEntryPage.anBLJX16REDKapOs#mortal-(x)]{Mortal
+    (1)} trait.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QrLFqbDQYq41IcgI
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699802350571
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: QrLFqbDQYq41IcgI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6500000
+_key: '!items!QrLFqbDQYq41IcgI'

@@ -1,0 +1,73 @@
+name: Por T'au
+type: species
+img: modules/wng-apocrypha/assets/images/factions/water-caste-icon.webp
+effects: []
+folder: Ft9EFoc4UweG24to
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.obL5lHVPP8iSJysP
+  cf: null
+system:
+  cost: 14
+  speed: 6
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.U8fDTGHVPgT7tBlz
+      name: For the Greater Good (Por)
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.G7ytkdzE7N1ZIiTE
+      name: Polyglot
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.eEBybODCXBdO1QNg
+      name: Dull Soul
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: 1
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: 1
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: 6
+    toughness: 6
+    agility: 7
+    initiative: 8
+    willpower: 8
+    intellect: 9
+    fellowship: 10
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056764
+  modifiedTime: 1710523348756
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: obL5lHVPP8iSJysP
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!obL5lHVPP8iSJysP'

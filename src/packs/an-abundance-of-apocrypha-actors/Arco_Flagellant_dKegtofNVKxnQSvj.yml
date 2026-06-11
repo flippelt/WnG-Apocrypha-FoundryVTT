@@ -1,0 +1,802 @@
+folder: 9sw4Sr9YK6UbygF5
+name: Arco-Flagellant
+type: threat
+_id: dKegtofNVKxnQSvj
+img: modules/wng-core/assets/tokens/generic.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 11
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: null
+      bonus: 0
+      max: null
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 31
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: '-'
+      second: E
+      third: T
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 4 Uncommon</p><p>For those heretics found guilty
+    of heresies of insufficient severity to warrant immediate execution, there
+    is another fate in store: arco-flagellation. An arco-flagellant undergoes an
+    extended program of surgical modification, including muscle grafts, combat
+    drug injections, and cybernetically implanted weaponry. At the same time,
+    the subject’s mind is reconditioned to turn him into a berserk killing
+    machine who seeks only to destroy enemies of the
+    Emperor.</p><p></p><p>Normally, an arco-flagellant is kept calm through the
+    use of a sealed pacifier helmet. The helmet floods the arco-flagellant’s
+    senses with sacred images and songs, which renders the arco-flagellant
+    virtually unresponsive to outside stimuli. However, once the proper
+    activation word is given, the sensory input stops and a cocktail of combat
+    drugs and stimulants are pumped in the arco-flagellant’s body, turning the
+    once passive cyborg into a frightening and fearless combatant that exists
+    only to destroy everything it sees. The use of a deactivation word will
+    cause the arco-flagellant to shut down and resume its passive state.<br></p>
+prototypeToken:
+  name: Arco-Flagellant
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: Implanted Armour
+    type: armour
+    _id: vSSuvlJvtNPX4tIl
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: ''
+      description: ''
+      value: null
+      keywords: ''
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710346419155
+      modifiedTime: 1710346551458
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!dKegtofNVKxnQSvj.vSSuvlJvtNPX4tIl'
+  - _id: KVWujbprqq16Jwv0
+    name: IMPERIUM
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 3500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ
+    system:
+      description: >-
+        <p>The vast interstellar empire of Humanity that spans over a million
+        worlds, led by the Emperor from Holy Terra. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656027
+      modifiedTime: 1710346517801
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!dKegtofNVKxnQSvj.KVWujbprqq16Jwv0'
+  - _id: JS9J3ymXidgweDue
+    name: SERVITOR
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 5500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.q3m2xbmCFfUEPTMb
+    system:
+      description: >-
+        <p>AI, or Abominable Intelligence, is a sin to the Cult Mechanicus.
+        Their many technological servants, known as Servitors, are all
+        constructed around biological brains supplemented with holy
+        mechanisms.</p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656030
+      modifiedTime: 1710346526451
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!dKegtofNVKxnQSvj.JS9J3ymXidgweDue'
+  - _id: AfYk81EEzGzbeoB3
+    name: ADEPTUS MINISTORUM
+    type: keyword
+    img: modules/wng-core/assets/factions/adeptus-ministorum.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 1900000
+      core:
+        sourceId: Compendium.wng-core.items.Item.TleOqKjYft44AGSQ
+    system:
+      description: >-
+        <p>The state church of the Imperium that propagates and maintains the
+        worship of the God-Emperor to unite His people. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656025
+      modifiedTime: 1710346536742
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!dKegtofNVKxnQSvj.AfYk81EEzGzbeoB3'
+  - folder: MTMFFXVZ7v7osrlS
+    name: Iron Soul
+    type: talent
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower is unaffected by abilities that target the mind, and
+        never needs to make a Resolve test to continue fighting.</p><p><br></p>
+      display: true
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.CnWTeqMHsauKyCnk
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710346998747
+      modifiedTime: 1710347181477
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _id: UQoZQaliD0crL0MP
+    _key: '!actors.items!dKegtofNVKxnQSvj.UQoZQaliD0crL0MP'
+  - folder: MTMFFXVZ7v7osrlS
+    name: Extremis Trigger Word
+    type: talent
+    _id: 1saDRH4liPG7hSvQ
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>An Arco-Flagellant, or a Mob of Arco-Flagellants, may be triggered by
+        uttering a single code-word (either directly, or over a vox). When
+        triggered, Arco-Flagellants become Frenzied and add +2 to their
+        Speed.</p>
+      display: true
+    effects:
+      - icon: modules/wng-core/assets/icons/talents/talent.webp
+        name: Extremis Trigger Word
+        changes:
+          - key: system.combat.speed
+            mode: 2
+            value: '2'
+            priority: null
+        _id: R8Cpt1kLZwvMQsjR
+        disabled: true
+        duration:
+          startTime: null
+          seconds: null
+          combat: null
+          rounds: null
+          turns: null
+          startRound: null
+          startTurn: null
+        description: ''
+        origin: null
+        transfer: true
+        statuses: []
+        flags: {}
+        tint: null
+        _key: >-
+          !actors.items.effects!dKegtofNVKxnQSvj.1saDRH4liPG7hSvQ.R8Cpt1kLZwvMQsjR
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.SYIBWIPINSYy06b5
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710347056356
+      modifiedTime: 1710347184213
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!dKegtofNVKxnQSvj.1saDRH4liPG7hSvQ'
+  - folder: LEhG0vYZtADBw1c0
+    name: Determination
+    type: ability
+    _id: 2HdgoryOLGHF7DYL
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Spend 1 Glory to roll 5d6. This Follower may roll Determination
+        against Mortal Wounds.</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.Npsw0uiIwhXit9Qm
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710347417963
+      modifiedTime: 1710347655432
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!dKegtofNVKxnQSvj.2HdgoryOLGHF7DYL'
+  - folder: LEhG0vYZtADBw1c0
+    name: Penance Through Death
+    type: ability
+    _id: 2nHuffOA5X7ReYly
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When an Arco-Flagellant is slain, it immediately makes a melee attack
+        against a single enemy within reach. It then adds +1 to Glory.</p>
+      display: true
+      abilityType: annihilation
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.iGNrgrtusJmU6K4j
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710347496398
+      modifiedTime: 1710347659607
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!dKegtofNVKxnQSvj.2nHuffOA5X7ReYly'
+  - folder: LEhG0vYZtADBw1c0
+    name: Berserk Killing Machines
+    type: ability
+    _id: IvQZlTeVzUTv7yY8
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When a member of this Mob is killed, roll 1d6: on a 5 or 6, they are
+        not killed.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.udCoywkFQtzqgiFg
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710347696316
+      modifiedTime: 1710347857092
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!dKegtofNVKxnQSvj.IvQZlTeVzUTv7yY8'
+  - name: Arco-Flails
+    type: weapon
+    _id: tLnEJNMHp9NeZl7e
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 11
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 2
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: agonising
+        - name: overwhelming
+          custom: true
+          display: Overwhelming
+          description: >-
+            The weapon can batter past even the most proficient defence. When
+            you make an attack with an Overwhelming weapon, the target does not
+            benefit from the Parry trait of any of their weapons or the Defence
+            bonus from Shields.
+        - name: reaping
+          custom: true
+          display: Reaping
+          description: >-
+            The weapon is intended to scythe through groups of foes. When you
+            make a Multi-Attack with this weapon, the DN increases by +1 per
+            additional target, rather than +2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710348993403
+      modifiedTime: 1710349141356
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!dKegtofNVKxnQSvj.tLnEJNMHp9NeZl7e'
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    name: Extremis Trigger Word
+    changes:
+      - key: system.combat.speed
+        mode: 2
+        value: '2'
+        priority: null
+    _id: A55gspOzqtXbnfOl
+    disabled: true
+    duration:
+      startTime: 0
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: Actor.dKegtofNVKxnQSvj.Item.1saDRH4liPG7hSvQ
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!actors.effects!dKegtofNVKxnQSvj.A55gspOzqtXbnfOl'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710345455086
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!actors!dKegtofNVKxnQSvj'

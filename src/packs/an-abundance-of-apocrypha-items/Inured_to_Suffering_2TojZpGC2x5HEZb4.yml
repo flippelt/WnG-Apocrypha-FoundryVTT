@@ -1,0 +1,99 @@
+folder: fgtFfRbmshJ8KM1n
+name: Inured to Suffering
+type: ability
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank to both your Resolve and your Determination. In addition,
+    gain +1d3 Corruption</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/chaos.webp
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: sQMb3qQuLtxn88lr
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: Inured to Suffering
+    description: ''
+    statuses: []
+    _key: '!items.effects!2TojZpGC2x5HEZb4.sQMb3qQuLtxn88lr'
+  - icon: modules/wng-core/assets/icons/abilities/chaos.webp
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: wypC0I3GMyvn8aaX
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: Inured to Suffering
+    description: ''
+    statuses: []
+    _key: '!items.effects!2TojZpGC2x5HEZb4.wypC0I3GMyvn8aaX'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664832208896
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 2TojZpGC2x5HEZb4
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!2TojZpGC2x5HEZb4'

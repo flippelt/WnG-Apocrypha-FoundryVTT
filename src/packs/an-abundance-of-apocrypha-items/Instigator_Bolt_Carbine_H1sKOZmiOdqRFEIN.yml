@@ -1,0 +1,65 @@
+name: Instigator Bolt Carbine
+type: weapon
+img: modules/wng-core/assets/icons/weapons/bolt-rifle.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>An artificer-crafted form of Bolt Carbine, the Instigator is quiet and
+    precise, without sacrificing mobility</p>
+  value: 7
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: brutal
+    - name: silent
+    - name: sniper
+      rating: 1
+  upgrades: []
+effects: []
+flags:
+  scene-packer:
+    hash: 421fcf662e07abf49e232332e86819bef66045b5
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665426032083
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: H1sKOZmiOdqRFEIN
+sort: 1200000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!H1sKOZmiOdqRFEIN'

@@ -1,0 +1,32 @@
+name: Order of Our Martyred Lady
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects: []
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core: {}
+system:
+  description: >-
+    <p>So dedicated are the Sisters of the Order of Our Martyred Lady that
+    nothing can keep them from fulfilling their Emperor-given duty. When the
+    fighting is fiercest and the casualties highest, these holy warriors fight
+    with renewed conviction and purpose, inspired by their desire to avenge the
+    deaths of their fallen.</p>
+
+    <p><strong>The Blood of Martyrs:</strong> You regain all spend Faith points
+    when you start Dying. You regain 1 Faith point whenever an ally starts
+    Dying.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: ww9vawirGeE3csye
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!ww9vawirGeE3csye'

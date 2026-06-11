@@ -1,0 +1,119 @@
+name: Weaver of Fates
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Weaver of Fates
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@test.result.res'
+        priority: null
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.det'
+        priority: null
+    _id: YqrSsB3tBDSu0Rfs
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!GbkpBF3JcMt8IQkA.YqrSsB3tBDSu0Rfs'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.GbkpBF3JcMt8IQkA
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You trace the skeins of the future to see the fates of battle. Forewarned
+    of imminent danger, warriors dodge bullets and blades with seemingly
+    supernatural reflexes. Select a number of allies with the TZEENTCH keyword
+    within range equal to your Willpower. Until the start of your next turn, the
+    affected allies add +2 to their Resilience and may roll Determination
+    against Mortal Wounds</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: HERETIC ASTARTES, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affect an additional number of affected allies equal to your Willpower
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: +1 Resilience
+      cost: 1
+      property: res
+      initial: 2
+      value: 1
+      single: false
+    - description: +1 bonus dice on Determination rolls.
+      cost: 2
+      property: det
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: GbkpBF3JcMt8IQkA
+folder: 62AZxr813CAe5Qug
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519024
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!GbkpBF3JcMt8IQkA'

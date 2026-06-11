@@ -1,0 +1,61 @@
+folder: ZMoR03HW5eXVf9E1
+name: Lightning Assault
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: WHITE SCARS keyword
+  description: >-
+    <p>You are a master of the hunt, and your fury is inescapable.<br>When you
+    take the Run or Sprint action, you increase your Speed by +Rank. Any vehicle
+    you pilot increases its Speed by +Rank.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.speed
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: dXcqEJlDkLhcLkPo
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Lightning Assault(Run or Sprint)
+    name: Lightning Assault
+    description: ''
+    statuses: []
+    _key: '!items.effects!6TQDG8FeHtFdgkMP.dXcqEJlDkLhcLkPo'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6TQDG8FeHtFdgkMP
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664022167958
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6TQDG8FeHtFdgkMP
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1200000
+_key: '!items!6TQDG8FeHtFdgkMP'

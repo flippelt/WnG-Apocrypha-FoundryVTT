@@ -1,0 +1,109 @@
+name: Enhanced Senses
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Enhanced Senses
+    changes:
+      - key: system.skills.awareness.bonus
+        mode: 2
+        value: '@advances.rank * 2'
+        priority: null
+      - key: system.combat.passiveAwareness.bonus
+        mode: 2
+        value: '@test.result.passiveAwareness'
+        priority: null
+    _id: L5XorVtFHMxD4gKX
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!UemXuGOQ4e4ZGypx.L5XorVtFHMxD4gKX'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.UemXuGOQ4e4ZGypx
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p><span class="fontstyle0">With a moment’s thought, you force your senses
+    to become exceptionally sensitive.</span></p><p></p><p><span
+    class="fontstyle0">While the power remains in effect, add +Double Rank bonus
+    dice to all Awareness tests using that sense.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: add +1 to your Passive Awareness
+      cost: 1
+      property: passiveAwareness
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: UemXuGOQ4e4ZGypx
+folder: 0PEq5NH9Y81S2Ejf
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247331
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!UemXuGOQ4e4ZGypx'

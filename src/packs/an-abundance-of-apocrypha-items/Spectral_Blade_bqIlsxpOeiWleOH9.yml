@@ -1,0 +1,121 @@
+name: Spectral Blade
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Spectral Blade
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.extra'
+        priority: null
+      - key: damage.base
+        mode: 6
+        value: '@attributes.willpower.total/2'
+        priority: null
+    _id: U2rWr4XrQTgNOBwZ
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!bqIlsxpOeiWleOH9.U2rWr4XrQTgNOBwZ'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.bqIlsxpOeiWleOH9
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You implant your foes with the psychosomatic suggestion that your weapon
+    is irresistibly sharp, striking them down with the psychic feedback of their
+    own warped perceptions. While this power remains in effect, you add half
+    your Willpower to the base damage of all melee attacks you make (if you’re
+    already wielding a Force Weapon, add your entire Willpower score instead,
+    replacing both this effect and the benefit from the Force Weapon trait). In
+    addition, if your Willpower is higher than that of your target, then the AP
+    of your weapon is improved to -4.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: RAVEN GUARD
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 ED to your melee weapon’s damage
+      cost: 2
+      property: extra
+      initial: ''
+      value: 1
+      single: false
+    - description: Weapon gains the Inflict (Bleeding) trait
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Activation reduced to a Simple Action
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: bqIlsxpOeiWleOH9
+folder: eJ7mtTuoleAkMUij
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959355
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!bqIlsxpOeiWleOH9'

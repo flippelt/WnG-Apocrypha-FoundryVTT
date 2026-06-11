@@ -1,0 +1,67 @@
+name: Lasgun (Accatran)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/lasgun.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>The Accatran pattern Mark IV Lasgun is a lightweight, compact weapon
+    ideal for use by Drop Troop units, such as the Elysians, who are commonly
+    equipped with these weapons. The length is reduced thanks to the
+    &lsquo;bullpup&rsquo; design, where the power pack is inserted into the
+    shoulder stock, behind the handle. To conserve ammunition and reduce
+    wastage, the weapon&rsquo;s refire rate is reduced, removing the capacity
+    for automatic fire. It uses a high-charge capacitor, to improve stopping
+    power during the initial stages of a firefight.</p>
+  value: 4
+  keywords: LAS, IMPERIUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: rapidFire
+      rating: 1
+    - name: reliable
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665493146421
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: KtMQP20MTYUwmoWw
+_id: Xyc9SaGAU9DxE9uZ
+sort: 200000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!Xyc9SaGAU9DxE9uZ'

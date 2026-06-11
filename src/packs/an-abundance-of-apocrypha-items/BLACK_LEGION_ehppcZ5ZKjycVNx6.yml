@@ -1,0 +1,76 @@
+name: BLACK LEGION
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/black-legion-white.png
+effects:
+  - _id: DctIpsJvgB1QMFY3
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/black-legion-white.png
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: The Tip of the Spear
+    tint: null
+    origin: null
+    name: The Tip of the Spear
+    description: ''
+    statuses: []
+    _key: '!items.effects!ehppcZ5ZKjycVNx6.DctIpsJvgB1QMFY3'
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core: {}
+system:
+  description: >-
+    <p>Once the Luna Wolves, and later the Sons of Horus, the Black Legion are
+    what remains of the legion that Horus commanded during the Heresy. The Luna
+    Wolves were a proud force, that exemplified the best qualities of the
+    Legiones Astartes, but when they came became the Sons of Horus, a darker
+    character has overcome them, a spiteful savagery that has only grown deeper
+    and darker since the Heresy ended. The survivors reforged themselves as the
+    Black Legion, to expunge the stain of Horus&rsquo; defeat, and their hatred
+    for the Imperium is greater than ever.</p>
+
+    <h5>The Tip of the Spear</h5>
+
+    <p>The Black Legion epitomise the Traitor Legions&rsquo; threat, swift,
+    ruthless, and unyielding in their hateful fervour.</p>
+
+    <p>You add +Rank bonus dice on all Ballistic Skill tests made with a ranged
+    weapon at close range. You also gain +1 Resolve.</p>
+
+    <h5>Bitter Pride (Tradition)&nbsp;</h5>
+
+    <p>The Black Legion have little love for those outside their ranks.</p>
+
+    <p>You suffer a +2DN penalty for Interaction tests involving anyone outside
+    the Black Legion, unless those people are subordinate to the Black Legion
+    character.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219056305
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: ehppcZ5ZKjycVNx6
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!ehppcZ5ZKjycVNx6'

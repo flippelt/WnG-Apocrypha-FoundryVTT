@@ -1,0 +1,44 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Lost Upon the Seer Path
+type: ascension
+_id: mUD7UKbGkb3edeG6
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 15
+  description: >-
+    <p>A Farseer is the most potent and respected form of Eldar psyker or Seer.
+    A Farseer has become lost upon the Path of the Seer forever in the same way
+    as the Exarchs are wed eternally to the Path of the Warrior. A council of
+    the most powerful Farseers governs a Craftworld. Farseers possess a wide
+    diversity of psychic specialities with divination being the most common
+    skill. They are most often known for using their vast psychic powers to see
+    the possibilities of the future so that they can manipulate events to better
+    ensure the survival of the Eldar species in the wake of the Fall.</p>
+  requirements: >-
+    Willpower 6, : Insight 6, Psychic Mastery 6, Aeldari species, ASURYANI and
+    PSYKER keywords
+  keywords: FARSEER
+  influence: 3
+  benefits: >-
+    <p><strong>INFLUENCE BONUS:</strong> +3. You may use your Willpower instead
+    of your Fellowship to determine your Influence.</p><p><strong>STORY
+    ELEMENT:</strong> You gain the Prescience and Scrier’s Gaze psychic powers,
+    if you did not already possess them (if you already possess them, you gain
+    additional XP equal to their costs to spend on other powers). In addition,
+    you may now purchase psychic powers from the Runes of Fate
+    discipline.</p><p><strong>WARGEAR</strong>: You gain a Ghosthelm, Runes of
+    Witnessing, and Runes of Warding</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710793517439
+  modifiedTime: 1710793610994
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!mUD7UKbGkb3edeG6'

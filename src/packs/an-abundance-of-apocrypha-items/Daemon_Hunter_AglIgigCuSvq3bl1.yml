@@ -1,0 +1,51 @@
+folder: fgtFfRbmshJ8KM1n
+name: Daemon-Hunter
+type: ability
+_id: AglIgigCuSvq3bl1
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are a Psyker; you begin play with the Rites of Banishment psychic
+    power. You may purchase additional powers from the Sanctic discipline.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710703483141
+  modifiedTime: 1710703498823
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!AglIgigCuSvq3bl1'

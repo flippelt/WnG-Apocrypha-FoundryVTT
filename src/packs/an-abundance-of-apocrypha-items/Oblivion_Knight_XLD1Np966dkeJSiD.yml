@@ -1,0 +1,172 @@
+folder: UOxNDZhYcJR8ilND
+name: Oblivion Knight
+type: archetype
+_id: XLD1Np966dkeJSiD
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Pariah
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.M1Yy7gqMIn7GZedz
+  faction:
+    name: Anathema Psykana
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GNDYdmsAVe5nOuPX
+  influence: 3
+  cost: 245
+  keywords:
+    - IMPERIUM
+    - ANATHEMA PSYKANA
+    - ADEPTUS ASTRA TELEPATHICA
+    - TALONS OF THE EMPEROR
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: 5
+    initiative: 5
+    willpower: 5
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: 3
+    leadership: 2
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Ex Oblivio
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.SB5qVlK79recdUfg
+  wargear:
+    - name: Vratine Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KoM57FAgFEwdig2F
+      type: item
+      diff: {}
+      index: 0
+      groupId: ymcNKo7NEIfBj0UB
+    - name: Voidsheen Cloak
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WIiuUwnKrboj6ZAE
+      type: item
+      diff: {}
+      index: 1
+      groupId: iSiS2XkJ8DIXDjxD
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 2
+      groupId: BDTBvgrzJWuYSvFp
+    - name: Psyk-Out Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Rs98pBCteVE7y1GS
+      type: item
+      diff: {}
+      index: 3
+      groupId: SOVwJn16iT9pZxx7
+    - type: generic
+      name: translator servo-skull
+      filters: []
+      index: 4
+      groupId: titAMvscYHgN3BGH
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 5
+      groupId: xUtJWVWw3uRYieEw
+    - name: Master-Crafted Executioner Greatblade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.EqrVeUbUAnsYYVqQ
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: ymcNKo7NEIfBj0UB
+      - type: item
+        index: 1
+        groupId: iSiS2XkJ8DIXDjxD
+      - type: item
+        index: 2
+        groupId: BDTBvgrzJWuYSvFp
+      - type: item
+        index: 3
+        groupId: SOVwJn16iT9pZxx7
+      - type: item
+        index: 4
+        groupId: titAMvscYHgN3BGH
+      - type: item
+        index: 5
+        groupId: xUtJWVWw3uRYieEw
+      - index: 6
+        type: item
+        groupId: 74n283mr24clLsTq
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 6
+      initiative: 6
+      willpower: 6
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 3
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: 4
+      leadership: 2
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 3
+      stealth: 2
+      survival: 2
+      tech: null
+      weaponSkill: 5
+    talents:
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+      - id: KblllCqaUDvYbDGT
+        name: Anathema
+      - id: 4cYvcDdJ5axdBQHJ
+        name: Quell the Warp
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710715792976
+  modifiedTime: 1710718570939
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!XLD1Np966dkeJSiD'

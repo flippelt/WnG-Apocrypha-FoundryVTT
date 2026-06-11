@@ -1,0 +1,37 @@
+folder: R6DiCyrJrBf1MKBz
+name: Tank Killer
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Fire Dragon aspect
+  description: >-
+    <p>You have an eye for the flaws in armoured targets and can fine-tune the
+    use of your weapons to exploit these flaws easily. When you make an attack
+    with a Firepike or similar weapon, the weapon gains the
+    @UUID[JournalEntry.9arSrx8B2oOHRWrP.JournalEntryPage.obcnn370Zz0ZxUEv#sniper-(x)]{Sniper
+    (2)}trait. If the weapon had the
+    @UUID[JournalEntry.9arSrx8B2oOHRWrP.JournalEntryPage.obcnn370Zz0ZxUEv#blast-(x)]{Blast
+    (X)}and/or
+    @UUID[JournalEntry.9arSrx8B2oOHRWrP.JournalEntryPage.obcnn370Zz0ZxUEv#spread]{Spread}traits,
+    it loses them while it benefits from this ability.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zSPacx3WgZW4VL76
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700068062177
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: zSPacx3WgZW4VL76
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!zSPacx3WgZW4VL76'

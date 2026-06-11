@@ -1,0 +1,50 @@
+name: Lho-Sticks
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.ql0zumAsE62ykZSp
+system:
+  quantity: 10
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">Lho-sticks are common with Imperial Guard
+    troopers, menial workers, and others with tiring, stressful work. Each stick
+    is a rolled paper tube filled with a scented, mildly-narcotic (and
+    addictive) substance, which is ignited, and the resulting smoke is inhaled.
+    These come in varying sizes, and the substance within is normally made from
+    a variety of different plants depending on where in the galaxy they were
+    made. Like most luxuries, they vary immensely in quality between those used
+    by the wealthy and those used by everyone else.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A character who smokes lho-sticks during a Regroup
+    recovers [[/r 1d3+1]] Shock, as the narcotic substance and familiar habit
+    eases their stress and calms them. A single pack of lho-sticks (or the
+    materials to roll one’s own), contains 10 doses.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 1
+  keywords: IMPERIUM, SCUM
+  effect: ''
+_id: ql0zumAsE62ykZSp
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099182
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1800000
+_key: '!items!ql0zumAsE62ykZSp'

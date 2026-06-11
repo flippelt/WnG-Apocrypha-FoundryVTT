@@ -1,0 +1,72 @@
+folder: jNKQtYmfDibEq8RR
+name: Ironkin
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  cost: 56
+  speed: 5
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qQuPl0w6DI1XkkXV
+      name: Cerebral Unit
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zQ6wvtXIhIuVRPIt
+      name: Synthetic Emotion
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.U0zxcbSU3W44dGQr
+      name: Machine
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 1
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 1
+  attributeMax:
+    strength: 10
+    toughness: 10
+    agility: 6
+    initiative: 8
+    willpower: 10
+    intellect: 9
+    fellowship: 7
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.B4Adt2q454nYiepT
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699475742542
+  modifiedTime: 1710522686165
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: m0EXp5KuWV6I2L1b
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!m0EXp5KuWV6I2L1b'

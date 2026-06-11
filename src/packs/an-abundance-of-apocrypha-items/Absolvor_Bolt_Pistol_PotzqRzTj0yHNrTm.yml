@@ -1,0 +1,63 @@
+name: Absolvor Bolt Pistol
+type: weapon
+img: modules/wng-core/assets/icons/weapons/bolt-pistol.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A heavier form of bolt pistol, with far more range and stopping power,
+    the Absolvor-pattern bolt pistol is normally used as a sidearm by officers
+    and specialists amongst Primaris Astartes.</p>
+  value: 8
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 8
+    medium: 16
+    long: 24
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: brutal
+    - name: pistol
+  upgrades: []
+effects: []
+flags:
+  scene-packer:
+    hash: 38a68e6ecd0c571b13376b395b036ad4527073df
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665423213981
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: PotzqRzTj0yHNrTm
+sort: 100000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!PotzqRzTj0yHNrTm'

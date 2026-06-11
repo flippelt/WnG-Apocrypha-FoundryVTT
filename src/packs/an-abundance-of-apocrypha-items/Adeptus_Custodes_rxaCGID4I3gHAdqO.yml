@@ -1,0 +1,214 @@
+name: Adeptus Custodes
+type: faction
+img: modules/wng-apocrypha/assets/images/factions/adeptus-custodes-icon.webp
+effects:
+  - _id: aEgEoxqPpHeZ3PgA
+    changes:
+      - key: system.resources.influence.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/adeptus-custodes-icon.webp
+    transfer: false
+    flags: {}
+    tint: null
+    origin: null
+    name: Influence
+    description: ''
+    statuses: []
+    _key: '!items.effects!rxaCGID4I3gHAdqO.aEgEoxqPpHeZ3PgA'
+  - _id: PZ0hSuY37OGKHXyV
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/adeptus-custodes-icon.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Resolve
+    description: ''
+    statuses: []
+    _key: '!items.effects!rxaCGID4I3gHAdqO.PZ0hSuY37OGKHXyV'
+  - _id: Fiobl6FjFLUyawv5
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/adeptus-custodes-icon.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Determination
+    description: ''
+    statuses: []
+    _key: '!items.effects!rxaCGID4I3gHAdqO.Fiobl6FjFLUyawv5'
+  - _id: OwW5MVUQhY2JFCKB
+    changes:
+      - key: system.combat.passiveAwareness.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/adeptus-custodes-icon.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Passive Awareness
+    description: ''
+    statuses: []
+    _key: '!items.effects!rxaCGID4I3gHAdqO.OwW5MVUQhY2JFCKB'
+  - _id: hinLJLOsE3wb8Frv
+    changes:
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/adeptus-custodes-icon.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Max Shock
+    description: ''
+    statuses: []
+    _key: '!items.effects!rxaCGID4I3gHAdqO.hinLJLOsE3wb8Frv'
+folder: AL59YG508FNku3U7
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rxaCGID4I3gHAdqO
+system:
+  journal: ''
+  backgrounds:
+    origin:
+      - name: Privilege
+        description: >-
+          You were selected from amongst the wealthy and powerful families of
+          Holy Terra as a small child.
+        effect: aEgEoxqPpHeZ3PgA
+      - name: Prophesy
+        description: >-
+          Your place in the Custodian Guard was foretold and you were sough out
+          as a child to ensure that your fate came to pass.
+        effect: PZ0hSuY37OGKHXyV
+      - name: Provenance
+        description: >-
+          During a Custodes action, you were noticed, and your potential
+          discovered. You were taken away to join the Ten-Thousand.
+        effect: Fiobl6FjFLUyawv5
+    accomplishment:
+      - name: Blood Games Veteran
+        description: >-
+          You have participated in many Blood Games, testing the defences of the
+          Palace with your own skills to discover any flaw that remain.
+        effect: Fiobl6FjFLUyawv5
+      - name: Hetaeron Guard
+        description: >-
+          You spend years of even decades amongst the Companions, one of three
+          hundred custodians guarding the Emperor personally, and have only
+          stepped down because not even the strongest can bear such a burden
+          indefinitely.
+        effect: OwW5MVUQhY2JFCKB
+      - name: Jailer of the Dark Cells
+        description: >-
+          You watched over the ancient prisons deep beneath the Imperial
+          Palace,standing vigil over terrors that have been caged since before
+          the Imperium. You may even have been charged to hunt down a creature
+          destined for those cells.
+        effect: hinLJLOsE3wb8Frv
+    goal:
+      - name: Vision
+        description: >-
+          You, or another of your order, had a dream-vision sent by the Emperor,
+          revealing some specific objective or purpose that you must fulfil.
+        effect: hinLJLOsE3wb8Frv
+      - name: Threat Identified
+        description: >-
+          Your order's spies and agents have discovered an impending threat to
+          the Throne, and you have been charged with eliminating that threat.
+        effect: PZ0hSuY37OGKHXyV
+      - name: Torchbearer
+        description: >-
+          You have been placed with the Indomitus Crusade, delivering the
+          Primarch's Gift to distant Astartes Chapters and striking out at the
+          darkness that fills the galaxy.
+        effect: aEgEoxqPpHeZ3PgA
+  objectives:
+    - >-
+      Utilise your awe-inspiring presence and status as the Emperor's guardian
+      in a social situation 
+    - Speak of the absolute nature of your duty to the Throne
+    - >-
+      Apply the wisdom of the Emperor or of ancient philosophy to the current
+      situation
+    - >-
+      Dismiss the faith of a servant of the Imperium, or play along with their
+      beliefs to inspire them
+    - >-
+      Express doubt as to the loyalty or spiritual fortitude of a servant of the
+      Emperor
+    - Comment on how secure or vulnerable a location is
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055986
+  modifiedTime: 1710451663449
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: rxaCGID4I3gHAdqO
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!rxaCGID4I3gHAdqO'

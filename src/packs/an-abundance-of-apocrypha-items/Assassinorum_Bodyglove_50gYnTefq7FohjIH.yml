@@ -1,0 +1,60 @@
+name: Assassinorum Bodyglove
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial-armour.Item.50gYnTefq7FohjIH
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Officio Assassinorum make extensive use of
+    synskin bodygloves. Once sprayed onto the body, synskin forms a black outer
+    skin which protects the wearer from the environment and augments the
+    metabolism. It is bio-reactive and moulds itself to the wearer's form. It is
+    also non-reflective and reduces the wearer's infrared profile, facilitating
+    infiltration.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">2, Agile</span></p><p></p><p><span
+    class="fontstyle2"><strong>Sealed</strong>: </span><span
+    class="fontstyle0">The suit is completely environmentally sealed and
+    contains sufficient oxygen for 12 hours. </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">GAS </span><span class="fontstyle0">weapons,
+    even ones absorbed through the skin, cannot penetrate synskin.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: LIGHT, IMPERIUM, OFFICIOASSASSINORUM
+  equipped: false
+  rating: 2
+  base: 0
+  traits:
+    - name: agile
+      custom: true
+      display: Agile
+      description: >-
+        A few types of armour listed in this section have the Agile trait. A
+        character wearing Agile armour may use their Agility to calculate their
+        Determination instead of their Toughness.
+  invulnerable: false
+_id: 50gYnTefq7FohjIH
+folder: eLb57h7zaMzBK94e
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089726439
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 100000
+_key: '!items!50gYnTefq7FohjIH'

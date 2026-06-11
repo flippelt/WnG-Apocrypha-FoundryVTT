@@ -1,0 +1,34 @@
+folder: R6DiCyrJrBf1MKBz
+name: Suppressing Fusillade
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: ''
+  description: >-
+    <p>Your volleys are a staccato torrent of fire, carefully timed and aimed to
+    disorient and demoralise. When you spend ammo to make a Suppressive Fire
+    attack, you score one automatic Exalted Icon. Further, if a target becomes
+    @UUID[JournalEntry.wVLMa7prYKmd2aVd]{Pinned }as a result of this attack,
+    they also become @UUID[JournalEntry.CXoXx6h9FoFqp013]{Staggered }while
+    they’re pinned.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.icZHtTgnd3kox90X
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700067797010
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: kKv3Fqdo4FFdy9U1
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!kKv3Fqdo4FFdy9U1'

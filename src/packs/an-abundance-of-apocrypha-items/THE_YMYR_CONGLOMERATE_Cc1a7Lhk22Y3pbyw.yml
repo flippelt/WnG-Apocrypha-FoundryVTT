@@ -1,0 +1,59 @@
+folder: jNKQtYmfDibEq8RR
+name: THE YMYR CONGLOMERATE
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p>One of the original founding Leagues, as of its most recent count the
+    Greater Thurian League consists of over two hundred allied Kindred. Between
+    them they boast vast fleets of ships and huge armies of Kinhost warriors.
+    Huge and wealthy guilds such as the Yngvâry Combined Logistics, the
+    Starstriders Mercantile Confederation, and the Cthonian Guild of Kâdokh see
+    the League's continued and immense prosperity. The Greater Thurian League
+    have long ventured outside the Galactic Core, whether to trade, explore, or
+    fight as mercenaries in Prospects. Recently, they have settled into the
+    neighbouring Marsalis and Sepulchor Sectors outside of the core in levels
+    unseen. The remit of these forces is to claim new worlds for those
+    dispossessed by the Great Rift or fight back Chaos invaders vying for the
+    Core.</p><p><strong>HIGHLY EFFICIENT</strong>: You add +1 to your Influence,
+    and you gain +1 Wealth at the end of each session.</p>
+effects:
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    changes:
+      - key: system.skills.tech.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: Tech
+    _id: fdhYTbjQVNXakZPg
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!Cc1a7Lhk22Y3pbyw.fdhYTbjQVNXakZPg'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699504031398
+  modifiedTime: 1710190655617
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Cc1a7Lhk22Y3pbyw
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!Cc1a7Lhk22Y3pbyw'

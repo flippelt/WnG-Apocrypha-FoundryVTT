@@ -1,0 +1,70 @@
+name: Havoc Autocannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/autocannon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-ranged.Item.NVwtAtOavjTAl5NX
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A modified version of the common autocannon,
+    developed for Astartes use during the Great Crusade and remaining in use by
+    Heretic Astartes heavy weapons specialists. Their high-velocity,
+    armourpiercing shells are effective against a variety of targets.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: PROJECTILE,CHAOS, HERETIC ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 24
+    medium: 48
+    long: 72
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: heavy
+      rating: 6
+  upgrades: []
+_id: NVwtAtOavjTAl5NX
+folder: OUOFLqDJaP03QNHY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925967096
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!NVwtAtOavjTAl5NX'

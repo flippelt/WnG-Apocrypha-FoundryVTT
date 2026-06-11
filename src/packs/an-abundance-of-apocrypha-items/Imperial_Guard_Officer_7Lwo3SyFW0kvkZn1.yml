@@ -1,0 +1,196 @@
+name: Imperial Guard Officer
+type: archetype
+img: modules/wng-core/assets/icons/abilities/astra-militarum.webp
+effects: []
+folder: TtFflqxAyCzNXGHP
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.7Lwo3SyFW0kvkZn1
+  cf: null
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: JjNQyUPELJb8CvL5
+  faction:
+    name: Astra Militarum
+    id: F4PJBHBNdVqjl3sJ
+  influence: 1
+  cost: 22
+  keywords:
+    - IMPERIUM
+    - ASTRA MILITARUM
+    - '[REGIMENT]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: 2
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Voice of Command
+    id: n1LOaDnxTkl8nl80
+  wargear:
+    - name: Flak Armour
+      id: Compendium.wng-core.items.Item.fLx8DzWDgWDZIMSK
+      type: item
+      diff: {}
+      index: 0
+      groupId: VEOqqExVGHnaiynD
+    - name: Refractor Field
+      id: Compendium.wng-core.items.Item.2B042fHI5jIAoQv9
+      type: item
+      diff: {}
+      index: 1
+      groupId: QNyJZZdNGh3umtYw
+    - name: Laspistol
+      id: Compendium.wng-core.items.Item.STrmO2xhRZgClDSR
+      type: item
+      diff: {}
+      index: 2
+      groupId: TgDJboZyCxk3dKdN
+    - name: Chainsword
+      id: Compendium.wng-core.items.Item.rgcz2ZC60MEM8mao
+      type: item
+      diff: {}
+      index: 3
+      groupId: 1AyUS7emges7ayib
+    - name: Knife
+      id: Compendium.wng-core.items.Item.drUoIw7l4vPyI9Zm
+      type: item
+      diff: {}
+      index: 4
+      groupId: kPwZkT3ZnHxOwAVj
+    - type: generic
+      name: Blanket
+      filters: []
+      index: 5
+      groupId: XOjk2HfKgMflf80Y
+    - type: generic
+      name: Grooming kit
+      filters: []
+      index: 6
+      groupId: MCTa1erfa9PrMfCP
+    - name: Uplifting Primer
+      id: Compendium.wng-core.items.Item.c6FVoY1JkbSd6iLh
+      type: item
+      diff: {}
+      index: 7
+      groupId: magMq8pUt1XczUKJ
+    - name: Ration Packs
+      id: Compendium.wng-core.items.Item.vsjZCbjBNivbeUhk
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 8
+      groupId: cAbeuEKGDq75u77n
+    - name: Munitorum-Issue Mess Kit
+      id: Compendium.wng-core.items.Item.mOWPCO1mNXNKsGNa
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: VEOqqExVGHnaiynD
+      - type: item
+        index: 1
+        groupId: QNyJZZdNGh3umtYw
+      - type: item
+        index: 2
+        groupId: TgDJboZyCxk3dKdN
+      - type: item
+        index: 3
+        groupId: 1AyUS7emges7ayib
+      - type: item
+        index: 4
+        groupId: kPwZkT3ZnHxOwAVj
+      - type: item
+        index: 5
+        groupId: XOjk2HfKgMflf80Y
+      - type: item
+        index: 6
+        groupId: MCTa1erfa9PrMfCP
+      - type: item
+        index: 7
+        groupId: magMq8pUt1XczUKJ
+      - type: item
+        index: 8
+        groupId: cAbeuEKGDq75u77n
+      - index: 9
+        type: item
+        groupId: bWg4XMIc8yEari9s
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 2
+      agility: 2
+      initiative: 3
+      willpower: 2
+      intellect: 2
+      fellowship: 3
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: 2
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: 5HchXpu60DlodyV8
+        name: Disturbing Voice
+      - id: cjIXYREw9Ar63CXc
+        name: Supplicant
+      - id: JhtS9OxkxWcjILbK
+        name: In His Name
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055091
+  modifiedTime: 1710598183267
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 7Lwo3SyFW0kvkZn1
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!7Lwo3SyFW0kvkZn1'

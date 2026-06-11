@@ -1,0 +1,64 @@
+name: Astartes Armour
+pages:
+  - sort: 100000
+    name: Astartes Armour
+    type: text
+    _id: 78x4pe7oIOsJpCmC
+    title:
+      show: false
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>During character creation, any Adeptus Astartes character who has
+        Aquila Mark VII armour may exchange that for Mark IV, Mark V, or Mark VI
+        armour. Earlier marks may be obtained as rewards during play, and the
+        later pattern, Mark VIII, can be obtained as an upgrade during
+        Ascension. Heretic Astartes characters can choose Mark III, Mark IV, or
+        Mark VI armour to replace their Mark VII, as these are the armours most
+        common amongst the Traitor Legions.</p><p>Mark X armour is issued
+        according to battlefield role, but some Primaris officers (Lieutenants,
+        Captains, Librarians, etc) can choose freely between Tacticus, Gravis,
+        or Phobos armour depending on their mission.</p><p>Some of the armour
+        below has the RELIC keyword. Armour with the RELIC keyword is ancient
+        and harkens back to the earliest days of the Imperium of Man, granting
+        +1 to the Resolve of characters with the IMPERIUM keyword within 10m if
+        worn by a loyal Space Marine. If worn by Traitor Astartes, it instead
+        calls back to the start of the Long War, and it adds +1 Resolve to
+        characters with the HERETIC or HERETIC ASTARTES keywords within 10m.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ONdel3jnNibLuhsZ.78x4pe7oIOsJpCmC'
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1663893263673
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+folder: nDYleZkn0ESlN5hn
+_id: ONdel3jnNibLuhsZ
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!ONdel3jnNibLuhsZ'
+categories: []

@@ -1,0 +1,72 @@
+name: Manreaper
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+flags:
+  core: {}
+  cf: null
+  scene-packer:
+    sourceId: Item.hX0q28gTL3S1A9Mj
+    hash: ffe608394d385a9892531bcff6b1cb84a9769292
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>An iconic weapon of the Death Guard Legion, even during the days of the
+    Great Crusade. Where once these grand power scythes were deadly weapons
+    wielded in the Emperor&rsquo;s Name, now they are filthencrusted reapers of
+    souls, slaying in the name of the Lord of Plagues.</p>
+  value: 7
+  keywords: BLADE, 2-HANDED, CHAOS, NURGLE, HERETIC ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Poisoned 4
+    - name: reaping
+      custom: true
+      display: Reaping
+      description: >-
+        The weapon is intended to scythe through groups of foes. When you make a
+        Multi-Attack with this weapon, the DN increases by +1 per additional
+        target, rather than +2
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: nyHPtRO8Z1XRcTRg
+_id: RIUpz6uMmabBPIR7
+sort: 1500000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!RIUpz6uMmabBPIR7'

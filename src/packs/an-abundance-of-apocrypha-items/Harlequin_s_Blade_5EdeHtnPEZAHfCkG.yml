@@ -1,0 +1,60 @@
+name: Harlequin’s Blade
+type: weapon
+_id: 5EdeHtnPEZAHfCkG
+img: modules/wng-core/assets/icons/weapons/sword.webp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p>These perfectly balanced swords are so light as to be almost weightless,
+    and so sharp that those who are cut may not realise it for several seconds.
+    They seem to sing as they pass through the air, their tune an accompaniment
+    to the Harlequins’ deadly dance</p>
+  value: 4
+  keywords: BLADE, HARLEQUIN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: parry
+    - name: rending
+      rating: 2
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 800000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709855740009
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!5EdeHtnPEZAHfCkG'

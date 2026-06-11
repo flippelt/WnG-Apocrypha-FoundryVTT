@@ -1,0 +1,84 @@
+folder: fgtFfRbmshJ8KM1n
+name: Ex Oblivio
+type: ability
+_id: SB5qVlK79recdUfg
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank ED to all attacks you make against creatures with the
+    PSYKER or DAEMON keyword. In addition, for the purposes of your Pariah
+    species abilities, and any Pariah-specific talents you possess, your
+    Willpower is increased by +Rank.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+    name: Oblivion Knight
+    _id: fc5fe5X7AoVQDLgq
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              attacks you make against creatures with the PSYKER or DAEMON
+              keyword.
+            hide: ''
+    tint: null
+    _key: '!items.effects!SB5qVlK79recdUfg.fc5fe5X7AoVQDLgq'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710715889432
+  modifiedTime: 1710716018124
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!SB5qVlK79recdUfg'

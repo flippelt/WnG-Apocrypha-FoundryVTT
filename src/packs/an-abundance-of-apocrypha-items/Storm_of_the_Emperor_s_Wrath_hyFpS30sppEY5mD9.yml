@@ -1,0 +1,85 @@
+name: Storm of the Emperor's Wrath
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.hyFpS30sppEY5mD9
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Stretching forth one armoured gauntlet, you unleash a ravening tempest of
+    psychic blasts. Striking like lightning, these actinic energy bolts burn
+    flesh black and overload the machine spirits of enemy war engines with a
+    crackling roar. The power affects all creatures and vehicles in a Blast (6)
+    within range. Affected targets suffer a hit dealing 12 +3ED damage, AP -2,
+    with the Agonizing and Haywire (3) traits.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ULTRAMARINES
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1ED
+      cost: 2
+      property: damage.ed.number
+      initial: ''
+      value: 1
+      single: false
+    - description: +1 to rating of Haywire trait
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Increase the area of effect to a Blast (10)
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: hyFpS30sppEY5mD9
+folder: 5oIpdFAHgVixaHkE
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959248
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!hyFpS30sppEY5mD9'

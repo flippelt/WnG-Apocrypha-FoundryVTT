@@ -1,0 +1,161 @@
+name: Voidreaver
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 493750
+pages:
+  - name: Voidreaver
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <blockquote><p>The void is wealth. The void is freedom. I reject the
+        tightly-bound chords of the Path. I reject the pettiness of Commorite
+        politics. I reject the plain frugality of the Exodites. I reject the
+        masks of the clown and mime. I most certainly reject death. The stars
+        belonged to my ancestors. Thus they belong to me. Thus, I go where I
+        will, take what I will, and kill whom I will.</p><p
+        style="text-align:right"><em>——Lady Hale’drithea of the Black
+        Suns</em></p></blockquote><p><strong>You are a piratical raider, living
+        a life of adventure and freedom amongst the stars your ancestors once
+        claimed. Whatever walk of life you belonged to before, you are a reaver
+        of the void now.</strong></p><p>Corsairs, known as Anhrathe in the Eldar
+        tongue, are those Eldar who seek freedom above all else. They are
+        thrill-seekers, pursuing adventure, glory, and riches above all else,
+        eschewing the discipline of the Asuryani Path, or the depravity of the
+        Drukhari, or any other of the distinct fragments that Aeldari society
+        has fragmented into.</p><p>Corsairs hail from all parts of Aeldari
+        society. Outcasts from the Craftworlds, Drukhari from Commorragh,
+        Exodites from the edges of the galaxy, and more besides. Some sought the
+        Corsair life for freedom, others were exiled and found it by necessity,
+        while others succumbed to nihilism and have embraced selfindulgence over
+        the futile struggle against oblivion.</p><p>Corsairs garb themselves
+        outlandishly, showing off the spoils of their raids in ostentatious
+        displays of finery, yet for all their excess, they are agile and
+        creative warriors, often with centuries of experience and subtle psychic
+        abilities to call upon.</p><p>The Craftworlds often hold the Anhrathe at
+        arm’s length, content to employ them as privateers, but illat-ease with
+        way the Corsairs’ reckless freedom clash with Asuryani discipline.
+        Similarly, some Anhrathe maintain trade and political relationships with
+        Drukhari Kabals, even joining them on realspace raids, but are always
+        wary of the insatiable hunger for agony the Drukhari
+        possess.</p><p><em>This Archetype has been designed to work with
+        characters of either Aeldari or Drukhari species.</em></p><table
+        style="width:98.9228%;height:234px" border="1"><tbody><tr
+        class="table-header aeldari" style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8">VOIDREAVER</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
+        colspan="2">TIER</td><td
+        style="width:8.3%;height:16px;text-align:center">1</td><td
+        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
+        colspan="2">SPECIES</td><td
+        style="width:11.7268%;height:16px;text-align:center">Aeldari or
+        Drukhari</td><td
+        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
+        Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center">36</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">AELDARI</a>,
+        <a class="keyword">ASURYANI</a>, <a class="keyword">DRUKHARI</a>, <a
+        class="keyword">ANHRATHE</a>, <a
+        class="keyword">[COTERIE]</a></td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px"
+        colspan="8"><strong>ATTRIBUTE</strong>: Agility 3, Strength 2, Willpower
+        2</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
+        Ballistic Skill 2, Intimidation 2, Weapon Skill 2</td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
+        ABILITY</strong>: @UUID[Item.iMzYXSNB40Y2IA0c]{Reavers of the
+        Void}</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
+        @UUID[Item.ZYJP0UzR7t3nHqqs]{Corsair Armour}, Shuriken Rifle or
+        @UUID[Item.ueTuXr4xkzevIL4X]{Shuriken Pistol} and
+        @UUID[Item.yGdYJq6FWVgYE7GA]{Power Sword},
+        @UUID[Item.3X5FaaFcfNmaEod4]{Mono Knife},
+        @UUID[Item.aIEl2xpESvkqyVEG]{Spirit Stone}</td></tr><tr
+        style="height:16px"><td class="table-header aeldari"
+        style="width:51.1291%;height:16px;text-align:left"
+        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">48</td></tr><tr
+        style="font-variant:small-caps;height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
+        style="width:12.5%;height:16px;text-align:center">S</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">T</td><td
+        style="width:5.17241%;height:16px;text-align:center">A</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">I</td><td
+        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">Int</td><td
+        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
+        style="width:12.5%;height:16px;text-align:center">3</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">2</td><td
+        style="width:5.17241%;height:16px;text-align:center">4</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">4</td><td
+        style="width:11.7268%;height:16px;text-align:center">3</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">2</td><td
+        style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr
+        style="height:16px"><td class="table-header aeldari"
+        style="width:51.1291%;height:16px;text-align:left"
+        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">12</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%" colspan="8">Athletics 2, Awareness 1,
+        Ballistic Skill 2, Intimidation 2, Pilot 1, Stealth 1, Weapon Skill
+        2</td></tr><tr style="height:16px"><td class="table-header aeldari"
+        style="width:92.7291%;height:16px" colspan="8">SUGGESTED
+        TALENTS</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%"
+        colspan="8"></td></tr></tbody></table>
+      markdown: ''
+    _id: ZnpC4rZp4Nob1Eli
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!04Md9F5Ldj9ZMoMW.ZnpC4rZp4Nob1Eli'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664302602426
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 04Md9F5Ldj9ZMoMW
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!04Md9F5Ldj9ZMoMW'
+categories: []

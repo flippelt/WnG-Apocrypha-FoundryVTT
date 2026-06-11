@@ -1,0 +1,83 @@
+folder: fgtFfRbmshJ8KM1n
+name: Make It All Betta
+type: ability
+_id: otYEE5KC47N44mvk
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add Double Rank bonus dice to all Medicae tests made on characters
+    with the ORK keyword. In addition, when making a Medicae test on an ORK
+    character outside of combat, you may spend an Exalted Icon from to remove a
+    single Traumatic Injury immediately, as you crudely reattach lost body
+    parts.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Make It All Betta
+    _id: 6wFtjVtnYvAscLq9
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank * 2'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ' Medicae tests made on characters with the ORK keyword.'
+            hide: ''
+    tint: null
+    _key: '!items.effects!otYEE5KC47N44mvk.6wFtjVtnYvAscLq9'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710612280676
+  modifiedTime: 1710616845658
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!otYEE5KC47N44mvk'

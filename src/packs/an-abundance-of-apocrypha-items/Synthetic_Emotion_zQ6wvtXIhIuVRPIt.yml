@@ -1,0 +1,84 @@
+folder: j9tQJM6VB7YLJ7SX
+name: Synthetic Emotion
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You increase the DN of any interaction-based skill test with any
+    character who lacks the @UUID[Item.wpkWPNKyvh8vv7PC]{LEAGUES OF VOTANN}
+    keyword by +1.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Synthetic Emotion
+    _id: WyXv8L7vFo7e6oYS
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '1'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Interaction-based skill test with non LEAGUES OF VOTANN character
+            hide: ''
+    tint: null
+    _key: '!items.effects!zQ6wvtXIhIuVRPIt.WyXv8L7vFo7e6oYS'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zQ6wvtXIhIuVRPIt
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699475943616
+  modifiedTime: 1710522664135
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: zQ6wvtXIhIuVRPIt
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!zQ6wvtXIhIuVRPIt'

@@ -1,0 +1,159 @@
+folder: GHP0SxnnlNKFusRJ
+name: Voidreaver
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Aeldari
+    id: Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Item.15adBmv177CaW1UF
+  influence: 0
+  cost: 36
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - DRUKHARI
+    - ANHRATHE
+    - '[COTERIE]'
+  attributes:
+    strength: 2
+    toughness: null
+    agility: 3
+    initiative: null
+    willpower: 2
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Reavers of the Void
+    id: Item.iMzYXSNB40Y2IA0c
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Corsair Armour
+      id: Item.ZYJP0UzR7t3nHqqs
+      type: item
+      diff: {}
+      index: 1
+      groupId: rUFRCBzMoZie86C9
+    - type: generic
+      name: Shuriken Rifle
+      filters: []
+      index: 2
+      groupId: 2KTCTOfKXsbBEcvS
+    - name: Mono Knife
+      id: Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 3
+      groupId: 3FOVwceBU8h3JfVs
+    - name: Spirit Stone
+      id: Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+      index: 4
+      groupId: 7oCmNmCSM56ZyxQt
+    - name: Shuriken Pistol
+      id: Item.ueTuXr4xkzevIL4X
+      type: item
+      diff: {}
+      index: 5
+      groupId: g2ddtZT3nBQowHMf
+    - name: Power Sword
+      id: Item.yGdYJq6FWVgYE7GA
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: rUFRCBzMoZie86C9
+      - type: or
+        items:
+          - type: item
+            index: 2
+            groupId: 2KTCTOfKXsbBEcvS
+          - type: and
+            items:
+              - index: 5
+                type: item
+                groupId: g2ddtZT3nBQowHMf
+              - index: 6
+                type: item
+                groupId: US4EnbfubGmWOJAW
+            groupId: q5jcnhPQovEDE3PH
+        groupId: 8UP53EvRIXrAedtl
+      - index: 3
+        type: item
+        groupId: 3FOVwceBU8h3JfVs
+      - index: 4
+        type: item
+        groupId: 7oCmNmCSM56ZyxQt
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 2
+      agility: 4
+      initiative: 4
+      willpower: 3
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 1
+      psychicMastery: null
+      scholar: null
+      stealth: 1
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents: []
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1665770606976
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: XgWsFCmYfNwrw75i
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!XgWsFCmYfNwrw75i'

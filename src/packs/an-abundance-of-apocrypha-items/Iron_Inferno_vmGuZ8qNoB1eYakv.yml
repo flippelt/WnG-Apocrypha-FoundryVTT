@@ -1,0 +1,94 @@
+name: Iron Inferno
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: On Fire
+    icon: systems/wrath-and-glory/asset/icons/conditions/onfire.svg
+    statuses:
+      - onfire
+    _id: EgwfEgoECRyD1eSV
+    changes: []
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!vmGuZ8qNoB1eYakv.EgwfEgoECRyD1eSV'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.vmGuZ8qNoB1eYakv
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You send your mind questing outwards to locate seams of metal, the iron
+    spars of girders and foundations, and any other metalling mass you can
+    sense. Then, with a furious mental blast, you superheat them all to trigger
+    a pyrometallic explosion. If this power is successful, select a single point
+    within range that you can see; roll 1d6 for each creature or vehicle within
+    6m of that point; on an Icon, that creature suffers 1 Mortal Wound and the
+    On Fire condition.</p>
+  effect: ''
+  cost: 10
+  activation: ''
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: IMPERIAL FISTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Targets suffer +1 Mortal Wound
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: vmGuZ8qNoB1eYakv
+folder: FBWgnducTeuqGBkw
+sort: 225000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959232
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!vmGuZ8qNoB1eYakv'

@@ -1,0 +1,62 @@
+name: Order of the Bloody Rose
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects:
+  - icon: modules/wng-core/assets/factions/adepta-sororitas.svg
+    name: Quick to Anger
+    _id: A4DG6h9jDWWmrOc6
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Quick to Anger: Add +Rank bonus dice to your melee attacks when
+              you Charge
+            hide: ''
+    tint: null
+    _key: '!items.effects!9LrCEaZMi3QaD5mw.A4DG6h9jDWWmrOc6'
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9LrCEaZMi3QaD5mw
+system:
+  description: >-
+    <p>Once their battle fury is roused, none prosecute the wars of the Adeptus
+    Ministorum with greater fervour than do those warriors who belong to the
+    Order of the Bloody Rose.</p>
+
+    <p><strong>Quick to Anger:</strong> Add +Rank bonus dice to your melee
+    attacks when you Charge.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056126
+  modifiedTime: 1710524823354
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 9LrCEaZMi3QaD5mw
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!9LrCEaZMi3QaD5mw'

@@ -1,0 +1,54 @@
+name: Order of the Quill
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects:
+  - icon: modules/wng-core/assets/factions/adepta-sororitas.svg
+    name: Pious Scrutiny
+    changes:
+      - key: system.combat.passiveAwareness.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: KtlbMwkKvsNbSiO9
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!xo6WJPRUuJfNcEQe.KtlbMwkKvsNbSiO9'
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.xo6WJPRUuJfNcEQe
+system:
+  description: >-
+    <p>The legends of every supposed miracle and words of every potential saint,
+    prophet, and would-be faith leader are sought out and transcribed by the
+    Order of the Quill, to determine their truth. Sisters of the Quill are
+    vigilant in all things, ensuring that no detail goes
+    undocumented.</p><p><strong>Pious Scrutiny:</strong> Your Passive Awareness
+    is increased by +Rank.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1710525145532
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: xo6WJPRUuJfNcEQe
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!xo6WJPRUuJfNcEQe'

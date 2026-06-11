@@ -1,0 +1,53 @@
+folder: fgtFfRbmshJ8KM1n
+name: Master of Slaughter
+type: ability
+_id: KYpzYjcvI0g9qcHi
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you inflict a critical hit, you count as having spent 1 Glory to
+    improve the effect. You may still spend additional Glory to improve the
+    effect further. </p><p>In addition, you gain 1d3x3 Corruption when you
+    select this Archetype.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710688338007
+  modifiedTime: 1710688354447
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!KYpzYjcvI0g9qcHi'

@@ -1,0 +1,23 @@
+folder: NIfHOAfLrRCoYd1Y
+name: Squig
+type: keyword
+_id: IWtd4xJSaWPPSyfC
+img: modules/wng-core/assets/factions/orks.svg
+system:
+  description: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  core:
+    sourceId: Item.IWtd4xJSaWPPSyfC
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710435015325
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!IWtd4xJSaWPPSyfC'

@@ -1,0 +1,112 @@
+name: Webway Dance
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Webway Dance
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.det'
+        priority: null
+    _id: fxZ1x968lQiMrLZJ
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!ICsobat9eTfOl7SO.fxZ1x968lQiMrLZJ'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.ICsobat9eTfOl7SO
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The veil between realspace and the Webway grows thin, allowing Harlequins
+    to jink away from danger in directions that shouldn’t exist, only to
+    reappear unharmed moments later. Until the start of your next turn, you and
+    any allies within range may roll Determination without suffering Shock—Icons
+    rolled simply negate Wounds instead.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: HARLEQUIN
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        Whenever an ally rolls Determination, they may move up to half their
+        speed afterwards.
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: >-
+        Whenever an ally rolls Determination, they may use their Agility instead
+        of their Toughness for the roll.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: +1 bonus dice on all Determination rolls for affected characters.
+      cost: 2
+      property: det
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: ICsobat9eTfOl7SO
+folder: o8yQgV0l3d94B1kr
+sort: 125000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742875
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ICsobat9eTfOl7SO'

@@ -1,0 +1,46 @@
+name: Icevein
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.OMPNZYgVbqQUSee3
+system:
+  description: >-
+    <p><span class="fontstyle0">Once in the victim’s bloodstream, the poison
+    causes necrotic flesh to radiate an intense chill that numbs their allies,
+    preventing their swift escape.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">While the target is </span><span
+    class="fontstyle3">Poisoned</span><span class="fontstyle0">, any of the
+    target’s allies within 5m are </span><span
+    class="fontstyle3">Staggered</span><span class="fontstyle0">.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  value: 6
+  rarity: uncommon
+  keywords: DRUKHARI, TOXIN
+  traits: []
+_id: OMPNZYgVbqQUSee3
+folder: 6ntRjpS1Ry0pU1f7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483270
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 103125
+_key: '!items!OMPNZYgVbqQUSee3'

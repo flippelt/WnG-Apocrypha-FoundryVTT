@@ -1,0 +1,44 @@
+name: Dread Mask
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.0yusqdvRehoyitSY
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">These leering masks, an advanced form of
+    </span><span class="fontstyle2">Agaith</span><span class="fontstyle0">,
+    contain a psychic sensor which detects the greatest fears of those nearby,
+    and projects them back amplified tenfold.</span></p><p></p><p><span
+    class="fontstyle3"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The wearer of a Dread Mask causes </span><span
+    class="fontstyle2">Terror </span><span class="fontstyle0">(DN 3
+    +Rank).</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: HARLEQUIN
+  effect: ''
+_id: 0yusqdvRehoyitSY
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240230
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 100000
+_key: '!items!0yusqdvRehoyitSY'

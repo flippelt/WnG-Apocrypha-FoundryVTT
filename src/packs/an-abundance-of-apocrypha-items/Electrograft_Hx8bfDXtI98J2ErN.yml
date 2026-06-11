@@ -1,0 +1,53 @@
+name: Electrograft
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.Hx8bfDXtI98J2ErN
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">Electrografts are a special form of electoo
+    engineered directly onto the recipient's cerebellum. This involves cutting
+    away a portion of the skull and creating the electoo directly on the brain
+    tissue before (usually) replacing the section of cranium or covering with
+    synthetic material. An electrograft reacts with the brain to alter a
+    creature's memory, personality and knowledge. Many of the Imperium's
+    technological secrets are passed on by this means, and it is certainly a
+    quick and easy way to learn how to speak new languages, operate machinery,
+    etc. On the other hand, interference with the mind tends to cause
+    personality disorders, problems with memory recall and occasionally total
+    mental breakdown.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A character implanted with an electrograft may gain one
+    of the effects below. A character may receive multiple electrografts, but
+    for every electrograft after the first, the character must change one extra
+    die on Intellect, Willpower, or Fellowship tests to a Wrath
+    die.</span></p><ul><li><p><span class="fontstyle0">Learn 1+ Rank additional
+    languages.</span></p></li><li><p><span class="fontstyle0">+Rank dice on
+    tests using a single skill.</span></p></li><li><p><span
+    class="fontstyle0">Remove or alter a memory.</span> </p></li></ul>
+  value: 5
+  keywords: IMPERIUM, ADEPTUS MECHANICUS
+  requirements: ''
+  effect: ''
+_id: Hx8bfDXtI98J2ErN
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099800
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!Hx8bfDXtI98J2ErN'

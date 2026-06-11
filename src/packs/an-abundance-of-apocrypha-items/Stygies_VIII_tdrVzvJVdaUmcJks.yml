@@ -1,0 +1,31 @@
+name: Stygies VIII
+type: keyword
+img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+effects: []
+folder: EOubWyxMDb5RRb88
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 1800000
+  core: {}
+system:
+  description: >-
+    <p>When the armies of Stygies VIII march to war, they do so beneath stealth
+    screen projectors and target-befouling apparatus. That the Tech-Priests of
+    this forge world deny owning such technology only reinforces their
+    untrustworthy reputation.</p><p><strong>SHROUD PROTOCOLS:</strong> You add
+    +Rank bonus dice to Stealth Tests and gain an additional +1 to Defence
+    against ranged attacks from more than 12 metres away.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699478596396
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: tdrVzvJVdaUmcJks
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!tdrVzvJVdaUmcJks'

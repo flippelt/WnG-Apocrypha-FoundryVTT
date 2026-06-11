@@ -1,0 +1,89 @@
+name: Narthecium
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Narthecium
+    _id: 3Ds16pdbxZWUh8KQ
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Medicae test to treat the injuries of Adeptus Astartes or Primaris
+              Astartes species
+            hide: ''
+    tint: null
+    _key: '!items.effects!FnfADO0uOdin1YzG.3Ds16pdbxZWUh8KQ'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.FnfADO0uOdin1YzG
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A Narthecium is a tool of a Space Marine
+    Apothecary's trade, containing implements specially designed for treating
+    the Astartes' genetically engineered physiology and for performing first aid
+    without having to remove the patient's Power
+    Armour.</span></p><p></p><p><span class="fontstyle0">It also comprises
+    various counterseptics, synthderm patches, transfusions and other compounds
+    engineered for the Space Marines’ physiology, and several stasis tubes for
+    storing any recovered geneseed taken from a dead Space Marine's Progenoid
+    Glands.</span></p><p></p><p><span class="fontstyle0">In battle, an
+    Apothecary carries a number of specialised items of equipment, integrating a
+    variety of tools into a customised backpack, with delivery systems in a
+    device mounted on the Apothecary’s vambrace. The Apothecary may have crafted
+    many of these tools himself according to his own
+    needs.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">A Narthecium provides all the means to treat
+    battlefield injuries and perform medical procedures in the field. It also
+    adds +2 bonus dice to Medicae tests to treat the injuries of characters of
+    the Adeptus Astartes or Primaris Astartes species. On non-Astartes
+    characters, use of a Narthecium can cause problems, as the equipment within
+    is not meant for frail mortal physiology: a complication will inflict 1
+    Mortal Wound on a non-Astartes patient.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: ADEPTUS ASTARTES
+  effect: ''
+_id: FnfADO0uOdin1YzG
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937590
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!FnfADO0uOdin1YzG'

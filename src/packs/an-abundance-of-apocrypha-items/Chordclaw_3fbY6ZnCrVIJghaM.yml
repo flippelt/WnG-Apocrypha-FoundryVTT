@@ -1,0 +1,71 @@
+name: Chordclaw
+type: weapon
+_id: 3fbY6ZnCrVIJghaM
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>A deadly, needle-fingered gauntlet, where each blade can be set to
+    vibrate at the resonant frequency of anything they strike, quickly tuning
+    themselves upon impact, tearing through flesh, bone, and armour as they
+    destructively vibrate. A single strike can obliterate large parts of an
+    enemy</p>
+  value: 6
+  keywords: TRANSONIC, ADEPTUS MECHANICUS, SKITARII
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: careful
+    - name: mortal-(2)
+      custom: true
+      display: Mortal (2)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts
+  upgrades: []
+effects: []
+folder: QMfRKhIFUOHoAFXu
+sort: 100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709844026430
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!3fbY6ZnCrVIJghaM'

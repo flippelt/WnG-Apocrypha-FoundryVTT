@@ -1,0 +1,17 @@
+name: Keywords
+type: Item
+sorting: a
+sort: 300000
+color: null
+flags: {}
+_id: CFzJnZqkzLp4E4a2
+folder: null
+description: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710357284864
+  modifiedTime: 1710524073651
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!CFzJnZqkzLp4E4a2'

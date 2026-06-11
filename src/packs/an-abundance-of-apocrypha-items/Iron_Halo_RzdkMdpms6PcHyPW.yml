@@ -1,0 +1,85 @@
+name: Iron Halo
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Iron Halo
+    _id: VfsLyrIRBfSmnGor
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank * 2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Leadership tests to command characters with the ADEPTUS ASTARTES
+              keyword
+            hide: ''
+    tint: null
+    _key: '!items.effects!RzdkMdpms6PcHyPW.VfsLyrIRBfSmnGor'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.force-shields.Item.RzdkMdpms6PcHyPW
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Normally mounted within a metal ring mounted on
+    the wearer’s backpack, appearing like the halo it is named for, the Iron
+    Halo is a forcefield generator commonly issued to Astartes officers,
+    typically those of Captain (or equivalent) rank or higher. The field is
+    quite potent, as it can draw directly from the power supply of the wearer’s
+    armour.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">*4; Power Field</span></p><p></p><p><span
+    class="fontstyle2"><strong>Symbol of Authority</strong>: </span><span
+    class="fontstyle0">A character wearing an Iron Halo gains +Double Rank bonus
+    dice on all Leadership tests to command characters with the </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">ADEPTUS ASTARTES </span><span
+    class="fontstyle0">keyword.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: FORCE FIELD, IMPERIUM, ADEPTUSASTARTES
+  equipped: false
+  rating: 4
+  base: 0
+  traits:
+    - name: powerField
+  invulnerable: true
+_id: RzdkMdpms6PcHyPW
+folder: tfjVFu4f5w54iLmI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089903094
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!RzdkMdpms6PcHyPW'

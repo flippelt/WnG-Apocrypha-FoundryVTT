@@ -1,0 +1,62 @@
+name: Relic Blade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/power-sword.webp
+effects: []
+folder: M81y3pnOdLuRP51r
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A Relic Blade is an ancient and incredible powerful two-handed melee
+    weapon used by the superhuman warriors of the Adeptus Astartes that often
+    takes the form of a master-crafted sword or axe. Only a precious&nbsp;
+    handful have survived the passage of time, and these are reserved for
+    Astartes of long and faultless service who have earned the right to wield a
+    Relic Blade.</p>
+  value: 8
+  keywords: POWER FIELD, 2-HANDED, ADEPTUS ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits: []
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: jjvRJHQH7ndbmBKz
+sort: 1400000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!jjvRJHQH7ndbmBKz'

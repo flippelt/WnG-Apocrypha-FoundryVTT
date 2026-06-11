@@ -1,0 +1,113 @@
+folder: cVuyLiytdwZ2l22U
+name: Unnatural Acrobatics
+type: ability
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Your Defence is increased by +Rank.</p><p></p><p><strong>The Path of
+    Damnation</strong>: Other Aeldari shun you, and you add +6 to the DN of all
+    Interaction tests with other Aeldari outside of ritual circumstances or
+    performances. All Aeldari – even allies – must pass a Fear test (DN 3) when
+    they first meet you. However, you automatically succeed at all Conviction
+    and Resolve tests.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    name: The Path of Damnation
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '6'
+        priority: null
+    _id: deZIfpil3kQl4a0I
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Other Aeldari shun you, and you add +6 to the DN of all
+              Interaction tests with other Aeldari outside of ritual
+              circumstances or performances.
+            hide: ''
+    tint: null
+    _key: '!items.effects!UjAqeiuCu7ouHM8k.deZIfpil3kQl4a0I'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    name: Unnatural Acrobatics
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: 496uc8Uzy4V8h0Wb
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!UjAqeiuCu7ouHM8k.496uc8Uzy4V8h0Wb'
+flags:
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710782545656
+  modifiedTime: 1710782817440
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: UjAqeiuCu7ouHM8k
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!UjAqeiuCu7ouHM8k'

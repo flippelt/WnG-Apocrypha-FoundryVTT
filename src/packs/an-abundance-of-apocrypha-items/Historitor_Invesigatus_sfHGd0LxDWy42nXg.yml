@@ -1,0 +1,160 @@
+folder: lbClXQfcr3lgwoBs
+name: Historitor-Invesigatus
+type: archetype
+_id: sfHGd0LxDWy42nXg
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Logos Historica Verita
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.7UAjekXQAkSjqWOP
+  influence: 2
+  cost: 70
+  keywords:
+    - IMPERIUM
+    - LOGOS HISTORICA VERITA
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 3
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: 2
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 2
+    leadership: null
+    medicae: null
+    persuasion: 2
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Intensive Research
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fNXi6ZZgbR0hENy1
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Mesh Armour
+      id: Compendium.wng-core.items.Item.Gkvz8V1xP8wrBBk8
+      type: item
+      diff: {}
+      index: 1
+      groupId: ENzZPclJIm26ienW
+    - name: Auto-Quill
+      id: Compendium.wng-core.items.Item.YpCzpRX37328Md1h
+      type: item
+      diff: {}
+      index: 2
+      groupId: uV5rdRanG0UNGQdY
+    - name: Data-Slate
+      id: Compendium.wng-core.items.Item.9406td13uMAaKNmc
+      type: item
+      diff: {}
+      index: 3
+      groupId: Ijvn0hz2FTpxbw3S
+    - type: generic
+      name: Melee weapon with a Value of 5 or less, and a rarity of Rare or better
+      filters:
+        - test: ge
+          property: Rarity
+          value: Rare
+        - test: le
+          property: Value
+          value: '5'
+    - type: generic
+      name: Ranged weapon with a Value of 5 or less, and a rarity of Rare or better
+      filters:
+        - test: ge
+          property: Rarity
+          value: Rare
+        - test: le
+          property: Value
+          value: '5'
+      index: 5
+      groupId: pTddBcwaILy2uE7T
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: ENzZPclJIm26ienW
+      - index: 2
+        type: item
+        groupId: uV5rdRanG0UNGQdY
+      - index: 3
+        type: item
+        groupId: Ijvn0hz2FTpxbw3S
+      - type: item
+        index: 4
+        groupId: dDw2hizOqbyR1VxS
+      - type: item
+        index: 5
+        groupId: pTddBcwaILy2uE7T
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 3
+      willpower: 4
+      intellect: 4
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 1
+      cunning: 2
+      deception: null
+      insight: 3
+      intimidation: 3
+      investigation: 3
+      leadership: null
+      medicae: null
+      persuasion: 1
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+      - id: W8Tj4tvuuXovyUXL
+        name: Jargon [Skill]
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710607958269
+  modifiedTime: 1710609003271
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!sfHGd0LxDWy42nXg'

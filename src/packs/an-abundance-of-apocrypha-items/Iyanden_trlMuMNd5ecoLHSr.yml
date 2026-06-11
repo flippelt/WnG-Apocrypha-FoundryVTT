@@ -1,0 +1,32 @@
+name: Iyanden
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+effects: []
+folder: 16S9xUIVnroLJhc3
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 2000000
+  core: {}
+system:
+  description: >-
+    <p>Iyanden drifts through the stars of the eastern rim. Once, its halls were
+    busy and vibrant with life, but no longer. Now, it is but a shadow of its
+    former glory, a sombre and desolate vessel where the dead walk and the
+    living dwindle. The Iyanden people have endured much, and suffered great
+    tragedy, but they do not allow their despair to consume
+    them.</p><p><strong>STOIC AND TENACIOUS</strong>: Your Resolve is increased
+    by +Rank.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699479568268
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: trlMuMNd5ecoLHSr
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!trlMuMNd5ecoLHSr'

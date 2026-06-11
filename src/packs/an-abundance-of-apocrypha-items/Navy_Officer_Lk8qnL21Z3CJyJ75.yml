@@ -1,0 +1,163 @@
+folder: WYkBFkJq4LAwl6eW
+name: Navy Officer
+type: archetype
+_id: Lk8qnL21Z3CJyJ75
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Imperial Navy
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ricyzrOy0w1FgD2N
+  influence: 2
+  cost: 48
+  keywords:
+    - IMPERIUM
+    - NAVIS IMPERIALIS
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: 3
+    willpower: 3
+    intellect: null
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: 2
+    medicae: null
+    persuasion: null
+    pilot: 1
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 1
+  ability:
+    name: Voice of Authority
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iB5pcaPjo1cojg4K
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Navis Officer's Uniform (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Navis Officer's Uniform (Clothing)
+      index: 1
+      groupId: embJHrSTHfLmr8rU
+    - name: Mesh Armour
+      id: Compendium.wng-core.items.Item.Gkvz8V1xP8wrBBk8
+      type: item
+      diff: {}
+      index: 2
+      groupId: XqROCpNrBqn8cmHY
+    - name: Laspistol
+      id: Compendium.wng-core.items.Item.STrmO2xhRZgClDSR
+      type: item
+      diff: {}
+      index: 3
+      groupId: 6pnCAK2qIeNxa5m5
+    - name: Hand Cannon
+      id: Compendium.wng-core.items.Item.Fci6DIK0kgrASqGV
+      type: item
+      diff: {}
+      index: 4
+      groupId: 402hMSwmGXem2MRG
+    - name: Chainsword
+      id: Compendium.wng-core.items.Item.rgcz2ZC60MEM8mao
+      type: item
+      diff: {}
+      index: 5
+      groupId: bcmbkfmabxbn1awi
+    - name: Vox-Bead
+      id: Compendium.wng-core.items.Item.4LJKqbl1WR6Qcxd8
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: embJHrSTHfLmr8rU
+      - index: 2
+        type: item
+        groupId: XqROCpNrBqn8cmHY
+      - type: or
+        items:
+          - index: 3
+            type: item
+            groupId: 6pnCAK2qIeNxa5m5
+          - index: 4
+            type: item
+            groupId: 402hMSwmGXem2MRG
+        groupId: hbB4FMRLVSRAv3kx
+      - index: 5
+        type: item
+        groupId: bcmbkfmabxbn1awi
+      - index: 6
+        type: item
+        groupId: 4P5A8xpk7UNiWNy1
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 3
+      initiative: 3
+      willpower: 5
+      intellect: 3
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: 4
+      medicae: null
+      persuasion: 3
+      pilot: 2
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: 1
+      weaponSkill: 3
+    talents:
+      - id: afi4wNVeT0Pmcs37
+        name: Devotees
+      - id: iiqjZLMe2IxQMth5
+        name: Noble Peer
+      - id: h3cX58IYSA7DiKnI
+        name: Overwatch
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710610996822
+  modifiedTime: 1710611266783
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Lk8qnL21Z3CJyJ75'

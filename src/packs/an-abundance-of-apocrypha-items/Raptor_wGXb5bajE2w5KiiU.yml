@@ -1,0 +1,173 @@
+folder: cZ7bosRjx1cxapg8
+name: Raptor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 1
+  cost: 270
+  keywords:
+    - CHAOS
+    - '[MARK OF CHAOS]'
+    - HERETIC ASTARTES
+    - '[LEGION]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 3
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 1
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 4
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 4
+  ability:
+    name: Cruel Hunters
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6c2osWY0T86LSpKA
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: 3xezBNfVbvFsIi71
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 2
+      groupId: cghPwW8UkEsiSWvv
+    - name: Astartes Chainsword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cl2SkggR4PWY2pxi
+      type: item
+      diff: {}
+      index: 3
+      groupId: FPWN2ZHoDkO3rNu6
+    - name: Jump Pack
+      id: Compendium.wng-core.items.Item.fYcfZQb8Um0jf6mK
+      type: item
+      diff: {}
+      index: 4
+      groupId: GuyVo6t6QMKkwFcC
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: 7FjbBPiKH2qYfRKu
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: NmNO2I8JUrIW40ry
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 3xezBNfVbvFsIi71
+      - index: 2
+        type: item
+        groupId: cghPwW8UkEsiSWvv
+      - index: 3
+        type: item
+        groupId: FPWN2ZHoDkO3rNu6
+      - index: 4
+        type: item
+        groupId: GuyVo6t6QMKkwFcC
+      - index: 5
+        type: item
+        groupId: 7FjbBPiKH2qYfRKu
+      - index: 6
+        type: item
+        groupId: NmNO2I8JUrIW40ry
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: YOJXISADzQlwp1Lc
+        name: Fear
+      - id: 8HVDTAWbxsjtCeRo
+        name: Death to the False Emperor
+effects: []
+flags:
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710688816571
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: wGXb5bajE2w5KiiU
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!wGXb5bajE2w5KiiU'

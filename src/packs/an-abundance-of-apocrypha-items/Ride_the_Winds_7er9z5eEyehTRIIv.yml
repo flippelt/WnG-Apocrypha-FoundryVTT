@@ -1,0 +1,118 @@
+name: Ride the Winds
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Ride the Winds
+    changes:
+      - key: system.combat.speed
+        mode: 2
+        value: '@test.result.sp'
+        priority: null
+      - key: system.combat.speed
+        mode: 2
+        value: '@test.result.ws'
+        priority: null
+    _id: Wgj312NwyIo2Lc07
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!7er9z5eEyehTRIIv.Wgj312NwyIo2Lc07'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.7er9z5eEyehTRIIv
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Invoking the power of the winds, you send rushing currents of invisible
+    energy to speed your comrades into battle. If this power is successful, a
+    number of allies in range equal to your Willpower add +1 to their Speed
+    until the start of your next turn. This bonus increases to +2 for any allies
+    who possess the WHITE SCARS keyword.</p>
+  effect: ''
+  cost: 8
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: WHITE SCARS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Ally has WHITE SCARS keyword
+      cost: ''
+      property: ws
+      initial: ''
+      value: 1
+      single: true
+    - description: +1 Speed.
+      cost: 2
+      property: sp
+      initial: 1
+      value: 1
+      single: false
+    - description: Affect additional allies equal to your Willpower.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 7er9z5eEyehTRIIv
+folder: oNn2KKV41u8YG29i
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959309
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!7er9z5eEyehTRIIv'

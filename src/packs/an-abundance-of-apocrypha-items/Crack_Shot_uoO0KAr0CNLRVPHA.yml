@@ -1,0 +1,28 @@
+folder: R6DiCyrJrBf1MKBz
+name: Crack Shot
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Ballistic Skill rating 7+
+  description: >-
+    <p>The precision and lethality of your shots is legendary. You may re-roll
+    all rolls of 1 whenever you make a ranged attack or roll for damage with a
+    ranged attack.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699811120168
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: uoO0KAr0CNLRVPHA
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!uoO0KAr0CNLRVPHA'

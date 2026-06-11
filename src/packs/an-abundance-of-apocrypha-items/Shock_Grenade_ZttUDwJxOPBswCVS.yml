@@ -1,0 +1,80 @@
+name: Shock Grenade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.ZttUDwJxOPBswCVS
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Carried by Primaris Reivers, shock grenades
+    detonate in bursts of sound and light carefully tuned to overwhelm the
+    senses and send the target reeling. They are normally used just before a
+    squad of Reivers begins their assault – one Reiver will hurl a grenade in to
+    signal an assault, and the others will take aim or prepare to
+    charge.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">Shock Grenades do not inflict damage. Rather, to use a
+    Shock Grenade, make a Ballistic Skill test as an Interaction Attack against
+    your targets’ Resolve (make one test and compare it individually to the
+    Resolve of each enemy in the blast). This inflicts the normal results from
+    an Interaction Attack on each affected target, and all targets must either
+    be </span><span class="fontstyle3">hindered </span><span
+    class="fontstyle0">or </span><span class="fontstyle3">vulnerable</span><span
+    class="fontstyle0">—you can’t mix and match.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: EXPLOSIVE, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+  upgrades: []
+_id: ZttUDwJxOPBswCVS
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430835
+  modifiedTime: 1710719242674
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 0
+_key: '!items!ZttUDwJxOPBswCVS'

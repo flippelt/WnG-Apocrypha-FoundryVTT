@@ -1,0 +1,17 @@
+name: Factions
+type: JournalEntry
+sorting: a
+sort: 0
+color: '#000000'
+flags: {}
+_id: 2xAD0ATkgmu0RqM7
+folder: null
+description: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1699294434936
+  modifiedTime: 1699294434936
+  lastModifiedBy: QQwHydvBuTROXyXM
+_key: '!folders!2xAD0ATkgmu0RqM7'

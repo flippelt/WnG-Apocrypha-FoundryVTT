@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Not Another Step Back
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 15
+  requirements: Squat species
+  description: >-
+    <p>You have lost too much, and retreat tastes like the ashes of the
+    dead.<br>When you fail a Resolve test, you may suffer 1d3 Shock in order to
+    count as having succeeded.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6ztn4qMvTTSydEKj
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664023429935
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6ztn4qMvTTSydEKj
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1700000
+_key: '!items!6ztn4qMvTTSydEKj'

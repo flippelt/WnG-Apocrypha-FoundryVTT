@@ -1,0 +1,140 @@
+folder: we4hKPpDAyHavRz2
+name: Frateris Militia
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-ministorum.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Ministorum
+    id: Compendium.wng-core.items.Item.ii74Pd1lAMuiG57x
+  influence: 0
+  cost: 6
+  keywords:
+    - IMPERIUM
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 2
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Fervour
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lvOR1IHs7y6ypv20
+  wargear:
+    - type: generic
+      name: One Ranged weapon of Value 3 or Less up to Common rarity
+      filters: []
+      index: 0
+      groupId: Hr1SuL80nppuVU5W
+    - type: generic
+      name: One Melee weapon of Value 3 or Less up to Common rarity
+      filters: []
+      index: 1
+      groupId: hqIyIwiQSaI8YuHF
+    - type: generic
+      name: symbol of devotion
+      filters: []
+      index: 2
+      groupId: XmiJoWZp43SWl6U3
+    - name: Knife
+      id: Compendium.wng-core.items.Item.drUoIw7l4vPyI9Zm
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: or
+        items:
+          - type: item
+            index: 0
+            groupId: Hr1SuL80nppuVU5W
+          - type: item
+            index: 1
+            groupId: hqIyIwiQSaI8YuHF
+        groupId: IM8I3nhW3idf1cdp
+      - type: item
+        index: 2
+        groupId: XmiJoWZp43SWl6U3
+      - index: 3
+        type: item
+        groupId: bKf2ZROodlD8KvdL
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 1
+      fellowship: 2
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: 1
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: null
+      weaponSkill: 1
+    talents:
+      - id: jlrOP1uvd0x0VRiK
+        name: Death Or Glory!
+      - id: LoHgYwDbFoZAaOMD
+        name: Flagellant
+      - id: caUknJMvhWAcEDbz
+        name: Hatred [Any]
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.76EvOJlEz3FwhqXI
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664298695495
+  modifiedTime: 1710544173832
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 76EvOJlEz3FwhqXI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 200000
+_key: '!items!76EvOJlEz3FwhqXI'

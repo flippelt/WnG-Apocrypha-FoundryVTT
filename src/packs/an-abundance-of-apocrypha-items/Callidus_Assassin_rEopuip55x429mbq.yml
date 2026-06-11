@@ -1,0 +1,162 @@
+folder: yFKwNivJm2h6RQHw
+name: Callidus Assassin
+type: archetype
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Officio Assassinorum
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GgJupC58AywMDFq9
+  influence: 0
+  cost: 328
+  keywords:
+    - IMPERIUM
+    - OFFICIO ASSASSINORUM
+    - TEMPLUM CALLIDUS
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 3
+    fellowship: 3
+  skills:
+    athletics: 3
+    awareness: 2
+    ballisticSkill: 4
+    cunning: null
+    deception: 4
+    insight: 4
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: 1
+    persuasion: 2
+    pilot: 1
+    psychicMastery: null
+    scholar: 1
+    stealth: 4
+    survival: 2
+    tech: 1
+    weaponSkill: 4
+  ability:
+    name: Betrayal's Blade
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Tdlwg1Tipd98RZJV
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Phase Sword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.2XyNds9oe5br9y3N
+      type: item
+      diff: {}
+      index: 1
+      groupId: Jy08B1S6AysqpC2e
+    - name: Neural Shredder
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.C6gd97Luzb31BaAy
+      type: item
+      diff: {}
+      index: 2
+      groupId: geQn5bKsvfSjqBi1
+    - name: Polymorphine
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OZZI6aSNMKzJZ0NS
+      type: item
+      diff: {}
+      index: 3
+      groupId: gqh76E0k8R8I1qp4
+    - name: Poisoned Blades
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.2eSofA64TwH9DjKs
+      type: item
+      diff: {}
+      index: 4
+      groupId: TeQKs4Mq4zZ65Fdz
+    - name: Assassinorum Bodyglove
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.50gYnTefq7FohjIH
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: Jy08B1S6AysqpC2e
+      - index: 2
+        type: item
+        groupId: geQn5bKsvfSjqBi1
+      - index: 3
+        type: item
+        groupId: gqh76E0k8R8I1qp4
+      - index: 4
+        type: item
+        groupId: TeQKs4Mq4zZ65Fdz
+      - index: 5
+        type: item
+        groupId: 5g70B7Nng5yyQ0dr
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 6
+      initiative: 6
+      willpower: 4
+      intellect: 3
+      fellowship: 4
+    skills:
+      athletics: 3
+      awareness: 2
+      ballisticSkill: 4
+      cunning: 3
+      deception: 5
+      insight: 5
+      intimidation: null
+      investigation: 2
+      leadership: null
+      medicae: 2
+      persuasion: 2
+      pilot: 1
+      psychicMastery: null
+      scholar: 1
+      stealth: 4
+      survival: 4
+      tech: 1
+      weaponSkill: 6
+    talents:
+      - id: 01d7ttot0m3yXcfa
+        name: Counter Attack
+      - id: gM1zenlhkmIMBA5C
+        name: Eliminator
+      - id: 8jTUoOBx3t9Rfzne
+        name: Lip Reader
+effects: []
+flags:
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710779027228
+  modifiedTime: 1710779662234
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: rEopuip55x429mbq
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!rEopuip55x429mbq'

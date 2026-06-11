@@ -1,0 +1,126 @@
+name: Mind Ward
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Mind Ward
+    changes:
+      - key: difficulty.bonus
+        mode: 7
+        value: '@test.result.tele'
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+    _id: feGRssGDnhAIr4by
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: 'Mind Ward: TELEPATHY power'
+            hide: ''
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!TLf9jhfEjKget1YO.feGRssGDnhAIr4by'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.TLf9jhfEjKget1YO
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>There are many ways to enter the mind of another person. With this power,
+    those ways become limited. You erect psychic defences and bulwarks that help
+    prevent mental attacks, and even steel you against fear. Any TELEPATHY power
+    that targets you increases in DN by 1, and you increase your Resolve by
+    1.</p>
+  effect: ''
+  cost: 5
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The DN increase for TELEPATHY powers increases by +1
+      cost: 1
+      property: tele
+      initial: 1
+      value: 1
+      single: false
+    - description: You are also immune to the Pinned condition.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: You are also immune to Fear.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: You are also immune to Terror
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: TLf9jhfEjKget1YO
+folder: Y2bAliRT8Nh9MTzR
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247448
+  modifiedTime: 1711982295225
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TLf9jhfEjKget1YO'

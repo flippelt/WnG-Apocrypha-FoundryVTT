@@ -1,0 +1,17 @@
+name: T'au
+type: Item
+sorting: a
+sort: 0
+color: null
+flags: {}
+_id: Ft9EFoc4UweG24to
+folder: ct8TKkELuAnX5bLq
+description: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699292467338
+  modifiedTime: 1710451657622
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!Ft9EFoc4UweG24to'

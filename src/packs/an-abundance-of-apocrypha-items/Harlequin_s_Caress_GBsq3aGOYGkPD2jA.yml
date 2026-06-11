@@ -1,0 +1,58 @@
+name: Harlequin’s Caress
+type: weapon
+_id: GBsq3aGOYGkPD2jA
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>These unassuming vambraces worn by some Harlequins can sheathe the
+    wearer’s hand in a phase disruption field, like that used on power weapons.
+    With the aid of this field, a Harlequin can reach into someone’s chest and
+    rip their heart out, with no more effort than picking a flower.</p>
+  value: 6
+  keywords: POWER FIELD, HARLEQUIN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 900000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709855861282
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!GBsq3aGOYGkPD2jA'

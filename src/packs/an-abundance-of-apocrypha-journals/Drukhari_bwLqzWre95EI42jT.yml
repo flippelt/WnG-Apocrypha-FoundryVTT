@@ -1,0 +1,228 @@
+name: Drukhari
+folder: zy9aJZUOooZEiNXj
+flags:
+  cf: null
+  core: {}
+pages:
+  - name: Drukhari
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p>The Dark Eldar, referred to more correctly as the Drukhari or "Dark
+        Ones" in the Aeldari Lexicon, are a forsaken and corrupt Aeldari
+        kindred, like their Asuryani counterparts in some ways, but vastly
+        different in others.</p>
+
+        <p>The Drukhari revel in piracy, enslavement, and torture, and are
+        sadistic in the extreme. They strike with little or no warning, using an
+        interdimensional labyrinth known as the Webway to traverse the galaxy
+        safely and far more quickly than most advanced starfaring species can
+        with their Warp jumps.</p>
+
+        <p>The Drukhari are unique amongst the intelligent races of the Milky
+        Way Galaxy because they do not live on a settled world or worlds, but
+        rather the bulk of their population is concentrated in one foul
+        city-state -- the Dark City of Commorragh -- that lies within the
+        "ordered" Immaterium of the Aeldari Webway.</p>
+
+        <p>The Drukhari are mainly pirates and slavers who prey on targets
+        across the galaxy to feed their unholy appetites for other sentient
+        beings' souls, a terrible desire called "the Thirst," though they are
+        sometimes used as mercenaries by other voidfaring species.</p>
+
+        <p>The Drukhari are the living embodiments of all that is wanton and
+        cruel in the Aeldari character. Highly intelligent and devious to the
+        point of obsession, these piratical people revel in the physical and
+        emotional pain of others, for feeding upon the psychic residue of
+        suffering is the only way they can stave off the slow consumption by the
+        Chaos God Slaanesh of their own souls.</p>
+
+        <p>Unlike their Craftworld Aeldari cousins, the Drukhari do not
+        integrate their still-powerful latent psychic abilities into their
+        culture, and indeed have a great disdain for psykers of any kind.</p>
+
+        <p>This is because for the Drukhari, the use of psychic abilities would
+        only further draw the attention of "She Who Thirsts" (Slaanesh) upon
+        them, and their souls are already at risk enough of being devoured by
+        the Prince of Chaos</p>
+
+        <h5>Drukhari Names</h5>
+
+        <p>While sharing a common language and history with their Craftworlder
+        cousins, the Drukhari tend to favour names with a harsher edge to them,
+        often choosing names which symbolise the pain and terror they wish to
+        spread. Examples include:</p>
+
+        <p>Akhirion, Anarkyss, Anielyn, Bekliel, Ethrilliac, Grendett, Grevyth,
+        Kylos, Laelanyel, Madrax, Melikka, Mellyx, Monsatos, Narlek, Nyktos,
+        Peiythia, Phyrix, Selithrian, Theskril, Thessa, Thraed, Thresyn,
+        Thrixxesh, Quaez, Uless, Vrexith, Vylekh, Vypus, Xela, Xurul</p>
+
+        <h3>Playing a Drukhari</h3>
+
+        <p>If you wish to play a Drukhari character, use the following species
+        entry instead of the normal Aeldari one.</p>
+
+        <p><strong>XP Cost:</strong> 20</p>
+
+        <p><strong>Attributes:</strong> Agility 3, Strength 2</p>
+
+        <p><strong>Skills:</strong> Intimidation 2</p>
+
+        <p><strong>Speed:</strong> 8</p>
+
+        <p><strong>Blade Artist:</strong> When you make an attack with a melee
+        weapon, increase the weapon’s AP by 1 (i.e., from -1 to -2) if you shift
+        one or more Icons on the attack. This stacks with effects such as the
+        Rending weapon trait.</p>
+
+        <p><strong>The Thirst:</strong> You cannot recover Shock by spending
+        Wrath, or through the Medicae skill. However, you recover 1d3+Rank shock
+        whenever you inflict Shock on an opponent, kill an opponent, whenever
+        you succeed at an Intimidation interaction attack, or when an enemy
+        fails a Resolve test. The GM gains +1 Ruin whenever you become
+        Exhausted.</p>
+
+        <p><strong>She Who Thirsts:</strong> Reduce your Maximum Shock by an
+        amount equal to your Corruption Level.</p>
+    _id: HLYrFN5Dl99RXax2
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!bwLqzWre95EI42jT.HLYrFN5Dl99RXax2'
+  - name: Drukhari
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p>The Dark Eldar, referred to more correctly as the Drukhari or "Dark
+        Ones" in the Aeldari Lexicon, are a forsaken and corrupt Aeldari
+        kindred, like their Asuryani counterparts in some ways, but vastly
+        different in others.</p>
+
+        <p>The Drukhari revel in piracy, enslavement, and torture, and are
+        sadistic in the extreme. They strike with little or no warning, using an
+        interdimensional labyrinth known as the Webway to traverse the galaxy
+        safely and far more quickly than most advanced starfaring species can
+        with their Warp jumps.</p>
+
+        <p>The Drukhari are unique amongst the intelligent races of the Milky
+        Way Galaxy because they do not live on a settled world or worlds, but
+        rather the bulk of their population is concentrated in one foul
+        city-state -- the Dark City of Commorragh -- that lies within the
+        "ordered" Immaterium of the Aeldari Webway.</p>
+
+        <p>The Drukhari are mainly pirates and slavers who prey on targets
+        across the galaxy to feed their unholy appetites for other sentient
+        beings' souls, a terrible desire called "the Thirst," though they are
+        sometimes used as mercenaries by other voidfaring species.</p>
+
+        <p>The Drukhari are the living embodiments of all that is wanton and
+        cruel in the Aeldari character. Highly intelligent and devious to the
+        point of obsession, these piratical people revel in the physical and
+        emotional pain of others, for feeding upon the psychic residue of
+        suffering is the only way they can stave off the slow consumption by the
+        Chaos God Slaanesh of their own souls.</p>
+
+        <p>Unlike their Craftworld Aeldari cousins, the Drukhari do not
+        integrate their still-powerful latent psychic abilities into their
+        culture, and indeed have a great disdain for psykers of any kind.</p>
+
+        <p>This is because for the Drukhari, the use of psychic abilities would
+        only further draw the attention of "She Who Thirsts" (Slaanesh) upon
+        them, and their souls are already at risk enough of being devoured by
+        the Prince of Chaos</p>
+
+        <h5>Drukhari Names</h5>
+
+        <p>While sharing a common language and history with their Craftworlder
+        cousins, the Drukhari tend to favour names with a harsher edge to them,
+        often choosing names which symbolise the pain and terror they wish to
+        spread. Examples include:</p>
+
+        <p>Akhirion, Anarkyss, Anielyn, Bekliel, Ethrilliac, Grendett, Grevyth,
+        Kylos, Laelanyel, Madrax, Melikka, Mellyx, Monsatos, Narlek, Nyktos,
+        Peiythia, Phyrix, Selithrian, Theskril, Thessa, Thraed, Thresyn,
+        Thrixxesh, Quaez, Uless, Vrexith, Vylekh, Vypus, Xela, Xurul</p>
+
+        <h3>Playing a Drukhari</h3>
+
+        <p>If you wish to play a Drukhari character, use the following species
+        entry instead of the normal Aeldari one.</p>
+
+        <p><strong>XP Cost:</strong> 20</p>
+
+        <p><strong>Attributes:</strong> Agility 3, Strength 2</p>
+
+        <p><strong>Skills:</strong> Intimidation 2</p>
+
+        <p><strong>Speed:</strong> 8</p>
+
+        <p><strong>Blade Artist:</strong> When you make an attack with a melee
+        weapon, increase the weapon’s AP by 1 (i.e., from -1 to -2) if you shift
+        one or more Icons on the attack. This stacks with effects such as the
+        Rending weapon trait.</p>
+
+        <p><strong>The Thirst:</strong> You cannot recover Shock by spending
+        Wrath, or through the Medicae skill. However, you recover 1d3+Rank shock
+        whenever you inflict Shock on an opponent, kill an opponent, whenever
+        you succeed at an Intimidation interaction attack, or when an enemy
+        fails a Resolve test. The GM gains +1 Ruin whenever you become
+        Exhausted.</p>
+
+        <p><strong>She Who Thirsts:</strong> Reduce your Maximum Shock by an
+        amount equal to your Corruption Level.</p>
+    _id: zF2Xe4gLH8GT5s1r
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!bwLqzWre95EI42jT.zF2Xe4gLH8GT5s1r'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1699294434961
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: bwLqzWre95EI42jT
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!bwLqzWre95EI42jT'
+categories: []

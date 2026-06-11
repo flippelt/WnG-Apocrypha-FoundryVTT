@@ -1,0 +1,61 @@
+name: Misericordia
+type: weapon
+img: modules/wng-core/assets/icons/weapons/power-sword.webp
+effects: []
+folder: QMfRKhIFUOHoAFXu
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>The Misericordia is a long dagger or short sword carried by the
+    Custodians of the Adeptus Custodes, symbolic of their place as the Emperor's
+    executioners. The Misericordia was designed to deliver a single, mortal
+    blow, and are used to deliver mercy or vengeance.</p>
+  value: 8
+  keywords: POWER FIELD, ADEPTUS CUSTODES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 6dmhcwhqBSC3rKbl
+sort: 1600000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!6dmhcwhqBSC3rKbl'

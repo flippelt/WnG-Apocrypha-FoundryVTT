@@ -1,0 +1,36 @@
+folder: ZMoR03HW5eXVf9E1
+name: Properly Prepared
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: LEAGUES OF VOTANN keyword
+  description: >-
+    <p>You can never be too prepared for the worst outcomes. You’re never
+    without a few extra magazines and a back-up sidearm.</p><p>You may carry up
+    to 5 reloads as standard, rather than 3; this may be increased by equipment
+    as normal. In addition, you may spend a Wrath point to declare that you’ve
+    still got a back-up gun, which you immediately produce from its hiding spot.
+    This is an Autoch-pattern Bolt Pistol with a single reload, and it’s better
+    not to ask where you were keeping it.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fIcqkXiRYuZ1Ie21
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664025145839
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: jOiaTJS1vvpPoCrQ
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 8600000
+_key: '!items!jOiaTJS1vvpPoCrQ'

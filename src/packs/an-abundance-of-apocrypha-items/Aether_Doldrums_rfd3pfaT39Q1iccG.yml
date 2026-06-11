@@ -1,0 +1,119 @@
+name: Aether Doldrums
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Aether Doldrums
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '@test.results.pp'
+        priority: null
+    _id: G1HQxYBb654jSppX
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!rfd3pfaT39Q1iccG.G1HQxYBb654jSppX'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.rfd3pfaT39Q1iccG
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>A skilled Navigator can mark a point of calm in even the most tumultuous
+    Warp storm. On a smaller scale, they can also find a stillness in the flows
+    of the Immaterium, dampening psychic powers and even repelling the daemonic.
+    You cause an area of calm Warp centred on you, with a radius equal to your
+    Intellect in metres, which lasts until the start of your next turn. Psychic
+    powers used by PSYKERS within that area, or targeted within that area,
+    increase their DN by +2. DAEMONS must pass a DN 5 Resolve test if they
+    attempt to enter the area; if they fail, they stop at the edge and are
+    Staggered. When this power’s effect ends, you suffer 1d3+1 Shock.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: Self
+  multiTarget: false
+  keywords: NAVIS NOBILITE, PSYCHIC
+  prerequisites: NAVIS NOBILITE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 DN to Psychic Powers.
+      cost: 1
+      property: pp
+      initial: 2
+      value: 1
+      single: false
+    - description: +1 DN to DAEMON Resolve tests.
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: This power lasts +1 Round.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: DAEMONS which fail their Resolve test also suffer 1d3 Mortal Wounds.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: 5
+    type: resolve
+    specification: ''
+_id: rfd3pfaT39Q1iccG
+folder: rt2QsMjxN0O6qf5z
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206795
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!rfd3pfaT39Q1iccG'

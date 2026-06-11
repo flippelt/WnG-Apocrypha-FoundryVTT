@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Brotherhood of Psykers
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: GREY KNIGHTS keyword
+  description: >-
+    <p>Your mind is a piece of a greater weapon against the darkness, one that
+    is only complete alongside the wills of your brothers.<br>When you attempt a
+    Psychic Mastery test, you may add +1 bonus dice for every
+    @UUID[Item.8VFkmO1RCpOIriEK]{GREY KNIGHT}with this Talent within 10m of
+    you.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JqpiKvNhyaAfXaU0
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663877965262
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: JqpiKvNhyaAfXaU0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 3600000
+_key: '!items!JqpiKvNhyaAfXaU0'

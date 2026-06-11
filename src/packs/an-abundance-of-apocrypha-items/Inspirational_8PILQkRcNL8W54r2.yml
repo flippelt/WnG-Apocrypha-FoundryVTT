@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Inspirational
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: Leadership Rating 2+
+  description: >-
+    <p>Your presence bolsters and reassures your allies.<br>When an ally within
+    15+Rank metres who can see you fails a Resolve test, you may make a
+    Leadership test as a Reflexive Action against the same DN as their Resolve
+    test. If you succeed, then the ally is considered to have passed their
+    Resolve test rather than failed it.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8PILQkRcNL8W54r2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663880912518
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 8PILQkRcNL8W54r2
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 2200000
+_key: '!items!8PILQkRcNL8W54r2'

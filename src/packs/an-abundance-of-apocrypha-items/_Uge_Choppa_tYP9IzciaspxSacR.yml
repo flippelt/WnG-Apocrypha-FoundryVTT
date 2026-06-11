@@ -1,0 +1,57 @@
+folder: RjR50Xwp2nsZW0E5
+name: ‘Uge Choppa
+type: weapon
+_id: tYP9IzciaspxSacR
+img: modules/wng-core/assets/icons/weapons/big-choppa.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>These massive weapons can only be wielded by the largest of Orks, and are
+    only seen in the hands of Warbosses and Warlords</p>
+  value: 6
+  keywords: CHAIN, TWOHANDED, ORK
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: waaagh!
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709860039201
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!tYP9IzciaspxSacR'

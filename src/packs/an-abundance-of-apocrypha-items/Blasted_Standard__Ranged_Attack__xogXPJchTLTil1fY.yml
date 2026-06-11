@@ -1,0 +1,62 @@
+folder: Jr1XUs92ggb9r4uN
+name: Blasted Standard (Ranged Attack)
+type: weapon
+_id: xogXPJchTLTil1fY
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+system:
+  quantity: 1
+  rarity: ''
+  description: ''
+  value: 0
+  keywords: CHAOS, TZEENTCH, ICON
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 0
+    medium: 9
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: flamer
+    - name: inflict
+      rating: Terror 5
+    - name: corrupting
+      custom: true
+      display: Corrupting
+      description: >-
+        This weapon directs the corrupting power of the Warp. For each Exalted
+        Icon rolled on the weapon’s damage roll, the target gains 1 Corruption.
+  upgrades: []
+effects: []
+sort: 200000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710271540736
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!xogXPJchTLTil1fY'

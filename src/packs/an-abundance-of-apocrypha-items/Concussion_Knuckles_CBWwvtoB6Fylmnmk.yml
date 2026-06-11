@@ -1,0 +1,71 @@
+folder: 0SAPFb2VAW9K20fX
+name: Concussion Knuckles
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>The lightest and most compact form of concussion weapon, a pair of
+    concussion knuckles—sometimes referred to as “knux”—can turn a warrior’s
+    punches into battering rams, allowing them to break down hatches and shatter
+    smaller obstacles in the cramped confines of a derelict ship, space hulk, or
+    mineshaft. They’re just as useful at pulverising enemies who get in the way.
+    These compact devices are often worn in pairs.</p>
+  value: 6
+  keywords: MASS DRIVER, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: inflict
+      rating: Staggered
+    - name: paired
+      custom: true
+      display: Paired
+      description: >-
+        The weapon is designed to be used in a pair—two weapons of that type,
+        one in each hand. When a character makes an attack while wielding both
+        weapons in a pair, either count it as a Simultaneous Strike (as per the
+        talent) or reduce the DN of a multi-attack by 2. If you have the
+        Signature Weapon talent, you may apply it to both weapons in a pair.
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709900091079
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: CBWwvtoB6Fylmnmk
+_key: '!items!CBWwvtoB6Fylmnmk'

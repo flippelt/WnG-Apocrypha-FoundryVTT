@@ -1,0 +1,130 @@
+folder: TtFflqxAyCzNXGHP
+name: Beastman Auxiliary
+type: archetype
+img: modules/wng-core/assets/icons/abilities/astra-militarum.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Beastman
+    id: Item.Pmkvgia9uKxhEOVk
+  faction:
+    name: Astra Militarum
+    id: Item.F4PJBHBNdVqjl3sJ
+  influence: 0
+  cost: 28
+  keywords:
+    - IMPERIUM
+    - ASTRA MILITARUM
+    - '[REGIMENT]'
+    - ABHUMAN
+    - MILITARUM AUXILIA
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 1
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Bestial Zealotry
+    id: Item.gTa5Q9wmN1k4TOZJ
+  wargear:
+    - - name: ''
+        id: ''
+    - type: generic
+      name: Two melee weapons  each of Value 3 or less and up to Common rairity
+      filters:
+        - test: le
+          property: Value
+          value: '3'
+        - test: le
+          property: Rarity
+          value: Common
+      index: 1
+      groupId: 4RkUwyq9IHBmJ9zV
+    - type: generic
+      name: Primitive armor
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 1
+        groupId: 4RkUwyq9IHBmJ9zV
+      - type: item
+        index: 2
+        groupId: SeooGKUWGkFMXu58
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 2
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: LoHgYwDbFoZAaOMD
+        name: Flagellant
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664207366040
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 2G69jEo7wN4rDfoK
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!2G69jEo7wN4rDfoK'

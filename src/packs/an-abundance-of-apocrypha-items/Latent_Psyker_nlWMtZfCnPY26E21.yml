@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Latent Psyker
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: Human species, may not have PSYKER keyword
+  description: >-
+    <p>You possess a minor psychic talent, that you’re barely aware of and have
+    little hope of controlling.</p><p>You gain the
+    @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER }keyword, and a single minor psychic
+    power. You cannot purchase additional psychic powers. You may only attempt
+    to use your power at the Unbound power level. Further, whenever you suffer a
+    complication, the GM may spend 1 Ruin to have you roll on the Perils of the
+    Warp table, as your powers run out of control.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lGgZhGiqv6P99kir
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699803799215
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: nlWMtZfCnPY26E21
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 9400000
+_key: '!items!nlWMtZfCnPY26E21'

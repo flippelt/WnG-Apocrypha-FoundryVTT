@@ -1,0 +1,92 @@
+folder: nDYleZkn0ESlN5hn
+name: Companions and Familiars
+_id: fdwHOYyPeJgP31BD
+pages:
+  - sort: 100000
+    name: Companions and Familiars
+    type: text
+    _id: CRdGUCeUSA2CAekI
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><span class="fontstyle0">Characters of all kinds may find a need for
+        allies, assistants, attendants, thralls, servants, pets, and the
+        like.</span></p><p></p><p><span class="fontstyle0">These can be obtained
+        in a number of different ways. A character may obtain a mob of followers
+        using the </span><span class="fontstyle2">Devotees </span><span
+        class="fontstyle0">talent (p. 132 of the </span><span
+        class="fontstyle3">Wrath &amp; Glory core rulebook</span><span
+        class="fontstyle0">), or a single follower using the </span><span
+        class="fontstyle2">Companion </span><span class="fontstyle0">or
+        </span><span class="fontstyle2">Familiar </span><span
+        class="fontstyle0">talents in </span><span class="fontstyle2">Chapter
+        III: Talents </span><span class="fontstyle0">of this text. However,
+        characters may also receive companions or familiars as a form of
+        equipment, perhaps from their Archetype, or perhaps acquired with
+        Influence during play.</span></p><p></p><p><span class="fontstyle0">You
+        may only have a follower who shares at least one Keyword with
+        you.</span></p><p></p><p><span class="fontstyle0">This section contains
+        an assortment of companions and familiars—collectively called
+        Followers—that are likely to be used by an assortment of characters.
+        However, almost any NPC Threat can be used as a follower, whether from
+        official </span><span class="fontstyle3">Wrath &amp; Glory </span><span
+        class="fontstyle0">material or from the </span><span
+        class="fontstyle2">Abundant Apocryphal Adversaries </span><span
+        class="fontstyle0">series of bestiaries that accompany this homebrew
+        collection.</span></p><p></p><p><span class="fontstyle0">Followers
+        obtained using Talents receive an additional benefit described in the
+        talent description: the </span><span class="fontstyle2">Devotees
+        </span><span class="fontstyle0">and </span><span
+        class="fontstyle2">Companion </span><span class="fontstyle0">talents
+        allow the follower(s) to try and interpose themselves against enemy
+        attacks, while the </span><span class="fontstyle2">Familiar </span><span
+        class="fontstyle0">talent allows the follower to hide away from the
+        enemy when near the character. Followers obtained as equipment, however,
+        gain no such additional advantages. Furthermore, followers obtained
+        using Talents can be replaced when lost or slain: the talent explains
+        how replacement followers are gained. Followers obtained as equipment
+        are permanently lost if slain or destroyed.</span></p><p></p><p><span
+        class="fontstyle0">When an Adversary is used as a follower, if any of
+        the Adversary’s rules refer to Ruin, then all of those references should
+        be changed to Glory instead. No Adversary used as a follower may use the
+        </span><span class="fontstyle4">Champion </span><span
+        class="fontstyle0">special ability, any Ruin actions other than ones
+        specifically noted on their statblock (which now cost Glory to perform),
+        or any Personal Ruin.</span> <br
+        style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px"
+        /></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710345040765
+      modifiedTime: 1710345054068
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!fdwHOYyPeJgP31BD.CRdGUCeUSA2CAekI'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710345029186
+  modifiedTime: 1710345054068
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!journal!fdwHOYyPeJgP31BD'
+categories: []

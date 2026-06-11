@@ -1,0 +1,101 @@
+name: Centurion Warsuit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Centurion Warsuit
+    changes:
+      - key: system.attributes.toughness.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: rBo24YQH6b3YrHDV
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    _key: '!items.effects!2xhlDHkAZR6VYs2o.rBo24YQH6b3YrHDV'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes-armour.Item.2xhlDHkAZR6VYs2o
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">A Centurion Warsuit allows a Space Marine to
+    stride into battle with the firepower of a battle tank and the protection of
+    thick ablative plates of ceramite, making him immune to all but the most
+    powerful of weapons. Named for the Space Marine leaders of old, the
+    Centurion STC design was unearthed in the aftermath of the Age of Apostasy
+    and after sanction by the Adeptus Mechanicus, they found their way into the
+    armouries of most Space Marine Chapters.</span></p><p></p><p><span
+    class="fontstyle0">Centurions are brutal specialist weapons tactically
+    deployed as line breakers and besiegers - where haste is less important than
+    durability. The suits themselves do not interfere with the Black Carapace of
+    a Space Marine, and they do not need to be surgically implanted within the
+    warsuit as is the case with a Dreadnought. Battle-Brothers learn to pilot
+    Centurions as part of their vehicle training, and pilots are not chosen from
+    the 1st Company. Instead, they are chosen from the Chapter's Assault and
+    Devastator units. The most frequent explanation of this is that a
+    Centurion's role requires a Space Marine to be fully immersed in a
+    particular style of war, while the bulky warsuits lack the degree of
+    tactical flexibility that the Chapter's Veterans
+    require.</span></p><p></p><p><span class="fontstyle0">A Centurion Warsuit
+    may only be worn by a character wearing Space Marine Power
+    Armour.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">7, Powered (6)</span></p><p></p><p><span
+    class="fontstyle2">Warsuit: </span><span class="fontstyle0">The wearer’s
+    Toughness is increased by +2 while they wear this suit. This increases the
+    wearer’s Wounds and Determination accordingly.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Assault Centurion</strong>: </span><span
+    class="fontstyle0">An Assault Centurion Warsuit is fitted with a Centurion
+    Assault Launcher or a Hurricane Bolter, a pair of Siege Drills, and either a
+    pair of Flamers or a pair of Meltaguns.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Devastator Centurion</strong>: </span><span
+    class="fontstyle0">A Devastator Centurion is fitted with a Hurricane Bolter
+    or Centurion Missile Launcher, and either a Grav-Cannon, two Heavy Bolters,
+    or two Lascannons.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 10
+  keywords: POWERED, WARSUIT, IMPERIUM,ADEPTUS ASTARTES
+  equipped: false
+  rating: 7
+  base: 0
+  traits:
+    - name: bulk
+      rating: 2
+    - name: cumbersome
+    - name: powered
+      rating: 6
+  invulnerable: false
+_id: 2xhlDHkAZR6VYs2o
+folder: 9qcY1oNgsxJI58Au
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089763041
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 100000
+_key: '!items!2xhlDHkAZR6VYs2o'

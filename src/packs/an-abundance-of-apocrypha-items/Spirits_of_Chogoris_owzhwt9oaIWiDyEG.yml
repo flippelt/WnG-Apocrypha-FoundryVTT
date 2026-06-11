@@ -1,0 +1,103 @@
+name: Spirits of Chogoris
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Spirits of Chogoris
+    changes:
+      - key: difficulty.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: bWG71aXnkWcX5Gh8
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!owzhwt9oaIWiDyEG.bWG71aXnkWcX5Gh8'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.owzhwt9oaIWiDyEG
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Many and terrible are the spirits and ghouls of Chogorian tribal
+    folklore, and it is warpwrought simulacra of these ancient terrors which you
+    now unleash. The power affects all creatures in a Blast (6) within range.
+    Affected targets must pass a DN 5 Fear test; those who fail also add +2 to
+    the DN of Resolve tests they attempt while under the effects of Fear.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: WHITE SCARS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 DN to Fear test.
+      cost: 2
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: Increase the area affected to a Blast (10)
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: 5
+    type: resolve
+    specification: fear
+_id: owzhwt9oaIWiDyEG
+folder: oNn2KKV41u8YG29i
+sort: 125000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959315
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!owzhwt9oaIWiDyEG'

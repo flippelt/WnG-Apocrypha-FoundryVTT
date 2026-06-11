@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: Hammer of Wrath
+type: ability
+_id: 3hKSHl3RK1SCaLOX
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you charge into melee using your jump pack, all enemies 2 metres of
+    the point where you land must pass an Agility test (DN 2 +Rank) or be
+    knocked Prone.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710619477691
+  modifiedTime: 1710619504295
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!3hKSHl3RK1SCaLOX'

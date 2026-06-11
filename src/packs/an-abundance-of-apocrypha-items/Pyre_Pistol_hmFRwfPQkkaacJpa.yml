@@ -1,0 +1,59 @@
+folder: LOBB1JvXThQYsXF2
+name: Pyre Pistol
+type: weapon
+img: modules/wng-core/assets/icons/weapons/hand-flamer.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A compact form of Pyreblaster, similar to an
+    improved Hand Flamer. These weapons have similar range and potency to a
+    conventional flamer in a much smaller, more portable form</span>.</p>
+  value: 6
+  keywords: FIRE, IMPERIUM, ADEPTUS ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: null
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: flamer
+    - name: pistol
+    - name: reliable
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709904475926
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: hmFRwfPQkkaacJpa
+_key: '!items!hmFRwfPQkkaacJpa'

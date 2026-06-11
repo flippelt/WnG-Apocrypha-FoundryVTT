@@ -1,0 +1,139 @@
+folder: enJYSEZtnOYeu8p3
+name: Beast Snagga Boy
+type: archetype
+_id: 9nkQ0qjbvYMFIlnX
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Ork
+    id: Compendium.wng-core.items.Item.HkICqcWbRIsDHtMy
+  faction:
+    name: Ork
+    id: Compendium.wng-core.items.Item.BkBpSmTLEsh1tqCG
+  influence: 0
+  cost: 60
+  keywords:
+    - ORK
+    - '[CLAN]'
+  attributes:
+    strength: 4
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: 1
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Monster Hunters
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ISmgwQHSD2G4ZR1b
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Chain Choppa
+      id: Compendium.wng-core.items.Item.NtG9u2GY6C71IQdG
+      type: item
+      diff: {}
+      index: 1
+      groupId: PCVBRENaK17dROcG
+    - name: Ork Flak
+      id: Compendium.wng-core.items.Item.YArm2VCihbVlLurI
+      type: item
+      diff: {}
+      index: 2
+      groupId: FZlZGEClPoVM5MFT
+    - name: Slugga
+      id: Compendium.wng-core.items.Item.jyZ8n21b8puAf41z
+      type: item
+      diff: {}
+      index: 3
+      groupId: qOfWttxdh267Quh5
+    - type: generic
+      name: ' one Augmetic or Ork Bionic (rarity Rare or better)'
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: PCVBRENaK17dROcG
+      - index: 2
+        type: item
+        groupId: FZlZGEClPoVM5MFT
+      - index: 3
+        type: item
+        groupId: qOfWttxdh267Quh5
+      - type: item
+        index: 4
+        groupId: tIP24jzY4ESMSeRR
+  suggested:
+    attributes:
+      strength: 5
+      toughness: 5
+      agility: 2
+      initiative: 4
+      willpower: 2
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 3
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 2
+      tech: null
+      weaponSkill: 4
+    talents:
+      - id: qnFSOCg0b29eWJBz
+        name: Armourbane
+      - id: jlrOP1uvd0x0VRiK
+        name: Death Or Glory!
+      - id: rUN6f0HQx334Gt7N
+        name: '''Ere We Go!'
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710604993222
+  modifiedTime: 1710605139157
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!9nkQ0qjbvYMFIlnX'

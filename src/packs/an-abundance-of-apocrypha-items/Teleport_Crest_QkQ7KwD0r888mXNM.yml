@@ -1,0 +1,52 @@
+name: Teleport Crest
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.leagues-of-votann-equipment.Item.QkQ7KwD0r888mXNM
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">A Teleport Crest is a technology that takes the
+    form of a decorative personal void armour or exo-armour crest used by some
+    senior military personnel of the Leagues of Votann that allows them to
+    instantaneously teleport through the Immaterium for relatively short
+    distances on the battlefield.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">This item must be mounted on a suit of </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">LEAGUES OF VOTANN
+    </span><span class="fontstyle0">armour but it cannot be mounted if the
+    armour already has another crest (such as a Weavefield Crest). A teleport
+    crest may be used as a Combat Action for a short-range teleport: the wearer
+    vanishes from the battlefield and reappears anywhere within 100m that is
+    more than 9m from an enemy. Once used this way, it cannot be used again
+    until it has been recharged. It can also be used in conjunction with
+    teleportation holds and other larger forms of teleport technology.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: LEAGUES OF VOTANN
+  effect: ''
+_id: QkQ7KwD0r888mXNM
+folder: OBM5CJDK3tWaYAVA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257385302
+  modifiedTime: 1710625204854
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 700000
+_key: '!items!QkQ7KwD0r888mXNM'

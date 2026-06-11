@@ -1,0 +1,48 @@
+name: De-Tox
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.3zNemZnwpwXXZm6b
+system:
+  quantity: 3
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A common drug distributed by the Departmento
+    Munitorum and other organisations to those likely to face chemical warfare,
+    poisonous environments, or similar dangers, this drug can negate the effects
+    of most dangerous toxins and poisons if administered
+    quickly.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A dose of de-tox immediately ends the effects of any
+    poison or drug currently in the user’s system. However, the effects of this
+    rapid cleansing are debilitating, and the recipient may not take any action
+    during their next turn and are </span><span class="fontstyle3">Exhausted
+    </span><span class="fontstyle0">until their next Regroup. A single purchase
+    contains 3 doses.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: COMBAT DRUGS, IMPERIUM
+  effect: ''
+_id: 3zNemZnwpwXXZm6b
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099171
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 500000
+_key: '!items!3zNemZnwpwXXZm6b'

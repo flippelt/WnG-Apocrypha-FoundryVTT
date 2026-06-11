@@ -1,0 +1,78 @@
+name: Reaper Autocannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/autocannon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-ranged.Item.D7Aux0eYU89f6Ud6
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Reaper Autocannon is a double-barrelled
+    variant of the common Autocannon. Originally designed during the Great
+    Crusade for use as a heavy support weapon for Legiones Astartes Terminators,
+    the weapon features two barrels and is capable of a high rate of fire, but
+    it requires the incredible strength to be carried as an infantry-portable
+    weapon. The recoil of this weapon is too great for any but a warrior in
+    Terminator armour to unleash it effectively. The weapon fell out of favour
+    amongst Loyalist forces, who replaced it with the Assault Cannon, but
+    Traitor Legionaries still employ Reaper Autocannons for fire
+    support.</span></p><p></p><p><span class="fontstyle0">A Reaper Autocannon
+    incorporates a bayonet.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: PROJECTILE, CHAOS, HERETIC ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 4
+  traits:
+    - name: heavy
+      rating: 8
+    - name: rapidFire
+      rating: 2
+  upgrades: []
+_id: D7Aux0eYU89f6Ud6
+folder: OUOFLqDJaP03QNHY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925967108
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!D7Aux0eYU89f6Ud6'

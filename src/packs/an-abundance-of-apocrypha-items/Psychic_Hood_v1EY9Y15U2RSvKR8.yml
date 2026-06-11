@@ -1,0 +1,82 @@
+name: Psychic Hood
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Psychic Hood
+    _id: 46EYoLauDkOYysem
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank * 2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Psychic Mastery, Deny The Witch
+            hide: ''
+    tint: null
+    _key: '!items.effects!v1EY9Y15U2RSvKR8.46EYoLauDkOYysem'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.v1EY9Y15U2RSvKR8
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Psychic Hood is an arcane device utilised by
+    Space Marine Librarians to amplify the wearer's psychic powers and protect
+    against an assault by enemy psykers. Most importantly, a Psychic Hood
+    renders the wearer more able to counter the effects that other psykers have
+    on the Warp nearby. Distinguished by the trademark metal hood that rises
+    from the backplate of a Librarian's Power Armour, a Psychic Hood uses a set
+    of interwoven, intricately aligned crystals to nullify an opponent's psychic
+    attacks.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A character wearing a psychic hood may attempt to Deny
+    the Witch as a Reflexive Action in response to an enemy </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">PSYKER </span><span
+    class="fontstyle0">using a power, though they may not use a psychic power
+    during their following turn. Further, they may add +Double Rank bonus dice
+    on their Psychic Mastery test to use Deny the Witch.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: ADEPTUS ASTARTES, INQUISITION, ADEPTUS ASTRA TELEPATHICA
+  effect: ''
+_id: v1EY9Y15U2RSvKR8
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937595
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!v1EY9Y15U2RSvKR8'

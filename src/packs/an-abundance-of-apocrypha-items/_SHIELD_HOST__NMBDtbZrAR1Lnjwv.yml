@@ -1,0 +1,41 @@
+folder: QS8D6Ywysk6wC2xq
+name: '[SHIELD HOST]'
+type: keyword
+_id: NMBDtbZrAR1Lnjwv
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p><span class="fontstyle0">Led by conclaves of Shield-Captains and boasting
+    tens, sometimes hundreds of Custodians, Shield Hosts have the martial
+    strength to crush enemy armies and bring entire star systems to heel. The
+    gathering of such might is a momentous undertaking -- a Shield Host is only
+    assembled to accomplish those tasks that no other Imperial force could be
+    trusted with, and its warriors march to war with a singular and implacable
+    determination to enact the Emperor's will.</span></p><p></p><p><span
+    class="fontstyle0">Most Shield Hosts are temporary formations, but a few
+    have remained in active service for many millennia, their functions
+    persisting for countless generations.</span></p><p></p><p><span
+    class="fontstyle0">All Custodes characters can select a single Shield Host
+    to belong to, reflected by the </span><span class="fontstyle2">[SHIELD HOST]
+    </span><span class="fontstyle0">keyword, which should be replaced with the
+    name of the Shield Host the character belongs to. Those who do not belong to
+    any specific Shield Host should select the Emperor’s Chosen host
+    instead.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710530884867
+  modifiedTime: 1710530899480
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!NMBDtbZrAR1Lnjwv'

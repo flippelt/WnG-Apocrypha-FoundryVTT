@@ -1,0 +1,33 @@
+folder: QS8D6Ywysk6wC2xq
+name: SOLAR WATCH
+type: keyword
+_id: 4M8F6i7Q3GiG28VO
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p><span class="fontstyle0">The Solar Watch move fast and strike hard,
+    launching their Talon Sorties to eliminate those threats in or around the
+    Sol System itself. Their wrath is swift and terrible, delivered with a
+    martial precision that few could match.</span></p><p></p><p><span
+    class="fontstyle2"><strong>SWIFT ONSLAUGHT:</strong> </span><span
+    class="fontstyle0">When you Run, Sprint, or Charge, you increase your Speed
+    by +1. Further, you may Fall Back as a Simple Action rather than a Combat
+    Action.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710531028578
+  modifiedTime: 1710531040055
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!4M8F6i7Q3GiG28VO'

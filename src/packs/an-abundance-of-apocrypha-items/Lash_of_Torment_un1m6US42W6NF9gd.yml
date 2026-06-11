@@ -1,0 +1,60 @@
+name: Lash of Torment
+type: weapon
+_id: un1m6US42W6NF9gd
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Long tendrils of fleshy daemonflesh, this living whip is wrought from the
+    sinuous tongues of Steeds of Slaanesh and gifted to the Dark Prince’s most
+    beloved Champions. With every strike, the lash drinks deep of the courage
+    and certainty of its victims, leaving only dread and despair.</p>
+  value: 6
+  keywords: CHAOS, DAEMON, SLAANESH
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 4
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: inflict
+      rating: Terror
+  upgrades: []
+effects: []
+folder: nyHPtRO8Z1XRcTRg
+sort: 700000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709854003324
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!un1m6US42W6NF9gd'

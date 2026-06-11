@@ -1,0 +1,82 @@
+name: Hydra Gauntlets
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Hydra Gauntlets are bizarre weapons used by Dark Eldar Wyches called
+    Hydrae. These gauntlets are extremely strange weapons made from a flexible
+    weave of semi-sentient, extraplanar crystals. They are smooth and glassy
+    when inert, but it can be made to grow and shed impossible profusions of
+    lethal crystalline blades while in combat.</p>
+  value: 6
+  keywords: EXOTIC, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: sustained
+      custom: true
+      display: Sustained
+      description: >-
+        The weapon is well-suited for delivering attack after attack. For each
+        Exalted Icon rolled when you make an attack with this weapon, you may
+        roll one additional attack die. These additional dice cannot themselves
+        generate additional dice.
+    - name: tearing
+      custom: true
+      display: Tearing
+      description: >-
+        The weapon rips and tears at their enemies, inflicting horrific wounds.
+        When you roll for damage with this weapon, you may re-roll any number of
+        ED.
+    - name: paired
+      custom: true
+      display: Paired
+      description: >-
+        The weapon is designed to be used in a pair—two weapons of that type,
+        one in each hand. When a character makes an attack while wielding both
+        weapons in a pair, either count it as a Simultaneous Strike (as per the
+        talent) or reduce the DN of a multi-attack by 2. If you have the
+        Signature Weapon talent, you may apply it to both weapons in a pair.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 101563
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: g8bRkiHZUVTWMBDl
+_key: '!items!g8bRkiHZUVTWMBDl'

@@ -1,0 +1,170 @@
+folder: ynSNkXL3NdmXm43i
+name: Logis
+type: archetype
+_id: 9ujPbb9eZPYZWKPB
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Compendium.wng-core.items.Item.NEkaKMEm79MWGo8b
+  influence: 3
+  cost: 109
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - CULT MECHANICUS
+    - '[FORGE WORLD]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: 5
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 3
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: 4
+    weaponSkill: null
+  ability:
+    name: Technoprophet
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4F1vi2tNHZXnBgbF
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Omnissian Axe
+      id: Compendium.wng-core.items.Item.gp881IiZhvjfvLfF
+      type: item
+      diff: {}
+      index: 1
+      groupId: yjINdEaStFN3dNLp
+    - name: Calculus Logi Implant
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MRFMxRilqowga5ST
+      type: item
+      diff: {}
+      index: 2
+      groupId: L0yG3504d3ospiwi
+    - type: generic
+      name: any 3 augmetics
+      filters: []
+      index: 3
+      groupId: XA99ZdIqd7lgeIj3
+    - type: generic
+      name: any one cybernetic of up to Availability 7 (Unique)
+      filters:
+        - test: le
+          property: Value
+          value: '7'
+        - test: le
+          property: Rarity
+          value: Unique
+      index: 4
+      groupId: tdDWFRWFj8BtMn8l
+    - name: Light Power Armour
+      id: Compendium.wng-core.items.Item.jy00ECKFvu0ontTx
+      type: item
+      diff: {}
+      index: 5
+      groupId: aaWpFaj1ZNWSMtGE
+    - type: generic
+      name: and any one weapon of up to Availability 6 (Very Rare).
+      filters:
+        - test: le
+          property: Rarity
+          value: Very Rare
+        - test: le
+          property: Value
+          value: '6'
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: yjINdEaStFN3dNLp
+      - index: 2
+        type: item
+        groupId: L0yG3504d3ospiwi
+      - type: item
+        index: 3
+        groupId: XA99ZdIqd7lgeIj3
+      - type: item
+        index: 4
+        groupId: tdDWFRWFj8BtMn8l
+      - index: 5
+        type: item
+        groupId: aaWpFaj1ZNWSMtGE
+      - type: item
+        index: 6
+        groupId: RVyGuPVPMvvtrhT1
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 4
+      intellect: 8
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 4
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 6
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: 5
+      weaponSkill: 2
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: vxsi953ncB48aylK
+        name: Rite of Pure Thought
+      - id: MgRO6y7ytpHs03RT
+        name: The Flesh is Weak
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710710077825
+  modifiedTime: 1710710599018
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!9ujPbb9eZPYZWKPB'

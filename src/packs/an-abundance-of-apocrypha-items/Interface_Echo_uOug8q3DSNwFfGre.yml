@@ -1,0 +1,76 @@
+name: Interface Echo
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.uOug8q3DSNwFfGre
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You draw empyrically archived Votannic wisdom from within ward-tech
+    augmetic neural buffers and use it to inform your comrades’ battle plan. If
+    the power is successful, you immediately gain 1 Glory.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: Self
+  multiTarget: false
+  keywords: LEAGUES OF VOTANN, PSYCHIC
+  prerequisites: LEAGUES OF VOTANN
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Gain +1 Glory
+      cost: 2
+      property: ''
+      initial: ''
+      value: 1
+      single: false
+    - description: Gain 1 Wrath
+      cost: 3
+      property: ''
+      initial: ''
+      value: 1
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: uOug8q3DSNwFfGre
+folder: zhAbc5nO8ReutmpV
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742911
+  modifiedTime: 1712707814632
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!uOug8q3DSNwFfGre'

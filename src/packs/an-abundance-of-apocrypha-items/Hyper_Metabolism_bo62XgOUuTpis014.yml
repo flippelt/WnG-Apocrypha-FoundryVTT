@@ -1,0 +1,54 @@
+folder: fgtFfRbmshJ8KM1n
+name: Hyper-Metabolism
+type: ability
+_id: bo62XgOUuTpis014
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Each time you kill an enemy or inflict a Critical Hit, recover 1d3+Rank
+    Shock immediately. </p><p>However, when you suffer one or more Wounds in
+    melee, roll 1d6; on a 4+, the attacker suffers a Mortal Wound. If you are
+    killed, you detonate, inflicting 10 +4ED damage with AP-2 to everything
+    within Blast (X), where X is your Toughness.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710780478752
+  modifiedTime: 1710780509978
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!bo62XgOUuTpis014'

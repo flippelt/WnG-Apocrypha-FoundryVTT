@@ -1,0 +1,72 @@
+name: Pack Grenade Launcher
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade-launcher.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.kmt2eNyYToxqiQPb
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Harlequin Shadowseers carry back-mounted grenade
+    launchers known as </span><span class="fontstyle2">creidann </span><span
+    class="fontstyle0">to hurl hallucinogen grenades into battle. These
+    bombardments are always perfectly timed to accompany the ebb and flow of
+    battle.</span></p><p><span class="fontstyle3"><strong>Special</strong>:
+    </span><span class="fontstyle0">A Pack Grenade Launcher can carry up to 6
+    grenades, and additional grenades cannot be loaded during battle.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: EXPLOSIVE, HARLEQUIN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: launcher
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: assault
+  upgrades: []
+_id: kmt2eNyYToxqiQPb
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932558
+  modifiedTime: 1710782322456
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 0
+_key: '!items!kmt2eNyYToxqiQPb'

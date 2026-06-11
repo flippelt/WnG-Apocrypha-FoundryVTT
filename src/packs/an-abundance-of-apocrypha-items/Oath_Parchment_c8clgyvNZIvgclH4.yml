@@ -1,0 +1,48 @@
+name: Oath Parchment
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.c8clgyvNZIvgclH4
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">A tradition said to date back to the Great
+    Crusades, many in the Imperium maintain the practice of swearing an oath to
+    the objectives of their mission. Such oaths are recorded upon parchment
+    scrolls and affixed to armour, and they serve to focus the mind of the
+    wearer upon their duty. They are sometimes mistaken for purity seals, a
+    similar tradition that dates back as far.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">After a Respite, you may swear an Oath of Moment,
+    pledging yourself to the completion of a specific objective. If you complete
+    this objective, you gain 1 Wrath point. If you fail in your objective, the
+    GM gains 1 Ruin. You may only have one Oath of Moment at a time.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 3
+  keywords: IMPERIUM, ADEPTUS ASTARTES, ADEPTUS CUSTODES, ANATHEMA PSYKANA
+  effect: ''
+_id: c8clgyvNZIvgclH4
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937593
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!c8clgyvNZIvgclH4'

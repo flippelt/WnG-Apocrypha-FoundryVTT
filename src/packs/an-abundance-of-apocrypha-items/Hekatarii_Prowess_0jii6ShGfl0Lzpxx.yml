@@ -1,0 +1,54 @@
+folder: fgtFfRbmshJ8KM1n
+name: Hekatarii Prowess
+type: ability
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>As long as you are not immobilised or Restrained, you may use Agility
+    instead of Toughness when you roll Determination, and you may roll
+    Determination against Mortal Wounds. </p><p>In addition, enemies attempting
+    to Fall Back must pass an Agility test (DN 2+ Double Rank); failure means
+    that they cannot Fall Back this turn.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699540555895
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 0jii6ShGfl0Lzpxx
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!0jii6ShGfl0Lzpxx'

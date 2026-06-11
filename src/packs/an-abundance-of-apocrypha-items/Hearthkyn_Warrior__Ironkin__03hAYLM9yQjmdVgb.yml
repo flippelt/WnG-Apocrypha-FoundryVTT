@@ -1,0 +1,158 @@
+folder: kcIfowy1n7OiCCwE
+name: Hearthkyn Warrior (Ironkin)
+type: archetype
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Ironkin
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.m0EXp5KuWV6I2L1b
+  faction:
+    name: Leagues of Votann
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HSaREh8NK25ui3Ou
+  influence: 0
+  cost: 72
+  keywords:
+    - LEAGUES OF VOTANN
+    - '[LEAGUE]'
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 1
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 3
+  ability:
+    name: Stalwart Comrade
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.S44eZgTuZVuiG3Py
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Autoch-pattern Bolter
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8pwrnTTa2FbtmD1s
+      type: item
+      diff: {}
+      index: 1
+      groupId: qA6hV4aHpNiK6EiR
+    - name: Ion Blaster
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KECo9Zodq9P1uS2L
+      type: item
+      diff: {}
+      index: 2
+      groupId: SHhCC1ic7Ya5mQwb
+    - name: Autoch-pattern Bolt Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Fm1l84PyK4e6vQIg
+      type: item
+      diff: {}
+      index: 3
+      groupId: xeu2pB3w5HGdJG37
+    - name: Void Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.FZEUGRe0ZUJZC0LW
+      type: item
+      diff: {}
+      index: 4
+      groupId: Ojk5z4s1qREvs9Bl
+    - name: Gravitic Concussion Grenades
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fcHEFpLvFTdxBGpt
+      type: item
+      diff:
+        system:
+          quantity: 2
+      index: 5
+      groupId: 1noucJ74c3Fk5e5Q
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: or
+        items:
+          - index: 1
+            type: item
+            groupId: qA6hV4aHpNiK6EiR
+          - index: 2
+            type: item
+            groupId: SHhCC1ic7Ya5mQwb
+        groupId: CdyPmutchoOsMBRJ
+      - index: 3
+        type: item
+        groupId: xeu2pB3w5HGdJG37
+      - index: 4
+        type: item
+        groupId: Ojk5z4s1qREvs9Bl
+      - index: 5
+        type: item
+        groupId: 1noucJ74c3Fk5e5Q
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 2
+      initiative: 3
+      willpower: 3
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: 1
+      weaponSkill: 3
+    talents: []
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699537958558
+  modifiedTime: 1710710947727
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 03hAYLM9yQjmdVgb
+sort: 1100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!03hAYLM9yQjmdVgb'

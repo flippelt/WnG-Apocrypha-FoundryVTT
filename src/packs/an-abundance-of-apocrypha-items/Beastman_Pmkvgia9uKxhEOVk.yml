@@ -1,0 +1,76 @@
+name: Beastman
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: ct8TKkELuAnX5bLq
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Pmkvgia9uKxhEOVk
+  cf: null
+system:
+  cost: 20
+  speed: 7
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.sFSOmjfTFqtH9gzr
+      name: Reviled Abhuman
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.LdSBAT8FCWDBrs5z
+      name: Horns
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Qyv9BDRSn7pQW2kE
+      name: Bestial Savagery
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.clyzmdBqiRP3zkE7
+      name: Child of Chaos
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: 10
+    toughness: 10
+    agility: 9
+    initiative: 8
+    willpower: 8
+    intellect: 6
+    fellowship: 6
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056636
+  modifiedTime: 1710523136922
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: Pmkvgia9uKxhEOVk
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Pmkvgia9uKxhEOVk'

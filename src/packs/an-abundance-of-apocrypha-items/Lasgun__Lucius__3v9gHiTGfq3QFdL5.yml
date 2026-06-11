@@ -1,0 +1,69 @@
+name: Lasgun (Lucius)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/lasgun.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>These weapons were made famous by the siege regiments of Krieg, who have
+    vast stockpiles of this pattern of Lasgun. It draws a much larger charge
+    from its powerpack than most lasguns, which results in a much more potent
+    shot, but increases component wear due to heating, and means an individual
+    will use up the charge from a power pack much faster. The extra stresses
+    placed on the weapon force it to have a slower rate of fire, allowing the
+    barrel and capacitors to cool before firing, to prevent undue damage to the
+    weapon. This cooling is sped up by the addition of additional heatsink rings
+    around the base of the barrel, but the weapon itself is still limited to
+    semi-automatic fire. This is amply compensated for by the increased hitting
+    power.</p>
+  value: 4
+  keywords: LAS, IMPERIUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: brutal
+    - name: reliable
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665493254751
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: KtMQP20MTYUwmoWw
+_id: 3v9gHiTGfq3QFdL5
+sort: 400000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!3v9gHiTGfq3QFdL5'

@@ -1,0 +1,67 @@
+folder: jNKQtYmfDibEq8RR
+name: Ironkin
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  cost: 56
+  speed: 5
+  size: average
+  journal: ''
+  abilities:
+    - id: Item.qQuPl0w6DI1XkkXV
+      name: Cerebral Unit
+    - id: Item.zQ6wvtXIhIuVRPIt
+      name: Synthetic Emotion
+    - id: Item.U0zxcbSU3W44dGQr
+      name: Machine
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 1
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 1
+  attributeMax:
+    strength: 10
+    toughness: 10
+    agility: 6
+    initiative: 8
+    willpower: 10
+    intellect: 9
+    fellowship: 7
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699475742542
+  modifiedTime: 1710190655617
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: B4Adt2q454nYiepT
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!B4Adt2q454nYiepT'

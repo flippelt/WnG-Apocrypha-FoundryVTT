@@ -1,0 +1,84 @@
+name: Tempest Launcher
+type: weapon
+img: modules/wng-core/assets/icons/weapons/missile-launcher.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.wsZFa2EHEAQWAugH
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The Tempest Launcher is a rare weapon sometimes
+    carried by the Dark Reaper Exarchs. This weapon differs from the standard
+    Reaper Launcher in that it is used to saturate an area with smaller,
+    armour-piercing missiles via indirect fire in swarming, foe-seeking
+    volleys.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: EXPLOSIVE, ANCIENT, AELDARI,ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 6
+  traits:
+    - name: blast
+      rating: 6
+    - name: barrage
+      custom: true
+      display: Barrage
+      description: >-
+        The weapon fires salvoes of explosive ammunition that scatter over a
+        wide area. When this weapon makes a Salvo attack, increase the weapon’s
+        Blast rating by the weapon’s Salvo value.
+    - name: indirect
+      custom: true
+      display: Indirect
+      description: >-
+        The weapon can be fired at enemies which are not visible to the bearer,
+        adding +2 to the DN. Enemies attacked indirectly do not receive any
+        bonus to Defence for being in cover.
+  upgrades: []
+_id: wsZFa2EHEAQWAugH
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932593
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!wsZFa2EHEAQWAugH'

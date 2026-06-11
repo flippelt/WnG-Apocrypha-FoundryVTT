@@ -1,0 +1,16 @@
+name: Grenades & Missiles
+type: Item
+color: null
+folder: rJGVtdSHyv2ZHnXR
+_id: MUcxS2zfLHtXJlox
+sorting: a
+sort: 200000
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925444766
+  modifiedTime: 1710451653357
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!MUcxS2zfLHtXJlox'

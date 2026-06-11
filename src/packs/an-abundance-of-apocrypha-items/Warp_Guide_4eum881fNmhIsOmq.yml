@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: Warp Guide
+type: ability
+_id: 4eum881fNmhIsOmq
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are trained to be able to guide a starship through the Warp. In
+    addition, you are a PSYKER, and may only learn and use Navigator powers. You
+    begin with the Lidless Stare power.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710610287944
+  modifiedTime: 1710610296678
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!4eum881fNmhIsOmq'

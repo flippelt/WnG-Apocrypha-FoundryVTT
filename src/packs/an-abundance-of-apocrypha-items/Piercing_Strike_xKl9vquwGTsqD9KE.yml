@@ -1,0 +1,33 @@
+folder: R6DiCyrJrBf1MKBz
+name: Piercing Strike
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Howling Banshee aspect, Weapon Skill rating 5+
+  description: >-
+    <p>Your blade is always perfectly placed to cut down the mightiest foes.
+    When you use an Executioner or other two-handed melee weapon to make a melee
+    attack, you may attempt a Piercing Strike. This adds the
+    @UUID[JournalEntry.ZFKuifc3mGn2RgTb.JournalEntryPage.anBLJX16REDKapOs#careful]{Careful
+    }and
+    @UUID[JournalEntry.9arSrx8B2oOHRWrP.JournalEntryPage.obcnn370Zz0ZxUEv#unwieldy-(x)]{Unwieldy
+    (2)}traits to the weapon, but increases the weapon’s damage by +Double Rank
+    ED.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1700053424814
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: xKl9vquwGTsqD9KE
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!xKl9vquwGTsqD9KE'

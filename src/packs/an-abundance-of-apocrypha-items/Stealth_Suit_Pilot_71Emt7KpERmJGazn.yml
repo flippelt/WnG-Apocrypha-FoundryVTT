@@ -1,0 +1,117 @@
+folder: FQ4YTlz56b4rSD2s
+name: Stealth Suit Pilot
+type: archetype
+_id: 71Emt7KpERmJGazn
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Shas T'au
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zeiTGyhliTh7KZlG
+  faction:
+    name: T'au Empire
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymiA0vN6P5lSl08j
+  influence: 1
+  cost: 76
+  keywords:
+    - T'AU EMPIRE
+    - FIRE CASTE
+    - '[SEPT]'
+  attributes:
+    strength: null
+    toughness: 2
+    agility: 3
+    initiative: 3
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 3
+    ballisticSkill: 3
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 2
+    psychicMastery: null
+    scholar: null
+    stealth: 2
+    survival: null
+    tech: 2
+    weaponSkill: null
+  ability:
+    name: Behind Enemy Lines
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.vrYlCCKXV7sT4k3C
+  wargear:
+    - - name: ''
+        id: ''
+    - name: XV15 Stealth Battlesuit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ixpmzD260YBUtIno
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 3v0lTjKIWSHXuPV3
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 4
+      initiative: 4
+      willpower: 3
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 4
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: 3
+      survival: 2
+      tech: 2
+      weaponSkill: 1
+    talents:
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+      - id: 7UGuNT8yY0OZXQJq
+        name: Dynamic Offensive
+      - id: 1OzEfrtLvMDY3XgW
+        name: Strike and Fade
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710618327669
+  modifiedTime: 1710618549342
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!71Emt7KpERmJGazn'

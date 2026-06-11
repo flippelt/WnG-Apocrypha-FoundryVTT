@@ -1,0 +1,33 @@
+name: Metalica
+type: keyword
+img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+effects: []
+folder: EOubWyxMDb5RRb88
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 1800000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.CAKbDfhfSB2RekcY
+system:
+  description: >-
+    <p>Those of Forge World Metalica seek nothing less than to completely
+    obliterate their foes and to re-order the galaxy according to their own
+    dictates. They will let nothing sway their appointed
+    task.</p><p><strong>RELENTLESS MARCH:</strong> When you Sprint, you may fire
+    a ranged weapon as if it had the Assault trait. You may not fire a Heavy
+    weapon in this way.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699478596396
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 7CLfOc8B9VtnTHNA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!7CLfOc8B9VtnTHNA'

@@ -1,0 +1,94 @@
+name: Miasma of Pestilence
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Miasma of Pestilence
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: cOXsS6Hh5F8JN1br
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!xvyufVV7WGMDUApj.cOXsS6Hh5F8JN1br'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.xvyufVV7WGMDUApj
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>As you chant in a phlegm-choked drone, a dark cloud of filth and flies
+    shrouds your allies from view. Select a number of allies with the NURGLE
+    keyword within range equal to your Willpower. The affected allies count as
+    in Cover, adding +2 to their Defence, until the start of your next turn.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: HERETIC ASTARTES, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affect an additional number of affected allies equal to your Willpower
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: xvyufVV7WGMDUApj
+folder: 62AZxr813CAe5Qug
+sort: 500000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519027
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!xvyufVV7WGMDUApj'

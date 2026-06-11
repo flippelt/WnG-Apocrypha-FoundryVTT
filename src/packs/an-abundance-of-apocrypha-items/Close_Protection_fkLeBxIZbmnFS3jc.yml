@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: Close Protection
+type: ability
+_id: fkLeBxIZbmnFS3jc
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When an enemy makes an attack against an ally within 5m of you, then as a
+    Reflexive Action, you may increase that ally’s Defence and Resilience by
+    +Rank against that attack.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710681702397
+  modifiedTime: 1710681710804
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!fkLeBxIZbmnFS3jc'

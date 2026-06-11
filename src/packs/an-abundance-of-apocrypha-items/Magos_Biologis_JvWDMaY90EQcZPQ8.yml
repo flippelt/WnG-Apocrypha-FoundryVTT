@@ -1,0 +1,91 @@
+folder: fgtFfRbmshJ8KM1n
+name: Magos Biologis
+type: ability
+_id: JvWDMaY90EQcZPQ8
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank bonus dice to any Medicae test you attempt and take only
+    half as long to perform a Medicae test. In addition, your bioengineered and
+    genetic augmentations increase your Max Wounds and Max Shock by +Rank.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+    name: Magos Biologis
+    changes:
+      - key: system.skills.medicae.bonus
+        mode: 2
+        value: '@advances.rank'
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '@advances.rank'
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: aonOv9kvZBlZCqH2
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+          '2':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!JvWDMaY90EQcZPQ8.aonOv9kvZBlZCqH2'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710702895987
+  modifiedTime: 1710703041748
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!JvWDMaY90EQcZPQ8'

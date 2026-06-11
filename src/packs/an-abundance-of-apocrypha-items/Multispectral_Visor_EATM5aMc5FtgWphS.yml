@@ -1,0 +1,54 @@
+name: Multispectral Visor
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.leagues-of-votann-equipment.Item.EATM5aMc5FtgWphS
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A Multispectral Visor is a scanning technology
+    employed by the Brôkhyr engineers and artificers of the Leagues of Votann.
+    As the name implies, the technology allows an individual Iron-master to view
+    any substance or environment in multiple spectral wavelengths. While
+    originally designed to aid fabrication of new technologies at the Forge,
+    some Brôkhyr Iron-masters also make use of their visors while carrying out
+    their duty of maintaining and repairing damaged Kin war engines on the
+    battlefield. Their work can give those vehicles added tactical potency
+    following a battlefield refit.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">This functions as Preysense Goggles, allowing you to
+    ignore any penalties to Tests due to visual conditions. In addition, as a
+    simple action, the wearer may scan an object, structure, vehicle, or enemy
+    you can see. All </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">LEAGUES OF VOTANN </span><span
+    class="fontstyle0">allies within 9m of you gain +Rank dice on any ranged
+    attack made against that target and improve the AP of their ranged attacks
+    by one (i.e., from -1 to -2).</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: LEAGUES OF VOTANN, BRÔKHYR
+  effect: ''
+_id: EATM5aMc5FtgWphS
+folder: OBM5CJDK3tWaYAVA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257385291
+  modifiedTime: 1710625204854
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 200000
+_key: '!items!EATM5aMc5FtgWphS'

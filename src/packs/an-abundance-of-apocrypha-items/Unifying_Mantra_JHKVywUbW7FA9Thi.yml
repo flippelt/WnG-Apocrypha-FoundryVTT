@@ -1,0 +1,99 @@
+name: Unifying Mantra
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + T'AU EMPIRE/ETHEREAL CASTE
+  description: >-
+    <p><span class="fontstyle0">With simple eloquence does the chanting of the
+    Ethereal remind their comrades of their place within the Greater Good, and
+    of how those of all castes are stronger when they stand shoulder to shoulder
+    against adversity than when they strive alone.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">If this Prayer is successful, then while the Prayer
+    remains in effect, a single group allied T’au numbering no more than your
+    Willpower score, may add +Rank to their Resolve and Conviction.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects:
+  - icon: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+    name: Unifying Mantra
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: IFrjKvwl5MZeaVY7
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!JHKVywUbW7FA9Thi.IFrjKvwl5MZeaVY7'
+folder: vWDpSrn0D0gaKrxv
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags:
+  core:
+    sourceId: Item.XsZKTerYz3pcnW6W
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: JHKVywUbW7FA9Thi
+_key: '!items!JHKVywUbW7FA9Thi'

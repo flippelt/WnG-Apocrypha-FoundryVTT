@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Descent of Angels
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: BLOOD ANGELS or FLESH TEARERS chapter
+  description: >-
+    <p>You emulate your winged Primarch as you descend from the skies into the
+    heart of the enemy.<br>If you Charge into melee while using a Jump Pack,
+    roll a number of dice equal to Double Rank. For each 6 rolled, you inflict a
+    single Mortal Wound upon an enemy within 2 metres of your landing. Resolve
+    this before making the melee attack from your Charge.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ZWj20k7YtBonqmA1
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663879763866
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: X31Z9MYsGKSfPqFF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 7500000
+_key: '!items!X31Z9MYsGKSfPqFF'

@@ -1,0 +1,187 @@
+folder: GHP0SxnnlNKFusRJ
+name: Harlequin Troupe Master
+type: archetype
+_id: jFpf2a6hhzoaJ6jl
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Harlequins of the Laughing God
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MZLyJ0QPkPgJg0Y9
+  influence: 5
+  cost: 226
+  keywords:
+    - AELDARI
+    - HARLEQUIN
+    - '[SAEDATH]'
+  attributes:
+    strength: 3
+    toughness: 5
+    agility: null
+    initiative: 5
+    willpower: 4
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 4
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: 3
+    insight: 3
+    intimidation: null
+    investigation: null
+    leadership: 2
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Choreographer of War
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QSHh2Hte8stSPTtZ
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Holo-Suit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.tet6rHIN1D1iJUgu
+      type: item
+      diff: {}
+      index: 1
+      groupId: g7bc3hDN5RdXpID5
+    - name: Agaith
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zhhjpbUPHqKFBBVW
+      type: item
+      diff: {}
+      index: 2
+      groupId: sAgR8XEq2p7VySCy
+    - name: Flip-Belt
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GKoH1CLvFjMlzJnL
+      type: item
+      diff: {}
+      index: 3
+      groupId: U3z0G1gOERnMkKc4
+    - name: Webway Keystone
+      id: Compendium.wng-core.items.Item.fudr222TkQ83RPCc
+      type: item
+      diff: {}
+      index: 4
+      groupId: Q9rORQCmSeVVY6Qr
+    - name: Plasma Grenade
+      id: Compendium.wng-core.items.Item.IKeDfOaiJOeHPpK7
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: Hy8WOmudKcHt13sj
+    - type: generic
+      name: ' any one AELDARI melee weapon of Value 9 or less and Rarity Very Rare or less'
+      filters:
+        - test: eq
+          property: Keywords
+          value: AELDARI
+        - test: le
+          property: Rarity
+          value: Very Rare
+        - test: le
+          property: Value
+          value: '9'
+      index: 6
+      groupId: OUFdyWzN9pAqAwUr
+    - type: generic
+      name: any one pistol of Value 9 or less and Rarity Very Rare or less
+      filters:
+        - test: le
+          property: Value
+          value: '9'
+        - test: le
+          property: Rarity
+          value: Very Rare
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: g7bc3hDN5RdXpID5
+      - index: 2
+        type: item
+        groupId: sAgR8XEq2p7VySCy
+      - index: 3
+        type: item
+        groupId: U3z0G1gOERnMkKc4
+      - index: 4
+        type: item
+        groupId: Q9rORQCmSeVVY6Qr
+      - index: 5
+        type: item
+        groupId: Hy8WOmudKcHt13sj
+      - type: item
+        index: 6
+        groupId: OUFdyWzN9pAqAwUr
+      - type: item
+        index: 7
+        groupId: Euu9TleTwtufWhHk
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 6
+      initiative: 7
+      willpower: 5
+      intellect: 3
+      fellowship: 4
+    skills:
+      athletics: 5
+      awareness: 4
+      ballisticSkill: 2
+      cunning: null
+      deception: 4
+      insight: 3
+      intimidation: 2
+      investigation: null
+      leadership: 3
+      medicae: null
+      persuasion: 2
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 7
+    talents:
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+      - id: 2G1RaWceBpoHoUBb
+        name: Storm of Death
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710788954200
+  modifiedTime: 1710789387301
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!jFpf2a6hhzoaJ6jl'

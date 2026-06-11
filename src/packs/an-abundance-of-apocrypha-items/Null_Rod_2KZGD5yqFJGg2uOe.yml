@@ -1,0 +1,69 @@
+name: Null Rod
+type: weapon
+_id: 2KZGD5yqFJGg2uOe
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>This obsidian rod perpetually crackles with psi-null energy, negating the
+    Warp-spawned powers of psykers. Even a glancing blow from such a weapon can
+    provoke a cataclysmic neuron failure in a sorcerer or mystic. At the end of
+    each battle, the null rod must be drained of the energy it has absorbed,
+    lest its captured power open a Warp rift.</p><p><strong>Special</strong>:
+    The wielder of this item cannot be targeted by psychic powers of any kind.
+    In addition, PSYKERS within 12m of the wielder add +2 DN to all Psychic
+    Mastery tests.</p>
+  value: 8
+  keywords: POWER FIELD, INQUISITION, ADEPTA SORORITAS, ADEPTUS ASTRA TELEPATHICA
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: blessed
+      rating: 3
+  upgrades: []
+effects: []
+folder: QMfRKhIFUOHoAFXu
+sort: 600000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709846170490
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!2KZGD5yqFJGg2uOe'

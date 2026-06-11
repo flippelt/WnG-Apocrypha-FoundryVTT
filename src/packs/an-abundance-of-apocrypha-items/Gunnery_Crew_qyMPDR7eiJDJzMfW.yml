@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Gunnery Crew
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: Ballistic Skill 2+
+  description: >-
+    <p>You&rsquo;re used to operating linked vehicle weapons in concert.<br>When
+    you are CREW or PILOT in a vehicle, you may use the Open Fire action up to
+    1+Rank times as part of a Multi-Action, so long each Open Fire action fires
+    a different one of the vehicle&rsquo;s weapons.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qyMPDR7eiJDJzMfW
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663880489332
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: qyMPDR7eiJDJzMfW
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 10000000
+_key: '!items!qyMPDR7eiJDJzMfW'

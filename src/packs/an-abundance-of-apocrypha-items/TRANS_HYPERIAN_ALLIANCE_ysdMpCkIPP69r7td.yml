@@ -1,0 +1,84 @@
+folder: EJ6lK67pJ1JqvFo2
+name: TRANS-HYPERIAN ALLIANCE
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p>Known as peerless explorers and adventurers, they seek out new warp
+    routes, trade partners, and mysteries with a compulsive determination. While
+    they control vast swathes of territory both within and without the Galactic
+    Core, these holdings are far-flung and thinly spread. Many of their Kindreds
+    dwell in isolated pockets or have their Hold aboard nomadic fleets. The
+    League remains well connected despite this, for their lighter craft streak
+    between scattered Kindreds for communication. Even its three Votann have
+    adopted this void-faring existence and they are nestled deep within the
+    Alliance's highly fortified spaceships. Ancient technologies ensure their
+    Fanes stay updated with the coordinates of their Votann, the information
+    scrambled so as to appear useless to outsiders.</p><p><strong>NOMADIC
+    EXPLORERS:</strong> You increase your Passive Awareness by +Rank and add +1d
+    to all Pilot skill tests.</p>
+effects:
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    changes:
+      - key: system.skills.pilot.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Pilot
+    _id: fhznPraPyfmSjNfn
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    _key: '!items.effects!ysdMpCkIPP69r7td.fhznPraPyfmSjNfn'
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    changes:
+      - key: system.combat.passiveAwareness.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: Passive Awareness
+    _id: EcRJzWHkJaklf5ux
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!ysdMpCkIPP69r7td.EcRJzWHkJaklf5ux'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iYwK6nLPgJULqNjl
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699504031398
+  modifiedTime: 1710521434087
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: ysdMpCkIPP69r7td
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 100782
+_key: '!items!ysdMpCkIPP69r7td'

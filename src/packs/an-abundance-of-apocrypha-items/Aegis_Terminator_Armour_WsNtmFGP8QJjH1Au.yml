@@ -1,0 +1,88 @@
+name: Aegis Terminator Armour
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Crafted exclusively by the Artisans of the Forge
+    World of Deimos for the Grey Knights, these customised suits of Terminator
+    Armour contain similar psychic protections as Aegis-pattern Power Armour.
+    Grey Knights frequently take to battle in Terminator armour, as they require
+    the protection when facing the mightiest and deadliest of daemonic
+    foes.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">7; Cumbersome, Powered
+    (5)</span></p><p></p><p><span class="fontstyle2"><strong>Aegis
+    Terminatus</strong>: </span><span class="fontstyle0">The wearer may roll
+    Determination against Mortal Wounds. Further, enemy psychic powers which
+    target the wearer suffer +2DN. Finally, the wearer adds +Rank bonus dice
+    when rolling Determination against any attack from a </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">DAEMON</span><span
+    class="fontstyle0">.</span> </p>
+  value: 11
+  keywords: POWERED, GREY KNIGHTS
+  equipped: false
+  rating: 7
+  base: 0
+  traits:
+    - name: cumbersome
+    - name: powered
+      rating: 5
+  invulnerable: false
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    _id: JYBO9xy8D49JG2hi
+    changes:
+      - key: difficulty.base
+        mode: 7
+        value: '2'
+        priority: null
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Psychic power
+          '1':
+            script: ''
+            description: Attack from a Daemon
+    name: Aegis Terminator Armour
+    description: ''
+    statuses: []
+    _key: '!items.effects!WsNtmFGP8QJjH1Au.JYBO9xy8D49JG2hi'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WsNtmFGP8QJjH1Au
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664132670964
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: 9qcY1oNgsxJI58Au
+_id: WsNtmFGP8QJjH1Au
+sort: 1700000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!WsNtmFGP8QJjH1Au'

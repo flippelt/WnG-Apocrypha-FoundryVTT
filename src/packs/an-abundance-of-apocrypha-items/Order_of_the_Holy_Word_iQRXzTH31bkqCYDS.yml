@@ -1,0 +1,28 @@
+name: Order of the Holy Word
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects: []
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core: {}
+system:
+  description: >-
+    <p>The Order of the Holy Word are charged with ensuring that every
+    proclamation and dictum issued by the Church can be understood by people
+    across the Imperium, no matter what form of Gothic they
+    speak.</p><p><strong>Voice of the Church: </strong>You gain +Rank bonus dice
+    on all Persuasion tests.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: iQRXzTH31bkqCYDS
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!iQRXzTH31bkqCYDS'

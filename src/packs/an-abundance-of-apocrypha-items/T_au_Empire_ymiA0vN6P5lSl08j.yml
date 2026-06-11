@@ -1,0 +1,235 @@
+name: T'au Empire
+type: faction
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+effects:
+  - _id: xFVGcI9JfMvTbtMr
+    changes:
+      - key: system.resources.influence.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+    transfer: false
+    flags: {}
+    tint: null
+    origin: null
+    name: Influence
+    description: ''
+    statuses: []
+    _key: '!items.effects!ymiA0vN6P5lSl08j.xFVGcI9JfMvTbtMr'
+  - _id: 1fdQ9mBWNxWFcu1Q
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Resolve
+    description: ''
+    statuses: []
+    _key: '!items.effects!ymiA0vN6P5lSl08j.1fdQ9mBWNxWFcu1Q'
+  - _id: Is1Kg6jOZeTNDyCT
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Determination
+    description: ''
+    statuses: []
+    _key: '!items.effects!ymiA0vN6P5lSl08j.Is1Kg6jOZeTNDyCT'
+  - _id: gbLibaio5kzsC19R
+    changes:
+      - key: system.resources.wealth
+        mode: 0
+        value: ''
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+    transfer: false
+    flags: {}
+    tint: null
+    origin: null
+    name: Wealth
+    description: ''
+    statuses: []
+    _key: '!items.effects!ymiA0vN6P5lSl08j.gbLibaio5kzsC19R'
+  - _id: 65yvDqLlXMbTG3zb
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Conviction
+    description: ''
+    statuses: []
+    _key: '!items.effects!ymiA0vN6P5lSl08j.65yvDqLlXMbTG3zb'
+  - _id: Q8rIulFDVkEHJEXT
+    changes:
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Max Shock
+    description: ''
+    statuses: []
+    _key: '!items.effects!ymiA0vN6P5lSl08j.Q8rIulFDVkEHJEXT'
+folder: AL59YG508FNku3U7
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymiA0vN6P5lSl08j
+system:
+  journal: ''
+  backgrounds:
+    origin:
+      - name: First-Sphere Sept
+        description: >-
+          You hail from one of the original Septs settled by the T’au, or
+          possibly from the T’au homeworld itself.
+        effect: xFVGcI9JfMvTbtMr
+      - name: Second-Sphere Sept
+        description: >-
+          : Your ancestors braved the unknown to colonise a Sept during the
+          second-sphere expansion phase.
+        effect: 1fdQ9mBWNxWFcu1Q
+      - name: Third-Sphere Sept
+        description: >-
+          Your forebears faced extreme resistance to settle a Sept during the
+          third-sphere expansion phase.
+        effect: Is1Kg6jOZeTNDyCT
+    accomplishment:
+      - name: Discovery
+        description: >-
+          You aided in finding, securing, or creating something valuable to the
+          ongoing expansion of the T’au Empire.
+        effect: gbLibaio5kzsC19R
+      - name: Protection
+        description: >-
+          You helped to protect some territory, resource, or other vital asset
+          from being lost to outsiders
+        effect: 1fdQ9mBWNxWFcu1Q
+      - name: Sacrifice
+        description: >-
+          You willingly gave of yourself in the name of the Greater Good,
+          suffering some form of loss or injury for the betterment of the T’au
+          Empire.
+        effect: 65yvDqLlXMbTG3zb
+    goal:
+      - name: Advancement
+        description: >-
+          You know that you will be able to further the tau’va if you can gain
+          power and status within the Empire.
+        effect: xFVGcI9JfMvTbtMr
+      - name: Duty
+        description: >-
+          You will do whatever the Ethereals will to ensure the T’au Empire
+          grows and prospers and all are brought within the protection of the
+          Greater Good.
+        effect: Q8rIulFDVkEHJEXT
+      - name: Supremacy
+        description: >-
+          The galaxy is full of misguided species who need to be shown the error
+          of their ways, and you will do your part to show them.
+        effect: 1fdQ9mBWNxWFcu1Q
+  objectives:
+    - When you seek to apply the wisdom of the Ethereals to a situation.
+    - >-
+      Extol the virtues of the Greater Good to someone who does not belong to
+      the T’au Empire
+    - >-
+      Reminisce about the wonders and glories of your home Sept and other worlds
+      within the T’au Empire
+    - Describe a previous triumph or achievement of the T’au Empire
+    - >-
+      Reflect on your bond with your team-mates (especially if you Ta’lissera
+      bonded)
+    - >-
+      Ponder the differences or similarities between the Castes, or between the
+      T’au and another species
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056024
+  modifiedTime: 1710451663449
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: ymiA0vN6P5lSl08j
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!ymiA0vN6P5lSl08j'

@@ -1,0 +1,166 @@
+folder: KBJfNEyEICvdqQ6H
+name: Back-Alley Doc
+type: archetype
+img: modules/wng-core/assets/icons/abilities/scum.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Scum
+    id: Compendium.wng-core.items.Item.dWSMwqasmuimti6p
+  influence: 1
+  cost: 14
+  keywords:
+    - SCUM
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: 1
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: 1
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Improvised Healing
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.NgSChwCUMJn8xRRw
+  wargear:
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 0
+      groupId: veRZ3fQKoOdJD4jw
+    - name: Stubber
+      id: Compendium.wng-core.items.Item.BpQ1EYnjQP61Edvp
+      type: item
+      diff: {}
+      index: 1
+      groupId: xPmxe38dfGyDtPOd
+    - name: Laspistol
+      id: Compendium.wng-core.items.Item.STrmO2xhRZgClDSR
+      type: item
+      diff: {}
+      index: 2
+      groupId: NUvVJv5OLPqaPGLJ
+    - name: Clothing
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff: {}
+      index: 3
+      groupId: LbR2w7w9b9gsZm81
+    - name: Medikit
+      id: Compendium.wng-core.items.Item.mSS6bpYoQb4KilrW
+      type: item
+      diff: {}
+      index: 4
+      groupId: RQHBge8T8UlGkDvw
+    - name: Stimm
+      id: Compendium.wng-core.items.Item.513qP2VR5xzozMSY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: q7HspB4BIgGsl5Ri
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: r0tTwcowN55ubB5S
+      - type: or
+        items:
+          - type: item
+            index: 1
+            groupId: F5q99Q00DaQx34MN
+          - type: item
+            index: 2
+            groupId: idgbLqviGxCe4Cp2
+        groupId: vug8Yu1G0rBfhWwf
+      - type: item
+        index: 4
+        groupId: IN5L7bvElQHuLAuh
+      - type: item
+        index: 5
+        groupId: jdkGf1Ic2bHS8Mgj
+      - type: item
+        index: 3
+        groupId: mefc88QYq0y2Ykrj
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 2
+      intellect: 3
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 1
+      ballisticSkill: null
+      cunning: 2
+      deception: null
+      insight: 1
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: 3
+      persuasion: 1
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: null
+      survival: 1
+      tech: 1
+      weaponSkill: null
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: 0sjaRWKLl28HwIpN
+        name: Scum Savvy
+      - id: fIy3evnEKxFiNV4j
+        name: Gallows Humour
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.aQ91fCPsrLoQnaC5
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664171363116
+  modifiedTime: 1710533656505
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: jFC0oSTdhIlI6VMh
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!jFC0oSTdhIlI6VMh'

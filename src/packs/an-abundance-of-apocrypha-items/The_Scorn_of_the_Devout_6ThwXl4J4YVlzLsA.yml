@@ -1,0 +1,134 @@
+name: The Scorn of the Devout
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: wK3kfzOUziOuRRb4
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: The Scorn of the Devout
+    description: ''
+    statuses: []
+    _key: '!items.effects!6ThwXl4J4YVlzLsA.wK3kfzOUziOuRRb4'
+  - _id: XKbCASoyM6UsVFvb
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: The Scorn of the Devout
+    description: ''
+    statuses: []
+    _key: '!items.effects!6ThwXl4J4YVlzLsA.XKbCASoyM6UsVFvb'
+  - _id: Ao6M3zPEfnDzhiv4
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: The Scorn of the Devout
+    tint: null
+    origin: null
+    name: The Scorn of the Devout
+    description: ''
+    statuses: []
+    _key: '!items.effects!6ThwXl4J4YVlzLsA.Ao6M3zPEfnDzhiv4'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.xZvBULIRALCEnT6s
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>The&nbsp;character is filled with holy hatred&nbsp;and fury. They receive
+    +1 to&nbsp;Resolve and Conviction, and +1d&nbsp;on all Weapon Skill tests
+    made to&nbsp;attack enemies with the @Item[kZUQtnE0gqH81t98]{HERETIC}
+    keyword.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057254
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 6ThwXl4J4YVlzLsA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!6ThwXl4J4YVlzLsA'

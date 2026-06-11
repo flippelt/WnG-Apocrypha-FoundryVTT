@@ -1,0 +1,87 @@
+folder: fgtFfRbmshJ8KM1n
+name: Vox Communion
+type: ability
+_id: 4f3h3h4cG37bVOSZ
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You can silently communicate with any vox or similar communications
+    device within Rank x100 kilometres. You may also make Awareness (Int) or
+    Investigation (Int) tests to detect concealed signals and study intercepted
+    signals. You add +Rank bonus dice to any Investigation (Int) or Scholar
+    (Int) test to decipher a code, translate a language, or create a new
+    cipher.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+    name: Vox Communion
+    _id: F5whcPKloHNytdy2
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              You add +Rank bonus dice to any Investigation (Int) or Scholar
+              (Int) test to decipher a code, translate a language, or create a
+              new cipher.
+            hide: ''
+    tint: null
+    _key: '!items.effects!4f3h3h4cG37bVOSZ.F5whcPKloHNytdy2'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710618817172
+  modifiedTime: 1710618860099
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!4f3h3h4cG37bVOSZ'

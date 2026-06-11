@@ -1,0 +1,74 @@
+name: Scissorhand
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A Scissorhand is an incredibly dangerous close combat weapon used by
+    Haemonculi and their servants.</p><p>Each is a glove with long monomolecular
+    blades attached to the fingertips like claws. The glove has a series of
+    vein-like tubes that run along each finger, slowly reapplying an incredibly
+    potent neurotoxin to the blades. Victims who receive even the slightest of
+    scratches by these blades become wracked with pain so incredible that it
+    frequently causes the target to pass out or even die.</p>
+  value: 8
+  keywords: BLADE, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+    - name: reaping
+      custom: true
+      display: Reaping
+      description: >-
+        The weapon is intended to scythe through groups of foes. When you make a
+        Multi-Attack with this weapon, the DN increases by +1 per additional
+        target, rather than +2.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 100049
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 3W5R1acukd587ynP
+_key: '!items!3W5R1acukd587ynP'

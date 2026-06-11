@@ -1,0 +1,52 @@
+name: Serpent Shield Generator
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.CH18NHQMJgg7qjIA
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">These bulky generators are a scaled-down form of
+    the force field generators installed in Wave Serpent gravtanks. They are
+    deployed on anti-grav platforms accompanying close assault Storm Guardian
+    squads, to protect them from enemy fire while they advance. Like the field
+    on the Wave Serpent, these generators can expel their energy in a disruptive
+    burst directed towards the enemy, scattering them as the Guardians begin
+    their assault.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">While this field is active, all </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">ASURYANI </span><span
+    class="fontstyle0">allies within 6m gain +3 to their Resilience against
+    ranged attacks. Further, the field can be discharged as a Combat Action,
+    affecting all enemies in a Blast (6) within 12m of the generator. Enemies
+    hit are </span><span class="fontstyle3">Hindered (2) </span><span
+    class="fontstyle0">and cannot use any Reflexive Actions until after their
+    next turn.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: ASURYANI
+  effect: ''
+_id: CH18NHQMJgg7qjIA
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240250
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 500000
+_key: '!items!CH18NHQMJgg7qjIA'

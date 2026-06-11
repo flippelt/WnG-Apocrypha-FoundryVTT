@@ -1,0 +1,81 @@
+folder: fgtFfRbmshJ8KM1n
+name: Deathless Fury
+type: ability
+_id: AiVqSYBRnFHNGOJd
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You never suffer the DN increase for being Wounded, and you add +Rank
+    bonus dice to all melee attacks when you have suffered more than half of
+    your maximum Wounds.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    name: Deathless Fury
+    _id: 2AHCc8i0v1kQJTww
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Melee attack AND Suffered more than half of your maximum Wounds.
+            hide: ''
+    tint: null
+    _key: '!items.effects!AiVqSYBRnFHNGOJd.2AHCc8i0v1kQJTww'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710790647815
+  modifiedTime: 1710790725713
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!AiVqSYBRnFHNGOJd'

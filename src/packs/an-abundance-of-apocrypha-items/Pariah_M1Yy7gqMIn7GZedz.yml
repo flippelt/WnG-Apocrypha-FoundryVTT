@@ -1,0 +1,73 @@
+name: Pariah
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: sC0XQyo4SjbmOHz3
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.M1Yy7gqMIn7GZedz
+system:
+  cost: 30
+  speed: 6
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.2st3Hg7mEeZlnYIe
+      name: Abhorrent Presence
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.LIRPvUwnRcSM1uSZ
+      name: Psychic Abomination
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bl7QVDftuBxrcDGc
+      name: Untouchable
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056750
+  modifiedTime: 1710522901284
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: M1Yy7gqMIn7GZedz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!M1Yy7gqMIn7GZedz'

@@ -1,0 +1,243 @@
+name: Adeptus Arbites
+type: faction
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+effects:
+  - _id: kD9TSn3P0vwFoGYp
+    changes:
+      - key: system.resources.influence.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    tint: null
+    origin: null
+    name: Influence
+    description: ''
+    statuses: []
+    _key: '!items.effects!IokkMeiQ7h80grCb.kD9TSn3P0vwFoGYp'
+  - _id: 4YHrDkTWiSEsH3nH
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Conviction
+    description: ''
+    statuses: []
+    _key: '!items.effects!IokkMeiQ7h80grCb.4YHrDkTWiSEsH3nH'
+  - _id: RAaK8XWIRD6QbRjU
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    tint: null
+    origin: null
+    name: Resolve
+    description: ''
+    statuses: []
+    _key: '!items.effects!IokkMeiQ7h80grCb.RAaK8XWIRD6QbRjU'
+  - _id: jJ8iAZHvQ5soPI7b
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Determination
+    description: ''
+    statuses: []
+    _key: '!items.effects!IokkMeiQ7h80grCb.jJ8iAZHvQ5soPI7b'
+  - _id: WsPgYp2x42ewrpY4
+    changes:
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    tint: null
+    origin: null
+    name: Max Wounds
+    description: ''
+    statuses: []
+    _key: '!items.effects!IokkMeiQ7h80grCb.WsPgYp2x42ewrpY4'
+  - _id: W5Eaumt7QCvn0PBY
+    changes:
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Max Shock
+    description: ''
+    statuses: []
+    _key: '!items.effects!IokkMeiQ7h80grCb.W5Eaumt7QCvn0PBY'
+folder: AL59YG508FNku3U7
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IokkMeiQ7h80grCb
+system:
+  journal: ''
+  backgrounds:
+    origin:
+      - name: Progena
+        description: >-
+          Your parents were stalwart servants of the Throne, and after their
+          deaths, you were raised by the Schola Progenium, who identified your
+          talents and groomed you to join the Adeptus Arbites.
+        effect: kD9TSn3P0vwFoGYp
+      - name: Repentant
+        description: >-
+          You once lived a life of criminality and desperation before you found
+          the Emperor’s light and saw the error of your ways. You sought out an
+          Arbites Precinct-Fortress and turned yourself over to their
+          judgements, and after your sentence was served, your contrition was
+          rewarded with an opportunity for redemption.
+        effect: 4YHrDkTWiSEsH3nH
+      - name: Ascended
+        description: >-
+          You served the local Enforcers of your homeworld honourably and
+          dutifully, until you found yourself caught between your loyalty to
+          your home and your loyalty to the Emperor. You chose the Imperium, and
+          the Arbites recruited you in the aftermath.
+        effect: RAaK8XWIRD6QbRjU
+    accomplishment:
+      - name: Rebellion Quashed
+        description: >-
+          When a rebellion arose on your last posting, you were instrumental in
+          crushing it and bringing the Emperor’s Justice to the rebels.
+        effect: 4YHrDkTWiSEsH3nH
+      - name: Subversive Eliminated
+        description: >-
+          A noted subversive who had eluded Justice upon a dozen or more worlds
+          found himself within your jurisdiction, and you were the one who
+          carried out the Judgement.
+        effect: jJ8iAZHvQ5soPI7b
+      - name: Frontier Marshal
+        description: >-
+          You were posted to a world on the fringes of the Imperium, with little
+          established Imperial presence. Your efforts helped bring order to such
+          a lawless place.
+        effect: WsPgYp2x42ewrpY4
+    goal:
+      - name: Fugitive
+        description: >-
+          One criminal in particular has continued to elude your efforts, and
+          you will stop at nothing to see them Judged.
+        effect: jJ8iAZHvQ5soPI7b
+      - name: Order to the Lawless
+        description: >-
+          You desire the next great challenge that awaits an Arbitrator – to
+          pacify the criminality and anarchy of places which have fallen from
+          the Emperor’s Light.
+        effect: RAaK8XWIRD6QbRjU
+      - name: Cold Case
+        description: >-
+          An unsolved crime has haunted your precinct, or possibly your career
+          specifically, for longer than anyone is comfortable with. You will
+          solve that case and bring the perpetrator to justice.
+        effect: W5Eaumt7QCvn0PBY
+  objectives:
+    - Seek to apply the dictates of the Lex Imperialis to a situation.
+    - >-
+      Compare your current environment to another world on which you have
+      served.
+    - >-
+      Interrogate a suspect using threats of violence and punishment while an
+      ally offers leniency in exchange for compliance (or vice versa).
+    - >-
+      Berate a criminal or other citizen who you have judged as insufficiently
+      law-abiding.
+    - Open a door, or otherwise enter a room, using forceful methods.
+    - >-
+      Subdue an enemy non-lethally so that they might face proper judgement
+      later.
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055976
+  modifiedTime: 1710451663449
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: IokkMeiQ7h80grCb
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!IokkMeiQ7h80grCb'

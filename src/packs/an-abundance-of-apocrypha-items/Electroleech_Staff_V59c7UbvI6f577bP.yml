@@ -1,0 +1,74 @@
+name: Electroleech Staff
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: QMfRKhIFUOHoAFXu
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Electroleech Staves are used by some Electro-Priests. The powerful
+    capacitors built into the length of each electroleech staff allow them to
+    drink every iota of electric force from those they strike - be they living
+    or machine. This bioelectric energy is siphoned into the user&rsquo;s
+    Luminen capacitor, where it can charge their implants further.</p>
+
+    <p><strong>Special:</strong> Only a character with a Luminen Capacitor may
+    wield an Electroleech Staff &ndash; in the hands of anyone else, it counts
+    as a normal staff. Each point of Shock inflicted by an Electroleech Staff
+    adds 1 point of charge to the user&rsquo;s Luminen Capacitor</p>
+  value: 6
+  keywords: LUMINEN, 2-HANDED, ADEPTUS MECHANICUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: mortal-(d3)
+      custom: true
+      display: Mortal (d3)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: V59c7UbvI6f577bP
+sort: 1200000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!V59c7UbvI6f577bP'

@@ -1,0 +1,16 @@
+name: Harlequins of the Laughing God
+sorting: a
+folder: CFzJnZqkzLp4E4a2
+type: Item
+_id: tt8woblceRJcPf6H
+sort: 700000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699479920944
+  modifiedTime: 1710451661814
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!tt8woblceRJcPf6H'

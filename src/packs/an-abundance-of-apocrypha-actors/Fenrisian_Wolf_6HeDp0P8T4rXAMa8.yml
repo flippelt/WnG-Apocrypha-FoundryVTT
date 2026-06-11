@@ -1,0 +1,565 @@
+folder: 9sw4Sr9YK6UbygF5
+name: Fenrisian Wolf
+type: threat
+_id: 6HeDp0P8T4rXAMa8
+img: modules/wng-core/assets/tokens/generic.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 6
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 8
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 11
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 6
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 10
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: '-'
+      second: '-'
+      third: E
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 6 Very Rare</p><p>The massive Fenrisian Wolf is a
+    fearsome semi-sentient predator and an enduring symbol of the Space Wolves
+    Space Marine Chapter's frozen homeworld of Fenris.</p><p>The Space Wolves,
+    in the ancient tradition of their Primarch Leman Russ, often befriend and
+    train Fenrisian Wolves (in so much as such a feral being can truly be
+    trained). Fenrisian Wolves will fight ferociously beside their master
+    against his foes.</p><p>Fenrisian Wolves are simple, brutal beasts, loyal
+    only to their master and remorseless against their enemies. As a follower, a
+    Fenrisian Wolf will trail behind the battle brother wherever he goes,
+    whining if forced to stay behind, and attack his enemies with a gesture or a
+    word.</p><p>Fenrisian Wolves aid Space Wolves in numerous ways during
+    battle. Their speed makes them a great flanking unit with which to harry the
+    Space Wolves' enemies and pick off smaller units. They are also used as a
+    fastmoving distraction to the main battleline, leaving the Space Wolves'
+    opponents guessing at their next move. They will also stay by the side of
+    the battle-brother if he falls, protecting his body and maybe even pulling
+    him to safety.<br></p>
+prototypeToken:
+  name: Fenrisian Wolf
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - _id: rV0yq8cwemTZjAZl
+    name: SPACE WOLVES
+    type: keyword
+    img: modules/wng-core/assets/factions/adeptus-astartes.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Chapters
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.NJkVGpye6Oz4SZ62
+    system:
+      description: "<p>Courageous and savage, the Space Wolves embrace the bold and brash warrior traditions of their homeworld Fenris. Inheriting the fierce charisma and aggressive mindset of their Primarch Leman Russ, the Space Wolves place great value in their ritualistic traditions, hunting glory in battle to build a heroic legacy. Though utterly loyal to the Imperium they have little taste for its conservative strictures, preferring the feral practices of their icy homeworld.\_</p><h4>Hunters Unleashed</h4><p>The Chapters kinship with wolves extends to enhanced senses and an almost feral fighting style replete with savage grace.\_</p><p>You have the @UUID[Compendium.wng-core.items.AXqKMwrgsKMdohOw]{Acute Sense} Talent and the @UUID[Compendium.wng-core.items.aX9bq2t854Kb7L0i]{Dual Wield} Talent.\_</p><h4>Savage Within (Gene-seed)</h4><p>Headstrong in their pursuit of valour, Space Wolves do not back down from death in glorious melee combat.\_</p><p>You cannot @UUID[JournalEntry.FWVnJvg0Gy7IMzO7.JournalEntryPage.7bbKOHV6ZpMmidxi#fall-back]{Fall Back}.\_</p><p>\_</p>"
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656024
+      modifiedTime: 1710362035063
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!6HeDp0P8T4rXAMa8.rV0yq8cwemTZjAZl'
+  - _id: m77y4dkYcqtUchQ1
+    name: BEAST
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 2700000
+      core:
+        sourceId: Compendium.wng-core.items.Item.fCWW0sRdowURgnyL
+    system:
+      description: >-
+        <p>Unintelligent creatures that do not possess the self-awareness and
+        high intelligence of Humans. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656028
+      modifiedTime: 1710362038800
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!6HeDp0P8T4rXAMa8.m77y4dkYcqtUchQ1'
+  - name: Pack Animal
+    type: talent
+    _id: 2GLak6rcXJBxO0gZ
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower adds +1 to Resolve for each SPACE WOLVES ally within 6
+        metres. Further, when it attacks an enemy, it adds +1 ED for each SPACE
+        WOLVES ally who has attacked that enemy this round.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710362137637
+      modifiedTime: 1710362162183
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!6HeDp0P8T4rXAMa8.2GLak6rcXJBxO0gZ'
+  - name: Animal
+    type: talent
+    _id: 47bdo2ky8fWL2vVN
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>A Fenrisian Wolf is unable to take any actions which would require
+        the use of hands.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710362170251
+      modifiedTime: 1710362187843
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!6HeDp0P8T4rXAMa8.47bdo2ky8fWL2vVN'
+  - name: Determination
+    type: ability
+    _id: HUrHZm8CbyWeQDnj
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Glory to roll 5d6</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 100000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.NyytzXiTWO84CSRs
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359735702
+      modifiedTime: 1710362202393
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!6HeDp0P8T4rXAMa8.HUrHZm8CbyWeQDnj'
+  - name: Teeth and Claws
+    type: weapon
+    _id: WpR52YlYfDE1uUEo
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 9
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: inflict
+          rating: Bleeding
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710362211576
+      modifiedTime: 1710362323714
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!6HeDp0P8T4rXAMa8.WpR52YlYfDE1uUEo'
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710361887476
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!actors!6HeDp0P8T4rXAMa8'

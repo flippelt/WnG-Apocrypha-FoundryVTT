@@ -1,0 +1,77 @@
+name: Living Lightning
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.RNFyMfMVyw82kLAs
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Sentient electricity crackles amid the brooding skies above as you call
+    forth the elements to smite your foes. At your command, lightning arcs into
+    the ranks of the enemy, leaving a trail of blackened corpses in its wake.
+    The you target the nearest enemy within range with a psychic ranged attack,
+    inflicting 1d3 Mortal Wounds. If the target is reduced to 0 Wounds by this,
+    then the nearest enemy within 35m to the previous target also suffers 1d3
+    Mortal Wounds. If they in turn are reduced to 0 Wounds, then the next
+    nearest enemy within 35m to them is affected, and so on until an enemy
+    suffers Mortal Wounds from this power but is not reduced to 0 Wounds or
+    there are no enemies remaining within range.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: SPACE WOLVES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound to each target.
+      cost: 2
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: RNFyMfMVyw82kLAs
+folder: h4kiPhIt6oM6JLum
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959340
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!RNFyMfMVyw82kLAs'

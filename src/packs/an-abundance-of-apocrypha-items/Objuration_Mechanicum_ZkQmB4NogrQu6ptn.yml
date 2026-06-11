@@ -1,0 +1,81 @@
+name: Objuration Mechanicum
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.ZkQmB4NogrQu6ptn
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Extending your hand, you compel the enemy’s equipment to betray them.
+    Grenades spontaneously detonate, weapons backfire, and power cells overheat
+    in a deadly fashion. If this power is successful, select a single piece of
+    wargear or weapon you can see in range. Until the start of your next turn,
+    any roll of 1, 2, or 3 on the Wrath die when attempting to use that device
+    is a Complication, and the complication is always the most catastrophic
+    failure, inflicting 1d3 Mortal Wounds on the user. If the device is a
+    grenade or other explosive, the device instead detonates immediately.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 35m
+  multiTarget: true
+  keywords: PSYCHIC
+  prerequisites: IRON HANDS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The power lasts for one additional turn.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Increase the power’s range by +10 metres.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: ZkQmB4NogrQu6ptn
+folder: S7O8QSVPBRof9hTZ
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959321
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ZkQmB4NogrQu6ptn'

@@ -1,0 +1,74 @@
+name: Machine Flense
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.Wzcyaom4MGjaEU4g
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You lash out with your mind at an enemy war machine to shred its armoured
+    hull. The strips of razor-edged shrapnel turn from the vehicle’s iron flesh
+    are hurled like daggers at a nearby foe. Select one enemy vehicle you can
+    see within range. That vehicle suffers 1d6+1 Mortal Wounds. Then, for each
+    Mortal Wound the vehicle suffered, select a single creature within 6m of the
+    vehicle (no creature may be selected more than once for this), and roll 1d6:
+    on an Icon, that creature suffers a Mortal Wound.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: KINETIC, PSYCHIC
+  prerequisites: IRON HANDS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d6+1
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The vehicle suffers +1 Mortal Wounds
+      cost: 3
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: Wzcyaom4MGjaEU4g
+folder: S7O8QSVPBRof9hTZ
+sort: 137500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959332
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Wzcyaom4MGjaEU4g'

@@ -1,0 +1,67 @@
+name: Paragon War Blade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/power-sword.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Huge power swords, the size of a person, able to tear through foes with
+    ease.</p>
+  value: 10
+  keywords: POWERED, WARSUIT, ADEPTA SORORITAS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blessed
+      rating: 1
+    - name: reaping
+      custom: true
+      display: Reaping
+      description: >-
+        The weapon is intended to scythe through groups of foes. When you make a
+        Multi-Attack with this weapon, the DN increases by +1 per additional
+        target, rather than +2.
+  upgrades: []
+effects: []
+flags:
+  core: {}
+  cf: null
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663853717688
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: Jr1XUs92ggb9r4uN
+_id: TEWA9ovmJoudV1WI
+sort: 1900000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!TEWA9ovmJoudV1WI'

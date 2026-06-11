@@ -1,0 +1,75 @@
+name: Mirror of Minds
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.L1TO6oyNBJiG4NvD
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>A maddening clash of wills consumes the victim’s mind as reality falls
+    away. Select an enemy within range, and both you and the target roll 1d6. If
+    you roll equal to or higher than the target, then the target suffers 1
+    Mortal Wound. Repeat this until either the target is reduced to 0 Wounds or
+    they roll higher than you.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: 1 Round
+  range: 25m
+  multiTarget: false
+  keywords: AELDARI, TELEPATHY, PSYCHIC
+  prerequisites: HARLEQUIN
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: '1'
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        If the power reduces the target to 0 Wounds, select another target
+        within 5m of the first, and begin the process again. Each target after
+        the first requires this potency option be selected again.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: L1TO6oyNBJiG4NvD
+folder: o8yQgV0l3d94B1kr
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742865
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!L1TO6oyNBJiG4NvD'

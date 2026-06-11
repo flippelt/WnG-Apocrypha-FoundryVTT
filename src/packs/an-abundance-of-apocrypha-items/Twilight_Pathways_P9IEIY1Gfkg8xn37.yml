@@ -1,0 +1,70 @@
+name: Twilight Pathways
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.P9IEIY1Gfkg8xn37
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Eerie half-lit tunnels blink into existence, opening new paths of
+    manoeuvre and attack. You and any number of allies within range may
+    immediately move up to your Speed.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 5m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: HARLEQUIN
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Speed to all affected characters.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: P9IEIY1Gfkg8xn37
+folder: o8yQgV0l3d94B1kr
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742870
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!P9IEIY1Gfkg8xn37'

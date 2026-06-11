@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Catfall
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: Agility 3+
+  description: >-
+    <p>You&rsquo;re nimble and suffer less from the effects of falling.<br>When
+    you fall, count the distance fallen as half the actual distance for
+    determining damage.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.r06bFF1t8QJeK3Wq
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663878820533
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: r06bFF1t8QJeK3Wq
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 10100000
+_key: '!items!r06bFF1t8QJeK3Wq'

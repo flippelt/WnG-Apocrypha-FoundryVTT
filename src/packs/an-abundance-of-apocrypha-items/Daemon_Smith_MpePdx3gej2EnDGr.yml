@@ -1,0 +1,84 @@
+folder: fgtFfRbmshJ8KM1n
+name: Daemon-Smith
+type: ability
+_id: MpePdx3gej2EnDGr
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank to all Tech tests to control or repair daemonic or
+    corrupted technology, or to corrupt Imperial technology. You only take half
+    as long as normal to perform a Tech test. </p><p>In addition, you gain 1d3x4
+    Corruption when you select this Archetype.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/chaos.webp
+    name: Daemon-Smith
+    _id: LGmps4QYXonKngUz
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Tech tests to control or repair daemonic or corrupted technology,
+              or to corrupt Imperial technology
+            hide: ''
+    tint: null
+    _key: '!items.effects!MpePdx3gej2EnDGr.LGmps4QYXonKngUz'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710720829171
+  modifiedTime: 1710720874555
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!MpePdx3gej2EnDGr'

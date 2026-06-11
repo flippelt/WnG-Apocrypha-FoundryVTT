@@ -1,0 +1,59 @@
+folder: tt8woblceRJcPf6H
+name: THE LIGHT
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>When the character is the target of a ranged attack and their attacker is
+    12 of more metres away, add +1 to the character’s Defence.</p>
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: THE LIGHT
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 7
+        value: '1'
+        priority: null
+    _id: m47wbiOrE5dJ0dNR
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              When the character is the target of a ranged attack and their
+              attacker is 12 of more metres away, add +1 to the character’s
+              Defence.
+            hide: ''
+    tint: null
+    _key: '!items.effects!o7cZzWCghc7L9RDX.m47wbiOrE5dJ0dNR'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.o7cZzWCghc7L9RDX
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710531381066
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: o7cZzWCghc7L9RDX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!o7cZzWCghc7L9RDX'

@@ -1,0 +1,58 @@
+folder: tt8woblceRJcPf6H
+name: THE DARK
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>When the character makes a melee attack, improve the AP of that attack by
+    1.</p>
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: THE DARK
+    _id: m9VEMe5ZmrMqVfou
+    changes:
+      - key: ap.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              When the character makes a melee attack, improve the AP of that
+              attack by 1.
+            hide: ''
+    tint: null
+    _key: '!items.effects!602ZdcPwRfiq9a2x.m9VEMe5ZmrMqVfou'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.602ZdcPwRfiq9a2x
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710531317198
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 602ZdcPwRfiq9a2x
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!602ZdcPwRfiq9a2x'

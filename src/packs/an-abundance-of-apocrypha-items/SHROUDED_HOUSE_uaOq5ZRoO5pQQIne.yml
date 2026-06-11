@@ -1,0 +1,71 @@
+folder: mVwsA2RNYLWHNaKe
+name: SHROUDED HOUSE
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p>Shrouded Houses are mysterious and opportunistic. They add +Rank to
+    Cunning and Stealth tests.</p>
+effects:
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    changes:
+      - key: system.skills.cunning.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: Cunning
+    _id: gB7Ijdr4SRk1xqSB
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!uaOq5ZRoO5pQQIne.gB7Ijdr4SRk1xqSB'
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    changes:
+      - key: system.skills.stealth.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: Stealth
+    _id: wyWRVAv81L1lwBvc
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!uaOq5ZRoO5pQQIne.wyWRVAv81L1lwBvc'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699503217849
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: uaOq5ZRoO5pQQIne
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!uaOq5ZRoO5pQQIne'

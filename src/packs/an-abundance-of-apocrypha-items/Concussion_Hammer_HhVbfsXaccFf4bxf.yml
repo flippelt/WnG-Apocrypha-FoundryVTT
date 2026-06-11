@@ -1,0 +1,66 @@
+folder: 0SAPFb2VAW9K20fX
+name: Concussion Hammer
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Commonly wielded by elite Einhyr warriors, concussion hammers—sometimes
+    also called mass hammers—are a reinforced haft topped with a head containing
+    powerful “mass driver” technology that significantly increases the impact
+    forces of the weapon’s strikes. The construction of the weapon allows it to
+    deliver much heavier strikes than concussion gauntlets, but it takes a
+    skilled combatant to control the weapon’s power and direct it properly: in
+    the hands of the unskilled, a concussion hammer would be dangerously
+    cumbersome.</p>
+  value: 9
+  keywords: MASS DRIVER, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: inflict
+      rating: Staggered
+    - name: unwieldy
+      rating: 2
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709900091079
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: HhVbfsXaccFf4bxf
+_key: '!items!HhVbfsXaccFf4bxf'

@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Ambush
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Striking Scorpion aspect, Stealth rating 5+
+  description: >-
+    <p>You have a perfect sense of precision and timing, and your ambushes are
+    virtually impossible to detect. You and your squad add +Rank to your Stealth
+    Scores, and enemies may not spend Ruin to become aware of the ambushing
+    Striking Scorpions.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.K4sB0KpyRgyBJAMg
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699810689459
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: K4sB0KpyRgyBJAMg
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!K4sB0KpyRgyBJAMg'

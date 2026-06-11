@@ -1,0 +1,48 @@
+name: Celestial Shield
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.LYetVRQGHLf17fHZ
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A Celestial Shield is a psychically-activated
+    force field technology that is sometimes used by Asuryani Guardians as an
+    emergency personal defence. Once activated, the psychic shield allows the
+    user to withstand attacks for a short time that would otherwise have slain
+    or badly injured them at a key moment during the
+    battle.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">You may activate this item as a Reflexive Action when you
+    are the target of a ranged attack. Your Resilience and Determination
+    increases by +2 against ranged attacks until the start of your next turn.
+    Further, while the field is in effect, you may roll Determination against
+    Mortal Wounds.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: ASURYANI
+  effect: ''
+_id: LYetVRQGHLf17fHZ
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240226
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 1000000
+_key: '!items!LYetVRQGHLf17fHZ'

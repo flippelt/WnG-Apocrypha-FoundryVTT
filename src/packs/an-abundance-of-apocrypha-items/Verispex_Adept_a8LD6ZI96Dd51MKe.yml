@@ -1,0 +1,179 @@
+folder: tT0eF3TBVmGD5iGo
+name: Verispex Adept
+type: archetype
+_id: a8LD6ZI96Dd51MKe
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Arbites
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IokkMeiQ7h80grCb
+  influence: 2
+  cost: 107
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ARBITES
+    - ADEPTUS MECHANICUS
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 3
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 3
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: null
+  ability:
+    name: Crime Scene Investigation
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WCnPLMkSlOYM1huI
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Bodyglove
+      id: Compendium.wng-core.items.Item.alCEdr91k6ttGBw9
+      type: item
+      diff: {}
+      index: 1
+      groupId: 2foSqIiZaUCGLNkX
+    - name: Clothing
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff: {}
+      index: 2
+      groupId: dxuxX6fvijYvIAFC
+    - name: Laspistol
+      id: Compendium.wng-core.items.Item.STrmO2xhRZgClDSR
+      type: item
+      diff: {}
+      index: 3
+      groupId: vC2Gx9YD6dF6AYGI
+    - name: Knife
+      id: Compendium.wng-core.items.Item.drUoIw7l4vPyI9Zm
+      type: item
+      diff: {}
+      index: 4
+      groupId: 3d2gterwZO6T3VLT
+    - name: Auspex
+      id: Compendium.wng-core.items.Item.ao9aV67Lzcvi03KR
+      type: item
+      diff: {}
+      index: 5
+      groupId: F1XGi3fCiaztucXd
+    - name: Data-Slate
+      id: Compendium.wng-core.items.Item.9406td13uMAaKNmc
+      type: item
+      diff: {}
+      index: 6
+      groupId: lddWZYvrsny04UI7
+    - name: Preysense Goggles
+      id: Compendium.wng-core.items.Item.Kw7pOJGegudTy9J5
+      type: item
+      diff: {}
+      index: 7
+      groupId: 2DEz1mM3botmqFij
+    - name: Memorance Implant
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.tUs2eRm91W3Lf153
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 2foSqIiZaUCGLNkX
+      - index: 2
+        type: item
+        groupId: dxuxX6fvijYvIAFC
+      - index: 3
+        type: item
+        groupId: vC2Gx9YD6dF6AYGI
+      - index: 4
+        type: item
+        groupId: 3d2gterwZO6T3VLT
+      - index: 5
+        type: item
+        groupId: F1XGi3fCiaztucXd
+      - index: 6
+        type: item
+        groupId: lddWZYvrsny04UI7
+      - index: 7
+        type: item
+        groupId: 2DEz1mM3botmqFij
+      - index: 8
+        type: item
+        groupId: 56JOSRnVyyGGiBPE
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 3
+      initiative: 3
+      willpower: 4
+      intellect: 6
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 5
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 5
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: null
+    talents:
+      - id: AXqKMwrgsKMdohOw
+        name: Acute Sense
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: B2cgTRM5JBKx3abt
+        name: Loremaster [Keyword]
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710700876347
+  modifiedTime: 1710701071014
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!a8LD6ZI96Dd51MKe'

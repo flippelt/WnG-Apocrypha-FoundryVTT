@@ -1,0 +1,25 @@
+name: TEMPLUM VINDICARE
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/vindicare-white.png
+effects: []
+folder: fMZrkf8jz5Baj0N8
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.SO6ZB8dYpDwDf0Rh
+system:
+  description: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056585
+  modifiedTime: 1710789730807
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: SO6ZB8dYpDwDf0Rh
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 200000
+_key: '!items!SO6ZB8dYpDwDf0Rh'

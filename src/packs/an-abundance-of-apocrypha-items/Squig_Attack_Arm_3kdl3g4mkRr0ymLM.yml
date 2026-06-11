@@ -1,0 +1,76 @@
+name: Squig Attack Arm
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects:
+  - icon: modules/wng-core/assets/icons/augmetics/augmetic.webp
+    name: Squig Attack Arm
+    changes:
+      - key: system.attributes.strength.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: CXniXhFC5biNgTaf
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    _key: '!items.effects!3kdl3g4mkRr0ymLM.CXniXhFC5biNgTaf'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.3kdl3g4mkRr0ymLM
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">This appears to be a normal bionik arm—by Ork
+    standards, at least—but conceals a compartment containing a gnasher squig
+    which is quite angry at being stuffed into a hidden compartment in a bionik
+    arm. This can be opened quickly during a fight to surprise an
+    opponent.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">This is a normal Augmetic Arm, granting you +1 Strength.
+    In addition, you may release the squig as free action on your turn. The
+    squig immediately attacks the nearest creature of your choice within 1m (if
+    there are no other creatures within 1m, it attacks you), rolling 6 dice for
+    its Weapon Skill test. If it hits, it inflicts 8+4ED damage with the Inflict
+    (Bleeding) trait. Whether or not it hits, the squig then flees, is killed,
+    or skulks away with a chunk of fresh meat. You must load a new
+    squig—requiring a Survival test with a DN of 5—during a Regroup or Respite
+    to use this ability again; complications on this test may result in the
+    squig biting you and escaping, as above</span>.<br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: ORK
+  requirements: ''
+  effect: ''
+_id: 3kdl3g4mkRr0ymLM
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099839
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!3kdl3g4mkRr0ymLM'

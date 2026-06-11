@@ -1,0 +1,33 @@
+name: Graia
+type: keyword
+img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+effects: []
+folder: EOubWyxMDb5RRb88
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 1800000
+  core: {}
+system:
+  description: >-
+    <p>Steely minded tenacity and the refusal to retreat are more than just
+    character traits of those who serve Graia. Indeed, such qualities are
+    hardwired into all who bear the forge world’s symbol.</p><p><strong>REFUSAL
+    TO YIELD:</strong> When you make a Test while Dying, you heal 1 Wound for
+    each Wrath Critical you roll. When you make a Test while under the effects
+    of Fear, Terror or Pinning, a Wrath Critical causes you to recover from that
+    condition immediately. However, you must spend a point of Glory to Fall
+    Back.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699478596396
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 21qn1DTST2gON0Ln
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!21qn1DTST2gON0Ln'

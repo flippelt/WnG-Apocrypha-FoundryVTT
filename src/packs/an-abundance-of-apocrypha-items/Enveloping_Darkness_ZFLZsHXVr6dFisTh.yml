@@ -1,0 +1,139 @@
+name: Enveloping Darkness
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Hindered
+    icon: systems/wrath-and-glory/asset/icons/conditions/hindered.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '2'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - hindered
+    _id: CCLlOcoOeDQrxPVO
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    tint: null
+    _key: '!items.effects!ZFLZsHXVr6dFisTh.CCLlOcoOeDQrxPVO'
+  - name: Vulnerable
+    icon: systems/wrath-and-glory/asset/icons/conditions/vulnerable.svg
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    statuses:
+      - vulnerable
+    _id: Cm5KoXtEsUGdtAPs
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    tint: null
+    _key: '!items.effects!ZFLZsHXVr6dFisTh.Cm5KoXtEsUGdtAPs'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.ZFLZsHXVr6dFisTh
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>At your command, the shadows cast by your enemies rise up and engulf them
+    like a dense flock of ravens, leaving them disoriented and vulnerable to
+    attack. This power affects all enemies in a Blast (6) you can see within
+    range. Affected enemies suffer the Hindered 2 and Vulnerable 2 conditions
+    until the start of your next turn.</p>
+  effect: ''
+  cost: 15
+  activation: full
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: RAVEN GUARD
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Add +1 to Hindered rating.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Add +1 to Vulnerable rating.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: 'Affected area is a Blast (10). '
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: ZFLZsHXVr6dFisTh
+folder: eJ7mtTuoleAkMUij
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959352
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ZFLZsHXVr6dFisTh'

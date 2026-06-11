@@ -1,0 +1,70 @@
+name: Warptime
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.7xO4T8tob38IC8BF
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The power of the immaterium bursts from you, warping time and heightening
+    the speed of your allies. You and all allies with the CHAOS keyword within
+    range, may immediately move up to your Speed.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 5m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: HERETIC ASTARTES, CHAOS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Speed to all affected characters.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 7xO4T8tob38IC8BF
+folder: 62AZxr813CAe5Qug
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519015
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!7xO4T8tob38IC8BF'

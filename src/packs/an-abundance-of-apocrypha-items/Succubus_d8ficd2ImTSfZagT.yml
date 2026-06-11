@@ -1,0 +1,152 @@
+folder: lEqVRehKQvTYGEoK
+name: Succubus
+type: archetype
+_id: d8ficd2ImTSfZagT
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 0
+  cost: 270
+  keywords:
+    - AELDARI
+    - DRUKHARI
+    - WYCH
+    - '[CULT]'
+  attributes:
+    strength: 4
+    toughness: 3
+    agility: 6
+    initiative: 6
+    willpower: null
+    intellect: null
+    fellowship: 4
+  skills:
+    athletics: 4
+    awareness: null
+    ballisticSkill: null
+    cunning: 2
+    deception: null
+    insight: null
+    intimidation: 3
+    investigation: null
+    leadership: 1
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Lightning Dodge
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rDvoT1Pf9PsiEsiZ
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Wychsuit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jXwTZehsR4s1js5O
+      type: item
+      diff: {}
+      index: 1
+      groupId: 4yooHjUySunZfZO2
+    - name: Archite Glaive
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JbV7tiyYLCDw5KNm
+      type: item
+      diff: {}
+      index: 2
+      groupId: zpOnLbOyC7uDALCo
+    - name: Agoniser
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.D5OOTOiHLcIMkw5x
+      type: item
+      diff: {}
+      index: 3
+      groupId: 6nZZja3gtLD3TgcG
+    - name: Hekatarii Combat Drugs
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.D94t8tJ06b13Hgoi
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: 36G69XRmo7xkSBMC
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 4yooHjUySunZfZO2
+      - index: 2
+        type: item
+        groupId: zpOnLbOyC7uDALCo
+      - index: 3
+        type: item
+        groupId: 6nZZja3gtLD3TgcG
+      - index: 4
+        type: item
+        groupId: 36G69XRmo7xkSBMC
+  suggested:
+    attributes:
+      strength: 5
+      toughness: 3
+      agility: 7
+      initiative: 7
+      willpower: 5
+      intellect: 4
+      fellowship: 4
+    skills:
+      athletics: 6
+      awareness: 1
+      ballisticSkill: null
+      cunning: 4
+      deception: 2
+      insight: 1
+      intimidation: 5
+      investigation: null
+      leadership: 3
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 7
+    talents:
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: 26UYjRZ4VBoL1EyC
+        name: Blood Must Flow!
+      - id: 2G1RaWceBpoHoUBb
+        name: Storm of Death
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710789409806
+  modifiedTime: 1710789621973
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!d8ficd2ImTSfZagT'

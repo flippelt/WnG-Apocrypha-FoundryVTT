@@ -1,0 +1,71 @@
+name: Swooping Hawk Wings
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Swooping Hawk Wings
+    changes:
+      - key: system.combat.fly
+        mode: 5
+        value: '@combat.speed * 2'
+        priority: null
+    _id: 0N3jZCV9G9rVHCVH
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!vIF2pDOlqbFOkkPa.0N3jZCV9G9rVHCVH'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.vIF2pDOlqbFOkkPa
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Swooping Hawk Wings are specialized Eldar jump
+    packs used exclusively by the Swooping Hawk Aspect Warriors. Composed of
+    vibrating feather plates, these wings combine an anti-gravity lifter with
+    jet propulsion motors to give the Swooping Hawks their impressive flight
+    speed and manoeuvrability. In addition, the large wings allow the user to
+    glide for long distances, and provide added lift for an increased flight
+    ceiling, while the vibrating feathers emit a distinctive shrieking
+    sound.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">A warrior wearing Swooping Hawk Wings gains
+    the ability to fly, and a flying speed equal to twice their normal movement
+    speed.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: AELDARI, ASURYANI
+  effect: ''
+_id: vIF2pDOlqbFOkkPa
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240253
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 1900000
+_key: '!items!vIF2pDOlqbFOkkPa'

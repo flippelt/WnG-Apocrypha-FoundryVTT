@@ -1,0 +1,68 @@
+name: Flail
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: UKW9fc5N5PhetyLi
+flags:
+  cf: null
+  core: {}
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>A hafted melee weapon, with one or more chains attached to weighted or
+    spiked heads, able to batter through a foe&rsquo;s defences and inflict
+    considerable damage.</p>
+  value: 3
+  keywords: '[ANY]'
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: overwhelming
+      custom: true
+      display: Overwhelming
+      description: >-
+        The weapon can batter past even the most proficient defence. When you
+        make an attack with an Overwhelming weapon, the target does not benefit
+        from the Parry trait of any of their weapons or the Defence bonus from
+        Shields.
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: QVhzbaSNcDLOlbvb
+sort: 400000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!QVhzbaSNcDLOlbvb'

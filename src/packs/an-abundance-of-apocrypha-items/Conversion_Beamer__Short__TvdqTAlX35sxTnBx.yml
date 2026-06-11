@@ -1,0 +1,79 @@
+name: Conversion Beamer (Short)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.TvdqTAlX35sxTnBx
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The Conversion Beamer, also called a Conversion
+    Beam Projector, is an incredibly rare and deadly antimatterbased pre-Horus
+    Heresy archaeotech weapon most likely developed during the Age of
+    Technology. It fires a directed energy beam of antimatter particles which
+    cause a matter-antimatter explosion in its target. It is a powerful,
+    long-ranged weapon whose beam intensity actually becomes stronger the
+    farther the range to its target, up to a terminal distance point where the
+    beam finally begins to lose coherence.</span></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">At medium range, the weapon gains +2 ED, +2 Blast rating,
+    and improves the AP to -2. At long range, the weapon gains +4 ED, +4 Blast
+    rating, and improves the AP to -3.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: EXOTIC, ADEPTUS MECHANICUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 21
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: blast
+      rating: 4
+    - name: heavy
+      rating: 8
+  upgrades: []
+_id: TvdqTAlX35sxTnBx
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711880
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!TvdqTAlX35sxTnBx'

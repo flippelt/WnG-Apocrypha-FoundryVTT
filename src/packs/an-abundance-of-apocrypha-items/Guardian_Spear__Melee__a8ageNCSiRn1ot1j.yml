@@ -1,0 +1,60 @@
+name: Guardian Spear (Melee)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+flags:
+  cf: null
+  core: {}
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>The Guardian Spear has been the signature weapon of the Adeptus Custodes
+    since the time of the Unification Wars in the 30th Millennium. Elegant and
+    deadly, it is a potent and unique design incorporating a Power Blade and a
+    highly advanced integrated Bolter weapon</p>
+  value: 9
+  keywords: POWER FIELD, 2-HANDED, ADEPTUS CUSTODES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits: []
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: M81y3pnOdLuRP51r
+_id: a8ageNCSiRn1ot1j
+sort: 900000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!a8ageNCSiRn1ot1j'

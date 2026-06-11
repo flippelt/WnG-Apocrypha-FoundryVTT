@@ -1,0 +1,70 @@
+name: Gaze of Ynnead
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.t2US0TIzws76pXWP
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Your eyes blaze with fire as they channel the power of Ynnead. You target
+    one enemy with a psychic ranged attack. If hit, the target suffers 1d3+2
+    Mortal Wounds</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: AELDARI, PSYCHIC
+  prerequisites: YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3+2
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound.
+      cost: 3
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: t2US0TIzws76pXWP
+folder: ARcOsKVs8T8FOgzM
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742880
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!t2US0TIzws76pXWP'

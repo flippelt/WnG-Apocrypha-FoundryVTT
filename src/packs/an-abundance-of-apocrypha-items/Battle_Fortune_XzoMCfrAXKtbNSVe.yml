@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Battle Fortune
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Dire Avenger aspect
+  description: >-
+    <p>You are protected by fate, warded from death until your purpose is done.
+    You may roll Determination against Mortal Wounds. In addition, when you Roll
+    Determination, you do not suffer Shock.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.whbWWZxc65s6MuWc
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699810880538
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: XzoMCfrAXKtbNSVe
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!XzoMCfrAXKtbNSVe'

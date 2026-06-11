@@ -1,0 +1,161 @@
+folder: MhFWvdL9JDBJQXdr
+name: Sister Dialogus Polyglot
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adepta Sororitas
+    id: Compendium.wng-core.items.Item.oVPeTKFG3XJG7bKv
+  influence: 1
+  cost: 24
+  keywords:
+    - IMPERIUM
+    - ADEPTA SORORITAS
+    - '[ORDER]'
+    - ADEPTUS MINISTORUM
+    - PRIEST
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: 1
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Sanctified Linguist
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VirmeFUJY7txcfQz
+  wargear:
+    - name: Sororitas Power Armour
+      id: Compendium.wng-core.items.Item.mnIlYQgkBxakPumK
+      type: item
+      diff: {}
+      index: 0
+      groupId: S1cgi1xMomOcF1ZU
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 1
+      groupId: zBnQxifk158zP9en
+    - name: Rule of the Sororitas
+      id: Compendium.wng-core.items.Item.YXTc35poOQsWeSgD
+      type: item
+      diff: {}
+      index: 2
+      groupId: OMRrsLpo4lJBcGoO
+    - type: generic
+      name: Collection of reference texts
+      filters: []
+      index: 3
+      groupId: SKFTnQptVmfrSCGd
+    - name: Vox Caster
+      id: Compendium.wng-core.items.Item.BqbbsuADNQE5l2yl
+      type: item
+      diff: {}
+      index: 4
+      groupId: NjplSeO9dSvlvxM2
+    - name: Laud-Hailer
+      id: Compendium.wng-forsaken.items.Item.L2080O7hjoJ2oiD3
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: S1cgi1xMomOcF1ZU
+      - index: 1
+        type: item
+        groupId: zBnQxifk158zP9en
+      - index: 2
+        type: item
+        groupId: OMRrsLpo4lJBcGoO
+      - type: item
+        index: 3
+        groupId: SKFTnQptVmfrSCGd
+      - index: 4
+        type: item
+        groupId: NjplSeO9dSvlvxM2
+      - index: 5
+        type: item
+        groupId: MuuNLfmnaInJJVkG
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 3
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 1
+      leadership: null
+      medicae: null
+      persuasion: 2
+      pilot: null
+      psychicMastery: null
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: ndXKRj7tRorEKRzk
+        name: Orthopraxy
+      - id: Ovkl7jPFSdApcy2b
+        name: Inspired Blessing
+      - id: nAMJf2unu1HOzohk
+        name: Shield of Faith
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KGnfihlSrUlqRR1I
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699538598947
+  modifiedTime: 1710598093270
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: KGnfihlSrUlqRR1I
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!KGnfihlSrUlqRR1I'

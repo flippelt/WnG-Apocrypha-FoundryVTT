@@ -1,0 +1,104 @@
+name: Delightful Agonies
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Delightful Agonies (bonus)
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.det'
+        priority: null
+    _id: 3KkW9VTXrWlDSdbu
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!WvmPL9YTXustTPLj.3KkW9VTXrWlDSdbu'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.WvmPL9YTXustTPLj
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Those whose minds are touched by the Sorcerer’s caress are wracked by
+    waves of exquisite pain, and the real injuries of battle are trivial by
+    comparison. Select a number of allies with the SLAANESH keyword within range
+    equal to your Willpower. Until the start of your next turn, the affected
+    allies may roll Determination against Mortal Wounds, and do not suffer any
+    Shock when they roll Determination—each Icon rolled simply negates a Wound
+    or Mortal Wound.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, SLAANESH, PSYCHIC
+  prerequisites: HERETIC ASTARTES, SLAANESH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affect an additional number of affected allies equal to your Willpower
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: +1 bonus dice on Determination rolls.
+      cost: 2
+      property: det
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: WvmPL9YTXustTPLj
+folder: 62AZxr813CAe5Qug
+sort: 600000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519029
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!WvmPL9YTXustTPLj'

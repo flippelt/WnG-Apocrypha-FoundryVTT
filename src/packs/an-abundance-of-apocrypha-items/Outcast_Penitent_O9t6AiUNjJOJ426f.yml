@@ -1,0 +1,82 @@
+folder: fgtFfRbmshJ8KM1n
+name: Outcast Penitent
+type: ability
+_id: O9t6AiUNjJOJ426f
+img: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank bonus dice to Corruption tests, any Test to resist the
+    effects of a psychic power, and Determination rolls.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+    name: Outcast Penitent
+    _id: Ty9sehauhpz5cNpl
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              You add +Rank bonus dice to Corruption tests, any Test to resist
+              the effects of a psychic power, and Determination rolls.
+            hide: ''
+    tint: null
+    _key: '!items.effects!O9t6AiUNjJOJ426f.Ty9sehauhpz5cNpl'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710617387924
+  modifiedTime: 1710617429762
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!O9t6AiUNjJOJ426f'

@@ -1,0 +1,436 @@
+folder: GHP0SxnnlNKFusRJ
+name: Autarch
+type: archetype
+_id: OYpFaAd4DYBxnYts
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 3
+  cost: 290
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: 5
+    initiative: 5
+    willpower: 5
+    intellect: 5
+    fellowship: 4
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: 5
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Superlative Strategist
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.abE59vjk6u67lpIB
+  wargear:
+    - name: Deathspinner
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rWAfo1C0PTCR0XgL
+      type: item
+      diff: {}
+      index: 0
+      groupId: q5baTkVWiEwOHycj
+    - name: Dragon Fusion Gun
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.f5AZcBo73t94as1X
+      type: item
+      diff: {}
+      index: 1
+      groupId: rhDuo4yYfJ7ykqgY
+    - name: Reaper Launcher
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.j3MWWqJY6noM3eeM
+      type: item
+      diff: {}
+      index: 2
+      groupId: uvaUKQTapOmUEyyT
+    - name: Banshee Blade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1RNIRTNGDNSFLjlB
+      type: item
+      diff: {}
+      index: 3
+      groupId: 4MYPdJlGfFQa2bfY
+    - name: Scorpion Chainsword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rMj0AlzEz52bSt2L
+      type: item
+      diff: {}
+      index: 4
+      groupId: zbeMPFqgRSEGBXMs
+    - type: generic
+      name: Star Glaive
+      filters: []
+      index: 5
+      groupId: EzihLB5b9ZcwOgQh
+    - name: Laser Lance (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Gt00PqgOKOeilIxS
+      type: item
+      diff: {}
+      index: 6
+      groupId: EEi8fxbsDp8uVZOO
+    - name: Laser Lance (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.s62o2qaBS0mhQ8Lf
+      type: item
+      diff: {}
+      index: 7
+      groupId: 09tCjgRQoHDdO1kl
+    - name: Laser Lance (Melee Mounted)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9dmUd6Bmw9B3UDSp
+      type: item
+      diff: {}
+      index: 8
+      groupId: ps2T8mZInCZBeQVq
+    - name: Banshee Mask
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.uUyjTgqxEzQa2nPb
+      type: item
+      diff: {}
+      index: 9
+      groupId: n0c4omwn8Fmvtbio
+    - name: Mandiblaster Helm
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1X8SPxTUC7IdYB2M
+      type: item
+      diff: {}
+      index: 10
+      groupId: pT3ntYOlSOhRlnpY
+    - name: Swooping Hawk Wings
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.vIF2pDOlqbFOkkPa
+      type: item
+      diff: {}
+      index: 11
+      groupId: hkqM9yMzVWcee8XA
+    - name: Warp Spider Jump Generator
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.DvIoHpvBEvAJwUhm
+      type: item
+      diff: {}
+      index: 12
+      groupId: A3vHoMQysVL1u0eX
+    - type: generic
+      name: Aeldari Jetbike (NYI)
+      filters: []
+      index: 13
+      groupId: CvRKeLsJIckel8qN
+    - name: Deathspinner
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rWAfo1C0PTCR0XgL
+      type: item
+      diff: {}
+      index: 14
+      groupId: wpCDDdtAsnR4sp1Y
+    - name: Dragon Fusion Gun
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.f5AZcBo73t94as1X
+      type: item
+      diff: {}
+      index: 15
+      groupId: 1E0jxh05egQBy7Nt
+    - name: Reaper Launcher
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.j3MWWqJY6noM3eeM
+      type: item
+      diff: {}
+      index: 16
+      groupId: Sxwx5fGCkxdFrEqP
+    - name: Banshee Blade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1RNIRTNGDNSFLjlB
+      type: item
+      diff: {}
+      index: 17
+      groupId: RqulFohKTG6qLijn
+    - name: Scorpion Chainsword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rMj0AlzEz52bSt2L
+      type: item
+      diff: {}
+      index: 18
+      groupId: tDLiPd6EV51YxDC0
+    - type: generic
+      name: Star Glaive
+      filters: []
+      index: 19
+      groupId: 0JeyWJVeRjbPOG3n
+    - name: Laser Lance (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Gt00PqgOKOeilIxS
+      type: item
+      diff: {}
+      index: 20
+      groupId: hbNX731z6QCE4pNc
+    - name: Laser Lance (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.s62o2qaBS0mhQ8Lf
+      type: item
+      diff: {}
+      index: 21
+      groupId: QNfgNR3G6XBdYbSm
+    - name: Laser Lance (Melee Mounted)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9dmUd6Bmw9B3UDSp
+      type: item
+      diff: {}
+      index: 22
+      groupId: aotoV81YNqqqrcHK
+    - name: Banshee Mask
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.uUyjTgqxEzQa2nPb
+      type: item
+      diff: {}
+      index: 23
+      groupId: VjCIxBFBA2AqZJeA
+    - name: Mandiblaster Helm
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1X8SPxTUC7IdYB2M
+      type: item
+      diff: {}
+      index: 24
+      groupId: d5TPs8DnCGjCqOPc
+    - name: Swooping Hawk Wings
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.vIF2pDOlqbFOkkPa
+      type: item
+      diff: {}
+      index: 25
+      groupId: XUvOLSQuNVlJEe6F
+    - name: Warp Spider Jump Generator
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.DvIoHpvBEvAJwUhm
+      type: item
+      diff: {}
+      index: 26
+      groupId: 75iXEs0x9P0juwPl
+    - type: generic
+      name: Aeldari Jetbike (NYI)
+      filters: []
+      index: 27
+      groupId: jUn36sx6LuqXSYPJ
+    - name: Shuriken Pistol
+      id: Compendium.wng-core.items.Item.ueTuXr4xkzevIL4X
+      type: item
+      diff: {}
+      index: 28
+      groupId: wCGPT9wJXQ84FFnI
+    - name: Aspect Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4CN52w3DuI2X6OwJ
+      type: item
+      diff: {}
+      index: 29
+      groupId: SV1exMLrBZ6bpJef
+    - name: Force Shield
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ITLQfWGwbXHWLCgq
+      type: item
+      diff: {}
+      index: 30
+      groupId: jCVj51g85WoFwwdL
+    - name: Plasma Grenade
+      id: Compendium.wng-core.items.Item.IKeDfOaiJOeHPpK7
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 31
+      groupId: uFlotYqbf2i5NvSX
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: or
+        items:
+          - index: 0
+            type: item
+            groupId: q5baTkVWiEwOHycj
+          - index: 1
+            type: item
+            groupId: rhDuo4yYfJ7ykqgY
+          - index: 2
+            type: item
+            groupId: uvaUKQTapOmUEyyT
+          - index: 3
+            type: item
+            groupId: 4MYPdJlGfFQa2bfY
+          - index: 4
+            type: item
+            groupId: zbeMPFqgRSEGBXMs
+          - type: item
+            index: 5
+            groupId: EzihLB5b9ZcwOgQh
+          - index: 9
+            type: item
+            groupId: n0c4omwn8Fmvtbio
+          - index: 10
+            type: item
+            groupId: pT3ntYOlSOhRlnpY
+          - index: 11
+            type: item
+            groupId: hkqM9yMzVWcee8XA
+          - index: 12
+            type: item
+            groupId: A3vHoMQysVL1u0eX
+          - type: item
+            index: 13
+            groupId: CvRKeLsJIckel8qN
+          - type: and
+            items:
+              - index: 6
+                type: item
+                groupId: EEi8fxbsDp8uVZOO
+              - index: 7
+                type: item
+                groupId: 09tCjgRQoHDdO1kl
+              - index: 8
+                type: item
+                groupId: ps2T8mZInCZBeQVq
+            groupId: 6CPOwTSZgU14qiUG
+        groupId: Y7C02rWNuWkYmffd
+      - type: or
+        items:
+          - index: 14
+            type: item
+            groupId: wpCDDdtAsnR4sp1Y
+          - index: 16
+            type: item
+            groupId: Sxwx5fGCkxdFrEqP
+          - index: 17
+            type: item
+            groupId: RqulFohKTG6qLijn
+          - index: 15
+            type: item
+            groupId: 1E0jxh05egQBy7Nt
+          - index: 18
+            type: item
+            groupId: tDLiPd6EV51YxDC0
+          - type: item
+            index: 19
+            groupId: 0JeyWJVeRjbPOG3n
+          - type: and
+            items:
+              - index: 21
+                type: item
+                groupId: QNfgNR3G6XBdYbSm
+              - index: 22
+                type: item
+                groupId: aotoV81YNqqqrcHK
+              - index: 20
+                type: item
+                groupId: hbNX731z6QCE4pNc
+            groupId: DRA4yD70bes5asUS
+          - index: 23
+            type: item
+            groupId: VjCIxBFBA2AqZJeA
+          - index: 24
+            type: item
+            groupId: d5TPs8DnCGjCqOPc
+          - index: 25
+            type: item
+            groupId: XUvOLSQuNVlJEe6F
+          - index: 26
+            type: item
+            groupId: 75iXEs0x9P0juwPl
+          - type: item
+            index: 27
+            groupId: jUn36sx6LuqXSYPJ
+        groupId: ChGO9FCzZITBQvTJ
+      - index: 30
+        type: item
+        groupId: jCVj51g85WoFwwdL
+      - index: 31
+        type: item
+        groupId: uFlotYqbf2i5NvSX
+      - index: 32
+        type: item
+        groupId: FzxT38ZOPlCRT3cr
+      - index: 28
+        type: item
+        groupId: wCGPT9wJXQ84FFnI
+      - index: 29
+        type: item
+        groupId: SV1exMLrBZ6bpJef
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 6
+      initiative: 6
+      willpower: 5
+      intellect: 5
+      fellowship: 4
+    skills:
+      athletics: 2
+      awareness: 4
+      ballisticSkill: 5
+      cunning: 1
+      deception: 2
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: 5
+      medicae: null
+      persuasion: 3
+      pilot: 2
+      psychicMastery: null
+      scholar: 3
+      stealth: 2
+      survival: null
+      tech: null
+      weaponSkill: 5
+    talents:
+      - id: Mjor56Aijl63tHLs
+        name: Identify Weakness
+      - id: zrCkrWGkMDPK1kOg
+        name: Battle Focus
+      - id: 1OzEfrtLvMDY3XgW
+        name: Strike and Fade
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710778310991
+  modifiedTime: 1710778973933
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!OYpFaAd4DYBxnYts'

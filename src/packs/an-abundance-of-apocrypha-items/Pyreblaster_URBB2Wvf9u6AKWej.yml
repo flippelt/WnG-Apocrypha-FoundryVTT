@@ -1,0 +1,60 @@
+folder: LOBB1JvXThQYsXF2
+name: Pyreblaster
+type: weapon
+_id: URBB2Wvf9u6AKWej
+img: modules/wng-core/assets/icons/weapons/flamer.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A refined version of flamer employed mainly by
+    Adeptus Astartes Infernus squads. Their design allows them to unleash a more
+    focussed, more devastating gout of flame than conventional
+    flamers</span>.</p>
+  value: 6
+  keywords: FIRE, IMPERIUM, ADEPTUS ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 8
+    medium: 16
+    long: 24
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: assault
+    - name: flamer
+    - name: reliable
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709904475926
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!URBB2Wvf9u6AKWej'

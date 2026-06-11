@@ -1,0 +1,157 @@
+folder: kcIfowy1n7OiCCwE
+name: Hernkyn Pioneer (Kin) (NYI)
+type: archetype
+_id: JLNAt1dMyMPj6B2z
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Kin
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.AqMlTyoQxQws1lEK
+  faction:
+    name: Leagues of Votann
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HSaREh8NK25ui3Ou
+  influence: 0
+  cost: 92
+  keywords:
+    - LEAGUES OF VOTANN
+    - HERNKYN
+    - '[LEAGUE]'
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: null
+    initiative: 3
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 1
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 2
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 2
+  ability:
+    name: Pioneer
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.xIWuyExfKixcnIFZ
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Bolt Shotgun
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9yKbAe63SaM12C3i
+      type: item
+      diff: {}
+      index: 1
+      groupId: MTcDpOW8hAIO0Rkc
+    - name: Autoch-pattern Bolt Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Fm1l84PyK4e6vQIg
+      type: item
+      diff: {}
+      index: 2
+      groupId: n1claxnLO1k0QZ24
+    - name: Pioneer Voidcoat (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Pioneer Voidcoat (Clothing)
+      index: 3
+      groupId: X4rnTq72XpXLCX8r
+    - name: Gravitic Concussion Grenades
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fcHEFpLvFTdxBGpt
+      type: item
+      diff:
+        system:
+          quantity: 2
+      index: 4
+      groupId: 9LFXLlKo816awNLq
+    - type: generic
+      name: Magna-Coil Bike (NYI)
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: MTcDpOW8hAIO0Rkc
+      - index: 2
+        type: item
+        groupId: n1claxnLO1k0QZ24
+      - index: 3
+        type: item
+        groupId: X4rnTq72XpXLCX8r
+      - index: 4
+        type: item
+        groupId: 9LFXLlKo816awNLq
+      - type: item
+        index: 5
+        groupId: Xs8NYM2US68jT5OY
+  suggested:
+    attributes:
+      strength: 5
+      toughness: 5
+      agility: 4
+      initiative: 3
+      willpower: 4
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 3
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: 2
+      weaponSkill: 2
+    talents:
+      - id: AXqKMwrgsKMdohOw
+        name: Acute Sense
+      - id: fIy3evnEKxFiNV4j
+        name: Gallows Humour
+      - id: i2iaIBRjeULHMMHD
+        name: Combat Driving
+effects: []
+sort: 700000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710607076114
+  modifiedTime: 1710710947727
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!JLNAt1dMyMPj6B2z'

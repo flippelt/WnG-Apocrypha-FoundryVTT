@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Guardian
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ''
+  description: >-
+    <p>You are a shield for your allies. Whenever an ally within Rank metres of
+    you is the target of an attack, you may spend 1 Glory as a Reflexive Action
+    to interpose yourself an become the target of that attack instead. You
+    cannot use this talent if you are
+    @UUID[JournalEntry.aWBDTEtsHxlNsthi]{Restrained}or otherwise have impaired
+    movement.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.L7i3cBdzGAIeucbh
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663880357828
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: L7i3cBdzGAIeucbh
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 4500000
+_key: '!items!L7i3cBdzGAIeucbh'

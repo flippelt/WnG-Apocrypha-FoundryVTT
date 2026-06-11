@@ -1,0 +1,81 @@
+name: Mole Grenade Launcher
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade-launcher.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.lCALMqbrtLNaMtUD
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Mole Launcher is a specialized grenade
+    launcher utilized by the Cthonian mining guilds. The weapon fires burrowing
+    warhead which tunnels beneath the ground towards its target, striking
+    indirectly from below rather than arcing down from above</span>.</p>
+  value: 6
+  keywords: EXPLOSIVE, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+    - name: heavy
+      rating: 6
+    - name: huntr
+      custom: true
+      display: HunTR
+      description: >-
+        HunTR weapons contain auto-calibration and gravstabilisation systems
+        which make them precise at any range. HunTR weapons do not suffer any
+        penalty for being fired at Long Range.
+    - name: indirect
+      custom: true
+      display: Indirect
+      description: >-
+        The weapon can be fired at enemies which are not visible to the bearer,
+        adding +2 to the DN. Enemies attacked indirectly do not receive any
+        bonus to Defence for being in cover.
+  upgrades: []
+_id: lCALMqbrtLNaMtUD
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976166
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!lCALMqbrtLNaMtUD'

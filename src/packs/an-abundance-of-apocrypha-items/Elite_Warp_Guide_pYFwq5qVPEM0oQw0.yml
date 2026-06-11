@@ -1,0 +1,86 @@
+folder: fgtFfRbmshJ8KM1n
+name: Elite Warp Guide
+type: ability
+_id: pYFwq5qVPEM0oQw0
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are trained to be able to guide a starship through the Warp. In
+    addition, you are a PSYKER, and may only learn and use Navigator powers. You
+    begin with the Lidless Stare power and one other Navigator
+    power.</p><p>Finally, your status and influence are such that you gain +Rank
+    bonus dice on Persuasion (Fel) Tests and Influence tests made to negotiate
+    or to acquire goods and services.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+    name: Elite Warp Guide
+    _id: Fb7e2kX07JpCqd3s
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              +Rank bonus dice on Persuasion (Fel) Tests and Influence tests
+              made to negotiate or to acquire goods and services.
+            hide: ''
+    tint: null
+    _key: '!items.effects!pYFwq5qVPEM0oQw0.Fb7e2kX07JpCqd3s'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710714103191
+  modifiedTime: 1710714199788
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!pYFwq5qVPEM0oQw0'

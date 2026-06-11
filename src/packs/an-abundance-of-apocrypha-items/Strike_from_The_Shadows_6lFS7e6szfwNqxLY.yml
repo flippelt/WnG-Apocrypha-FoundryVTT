@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Strike from The Shadows
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: RAVEN GUARD keyword
+  description: >-
+    <p>The Sons of Corax emerge from the shadows and fall upon their prey in a
+    swift, deadly strike that leaves the enemy dead before they can
+    respond.<br>When you attack an enemy unaware of your presence, or make an
+    attack during an ambush, your target becomes
+    @UUID[JournalEntry.jStDaQOAExaZ2t6O]{Vulnerable}with a rating equal to your
+    Rank.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6lFS7e6szfwNqxLY
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127953287
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6lFS7e6szfwNqxLY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1400000
+_key: '!items!6lFS7e6szfwNqxLY'

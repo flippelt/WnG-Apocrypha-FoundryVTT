@@ -1,0 +1,84 @@
+name: Mindwar
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.xNnUkPLLYf1XcmHv
+system:
+  dn: '@attributes.willpower.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You reach out to attack the mind of an enemy in a desperate mental duel.
+    Foes find their thoughts invaded by the crushing presence of their invader,
+    whose ancient and inscrutable will triggers cascades of psychosomatic trauma
+    and crushes the victim’s personality with terrifying ease. You make an
+    opposed Willpower test against the target when the power is used, and at the
+    start of each of your turns while the power is sustained. If you win an
+    opposed test, then the target suffers 1d3 Mortal Wounds. If the target wins
+    the opposed test, the power’s effects end immediately.</p>
+  effect: ''
+  cost: 25
+  activation: full
+  duration: Sustained
+  range: 35m
+  multiTarget: false
+  keywords: AELDARI, TELEPATHY, PSYCHIC
+  prerequisites: AELDARI, FARSEER
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound on each successful opposed test.
+      cost: 1
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+    - description: >-
+        If the target has the PSYKER keyword, you may choose for them to lose
+        the use of one psychic power they know (your choice) until they next
+        Regroup.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: xNnUkPLLYf1XcmHv
+folder: SWCK2I9zpJkIWpsv
+sort: 175000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742858
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!xNnUkPLLYf1XcmHv'

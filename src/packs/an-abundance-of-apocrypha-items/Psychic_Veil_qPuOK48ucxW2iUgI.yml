@@ -1,0 +1,76 @@
+name: Psychic Veil
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.qPuOK48ucxW2iUgI
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You conjure a glamour to shield your allies from inhuman eyes. If
+    successful, all IMPERIUM allies within range immediately gain a Stealth
+    Score equal to your Intellect for the duration of the power</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 6m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: INQUISITION and ORDO XENOS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Stealth Score increased by +1
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: The duration is increased by +1 Round.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: qPuOK48ucxW2iUgI
+folder: Xna24or3vCqYsURu
+sort: 112500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206768
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!qPuOK48ucxW2iUgI'

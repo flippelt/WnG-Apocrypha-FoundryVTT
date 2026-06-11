@@ -1,0 +1,112 @@
+name: Putrescent Vitality
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Putrescent Vitality
+    changes:
+      - key: system.attributes.strength.bonus
+        mode: 2
+        value: '2'
+        priority: null
+      - key: system.attributes.toughness.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: io7OUrDsREwpIqpN
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!SvXf0zMtrNF5BVnu.io7OUrDsREwpIqpN'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.SvXf0zMtrNF5BVnu
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Rancorous energies surge through Nurgle’s followers, bloating their
+    distended bodies further with fresh infections and granting them new
+    strength. Select a number of allies with the NURGLE keyword within range
+    equal to your Willpower. The affected allies add +2 to their Strength and
+    Toughness until the start of your next turn.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: HERETIC ASTARTES, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Each affected ally regains 1d3 Shock.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Each affected ally regains 1 Wound.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: SvXf0zMtrNF5BVnu
+folder: i8b0La8fz53gTHrf
+sort: 125000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519044
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!SvXf0zMtrNF5BVnu'

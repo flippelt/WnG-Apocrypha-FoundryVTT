@@ -1,0 +1,47 @@
+name: Rictus Mask
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.oCnBjfphRa0tHnZo
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A Rictus Mask, called </span><span
+    class="fontstyle2">marathag</span><span class="fontstyle0">, or “face of
+    death” in the Aeldari language, fills those who see it with an almost
+    uncontrollable urge for morbid selfpreservation.</span></p><p></p><p><span
+    class="fontstyle3"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The wearer of a Rictus Mask causes </span><span
+    class="fontstyle2">Fear </span><span class="fontstyle0">(DN 3 +Rank).
+    Further, when the wearer makes an Intimidation Interaction Attack, if the
+    attack is successful, the target is also </span><span
+    class="fontstyle2">Pinned </span><span class="fontstyle0">as if suppressed
+    by a Salvo 5 weapon.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: HARLEQUIN
+  effect: ''
+_id: oCnBjfphRa0tHnZo
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240241
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 1600000
+_key: '!items!oCnBjfphRa0tHnZo'

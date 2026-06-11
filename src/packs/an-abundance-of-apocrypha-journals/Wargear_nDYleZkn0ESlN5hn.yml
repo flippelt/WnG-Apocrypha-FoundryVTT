@@ -1,0 +1,17 @@
+name: Wargear
+sorting: m
+type: JournalEntry
+color: '#000000'
+folder: null
+description: ''
+sort: 0
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1699294434936
+  modifiedTime: 1699294434936
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: nDYleZkn0ESlN5hn
+_key: '!folders!nDYleZkn0ESlN5hn'

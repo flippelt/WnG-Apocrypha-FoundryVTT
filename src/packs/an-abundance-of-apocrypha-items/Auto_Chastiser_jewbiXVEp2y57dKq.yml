@@ -1,0 +1,45 @@
+name: Auto-Chastiser
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.jewbiXVEp2y57dKq
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">This compact device, worn beneath clothing and
+    armour, connects to the nervous system and monitors their mental state. The
+    device’s machine spirit is tuned to respond to the wearer’s own feelings of
+    failure, punishing inadequacy with corrective spikes of
+    pain.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">While wearing an Auto-Chastiser, you may
+    reroll any dice on a skill test which roll 1s. However, any dice which you
+    re-roll which still results in a 1 inflicts 1 Shock.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: IMPERIUM, ADEPTUS MINISTORUM, ADEPTA SORORITAS
+  effect: ''
+_id: jewbiXVEp2y57dKq
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937564
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!jewbiXVEp2y57dKq'

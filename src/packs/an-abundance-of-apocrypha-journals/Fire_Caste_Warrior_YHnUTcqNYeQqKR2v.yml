@@ -1,0 +1,73 @@
+folder: Eur8pJbhW3UOXOhY
+name: Fire Caste Warrior
+pages:
+  - sort: 100000
+    name: 'Figure: Fire Caste Warrior'
+    type: image
+    _id: mBuCduq3JtId3ZNF
+    title:
+      show: true
+      level: 1
+    image:
+      caption: Air Caste Pilot and Drone
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    src: modules/wng-apocrypha/assets/images/archetypes/fire-caste-warrior.jpg
+    system: {}
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!YHnUTcqNYeQqKR2v.mBuCduq3JtId3ZNF'
+  - sort: 200000
+    name: Fire Caste Warrior
+    type: text
+    _id: FqN8NsvqDywleKNZ
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: "<blockquote><p>A well-maintained warrior is an effective warrior.</p><p style=\"text-align:right\"><em>—— Sio’t meditation 12, lesson 4</em></p></blockquote><p><strong>You are a warrior of the T’au Empire, a member of the Fire Caste. You have been born and raised to fight for the defence and expansion of the Empire, and you have been well-equipped for that task.</strong></p><p>Having been bred and trained to be soldiers at birth, Tau Fire Warriors strictly follow both the Greater Good and the Code of Fire and represent the best fighters of their species. They are soldiers outfitted with a wide variety of advanced technology. Their main firearm is the Pulse Rifle, although they do sometimes use Pulse Carbines.</p><p>As basic infantry, they are deployed in small teams to efficiently deploy the superior firepower they can bring to bear. Fire Warriors are known to be efficient, professional, but cautious fighters. Often deployed from a Devilfish APC, they can rapidly deploy and way down withering barrages of fire against their foes. The basic team is made up of six Fire Warriors, but it is not uncommon for them to contain up to twelve including a Shas'ui team leader, as well as supporting drones.</p><div class=\"journal-image centered\"><img src=\"modules/wng-apocrypha/assets/images/archetypes/fire-caste-warrior.jpg\" width=\"215\" height=\"300\" /></div><table style=\"width:98.9228%;height:234px\" border=\"1\"><tbody><tr class=\"table-header\" style=\"background-color:#846404;height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\">FIRE CASTE WARRIOR</td></tr><tr style=\"height:16px\"><td style=\"background-color:#846404;color:white;text-align:center;width:26.5674%;height:16px\" colspan=\"2\">TIER</td><td style=\"width:8.3%;height:16px;text-align:center\">1</td><td style=\"background-color:#846404;color:white;width:16.2617%;height:16px;text-align:center\" colspan=\"2\">SPECIES</td><td style=\"width:11.7268%;height:16px;text-align:center\">Shas T'au</td><td style=\"background-color:#846404;color:white;width:11.6223%;height:16px;text-align:center\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center\">8</td></tr><tr style=\"height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>KEYWORDS</strong>:@UUID[Item.F7FRdD4PlRSmS3xN]{T'AU EMPIRE}, @UUID[Item.IZKow5SDbQX6vBIn]{FIRE CASTE},@UUID[Item.Qr5PyX5ivlRSnOZV]{[SEPT]}</td></tr><tr style=\"height:16px;background-color:rgba(0, 0, 0, .2)\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>SKILLS</strong>:\_Ballistic Skill 2, Tech 1</td></tr><tr style=\"height:16px\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><p><strong>ARCHETYPE ABILITY</strong>:@UUID[Item.wdSssxWzbZn8nMNM]{Disciplined Volley}</p></td></tr><tr style=\"height:16px;background-color:rgba(0, 0, 0, .2)\"><td style=\"width:92.7291%;height:16px\" colspan=\"8\"><strong>WARGEAR</strong>: T’au Body Armour, Pulse Rifle or Pulse Carbine, 3 Photon Grenades</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"width:51.1291%;height:16px;background-color:#846404;text-align:left\" colspan=\"5\"><strong>SUGGESTED ATTRIBUTES</strong></td><td style=\"background-color:#846404;color:white;text-align:center;width:23.3491%;height:16px\" colspan=\"2\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">48</td></tr><tr style=\"font-variant:small-caps;height:16px\"><td style=\"background-color:#846404;color:white;width:14.0674%;height:16px\">ATTRITBUTE</td><td style=\"width:12.5%;height:16px;text-align:center\">S</td><td style=\"width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">T</td><td style=\"width:5.17241%;height:16px;text-align:center\">A</td><td style=\"width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">I</td><td style=\"width:11.7268%;height:16px;text-align:center\">Wil</td><td style=\"width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">Int</td><td style=\"width:18.2509%;height:16px;text-align:center\">Fel</td></tr><tr style=\"height:16px\"><td style=\"background-color:#846404;color:white;width:14.0674%;height:16px\">RATING</td><td style=\"width:12.5%;height:16px;text-align:center\">3</td><td style=\"width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">3</td><td style=\"width:5.17241%;height:16px;text-align:center\">3</td><td style=\"width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)\">3</td><td style=\"width:11.7268%;height:16px;text-align:center\">2</td><td style=\"width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">1</td><td style=\"width:18.2509%;height:16px;text-align:center\">3</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"background-color:#846404;width:51.1291%;height:16px;text-align:left\" colspan=\"5\"><strong>SUGGESTED SKILLS</strong></td><td style=\"background-color:#846404;color:white;text-align:center;width:23.3491%;height:16px\" colspan=\"2\">XP Cost</td><td style=\"width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)\">20</td></tr><tr style=\"height:16px\"><td style=\"height:16px;width:92.7291%\" colspan=\"8\">Athletics 2, Awareness 1, Ballistic Skill 3, Survival 1, Tech 2</td></tr><tr style=\"height:16px\"><td class=\"table-header\" style=\"background-color:#846404;width:92.7291%;height:16px\" colspan=\"8\">SUGGESTED TALENTS</td></tr><tr style=\"height:16px\"><td style=\"height:16px;width:92.7291%\" colspan=\"8\">@UUID[Item.s6OMveAvTlOrsUsO]{Deadshot}, @UUID[Item.jf54LPrTTMkWzoiB]{Pulse Onslaught}, @UUID[Item.yu5AnzdlMjCwN3Yl]{Ta'lissera Bonding}</td></tr></tbody></table>"
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!YHnUTcqNYeQqKR2v.FqN8NsvqDywleKNZ'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664171799977
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: YHnUTcqNYeQqKR2v
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!YHnUTcqNYeQqKR2v'
+categories: []

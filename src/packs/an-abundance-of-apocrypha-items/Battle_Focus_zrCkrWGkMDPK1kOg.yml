@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Battle Focus
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: Aeldari species, ASURYANI keyword
+  description: >-
+    <p>The warriors of the Craftworlds are swift and certain, able to fight on
+    the move with startling effectiveness.<br>You do not have to move in a
+    straight line when you sprint. Further, when you Sprint, you may make a
+    ranged attack with any weapon as if that weapon had the Assault trait. You
+    do not suffer the normal +2DN on the attack for doing this. This does not
+    apply to weapons with the Heavy trait.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zrCkrWGkMDPK1kOg
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663877605171
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: zrCkrWGkMDPK1kOg
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 11400000
+_key: '!items!zrCkrWGkMDPK1kOg'

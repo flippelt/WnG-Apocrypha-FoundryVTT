@@ -1,0 +1,16 @@
+name: Dark Hereticus
+sorting: a
+folder: qIrZ59tucTSckSMq
+type: Item
+_id: 62AZxr813CAe5Qug
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686555540
+  modifiedTime: 1712690683119
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!62AZxr813CAe5Qug'

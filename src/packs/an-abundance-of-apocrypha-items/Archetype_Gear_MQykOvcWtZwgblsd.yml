@@ -1,0 +1,16 @@
+name: Archetype Gear
+sorting: a
+folder: fgtFfRbmshJ8KM1n
+type: Item
+_id: MQykOvcWtZwgblsd
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: null
+  systemVersion: null
+  coreVersion: null
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+_key: '!folders!MQykOvcWtZwgblsd'

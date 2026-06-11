@@ -1,0 +1,48 @@
+folder: H0RDNpOeKBevlLyk
+name: THE PROPHETS OF FLESH
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: ''
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: 2Lm0XxR3mT2XxMIC
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: THE PROPHETS OF FLESH
+    description: ''
+    statuses: []
+    _key: '!items.effects!2oUGC6H0C3BluLe9.2Lm0XxR3mT2XxMIC'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.aUu2JuCc9qf4e0X9
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 2oUGC6H0C3BluLe9
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!2oUGC6H0C3BluLe9'

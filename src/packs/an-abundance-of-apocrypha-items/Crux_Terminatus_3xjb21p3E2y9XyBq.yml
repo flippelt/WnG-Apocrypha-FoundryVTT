@@ -1,0 +1,78 @@
+name: Crux Terminatus
+type: ascension
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+effects:
+  - _id: xI6g25MaMMT5Aaqm
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/ascension/ascension.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: Crux Terminatus
+    description: ''
+    statuses: []
+    _key: '!items.effects!3xjb21p3E2y9XyBq.xI6g25MaMMT5Aaqm'
+folder: 0e4JnvdZPT2mvK1p
+flags:
+  cf: null
+  core: {}
+system:
+  cost: 50
+  description: >-
+    <p>The Crux Terminatus is a stone medallion awarded to highly skilled and
+    experienced Space Marine Veterans. All members of a Chapter trained in the
+    use of Terminator Armour will have been first awarded the Crux Terminatus.
+    These badges, set into the left shoulder plate of Terminator armour, are
+    highly distinctive and usually fashioned from stone. In Codex Chapters,
+    members of the Chapter's veteran First Company are the exclusive users of
+    Terminator armour.</p>
+
+    <p>This Honour appears most commonly as a skull set onto a cruciform shape
+    of red iron or bone. Terminator sergeants often add crossed bones behind the
+    skull, whilst lightning bolts behind the skull are often added for
+    Terminators trained as Assault units wielding lightning claws and thunder
+    hammers with storm shields. Variations include the size and dimensions of
+    the skull and the removal of the crossed lightning bolts or bones or their
+    scale in relation to the shape of the cruciform. The Crux Terminatus is
+    almost always worn on the left shoulder pad, though it may also be worn on
+    one knee pad (this is usually done only in combination with the shoulder
+    pad, however). Legend has it that the first Crux Terminatus ever crafted
+    contained a tiny fragment of the Emperor's own armour within it, an honour
+    granted to commemorate a squad of Imperial Fists Terminators who aided the
+    Emperor in the battle against Horus. Whether or not this is true it means
+    that ancient suits of power armour bearing Terminator Honours are considered
+    even more rare and precious to a Chapter as a result of their reputed
+    connection to the Master of the Imperium.</p>
+
+    <p>&nbsp;</p>
+  requirements: Ballistic Skill 5+ or Weapon Skill 5+, Adeptus Astartes Species
+  keywords: ''
+  influence: 2
+  benefits: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219055927
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 3xjb21p3E2y9XyBq
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!3xjb21p3E2y9XyBq'

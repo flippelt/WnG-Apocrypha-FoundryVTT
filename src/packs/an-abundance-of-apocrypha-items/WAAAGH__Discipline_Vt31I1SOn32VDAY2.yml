@@ -1,0 +1,16 @@
+name: WAAAGH! Discipline
+sorting: a
+folder: uKGIaDhU4mPMn7pJ
+type: Item
+_id: Vt31I1SOn32VDAY2
+sort: 600000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691706738
+  modifiedTime: 1712707816608
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!Vt31I1SOn32VDAY2'

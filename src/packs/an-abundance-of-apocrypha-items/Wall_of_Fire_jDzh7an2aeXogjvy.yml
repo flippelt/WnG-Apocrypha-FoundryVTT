@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Wall of Fire
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Fire Dragon aspect
+  description: >-
+    <p>You leave flaming ruin in your foes’ path, hindering their attempts to
+    get close. When you are armed with a Dragon’s Breath Flamer or other FIRE
+    weapon, you may spend 1 Glory as a Reflexive Action when an enemy declares a
+    charge to create a momentary wall of flame within 8m, which is up to 5m
+    wide. Any enemy who moves through this wall of flame immediately suffers
+    1d3+1 Mortal Wounds and gains the On Fire condition.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1700068373327
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: jDzh7an2aeXogjvy
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!jDzh7an2aeXogjvy'

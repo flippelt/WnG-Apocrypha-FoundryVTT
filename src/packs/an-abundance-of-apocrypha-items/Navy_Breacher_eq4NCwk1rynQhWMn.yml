@@ -1,0 +1,155 @@
+folder: WYkBFkJq4LAwl6eW
+name: Navy Breacher
+type: archetype
+_id: eq4NCwk1rynQhWMn
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Imperial Navy
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ricyzrOy0w1FgD2N
+  influence: 1
+  cost: 54
+  keywords:
+    - IMPERIUM
+    - NAVIS IMPERIALIS
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 2
+  ability:
+    name: Breach and Clear
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HWtuIfx0nQFKOClm
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Navis Armoured Voidsuit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Vpr0zWEalKYdilPA
+      type: item
+      diff: {}
+      index: 1
+      groupId: geNW4xhuDXIbsWFw
+    - name: Navis Shotgun (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GQVMRlJAO2g44Slk
+      type: item
+      diff: {}
+      index: 2
+      groupId: mC4CklbfVTte8AUF
+    - name: Navis Shotgun (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.xIjDWcq0cc2B0gdp
+      type: item
+      diff: {}
+      index: 3
+      groupId: p0I8DVW3UeIFRczN
+    - name: Navis Hatchet
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6ZFK1e96mBxkifjo
+      type: item
+      diff: {}
+      index: 4
+      groupId: JIySQUeVSPv8qaAv
+    - name: Apertor
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kDZrG5eB3DJe8s0i
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: geNW4xhuDXIbsWFw
+      - index: 2
+        type: item
+        groupId: mC4CklbfVTte8AUF
+      - index: 3
+        type: item
+        groupId: p0I8DVW3UeIFRczN
+      - index: 4
+        type: item
+        groupId: JIySQUeVSPv8qaAv
+      - index: 5
+        type: item
+        groupId: 35SkjdSA4vQ72tiL
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 4
+      initiative: 3
+      willpower: 4
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 2
+      awareness: 3
+      ballisticSkill: 4
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: 1
+      medicae: null
+      persuasion: null
+      pilot: 2
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: 4
+    talents:
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+      - id: HYuKXdU1r5yNyRU1
+        name: Die Hard
+      - id: h3cX58IYSA7DiKnI
+        name: Overwatch
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710610479068
+  modifiedTime: 1710610681892
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!eq4NCwk1rynQhWMn'

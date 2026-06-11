@@ -1,0 +1,75 @@
+name: Poisoned Blades
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: QMfRKhIFUOHoAFXu
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>In sealed pockets across their synskin bodygloves, many Callidus
+    Operatives keep an array of envenomed needles, each several inches long and
+    wickedly sharp. A Callidus is an expert at slamming them point-first through
+    eye-slits, armour joints and other weak spots to ensure their victim's swift
+    demise.</p>
+
+    <p><strong>Special:</strong> A character Poisoned by Poisoned Blades suffers
+    1d3 Mortal Wounds at the start of each of their turns.</p>
+  value: 7
+  keywords: BLADE, OFFICIO ASSASSINORUM, CALLIDUS TEMPLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Poisoned 5
+    - name: rending
+      rating: -3
+    - name: mortal-(d3)
+      custom: true
+      display: Mortal (d3)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710779268012
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 2eSofA64TwH9DjKs
+sort: 1900000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!2eSofA64TwH9DjKs'

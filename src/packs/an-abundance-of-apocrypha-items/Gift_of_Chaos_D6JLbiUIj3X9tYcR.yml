@@ -1,0 +1,73 @@
+name: Gift of Chaos
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.D6JLbiUIj3X9tYcR
+system:
+  dn: '@attributes.toughness.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>As the power of the warp surges through your victim, bones snap and flesh
+    rips as a new form takes shape. This power targets a single creature within
+    range. The target suffers 1d3+3 Mortal Wounds, and an equal number of
+    Corruption points. If the target is reduced to 0 wounds by this power and
+    subsequently dies, the target mutates into a Chaos Spawn instead of
+    dying.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: Instant
+  range: 6m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: HERETIC ASTARTES, CHAOS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3+3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound and +1 Corruption.
+      cost: 2
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: D6JLbiUIj3X9tYcR
+folder: 62AZxr813CAe5Qug
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519010
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!D6JLbiUIj3X9tYcR'

@@ -1,0 +1,134 @@
+folder: fgtFfRbmshJ8KM1n
+name: Spiritual Advisor
+type: ability
+img: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank bonus dice to Leadership and Persuasion tests when
+    interacting with the Nobility of the Imperium. You also add +Rank to your
+    Conviction.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+    changes:
+      - key: system.skills.leadership.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: FN5GS1mmn5brrteh
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Spiritual Advisor (Leadership)
+    name: Spiritual Advisor
+    description: ''
+    statuses: []
+    _key: '!items.effects!eICVNWgCM4iga2vt.FN5GS1mmn5brrteh'
+  - icon: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+    changes:
+      - key: system.skills.persuasion.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: e41VE8K4E7PBZ8Rs
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Spiritual Advisor (Persuasion)
+    name: Spiritual Advisor
+    description: ''
+    statuses: []
+    _key: '!items.effects!eICVNWgCM4iga2vt.e41VE8K4E7PBZ8Rs'
+  - icon: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: zreQSzj9qRJccItA
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: Spiritual Advisor
+    description: ''
+    statuses: []
+    _key: '!items.effects!eICVNWgCM4iga2vt.zreQSzj9qRJccItA'
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664834341689
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: eICVNWgCM4iga2vt
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!eICVNWgCM4iga2vt'

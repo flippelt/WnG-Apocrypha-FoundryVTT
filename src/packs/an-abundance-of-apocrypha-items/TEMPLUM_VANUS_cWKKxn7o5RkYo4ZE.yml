@@ -1,0 +1,21 @@
+folder: fMZrkf8jz5Baj0N8
+name: TEMPLUM VANUS
+type: keyword
+_id: cWKKxn7o5RkYo4ZE
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-white.png
+system:
+  description: ''
+effects: []
+sort: 500000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710789706163
+  modifiedTime: 1710789730709
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!cWKKxn7o5RkYo4ZE'

@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Whispering Spirits
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 15
+  requirements: Aeldari or Drukhari species, YNNARI keyword
+  description: >-
+    <p>The Ynnari are surrounded by the souls of the dead, whose sibilant
+    whispers distract and unnerve nearby foes.<br>Enemies within 3m of you adds
+    +1 to the DN of Resolve tests for every two Soul tokens you possess.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QbADr5grMa6XKDSF
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664128671510
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: QbADr5grMa6XKDSF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6300000
+_key: '!items!QbADr5grMa6XKDSF'

@@ -1,0 +1,156 @@
+folder: GHP0SxnnlNKFusRJ
+name: Harlequin Solitaire
+type: archetype
+_id: QirY18TiHPoYtDfX
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Harlequins of the Laughing God
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MZLyJ0QPkPgJg0Y9
+  influence: 0
+  cost: 283
+  keywords:
+    - AELDARI
+    - HARLEQUIN
+    - '[SAEDATH]'
+  attributes:
+    strength: 3
+    toughness: 5
+    agility: null
+    initiative: 5
+    willpower: 6
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 4
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: 3
+    insight: 3
+    intimidation: 3
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 6
+  ability:
+    name: Blitz
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.95Oe92yB0LNPNMgk
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Holo-Suit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.tet6rHIN1D1iJUgu
+      type: item
+      diff: {}
+      index: 1
+      groupId: oSaXT2FGZQ3MxbtG
+    - name: Agaith
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zhhjpbUPHqKFBBVW
+      type: item
+      diff: {}
+      index: 2
+      groupId: y5leUUAl8opN29mY
+    - name: Flip-Belt
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GKoH1CLvFjMlzJnL
+      type: item
+      diff: {}
+      index: 3
+      groupId: skPTu0RfatNsLSW6
+    - name: Harlequin’s Caress
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GBsq3aGOYGkPD2jA
+      type: item
+      diff: {}
+      index: 4
+      groupId: 70ZRPJtahdkiKIuO
+    - name: Harlequin’s Kiss
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ww3e6O9kcjxEtw5M
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: oSaXT2FGZQ3MxbtG
+      - index: 2
+        type: item
+        groupId: y5leUUAl8opN29mY
+      - index: 3
+        type: item
+        groupId: skPTu0RfatNsLSW6
+      - index: 4
+        type: item
+        groupId: 70ZRPJtahdkiKIuO
+      - index: 5
+        type: item
+        groupId: qo1PRPJTz7uwzME4
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 7
+      initiative: 7
+      willpower: 6
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 6
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: 3
+      insight: 3
+      intimidation: 4
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 7
+    talents:
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+      - id: 2G1RaWceBpoHoUBb
+        name: Storm of Death
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710782440991
+  modifiedTime: 1710788905262
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!QirY18TiHPoYtDfX'

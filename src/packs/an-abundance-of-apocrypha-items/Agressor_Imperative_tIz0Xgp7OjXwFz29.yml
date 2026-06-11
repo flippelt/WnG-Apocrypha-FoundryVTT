@@ -1,0 +1,74 @@
+folder: ZMoR03HW5eXVf9E1
+name: Agressor Imperative
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: SKITARII keyword
+  description: >-
+    <p>Though doctrina imperatives are normally initiated by a Tech-Priest
+    overseeing the Skitarii in action, you have been equipped with protocols for
+    independent action. You can engage an imperative which enhances your
+    mobility for short periods.</p>
+
+    <p>At the start of any of your turns, you may activate the Aggressor
+    Imperative. This adds +Rank to your Speed but reduces your Resilience by 2.
+    At the end of a turn in which you activate the Agressor Imperative, you
+    suffer 1d3+2 Shock.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.speed
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+      - key: system.combat.resilience.bonus
+        mode: 6
+        value: '-2'
+        priority: null
+    _id: sC2fgtCPPNztDTUQ
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Agressor Imperative (Speed Bonus)
+          '1':
+            script: ''
+            description: Agressor Imperative (Resilience Reduction)
+    name: Agressor Imperative
+    description: ''
+    statuses: []
+    _key: '!items.effects!tIz0Xgp7OjXwFz29.sC2fgtCPPNztDTUQ'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bAMD2wT3AsJgoQ9x
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663876682762
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: tIz0Xgp7OjXwFz29
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 10500000
+_key: '!items!tIz0Xgp7OjXwFz29'

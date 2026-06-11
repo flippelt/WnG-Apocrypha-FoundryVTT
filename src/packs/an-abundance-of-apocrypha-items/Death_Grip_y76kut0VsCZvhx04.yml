@@ -1,0 +1,84 @@
+name: Death Grip
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.y76kut0VsCZvhx04
+system:
+  dn: '@attributes.toughness.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Using the power of your mind, you create a telekinetic grip on your
+    target’s vital organs and squeeze. Select a living creature you can see
+    within range. The target suffers 2d3 Shock.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: Willpower metres
+  multiTarget: true
+  keywords: KINETIC, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: 2d3
+  potency:
+    - description: You inflict +1d3 Shock. (Roll and add manually)
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        The target suffers the Restrained condition until the end of their next
+        turn.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: The target suffers the Bleeding condition.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: y76kut0VsCZvhx04
+folder: 4l2ZECZopcUcauCc
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247406
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!y76kut0VsCZvhx04'

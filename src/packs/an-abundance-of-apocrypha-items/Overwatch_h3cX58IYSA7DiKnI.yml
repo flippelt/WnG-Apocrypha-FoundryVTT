@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Overwatch
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Initiative 3+
+  description: >-
+    <p>You&rsquo;ve trained to be able to snap off a burst of fire at a charging
+    foe.<br>When you are Charged, you may use your Reflexive Action and spend 1
+    ammo to make a ranged attack against the enemy Charging you. This attack is
+    resolved before the Charge begins, and the enemy&rsquo;s receives +3 Defence
+    against this attack. This is considered a Salvo option, so you must reload
+    your weapon after this attack before you can fire it again.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.eTHQYYSYgEA7F5Al
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664023646813
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: h3cX58IYSA7DiKnI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 8300000
+_key: '!items!h3cX58IYSA7DiKnI'

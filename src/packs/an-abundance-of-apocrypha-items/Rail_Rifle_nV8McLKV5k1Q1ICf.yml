@@ -1,0 +1,82 @@
+name: Rail Rifle
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.nV8McLKV5k1Q1ICf
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A potent weapon, the Rail Rifle makes use of the
+    same technologies as the larger Railgun and Heavy Rail Rifle, albeit on a
+    smaller scale so that it is infantry portable. Possessed of an impressively
+    long range and ability to deal great damage, the Rail Rifle's true strength
+    lies in its armour penetration capabilities. The Rail Rifle's hypersonic
+    projectile can punch through the heaviest personal armour with ease. As a
+    dedicated elite infantry killer, enemy units that manage to survive a Rail
+    Rifle fusillade often find themselves pinned down, unable to do anything in
+    the face of such deadly fire. The Rail Rifle also proves effective when used
+    against light vehicles. Rail Rifles have only recently been authorised for
+    issue to frontline Tau units, having completed an extensive field-testing
+    phase</span>.</p>
+  value: 6
+  keywords: PROJECTILE, T’AU EMPIRE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: heavy
+      rating: 4
+    - name: sniper
+      rating: 1
+    - name: mortal-(1)
+      custom: true
+      display: Mortal (1)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+_id: nV8McLKV5k1Q1ICf
+folder: KCVqHx1PYrcqXhMV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932681308
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!nV8McLKV5k1Q1ICf'
