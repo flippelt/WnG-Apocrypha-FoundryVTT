@@ -16,6 +16,7 @@ pages:
       caption: ''
     text:
       format: 1
+      content: '<table border="1"><tbody><tr class="table-header"><td colspan="8" style="text-align:center"><strong>SISTER FAMULOUS</strong></td></tr><tr><td colspan="2" style="background-color:#484745;color:white;text-align:center">TIER</td><td style="text-align:center">1</td><td colspan="2" style="background-color:#484745;color:white;text-align:center">SPECIES</td><td style="text-align:center">Human</td><td style="background-color:#484745;color:white;text-align:center">XP Cost</td><td style="text-align:center">28</td></tr><tr><td colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">IMPERIUM</a>, <a class="keyword">ADEPTA SORORITAS</a>, <a class="keyword">[ORDER]</a>, <a class="keyword">ADEPTUS MINISTORUM</a></td></tr><tr><td colspan="8"><strong>ATTRIBUTE</strong>: Willpower 3, Intellect 2, Fellowship 3</td></tr><tr><td colspan="8"><strong>SKILLS</strong>: Leadership 1, Persuasion 1</td></tr><tr><td colspan="8"><strong>ARCHETYPE ABILITY</strong>: @UUID[Item.soDfTwMyDDxUNZ6G]{Spiritual Advisor}</td></tr><tr><td colspan="8"><strong>WARGEAR</strong>: @UUID[Item.vZp4dj9eXhFcVwOB]{Formal Sororitas Robes (Clothing)}, @UUID[Item.alCEdr91k6ttGBw9]{Bodyglove}, @UUID[Item.JbTzZSQ0FZ4PIjdp]{Autopistol}, @UUID[Item.3X5FaaFcfNmaEod4]{Mono Knife}, @UUID[Item.W028UmFNKkQrUBl6]{Chaplet Ecclesiasticus}, @UUID[Item.YXTc35poOQsWeSgD]{Rule of the Sororitas}</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED ATTRIBUTES</strong></td></tr><tr><td style="background-color:#484745;color:white;text-align:center">ATTRIBUTE</td><td style="background-color:#484745;color:white;text-align:center">S</td><td style="background-color:#484745;color:white;text-align:center">T</td><td style="background-color:#484745;color:white;text-align:center">A</td><td style="background-color:#484745;color:white;text-align:center">I</td><td style="background-color:#484745;color:white;text-align:center">Wil</td><td style="background-color:#484745;color:white;text-align:center">Int</td><td style="background-color:#484745;color:white;text-align:center">Fel</td></tr><tr><td style="background-color:#484745;color:white;text-align:center">RATING</td><td style="text-align:center">2</td><td style="text-align:center">2</td><td style="text-align:center">2</td><td style="text-align:center">2</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">3</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED SKILLS</strong></td></tr><tr><td colspan="8">Awareness 2, Ballistic Skill 1, Investigation 1, Leadership 2, Persuasion 2, Scholar 1</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED TALENTS</strong></td></tr><tr><td colspan="8">@UUID[Item.ndXKRj7tRorEKRzk]{Orthopraxy}, @UUID[Item.Cr4n0fqlBRqeY0yY]{Ever Vigilant}, @UUID[Item.eQa1WFZEU5wO4i4f]{Repent!}</td></tr></tbody></table>'
     video:
       controls: true
       volume: 0.5
@@ -39,127 +40,7 @@ pages:
       level: 1
     text:
       format: 1
-      content: >-
-        <blockquote><p>I come now before you not as a Sister of the Sororitas,
-        nor as one of the faithful, nor even as your judge. I come as an
-        emissary of He who sits on the Golden Throne and I bring you His word:
-        you have sinned, and you shall pay for your sins.</p><p
-        style="text-align:right"><em>—— Sister Famulous Esme to the heretic
-        Cardinal Galt</em></p></blockquote><p><strong>You have been charged with
-        the task of ensuring that the Noble families of the Imperium do not fall
-        from the Emperor’s Light. You must advise, guide, and counsel them, but
-        also censure them when needed, and through all this, you must hold
-        strong to avoid succumbing to the depravity of their
-        ways.</strong></p><p>The sisters of the Orders Famulous serve amongst
-        the household of the highest of the Imperium’s nobility, acting as
-        chamberlains, counsellors and consuls. They broker inter-house
-        alliances, trade deals, and marriages, and their hand is ever at work
-        amongst the highest echelons of power. The Sisters of the Orders
-        Famulous are skilled diplomats who perform many negotiations behind the
-        scenes. Through their arranging of alliances and marriages, they take a
-        direct hand in the fate of humanity, for those they counsel wield the
-        power of whole planets and control the fates of billions. The servants
-        of the Orders Famulous do not openly discuss this element of their work,
-        even with other members of the Sisterhood, but many do appear to have
-        extensive contact with members of the Inquisition, especially the Ordo
-        Hereticus. Much of the work of the Orders Famulous also involves
-        tracking the manifestation of saints, and they often become involved in
-        the arcane process of determining whether or not.</p><p>The Orders
-        Famulous also provide the Ecclesiarchy with watchful eyes throughout the
-        Imperium, often serving as their spies who closely observe the dealings
-        of influential individuals. Should these people go against the dictates
-        of the Adeptus Ministorum, they may send reports that result in
-        Confessors being sent to extract admissions of heresy. Powerful families
-        that have held sway for generations may be eradicated entirely at the
-        word of a Famulous Sister. In the course of their duties, Sisters
-        Famulous often speak of how the Emperor manifests his will through his
-        subjects, pointing to the miracles performed as Saints as
-        evidence.</p><div class="journal-image centered"><img
-        src="modules/wng-apocrypha/assets/images/archetypes/Sister_Famulous.webp"
-        width="250" height="421" /></div><table
-        style="width:98.9228%;height:239px" border="1"><tbody><tr
-        class="table-header" style="height:16px"><td
-        style="width:92.7291%;height:16px" colspan="8">SISTER
-        FAMULOUS</td></tr><tr style="height:16px"><td
-        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
-        colspan="2">TIER</td><td
-        style="width:8.3%;height:16px;text-align:center">1</td><td
-        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
-        colspan="2">SPECIES</td><td
-        style="width:11.7268%;height:16px;text-align:center">Human</td><td
-        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
-        Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center">28</td></tr><tr
-        style="height:16px"><td style="width:92.7291%;height:16px"
-        colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">IMPERIUM</a>,
-        <a class="keyword">ADEPTA SORORITAS[ORDER]</a>, <a
-        class="keyword">ADEPTUS MINISTORUM</a></td></tr><tr
-        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
-        style="width:92.7291%;height:16px"
-        colspan="8"><strong>ATTRIBUTE</strong>: Intellect 2, Willpower 3,
-        Fellowship 3</td></tr><tr style="height:16px"><td
-        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
-        Leadership 1, Persuasion 1</td></tr><tr
-        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
-        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
-        ABILITY</strong>: @UUID[Item.eICVNWgCM4iga2vt]{Spiritual
-        Advisor}</td></tr><tr style="height:16px"><td
-        style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
-        @UUID[Item.vZp4dj9eXhFcVwOB]{Clothing},
-        @UUID[Item.alCEdr91k6ttGBw9]{Bodyglove},
-        @UUID[Item.JbTzZSQ0FZ4PIjdp]{Autopistol},
-        @UUID[Item.3X5FaaFcfNmaEod4]{Mono Knife},
-        @UUID[Item.W028UmFNKkQrUBl6]{Chaplet Ecclesiasticus},
-        @UUID[Item.YXTc35poOQsWeSgD]{Rule of the Sororitas}</td></tr><tr
-        style="height:16px"><td style="width:92.7291%;background-color:rgba(0,
-        0, 0, 0.2);height:16px" colspan="8"><strong>INFLUENCE</strong>:
-        +1</td></tr><tr style="height:16px"><td class="table-header"
-        style="width:51.1291%;height:16px;text-align:left"
-        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
-        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
-        colspan="2">XP Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">22</td></tr><tr
-        style="font-variant:small-caps;height:16px"><td
-        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
-        style="width:12.5%;height:16px;text-align:center">S</td><td
-        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">T</td><td
-        style="width:5.17241%;height:16px;text-align:center">A</td><td
-        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">I</td><td
-        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
-        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">Int</td><td
-        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
-        style="height:16px"><td
-        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
-        style="width:12.5%;height:16px;text-align:center">2</td><td
-        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">2</td><td
-        style="width:5.17241%;height:16px;text-align:center">2</td><td
-        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">2</td><td
-        style="width:11.7268%;height:16px;text-align:center">3</td><td
-        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">3</td><td
-        style="width:18.2509%;height:16px;text-align:center">3</td></tr><tr
-        style="height:16px"><td class="table-header"
-        style="width:51.1291%;height:16px;text-align:left"
-        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
-        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
-        colspan="2">XP Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">20</td></tr><tr style="height:16px"><td
-        style="height:16px;width:92.7291%" colspan="8">Awareness 2, Ballistic
-        Skill 1, Investigation 1, Leadership 2, Persuasion 2, Scholar
-        1</td></tr><tr style="height:16px"><td class="table-header"
-        style="width:92.7291%;height:16px" colspan="8">SUGGESTED
-        TALENTS</td></tr><tr style="height:16px"><td
-        style="height:15px;width:92.7291%"
-        colspan="8">@UUID[Item.ndXKRj7tRorEKRzk]{Orthopraxy},
-        @UUID[Item.Cr4n0fqlBRqeY0yY]{Ever Vigilant},
-        @UUID[Item.eQa1WFZEU5wO4i4f]{Repent!}</td></tr></tbody></table>
+      content: '<blockquote><p>I come now before you not as a Sister of the Sororitas, nor as one of the faithful, nor even as your judge. I come as an emissary of He who sits on the Golden Throne and I bring you His word: you have sinned, and you shall pay for your sins.</p><p style="text-align:right"><em>—— Sister Famulous Esme to the heretic Cardinal Galt</em></p></blockquote><p><strong>You have been charged with the task of ensuring that the Noble families of the Imperium do not fall from the Emperor’s Light. You must advise, guide, and counsel them, but also censure them when needed, and through all this, you must hold strong to avoid succumbing to the depravity of their ways.</strong></p><p>The sisters of the Orders Famulous serve amongst the household of the highest of the Imperium’s nobility, acting as chamberlains, counsellors and consuls. They broker inter-house alliances, trade deals, and marriages, and their hand is ever at work amongst the highest echelons of power. The Sisters of the Orders Famulous are skilled diplomats who perform many negotiations behind the scenes. Through their arranging of alliances and marriages, they take a direct hand in the fate of humanity, for those they counsel wield the power of whole planets and control the fates of billions. The servants of the Orders Famulous do not openly discuss this element of their work, even with other members of the Sisterhood, but many do appear to have extensive contact with members of the Inquisition, especially the Ordo Hereticus. Much of the work of the Orders Famulous also involves tracking the manifestation of saints, and they often become involved in the arcane process of determining whether or not.</p><p>The Orders Famulous also provide the Ecclesiarchy with watchful eyes throughout the Imperium, often serving as their spies who closely observe the dealings of influential individuals. Should these people go against the dictates of the Adeptus Ministorum, they may send reports that result in Confessors being sent to extract admissions of heresy. Powerful families that have held sway for generations may be eradicated entirely at the word of a Famulous Sister. In the course of their duties, Sisters Famulous often speak of how the Emperor manifests his will through his subjects, pointing to the miracles performed as Saints as evidence.</p><div class="journal-image centered"><img src="modules/wng-apocrypha/assets/images/archetypes/Sister_Famulous.webp" width="250" height="421" /></div><table style="width:98.9228%;height:239px" border="1"><tbody><tr class="table-header" style="height:16px"><td style="width:92.7291%;height:16px" colspan="8">SISTER FAMULOUS</td></tr><tr style="height:16px"><td style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px" colspan="2">TIER</td><td style="width:8.3%;height:16px;text-align:center">1</td><td style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center" colspan="2">SPECIES</td><td style="width:11.7268%;height:16px;text-align:center">Human</td><td style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center">28</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">IMPERIUM</a>, <a class="keyword">ADEPTA SORORITAS[ORDER]</a>, <a class="keyword">ADEPTUS MINISTORUM</a></td></tr><tr style="height:16px;background-color:rgba(0, 0, 0, .2)"><td style="width:92.7291%;height:16px" colspan="8"><strong>ATTRIBUTE</strong>: Intellect 2, Willpower 3, Fellowship 3</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>: Leadership 1, Persuasion 1</td></tr><tr style="height:16px;background-color:rgba(0, 0, 0, .2)"><td style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE ABILITY</strong>: @UUID[Item.eICVNWgCM4iga2vt]{Spiritual Advisor}</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>: @UUID[Item.vZp4dj9eXhFcVwOB]{Clothing}, @UUID[Item.alCEdr91k6ttGBw9]{Bodyglove}, @UUID[Item.JbTzZSQ0FZ4PIjdp]{Autopistol}, @UUID[Item.3X5FaaFcfNmaEod4]{Mono Knife}, @UUID[Item.W028UmFNKkQrUBl6]{Chaplet Ecclesiasticus}, @UUID[Item.YXTc35poOQsWeSgD]{Rule of the Sororitas}</td></tr><tr style="height:16px"><td style="width:92.7291%;background-color:rgba(0, 0, 0, 0.2);height:16px" colspan="8"><strong>INFLUENCE</strong>: +1</td></tr><tr style="height:16px"><td class="table-header" style="width:51.1291%;height:16px;text-align:left" colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px" colspan="2">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">22</td></tr><tr style="font-variant:small-caps;height:16px"><td style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td style="width:12.5%;height:16px;text-align:center">S</td><td style="width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">T</td><td style="width:5.17241%;height:16px;text-align:center">A</td><td style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">I</td><td style="width:11.7268%;height:16px;text-align:center">Wil</td><td style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">Int</td><td style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr style="height:16px"><td style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td style="width:12.5%;height:16px;text-align:center">2</td><td style="width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">2</td><td style="width:5.17241%;height:16px;text-align:center">2</td><td style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">2</td><td style="width:11.7268%;height:16px;text-align:center">3</td><td style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">3</td><td style="width:18.2509%;height:16px;text-align:center">3</td></tr><tr style="height:16px"><td class="table-header" style="width:51.1291%;height:16px;text-align:left" colspan="5"><strong>SUGGESTED SKILLS</strong></td><td style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px" colspan="2">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">20</td></tr><tr style="height:16px"><td style="height:16px;width:92.7291%" colspan="8">Awareness 2, Ballistic Skill 1, Investigation 1, Leadership 2, Persuasion 2, Scholar 1</td></tr><tr style="height:16px"><td class="table-header" style="width:92.7291%;height:16px" colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td style="height:15px;width:92.7291%" colspan="8">@UUID[Item.ndXKRj7tRorEKRzk]{Orthopraxy}, @UUID[Item.Cr4n0fqlBRqeY0yY]{Ever Vigilant}, @UUID[Item.eQa1WFZEU5wO4i4f]{Repent!}</td></tr></tbody></table>'
       markdown: ''
     _id: 6VIdIZs0RFiBmFtW
     image: {}
