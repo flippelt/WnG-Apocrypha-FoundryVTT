@@ -26,7 +26,7 @@ The module is **substantially complete**. The compendium contains:
 | Species | 29 |
 | Factions | 15 |
 | Actors (NPC stat blocks) | 64 |
-| Journals | 50 |
+| Journals | 173 (incl. 123 archetype lore journals) |
 
 All the major factions, species, talents, psychic powers, gear and the vast
 majority of archetypes and ascension packages are **done**. The remaining work
@@ -86,10 +86,37 @@ structure.
   documents: the two Primaris Aggressor archetypes, the Aggressor Imperative
   ability (×2), and the references to it in Bulwark/Conqueror Imperative.
 
-## Suggested plan (priority)
+### 3. Archetype journals — ✅ linked
 
-1. Sweep names against the PDF v9 table of contents for anything genuinely
-   absent or misspelled.
+Every archetype that lacked a lore journal now has one — **123 created** from
+the PDF v9 flavour text, filed in the **Archetypes** folder and linked via
+`system.journal`. **178 of 181** archetypes are linked (journals 46 → 169
+entries). The new journals carry the narrative text; the original 32 also embed
+a full stat-block table.
+
+## Remaining for 1.0
+
+- [ ] **Storm Guardian** and **Windrider** journals — no dedicated section was
+  found in the PDF v9 to auto-extract; create and link them manually.
+- [ ] *(polish, optional)* Add the stat-block HTML table to the 123 new lore
+  journals, for parity with the original 32 (the archetype sheet already shows
+  the stats, so this is cosmetic).
+- [ ] **Verify "Sainthood"** — it appears indented under *Blessed by the
+  Emperor* in the PDF TOC, so it is most likely a sub-section rather than a
+  separate ascension package; confirm nothing is missing.
+
+Already complete: all **139** PDF archetypes · all ascension packages ·
+companions & familiars · Chapter/Legion options · talents · psychic & Navigator
+powers · wargear · species · factions · NPC stat blocks.
+
+### Out of scope (by design — not a 1.0 blocker)
+
+- **Vehicles.** The PDF's Vehicles appendix (pp. 483–503) and the jetbikes /
+  bikes / aircraft referenced by 8 archetypes reproduce official **Church of
+  Steel** content. They are **referenced, not copied** (see §1), to avoid
+  redistributing Games Workshop / Cubicle 7 IP.
+
+**When the boxes above are checked, tag `v1.0`.**
 
 ## Workflow
 
