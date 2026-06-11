@@ -1,5 +1,5 @@
 folder: GHP0SxnnlNKFusRJ
-name: Windrider (NYI)
+name: Windrider
 type: archetype
 img: modules/wng-core/assets/icons/abilities/aeldari.webp
 system:
@@ -68,7 +68,7 @@ system:
       index: 2
       groupId: 5dg86S6LdC5slT1R
     - type: generic
-      name: Aeldari Jetbike (NYI)
+      name: Aeldari Jetbike (Church of Steel, p. 92)
       filters: []
   groups:
     type: and

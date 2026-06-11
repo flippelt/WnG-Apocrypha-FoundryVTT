@@ -1,5 +1,5 @@
 folder: kcIfowy1n7OiCCwE
-name: Hernkyn Pioneer (Kin) (NYI)
+name: Hernkyn Pioneer (Kin)
 type: archetype
 _id: JLNAt1dMyMPj6B2z
 img: modules/wng-core/assets/icons/abilities/ability.webp
@@ -85,7 +85,7 @@ system:
       index: 4
       groupId: 9LFXLlKo816awNLq
     - type: generic
-      name: Magna-Coil Bike (NYI)
+      name: Magna-Coil Bike (Church of Steel)
       filters: []
   groups:
     type: and

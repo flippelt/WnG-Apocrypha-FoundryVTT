@@ -1,68 +1,61 @@
-2024/04/10-16:41:55.543 11f4 Log #3: 3917 ops saved to Table #236 OK
-2024/04/10-16:41:55.544 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000003.log: OK
-2024/04/10-16:41:55.545 11f4 Log #12: 0 ops saved to Table #237 OK
-2024/04/10-16:41:55.545 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000012.log: OK
-2024/04/10-16:41:55.545 11f4 Log #16: 0 ops saved to Table #238 OK
-2024/04/10-16:41:55.545 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000016.log: OK
-2024/04/10-16:41:55.546 11f4 Log #21: 0 ops saved to Table #239 OK
-2024/04/10-16:41:55.546 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000021.log: OK
-2024/04/10-16:41:55.546 11f4 Log #27: 0 ops saved to Table #240 OK
-2024/04/10-16:41:55.546 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000027.log: OK
-2024/04/10-16:41:55.601 11f4 Log #33: 1325 ops saved to Table #241 OK
-2024/04/10-16:41:55.602 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000033.log: OK
-2024/04/10-16:41:55.602 11f4 Log #34: 0 ops saved to Table #242 OK
-2024/04/10-16:41:55.603 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000034.log: OK
-2024/04/10-16:41:55.603 11f4 Log #47: 0 ops saved to Table #243 OK
-2024/04/10-16:41:55.603 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000047.log: OK
-2024/04/10-16:41:55.676 11f4 Log #51: 1029 ops saved to Table #244 OK
-2024/04/10-16:41:55.676 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000051.log: OK
-2024/04/10-16:41:55.676 11f4 Log #52: 0 ops saved to Table #245 OK
-2024/04/10-16:41:55.676 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000052.log: OK
-2024/04/10-16:41:55.677 11f4 Log #61: 0 ops saved to Table #246 OK
-2024/04/10-16:41:55.677 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000061.log: OK
-2024/04/10-16:41:55.757 11f4 Log #105: 1108 ops saved to Table #247 OK
-2024/04/10-16:41:55.758 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000105.log: OK
-2024/04/10-16:41:55.840 11f4 Log #116: 1457 ops saved to Table #248 OK
-2024/04/10-16:41:55.841 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000116.log: OK
-2024/04/10-16:41:55.841 11f4 Log #158: 0 ops saved to Table #249 OK
-2024/04/10-16:41:55.841 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000158.log: OK
-2024/04/10-16:41:55.841 11f4 Log #216: 0 ops saved to Table #250 OK
-2024/04/10-16:41:55.842 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000216.log: OK
-2024/04/10-16:41:55.843 11f4 Log #235: 0 ops saved to Table #251 OK
-2024/04/10-16:41:55.843 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/000235.log: OK
-2024/04/10-16:41:55.860 11f4 Table #5: 902 entries OK
-2024/04/10-16:41:55.896 11f4 Table #18: 911 entries OK
-2024/04/10-16:41:55.923 11f4 Table #29: 746 entries OK
-2024/04/10-16:41:55.943 11f4 Table #36: 777 entries OK
-2024/04/10-16:41:55.972 11f4 Table #49: 801 entries OK
-2024/04/10-16:41:55.995 11f4 Table #54: 838 entries OK
-2024/04/10-16:41:56.013 11f4 Table #63: 901 entries OK
-2024/04/10-16:41:56.030 11f4 Table #101: 582 entries OK
-2024/04/10-16:41:56.032 11f4 Table #104: 143 entries OK
-2024/04/10-16:41:56.063 11f4 Table #114: 1370 entries OK
-2024/04/10-16:41:56.100 11f4 Table #140: 1552 entries OK
-2024/04/10-16:41:56.139 11f4 Table #213: 1809 entries OK
-2024/04/10-16:41:56.194 11f4 Table #215: 1403 entries OK
-2024/04/10-16:41:56.242 11f4 Table #223: 1989 entries OK
-2024/04/10-16:41:56.266 11f4 Table #232: 220 entries OK
-2024/04/10-16:41:56.283 11f4 Table #234: 115 entries OK
-2024/04/10-16:41:56.286 11f4 Table #236: 3917 entries OK
-2024/04/10-16:41:56.287 11f4 Table #241: 1325 entries OK
-2024/04/10-16:41:56.288 11f4 Table #244: 1029 entries OK
-2024/04/10-16:41:56.290 11f4 Table #247: 1108 entries OK
-2024/04/10-16:41:56.291 11f4 Table #248: 1457 entries OK
-2024/04/10-16:41:56.311 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000002: OK
-2024/04/10-16:41:56.316 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000010: OK
-2024/04/10-16:41:56.317 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000014: OK
-2024/04/10-16:41:56.324 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000019: OK
-2024/04/10-16:41:56.324 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000025: OK
-2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000032: OK
-2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000045: OK
-2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000050: OK
-2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000059: OK
-2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000103: OK
-2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000115: OK
-2024/04/10-16:41:56.325 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000157: OK
-2024/04/10-16:41:56.326 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000214: OK
-2024/04/10-16:41:56.326 11f4 Archiving E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items/MANIFEST-000233: OK
-2024/04/10-16:41:56.331 11f4 **** Repaired leveldb E:\FoundryData\Data\modules\wng-apocrypha\packs\an-abundance-of-apocrypha-items; recovered 21 files; 13295934 bytes. Some data may have been lost. ****
+2026/06/11-16:05:19.051781 77450d5f96c0 Recovering log #253
+2026/06/11-16:05:19.055046 77450d5f96c0 Level-0 table #256: started
+2026/06/11-16:05:19.066144 77450d5f96c0 Level-0 table #256: 1710 bytes OK
+2026/06/11-16:05:19.085481 77450d5f96c0 Delete type=0 #3
+2026/06/11-16:05:19.088958 77450d5f96c0 Delete type=2 #5
+2026/06/11-16:05:19.091405 77450d5f96c0 Delete type=0 #12
+2026/06/11-16:05:19.094261 77450d5f96c0 Delete type=0 #16
+2026/06/11-16:05:19.096268 77450d5f96c0 Delete type=2 #18
+2026/06/11-16:05:19.098575 77450d5f96c0 Delete type=0 #27
+2026/06/11-16:05:19.100597 77450d5f96c0 Delete type=2 #29
+2026/06/11-16:05:19.102747 77450d5f96c0 Delete type=0 #33
+2026/06/11-16:05:19.106049 77450d5f96c0 Delete type=0 #34
+2026/06/11-16:05:19.108072 77450d5f96c0 Delete type=2 #36
+2026/06/11-16:05:19.110661 77450d5f96c0 Delete type=0 #47
+2026/06/11-16:05:19.112461 77450d5f96c0 Delete type=2 #49
+2026/06/11-16:05:19.114212 77450d5f96c0 Delete type=0 #51
+2026/06/11-16:05:19.117000 77450d5f96c0 Delete type=0 #52
+2026/06/11-16:05:19.119053 77450d5f96c0 Delete type=2 #54
+2026/06/11-16:05:19.121388 77450d5f96c0 Delete type=0 #61
+2026/06/11-16:05:19.123271 77450d5f96c0 Delete type=2 #63
+2026/06/11-16:05:19.125708 77450d5f96c0 Delete type=2 #101
+2026/06/11-16:05:19.127559 77450d5f96c0 Delete type=2 #104
+2026/06/11-16:05:19.129843 77450d5f96c0 Delete type=0 #105
+2026/06/11-16:05:19.132140 77450d5f96c0 Delete type=2 #114
+2026/06/11-16:05:19.134172 77450d5f96c0 Delete type=0 #116
+2026/06/11-16:05:19.136351 77450d5f96c0 Delete type=2 #140
+2026/06/11-16:05:19.139184 77450d5f96c0 Delete type=0 #158
+2026/06/11-16:05:19.141223 77450d5f96c0 Delete type=2 #213
+2026/06/11-16:05:19.143402 77450d5f96c0 Delete type=2 #215
+2026/06/11-16:05:19.146170 77450d5f96c0 Delete type=0 #216
+2026/06/11-16:05:19.148060 77450d5f96c0 Delete type=2 #223
+2026/06/11-16:05:19.151006 77450d5f96c0 Delete type=2 #232
+2026/06/11-16:05:19.153216 77450d5f96c0 Delete type=2 #234
+2026/06/11-16:05:19.155377 77450d5f96c0 Delete type=0 #235
+2026/06/11-16:05:19.157164 77450d5f96c0 Delete type=0 #253
+2026/06/11-16:05:19.159246 77450d5f96c0 Delete type=3 #2
+2026/06/11-16:05:19.161289 77450d5f96c0 Delete type=3 #10
+2026/06/11-16:05:19.163178 77450d5f96c0 Delete type=3 #14
+2026/06/11-16:05:19.165618 77450d5f96c0 Delete type=3 #25
+2026/06/11-16:05:19.167524 77450d5f96c0 Delete type=3 #32
+2026/06/11-16:05:19.169703 77450d5f96c0 Delete type=3 #45
+2026/06/11-16:05:19.173071 77450d5f96c0 Delete type=3 #50
+2026/06/11-16:05:19.175282 77450d5f96c0 Delete type=3 #59
+2026/06/11-16:05:19.177447 77450d5f96c0 Delete type=3 #103
+2026/06/11-16:05:19.179600 77450d5f96c0 Delete type=3 #115
+2026/06/11-16:05:19.182225 77450d5f96c0 Delete type=3 #157
+2026/06/11-16:05:19.184715 77450d5f96c0 Delete type=3 #214
+2026/06/11-16:05:19.187852 77450d5f96c0 Delete type=3 #233
+2026/06/11-16:05:19.190192 77450d5f96c0 Delete type=3 #252
+2026/06/11-16:05:19.403378 7744e77fe6c0 Level-0 table #259: started
+2026/06/11-16:05:20.732533 7744e77fe6c0 Level-0 table #259: 1926720 bytes OK
+2026/06/11-16:05:20.737747 7744e77fe6c0 Delete type=0 #257
+2026/06/11-16:05:20.741310 7744e77fe6c0 Manual compaction at level-0 from '!folders!0PEq5NH9Y81S2Ejf' @ 72057594037927935 : 1 .. '!items.effects!zzhEqN7W4Ft58HcN.jrnWXcMc1iV5T28o' @ 0 : 0; will stop at '!items.effects!zV9kxBXrCUYakSML.n3ajSB7RLrnDqC1I' @ 22551 : 0
+2026/06/11-16:05:20.741934 7744e77fe6c0 Compacting 2@0 + 1@1 files
+2026/06/11-16:05:22.099458 7744e77fe6c0 Generated table #260@0: 2625 keys, 1926281 bytes
+2026/06/11-16:05:22.100458 7744e77fe6c0 Compacted 2@0 + 1@1 files => 1926281 bytes
+2026/06/11-16:05:22.103685 7744e77fe6c0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/11-16:05:22.106683 7744e77fe6c0 Delete type=2 #254
+2026/06/11-16:05:22.110254 7744e77fe6c0 Delete type=2 #256
+2026/06/11-16:05:22.113073 7744e77fe6c0 Delete type=2 #259
+2026/06/11-16:05:22.116032 7744e77fe6c0 Manual compaction at level-0 from '!items.effects!zV9kxBXrCUYakSML.n3ajSB7RLrnDqC1I' @ 22551 : 0 .. '!items.effects!zzhEqN7W4Ft58HcN.jrnWXcMc1iV5T28o' @ 0 : 0; will stop at (end)

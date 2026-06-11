@@ -1,5 +1,5 @@
 folder: GHP0SxnnlNKFusRJ
-name: Shining Spear Aspect Warrior (NYI)
+name: Shining Spear Aspect Warrior
 type: archetype
 _id: Qe8UH20jQENxd7nl
 img: modules/wng-core/assets/icons/abilities/aeldari.webp
@@ -82,7 +82,7 @@ system:
       index: 4
       groupId: OM2DTInRzxTEBTJI
     - type: generic
-      name: Aeldari Jetbike (NYI)
+      name: Aeldari Jetbike (Church of Steel, p. 92)
       filters: []
       index: 5
       groupId: 02eGFKEDfbX0v0Z9

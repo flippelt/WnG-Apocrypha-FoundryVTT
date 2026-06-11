@@ -1,5 +1,5 @@
 folder: GHP0SxnnlNKFusRJ
-name: Crimson Hunter Aspect Warrior (NYI)
+name: Crimson Hunter Aspect Warrior
 type: archetype
 _id: c4JjS6y3naFEtPl9
 img: modules/wng-core/assets/icons/abilities/aeldari.webp
@@ -61,7 +61,7 @@ system:
       index: 1
       groupId: SlvA8Se89Kywcoum
     - type: generic
-      name: Nightshade Interceptor (NYI)
+      name: Nightshade Interceptor (Church of Steel, p. 95)
       filters: []
       index: 2
       groupId: v8VGwlgDhnELN9bv

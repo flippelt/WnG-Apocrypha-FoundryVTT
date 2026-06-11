@@ -1,5 +1,5 @@
 folder: enJYSEZtnOYeu8p3
-name: Speed Freek (NYI)
+name: Speed Freek
 type: archetype
 _id: Anzi7x3h03Fq2EmL
 img: modules/wng-core/assets/icons/abilities/orks.webp
@@ -70,7 +70,7 @@ system:
       index: 3
       groupId: X4xHiWzwMzigwcls
     - type: generic
-      name: Ork Warbike (NYI)
+      name: Ork Warbike (Church of Steel)
       filters: []
   groups:
     type: and

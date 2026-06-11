@@ -1,5 +1,5 @@
 folder: WYkBFkJq4LAwl6eW
-name: Aeronautica Pilot (NYI)
+name: Aeronautica Pilot
 type: archetype
 img: modules/wng-core/assets/icons/abilities/ability.webp
 system:
@@ -70,10 +70,10 @@ system:
       index: 2
       groupId: 6ePnpyMzMzWinpit
     - type: generic
-      name: Thunderbolt Fighter (NYI)
+      name: Thunderbolt Fighter (Church of Steel)
       filters: []
     - type: generic
-      name: Lightning Interceptor (NYI)
+      name: Lightning Interceptor (Church of Steel)
       filters: []
       index: 4
       groupId: KzS355WwfGkfF2M8
