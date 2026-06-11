@@ -61,8 +61,9 @@ Contributions are welcome! Please reach out to ask how you can help.
 This module's own packaging/code is released under the **MIT License** — see
 [LICENSE](LICENSE).
 
-The game content it adapts (*An Abundance of Apocrypha*) is the **unofficial
-homebrew of Nathan Dowdell**, and Warhammer 40,000 / Wrath & Glory are the
-intellectual property of **Games Workshop** and **Cubicle 7**. This is an
-unofficial, non-commercial fan conversion, used without permission; the MIT
-license does **not** cover that third-party content.
+The game content it adapts (*An Abundance of Apocrypha*) is the homebrew of
+**Nathan Dowdell**, converted here **with his permission**. Warhammer 40,000 and
+Wrath & Glory are the intellectual property of **Games Workshop** and
+**Cubicle 7**; this is an unofficial, non-commercial fan project, not affiliated
+with or endorsed by them. The MIT license covers only this module's own
+packaging/code, not that third-party content.

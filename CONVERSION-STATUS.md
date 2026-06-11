@@ -1,10 +1,10 @@
-# Status da conversão — *An Abundance of Apocrypha* (PDF v9 → Foundry VTT)
+# Conversion status — *An Abundance of Apocrypha* (PDF v9 → Foundry VTT)
 
-Cruzamento do sumário do **PDF v9** (Ago/2023, "Major rewrite") com o conteúdo atual do compêndio (`packs/*` em LevelDB).
+Cross-reference of the **PDF v9** table of contents (Aug 2023, "Major rewrite") against the current compendium content (`packs/*`, LevelDB).
 
-**Legenda:** ✅ feito · 🟡 stub *(NYI — esqueleto, falta preencher)* · ❌ falta. *Match por nome normalizado — grafias muito diferentes podem dar falso "❌".*
+**Legend:** ✅ done · 🟡 stub *(NYI — skeleton, needs filling)* · ❌ to do. *Matched by normalized name — very different spellings may show a false "❌".*
 
-## Arquétipos — 139 no PDF · ✅ 16 · 🟡 2 · ❌ 121
+## Archetypes — 139 in the PDF · ✅ 16 · 🟡 2 · ❌ 121
 
 ### Tier 1 — 28 (✅ 4 · 🟡 0 · ❌ 24)
 
@@ -166,7 +166,7 @@ Cruzamento do sumário do **PDF v9** (Ago/2023, "Major rewrite") com o conteúdo
 - ❌ **Venenum Assassin** — *Officio Assassinorum*
 - ❌ **Vindicare Assassin** — *Officio Assassinorum*
 
-## Pacotes de Ascensão — 16 no PDF · ✅ 7 · ❌ 9
+## Ascension Packages — 16 in the PDF · ✅ 7 · ❌ 9
 
 - ✅ **A Test of Faith**
 - ✅ **Agent of the Inquisition**
@@ -185,23 +185,23 @@ Cruzamento do sumário do **PDF v9** (Ago/2023, "Major rewrite") com o conteúdo
 - ❌ **The Rubicon Primaris**
 - ❌ **Willing Possession**
 
-## Seções novas do v9 (provavelmente ausentes / parciais)
+## New v9 sections (likely missing / partial)
 
-- ❌ **Veículos (Vehicles)** — não há tipo de item `vehicle` no compêndio; sistema próprio (Cognis/Lance/Mounted), o maior bloco a fazer.
-- ❌ **Navigators (Navis Nobilite)** — arquétipos (Navigator, Navis Scion) + regras.
+- ❌ **Vehicles** — no `vehicle` item type in the compendium; its own subsystem (Cognis/Lance/Mounted traits). The biggest remaining block.
+- ❌ **Navigators (Navis Nobilite)** — archetypes (Navigator, Navis Scion) + rules.
 - ❌ **Imperial Navy** — Aeronautica Pilot (stub), Navy Breacher, Navy Officer.
-- 🟡 **Aeldari Ghost Warriors** — Wraithblade/Wraithguard como stubs (NYI).
-- 🟡 **Leagues of Votann** — iniciado (Hearthkyn, Kâhl, Cthonian); faltam Hernkyn Pioneer, Brôkhyr Iron-Master, Einhyr Hearthguard, Grimnyr.
-- 🟡 **T’au Empire** — iniciado (Cadre Fireblade, Crisis Suit, Water Caste); faltam Ethereal, Fire/Earth/Air Caste, etc.
-- ❌ **Followers & Companions** — pets/familiares.
-- ❌ **Novos Capítulos Astartes / Legiões Hereges** — opções de Chapter (Black Templars, Crimson Fists, Flesh Tearers, Grey Knights, [LEGION]…).
+- 🟡 **Aeldari Ghost Warriors** — Wraithblade/Wraithguard exist only as stubs (NYI).
+- 🟡 **Leagues of Votann** — started (Hearthkyn Warrior, Kâhl, Cthonian Berserk); missing Hernkyn Pioneer, Brôkhyr Iron-Master, Einhyr Hearthguard, Grimnyr.
+- 🟡 **T’au Empire** — started (Cadre Fireblade, Crisis Suit Pilot, Water Caste Functionary); missing Ethereal, Fire/Earth/Air Caste, etc.
+- ❌ **Followers & Companions** — pets/familiars.
+- ❌ **New Astartes Chapters / Heretic Legions** — Chapter options (Black Templars, Crimson Fists, Flesh Tearers, Grey Knights, [LEGION]…).
 
-## Plano de conversão sugerido (prioridade)
+## Suggested conversion plan (priority)
 
-1. **Fechar os stubs `(NYI)`** já existentes (Aeronautica Pilot, Speed Freek, Windrider, Wraithblade) — esqueletos prontos, só preencher.
-2. **Completar as facções já iniciadas** (T’au, Leagues of Votann, Aeldari Aspect Warriors restantes) — o motor/itens já existem.
-3. **Pacotes de Ascensão faltantes** (9) — poucos e autocontidos.
-4. **Arquétipos por Tier** — começar por **Tier 1–2** (mais usados na criação de personagem), depois 3→5.
-5. **Seções novas:** Navigators, Imperial Navy, Ghost Warriors, Companions; por último **Veículos** (sistema mais complexo).
+1. **Finish the existing `(NYI)` stubs** (Aeronautica Pilot, Speed Freek, Windrider, Wraithblade) — skeletons already in place, just fill the data.
+2. **Complete the factions already started** (T’au, Leagues of Votann, remaining Aeldari Aspect Warriors) — engine/items already exist.
+3. **Remaining Ascension Packages** (9) — few and self-contained.
+4. **Archetypes by Tier** — start with **Tier 1–2** (most used at character creation), then 3→5.
+5. **New sections:** Navigators, Imperial Navy, Ghost Warriors, Companions; finally **Vehicles** (most complex subsystem).
 
-> Itens com `##` no PDF têm versão oficial no *Forsaken System Player’s Guide* — decidir caso a caso se converte ou aponta pro oficial.
+> Entries marked `##` in the PDF have an official version in the *Forsaken System Player’s Guide* — decide case by case whether to convert or point to the official one.
