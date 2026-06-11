@@ -1,11 +1,11 @@
-name: Voidreaver
+name: Void Reaver
 folder: Eur8pJbhW3UOXOhY
 flags:
   wng-core:
     initialization-folder: Archetypes
     sort: 493750
 pages:
-  - name: Voidreaver
+  - name: Void Reaver
     type: text
     title:
       show: false
