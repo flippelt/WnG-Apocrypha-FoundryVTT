@@ -56,6 +56,24 @@ Contributions are welcome! Please reach out to ask how you can help.
 - [Alexandru "Ashendar" Dracea](https://github.com/adracea)
 - [Michael Mars](https://twitter.com/MichaelMarsRPG)
 
+## Development
+
+The compendium packs ship as LevelDB databases under `packs/`, which are not
+meant to be hand-edited. The editable source lives under `src/packs/` as YAML,
+with a small build step (the [Foundry CLI](https://github.com/foundryvtt/foundryvtt-cli))
+to extract and recompile them:
+
+```bash
+npm install
+npm run unpack   # LevelDB packs -> editable YAML in src/packs/ (run once)
+# ...edit the YAML...
+npm run pack     # YAML sources -> LevelDB packs
+```
+
+`npm run unpack` must be run in an environment where the packs open (the
+Foundry host, Linux, or WSL). After editing, always reload the module in
+Foundry to confirm the compendium loads — see [src/packs/README.md](src/packs/README.md).
+
 ## License
 
 This module's own packaging/code is released under the **MIT License** — see
