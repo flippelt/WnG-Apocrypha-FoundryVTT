@@ -1,0 +1,39 @@
+folder: JmXLzf2ge3nwJeU0
+name: DAL'YTH SEPT
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+system:
+  description: >-
+    <p>Dal’yth is a hub of trade and commerce for the T’au Empire, and it is
+    home to countless merchant guilds, embassies, and markets. Many of the Water
+    caste hail from this world, and even its warriors have a reputation for
+    misdirection and subtle cunning.</p><p>• <strong>Air</strong> caste T’au
+    from Dal’yth add +2 to the Defence of their vehicles when they perform
+    Evasive Action.</p><p>• <strong>Earth</strong> caste T’au from Dal’yth carry
+    devices which are cunningly wrought with hidden functions or secret
+    countermeasures: double the range of the character’s Tech interaction
+    attacks.</p><p>• <strong>Fire</strong> caste T’au from Dal’yth employ
+    advanced camouflage systems to obscure their presence; if they do not move
+    during their turn, they add +2 to their Defence (as if in cover) until the
+    start of their next turn.</p><p>• <strong>Water</strong> caste T’au from
+    Dal’yth add +2 to their Cunning, Deception, Insight, and Persuasion
+    skills.</p>
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OGlMV60T99wXrKHi
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664207638106
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: OGlMV60T99wXrKHi
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!OGlMV60T99wXrKHi'

@@ -1,0 +1,68 @@
+name: Reaper Launcher (Starshot Missile)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/frag-missile.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.hmSai3zhDNZkYLnM
+system:
+  quantity: 1
+  rarity: very-rare
+  description: <p>For Reaper Launcher</p>
+  value: 7
+  keywords: EXPLOSIVE,AELDARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 2
+    - name: barrage
+      custom: true
+      display: Barrage
+      description: >-
+        The weapon fires salvoes of explosive ammunition that scatter over a
+        wide area. When this weapon makes a Salvo attack, increase the weapon’s
+        Blast rating by the weapon’s Salvo value.
+  upgrades: []
+_id: hmSai3zhDNZkYLnM
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932513
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!hmSai3zhDNZkYLnM'

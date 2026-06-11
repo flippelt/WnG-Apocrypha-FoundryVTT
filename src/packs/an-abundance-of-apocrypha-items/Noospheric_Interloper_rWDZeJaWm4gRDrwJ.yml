@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Noospheric Interloper
+type: ability
+_id: rWDZeJaWm4gRDrwJ
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You may attempt Tech Interaction Attacks at a range of your Intellect
+    multiplied by your Rank, and you may measure this distance from any
+    servo-skull under your control. Further, if you succeed, you may inflict 1d3
+    Mortal Wounds (+1 per Icon shifted) or select an automated or
+    machine-mounted weapon (which must be visible to, and within your Intellect
+    in metres of, the target) and make a ranged attack with it.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710789792598
+  modifiedTime: 1710789822338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!rWDZeJaWm4gRDrwJ'

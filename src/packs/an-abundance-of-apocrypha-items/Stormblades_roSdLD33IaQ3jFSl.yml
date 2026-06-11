@@ -1,0 +1,57 @@
+folder: fgtFfRbmshJ8KM1n
+name: Stormblades
+type: ability
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>At the start of combat, before the first turn is taken, nominate a single
+    location on the battlefield (no bigger than 1m across) as your objective.
+    When you make a melee attack against an enemy within 6m of this objective,
+    you may re-roll all rolls of 1 on melee attacks and Resolve tests you
+    attempt.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0XTuSGgySWfVVvCd
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664302551640
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: roSdLD33IaQ3jFSl
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!roSdLD33IaQ3jFSl'

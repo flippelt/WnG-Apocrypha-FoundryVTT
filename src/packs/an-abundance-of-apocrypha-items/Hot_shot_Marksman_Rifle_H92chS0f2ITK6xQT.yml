@@ -1,0 +1,61 @@
+folder: KtMQP20MTYUwmoWw
+name: Hot-shot Marksman Rifle
+type: weapon
+_id: H92chS0f2ITK6xQT
+img: modules/wng-core/assets/icons/weapons/hot-shot-lasgun.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>A modified version of the Hot-shot Lasgun, this weapon is fitted with a
+    precision extended barrel and a high-powered scope, allowing it to deliver
+    shots with deadly accuracy. In exchange for that power and precision, the
+    weapon depletes its power pack rapidly, and the components require extensive
+    regular maintenance.</p>
+  value: 7
+  keywords: LAS, IMPERIUM, ASTRA MILITARUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: reliable
+    - name: sniper
+      rating: 1
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709901768330
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!H92chS0f2ITK6xQT'

@@ -1,0 +1,155 @@
+folder: ynSNkXL3NdmXm43i
+name: Calculus Logi
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Compendium.wng-core.items.Item.NEkaKMEm79MWGo8b
+  influence: 1
+  cost: 44
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - '[FORGE WORLD]'
+    - CULT MECHANICUS
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 2
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 1
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: null
+  ability:
+    name: Infovore
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RHxoqOJP0dNSFs2m
+  wargear:
+    - name: Calculus Logi Implant
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MRFMxRilqowga5ST
+      type: item
+      diff: {}
+      index: 0
+      groupId: hWZdkOnkm8PiRvYc
+    - name: Mechadendrite (optical or utility)
+      id: Compendium.wng-core.items.Item.oCFca0vTYRuxndzP
+      type: item
+      diff:
+        name: Mechadendrite (optical or utility)
+      index: 1
+      groupId: cgE13r2AFvmXda4k
+    - type: generic
+      name: any two Augmetics
+      filters: []
+      index: 2
+      groupId: rS9YMxu646BwOjHJ
+    - name: Mesh Armour
+      id: Compendium.wng-core.items.Item.Gkvz8V1xP8wrBBk8
+      type: item
+      diff: {}
+      index: 3
+      groupId: DsEVW9VHOeNpyMT3
+    - name: Laspistol
+      id: Compendium.wng-core.items.Item.STrmO2xhRZgClDSR
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: hWZdkOnkm8PiRvYc
+      - index: 1
+        type: item
+        groupId: cgE13r2AFvmXda4k
+      - type: item
+        index: 2
+        groupId: rS9YMxu646BwOjHJ
+      - index: 3
+        type: item
+        groupId: DsEVW9VHOeNpyMT3
+      - index: 4
+        type: item
+        groupId: NEZeKDKEFgietAoh
+  suggested:
+    attributes:
+      strength: 1
+      toughness: 2
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 5
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: 2
+      intimidation: null
+      investigation: 2
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 5
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: null
+    talents:
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: VLWzaaUTYv6c3X2A
+        name: Conversational Cogitator
+      - id: l4Fp0OzFPXVY2LdK
+        name: Unremarkable
+      - id: vxsi953ncB48aylK
+        name: Rite of Pure Thought
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iAMB03C8yr5ZC1uj
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699734841415
+  modifiedTime: 1710605932082
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: al2gIJOknVgBmV7l
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 100000
+_key: '!items!al2gIJOknVgBmV7l'

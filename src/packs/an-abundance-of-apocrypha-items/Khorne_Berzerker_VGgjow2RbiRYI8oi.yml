@@ -1,0 +1,173 @@
+folder: cZ7bosRjx1cxapg8
+name: Khorne Berzerker
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 2
+  cost: 330
+  keywords:
+    - CHAOS
+    - KHORNE
+    - HERETIC ASTARTES
+    - '[LEGION]'
+  attributes:
+    strength: 6
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 4
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 1
+    investigation: null
+    leadership: 1
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 6
+  ability:
+    name: Blood for the Blood God!
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.n9AHVsRr2a3eKI9N
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: H8jKx3HZI5ba3w61
+    - name: Astartes Chainsword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cl2SkggR4PWY2pxi
+      type: item
+      diff: {}
+      index: 2
+      groupId: qmcw2AMJgB0VR8mj
+    - name: Chainaxe
+      id: Compendium.wng-core.items.Item.HVZUg1rOLXh7OnKM
+      type: item
+      diff: {}
+      index: 3
+      groupId: PTP56VRttYLz27b9
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 4
+      groupId: RyH0zwWOWgYcjPDZ
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: iuRlJmSC1u5SpWr5
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: CWVPr9G5IVmpw8rS
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: H8jKx3HZI5ba3w61
+      - index: 2
+        type: item
+        groupId: qmcw2AMJgB0VR8mj
+      - index: 3
+        type: item
+        groupId: PTP56VRttYLz27b9
+      - index: 4
+        type: item
+        groupId: RyH0zwWOWgYcjPDZ
+      - index: 5
+        type: item
+        groupId: iuRlJmSC1u5SpWr5
+      - index: 6
+        type: item
+        groupId: CWVPr9G5IVmpw8rS
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: YaiXDgjj9UxA1EtI
+        name: Berzerker
+      - id: 26UYjRZ4VBoL1EyC
+        name: Blood Must Flow!
+      - id: Kid68id9VMPSX5vT
+        name: Frenzy
+effects: []
+flags:
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710704480616
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: VGgjow2RbiRYI8oi
+sort: 800000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!VGgjow2RbiRYI8oi'

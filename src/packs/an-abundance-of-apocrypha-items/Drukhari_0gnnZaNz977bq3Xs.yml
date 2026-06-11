@@ -1,0 +1,72 @@
+name: Drukhari
+type: species
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+effects: []
+folder: ct8TKkELuAnX5bLq
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0cyPTEOhN6wKHMDz
+system:
+  cost: 20
+  speed: 8
+  size: average
+  journal: ''
+  abilities:
+    - id: M6mFg2OTSUN53WnO
+      name: She Who Thirsts
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8XA1OySxrb8c0vui
+      name: Blade Artist
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9cw6SgU0dU0uNucn
+      name: The Thirst
+  attributes:
+    strength: 2
+    toughness: null
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: 7
+    toughness: 7
+    agility: 12
+    initiative: 12
+    willpower: 12
+    intellect: 10
+    fellowship: 6
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056656
+  modifiedTime: 1710522328018
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 0gnnZaNz977bq3Xs
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!0gnnZaNz977bq3Xs'

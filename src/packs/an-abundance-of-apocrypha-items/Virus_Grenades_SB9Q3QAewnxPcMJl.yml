@@ -1,0 +1,103 @@
+name: Virus Grenades
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.SB9Q3QAewnxPcMJl
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Virus grenades contain a genetically tailored
+    virus, like the virus bombs used to perform Exterminatus, but on a much
+    smaller scale; the “tactical” virus weapon, compared to the “strategic”
+    Life-Eater weapons used to kill worlds. Only the most hardened and merciless
+    warriors can deploy such weapons without hesitation, for there is always an
+    element of risk. The servants of the Chaos God Nurgle are known to employ
+    such weapons as well, especially the Death Guard Heretic Astartes, who were
+    experts in using chemical and biological weapons long before they fell to
+    Chaos.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">Virus Grenades do not inflict damage normally. Rather,
+    anyone in the area must pass a DN 7 Toughness test or suffer the
+    </span><span class="fontstyle3">Poisoned 7 </span><span
+    class="fontstyle0">condition. A creature </span><span
+    class="fontstyle3">Poisoned </span><span class="fontstyle0">by a Virus
+    Grenade suffers 3d3 Mortal Wounds at the start of each of their turns. When
+    a creature dies from a Virus Grenade, it may infect others. Roll 7d6. The
+    number of Icons rolled is the infection score, which replaces 7 as the Blast
+    rating, the DN for the Toughness test, the </span><span
+    class="fontstyle3">Poisoned X </span><span class="fontstyle0">rating, and
+    the number of dice rolled for the next infection. When the infection score
+    reaches 0, the virus has mutated into an inert strain and there is no
+    further effect.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 12
+  keywords: EXOTIC, GAS, ADEPTUS MECHANICUS,INQUISITION, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+    - name: gas
+      custom: true
+      display: Gas
+      description: >-
+        A Gas weapon deploys clouds of aerosolised or gaseous chemical agents.
+        To use a Gas weapon, make a Ballistic Skill test to target a specific
+        location; if it hits, that is where the gas emerges, filling the blast
+        area and affecting creatures within. The gas dissipates over time,
+        reducing the Blast Rating by 2 at the end of each round. Strong winds
+        may make the gas dissipate more quickly, at GM’s discretion. Characters
+        wearing a rebreather or a void suit, or armour which includes such
+        features, automatically succeed at any tests required to resist Gas
+        weapon’s effects, as are creatures which do not need to breathe, such as
+        unliving automata, NECRONS, or DAEMONS, or creatures impervious to
+        chemical weapons like TYRANIDS.
+  upgrades: []
+_id: SB9Q3QAewnxPcMJl
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430854
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!SB9Q3QAewnxPcMJl'

@@ -1,0 +1,156 @@
+folder: GHP0SxnnlNKFusRJ
+name: Howling Banshee Aspect Warrior
+type: archetype
+_id: F3XHAyJiBd4BwtGm
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 127
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - ASPECT WARRIOR
+  attributes:
+    strength: null
+    toughness: null
+    agility: 5
+    initiative: 4
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 2
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Acrobatic
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.nNf6xWmjqI1SyuUt
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aspect Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4CN52w3DuI2X6OwJ
+      type: item
+      diff: {}
+      index: 1
+      groupId: lDhDm4TgtCVP6i4O
+    - name: Shuriken Pistol
+      id: Compendium.wng-core.items.Item.ueTuXr4xkzevIL4X
+      type: item
+      diff: {}
+      index: 2
+      groupId: mmBEV0xYHoJ5idE1
+    - name: Banshee Blade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1RNIRTNGDNSFLjlB
+      type: item
+      diff: {}
+      index: 3
+      groupId: GF5Oe6h8pYCkwvKu
+    - name: Banshee Mask
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.uUyjTgqxEzQa2nPb
+      type: item
+      diff: {}
+      index: 4
+      groupId: g8C3sd1qNK07dhh4
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: lDhDm4TgtCVP6i4O
+      - index: 2
+        type: item
+        groupId: mmBEV0xYHoJ5idE1
+      - index: 3
+        type: item
+        groupId: GF5Oe6h8pYCkwvKu
+      - index: 4
+        type: item
+        groupId: g8C3sd1qNK07dhh4
+      - index: 5
+        type: item
+        groupId: 0Da79sSwyavc2fFm
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 2
+      agility: 6
+      initiative: 5
+      willpower: 4
+      intellect: 3
+      fellowship: 2
+    skills:
+      athletics: 3
+      awareness: 3
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 3
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 6
+    talents:
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+      - id: WH35kUnWjWxGcV3g
+        name: Honed to Lethality
+      - id: zrCkrWGkMDPK1kOg
+        name: Battle Focus
+      - id: bFBAoDYHeegNgDIQ
+        name: Deceptive Retreat
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710683580540
+  modifiedTime: 1710683916820
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!F3XHAyJiBd4BwtGm'

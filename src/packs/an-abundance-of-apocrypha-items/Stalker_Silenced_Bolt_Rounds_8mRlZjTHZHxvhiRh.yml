@@ -1,0 +1,47 @@
+name: Stalker Silenced Bolt Rounds
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ammo.Item.8mRlZjTHZHxvhiRh
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Utilising a compressed gas propellant instead of
+    the conventional rocket engine and replacing the warhead with a high-density
+    liquid metal core to increase impact force, Stalker bolt rounds are designed
+    to make minimum noise when fired.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Bolt weapons firing Stalker bolt rounds gain the Silent
+    trait. If the weapon already has the Silent trait, then firing the weapon no
+    longer affects the character’s Stealth score.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: ADEPTUS ASTARTES
+  effect: ''
+  traits:
+    - name: silent
+      type: add
+_id: 8mRlZjTHZHxvhiRh
+folder: qnM5Rkyt2djZ275h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017422225
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 2000000
+_key: '!items!8mRlZjTHZHxvhiRh'

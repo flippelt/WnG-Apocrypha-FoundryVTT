@@ -1,0 +1,156 @@
+folder: lEqVRehKQvTYGEoK
+name: Reaver (NYI)
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 0
+  cost: 68
+  keywords:
+    - AELDARI
+    - DRUKHARI
+    - WYCH
+    - '[CULT]'
+  attributes:
+    strength: 2
+    toughness: null
+    agility: 4
+    initiative: 4
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 3
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Lethal Swiftness
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HpXFyhzhy2MVaAAL
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Wychsuit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jXwTZehsR4s1js5O
+      type: item
+      diff: {}
+      index: 1
+      groupId: MtOtDuYiAk6Ct3tl
+    - name: Splinter Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.smcYrkZOFwBpXHt9
+      type: item
+      diff: {}
+      index: 2
+      groupId: Hq6dlffeHGO7ToNa
+    - type: generic
+      name: Reaver Jetbike (NYI)
+      filters: []
+      index: 3
+      groupId: 96I6S7VyczuLwi3J
+    - name: Hekatarii Combat Drugs
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.D94t8tJ06b13Hgoi
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: mhO1Gmzlvy1mxJS0
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: MtOtDuYiAk6Ct3tl
+      - index: 2
+        type: item
+        groupId: Hq6dlffeHGO7ToNa
+      - type: item
+        index: 3
+        groupId: 96I6S7VyczuLwi3J
+      - index: 4
+        type: item
+        groupId: mhO1Gmzlvy1mxJS0
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 2
+      agility: 5
+      initiative: 5
+      willpower: 3
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 2
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: 1
+      persuasion: null
+      pilot: 4
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: 4
+    talents:
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: 26UYjRZ4VBoL1EyC
+        name: Blood Must Flow!
+      - id: iivqTi24Np7A3lYz
+        name: Death From Above
+effects: []
+flags:
+  core: {}
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710613887763
+  modifiedTime: 1710614312613
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: VftcSQZfNibGHqM1
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!VftcSQZfNibGHqM1'

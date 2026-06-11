@@ -1,0 +1,160 @@
+folder: GHP0SxnnlNKFusRJ
+name: Harlequin Death Jester
+type: archetype
+_id: lO9nyUQRe5AfwbJ3
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Harlequins of the Laughing God
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MZLyJ0QPkPgJg0Y9
+  influence: 4
+  cost: 238
+  keywords:
+    - AELDARI
+    - HARLEQUIN
+    - '[SAEDATH]'
+  attributes:
+    strength: 3
+    toughness: 5
+    agility: null
+    initiative: 5
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 4
+    awareness: null
+    ballisticSkill: 4
+    cunning: null
+    deception: 3
+    insight: 3
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 5
+  ability:
+    name: Death is Not Enough
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.08KmCTYKaBUpc7M0
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Holo-Suit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.tet6rHIN1D1iJUgu
+      type: item
+      diff: {}
+      index: 1
+      groupId: 8PxZC5MUSjHZxoag
+    - name: Agaith
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zhhjpbUPHqKFBBVW
+      type: item
+      diff: {}
+      index: 2
+      groupId: jKRJ4sihrV1NXxBM
+    - name: Flip-Belt
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GKoH1CLvFjMlzJnL
+      type: item
+      diff: {}
+      index: 3
+      groupId: zkgTZfMFzUppie46
+    - name: Master-Crafted Shuriken Cannon
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.XvLh57Ssl7pJoXCi
+      type: item
+      diff: {}
+      index: 4
+      groupId: G4P7ZgmS0w2ddGGm
+    - name: Shrieker Bio-Explosive Discs
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rhOlx8wC7HqoL7RA
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: HFByPlTmpEw6HkzS
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 8PxZC5MUSjHZxoag
+      - index: 2
+        type: item
+        groupId: jKRJ4sihrV1NXxBM
+      - index: 3
+        type: item
+        groupId: zkgTZfMFzUppie46
+      - index: 4
+        type: item
+        groupId: G4P7ZgmS0w2ddGGm
+      - index: 5
+        type: item
+        groupId: HFByPlTmpEw6HkzS
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 7
+      initiative: 6
+      willpower: 5
+      intellect: 3
+      fellowship: 3
+    skills:
+      athletics: 5
+      awareness: 4
+      ballisticSkill: 6
+      cunning: null
+      deception: 4
+      insight: 3
+      intimidation: 4
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: 2
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: 5
+    talents:
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+      - id: fIy3evnEKxFiNV4j
+        name: Gallows Humour
+      - id: 1OzEfrtLvMDY3XgW
+        name: Strike and Fade
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710781025456
+  modifiedTime: 1710781951022
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!lO9nyUQRe5AfwbJ3'

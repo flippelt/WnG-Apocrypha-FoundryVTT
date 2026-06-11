@@ -1,0 +1,614 @@
+folder: FUoucq3Qte8aJ3HB
+name: Thrall Wizard
+type: threat
+img: modules/wng-core/assets/tokens/chaos-cultist.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 5
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 4
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 6
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: T
+      second: T
+      third: T
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 5 Uncommon</p><p>A Thrall Wizard is a human
+    servant of Tzeentch who serves a Heretic Astartes Sorcerer. Many of them
+    serve the Thousand Sons Legion, drawn from the mortal population of the
+    Planet of the Sorcerers, but it is rare to encounter a Chaos Sorcerer who
+    does not aspire to have minions and thralls to serve their whims.</p>
+prototypeToken:
+  name: Thrall Wizard
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/chaos-cultist.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - _id: lMk0rlZxQTAzmspM
+    name: CHAOS
+    type: keyword
+    img: modules/wng-core/assets/factions/chaos.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 2800000
+      core:
+        sourceId: Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF
+    system:
+      description: <p>The forces and worshippers of the Chaos Gods. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656025
+      modifiedTime: 1710421875767
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!4PfTm75mYa1R0dEZ.lMk0rlZxQTAzmspM'
+  - _id: jo3EAJhlzWoBzAu4
+    name: '[MARK OF CHAOS]'
+    type: keyword
+    img: modules/wng-core/assets/factions/chaos.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 1200000
+      core:
+        sourceId: Compendium.wng-core.items.Item.TXRdb9GJ55fjSODX
+    system:
+      description: >-
+        <p>Those that worship the Ruinous Powers may be gifted with a Mark of
+        Chaos, a foul manifestation of the favor of the Dark Gods that defines a
+        mortal as a servant of Chaos. Most of these traitors are marked with the
+        eight-pointed star of Chaos undivided, but some focus their worship on a
+        single god and in turn receive their specific mark. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656025
+      modifiedTime: 1710421881017
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!4PfTm75mYa1R0dEZ.jo3EAJhlzWoBzAu4'
+  - _id: TMG8C13RccY2PiYd
+    name: HERETIC
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 3400000
+      core:
+        sourceId: Compendium.wng-core.items.Item.kZUQtnE0gqH81t98
+    system:
+      description: >-
+        <p>Those that have sinned, blasphemed, or turned traitorously from the
+        light of the Emperor are known as heretics. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656029
+      modifiedTime: 1710421896564
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!4PfTm75mYa1R0dEZ.TMG8C13RccY2PiYd'
+  - name: Determination
+    type: ability
+    _id: mEpx1fNm5FRZok10
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Glory to roll 3d6</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 100000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.NyytzXiTWO84CSRs
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359735702
+      modifiedTime: 1710422210837
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!4PfTm75mYa1R0dEZ.mEpx1fNm5FRZok10'
+  - name: Cursed Athame
+    type: weapon
+    _id: m79rHbR1tCeeVwkI
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 5
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: rending
+          rating: 1
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710422219548
+      modifiedTime: 1710422275358
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!4PfTm75mYa1R0dEZ.m79rHbR1tCeeVwkI'
+  - name: Aura of Dark Glory
+    type: armour
+    _id: 5TgBXWekVN9FJsYG
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 3
+      base: 0
+      traits: []
+      invulnerable: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Actor.zUqIs5BKAAA67Du3.Item.9dJvQglNtBVwGRPF
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710422372797
+      modifiedTime: 1710422400219
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!4PfTm75mYa1R0dEZ.5TgBXWekVN9FJsYG'
+  - _id: Bva87OImAiPM5q7J
+    name: PSYKER
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-astra-telepathica.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj
+    system:
+      description: "<p>You are a Psyker, capable of channeling the raw energies of the Warp. If you have this Keyword, you:\_</p><ul><li>Know the @UUID[JournalEntry.PA2r8GQau2kyGwCO.JournalEntryPage.a3kO9CDWpBUWHtEr#universal-psychic-discipline]{Universal Psyker Abilities}.</li><li>Can spend XP to learn psychic powers.</li><li>Can spend XP to improve your Psychic Mastery Skill.</li></ul><p>None truly know how an individual becomes a Psyker. Some are born with this twisted gift, others are cursed through exposure to the Warp. Becoming a Psyker will dramatically change your character, making them a powerful, feared, and potentially illegal citizen of the Imperium. Talk to your GM and your group before choosing this Keyword.</p>"
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656023
+      modifiedTime: 1710422511817
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!4PfTm75mYa1R0dEZ.Bva87OImAiPM5q7J'
+  - name: Ritualist
+    type: talent
+    _id: BzkqbGNWkOhkODY9
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When within 6m of their owner, a Dark Disciple adds one Exalted Icon
+        to the owner’s Psychic Mastery tests.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710422569289
+      modifiedTime: 1710422583858
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!4PfTm75mYa1R0dEZ.BzkqbGNWkOhkODY9'
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710421822084
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 4PfTm75mYa1R0dEZ
+_key: '!actors!4PfTm75mYa1R0dEZ'

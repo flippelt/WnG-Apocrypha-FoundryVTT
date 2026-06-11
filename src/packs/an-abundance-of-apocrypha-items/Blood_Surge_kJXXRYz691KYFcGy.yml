@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Blood Surge
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: CHAOS keyword, KHORNE keyword
+  description: >-
+    <p>Little can restrain your desire to close with the enemy and tear them
+    limb from limb.</p><p>You gain +1d3 Corruption. Whenever an enemy makes a
+    ranged attack against you, after the attack has been resolved, you may move
+    up to your Speed directly towards the shooter as a Reflexive Action.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.xMcyPurrxBvNWMvt
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699802233296
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: kJXXRYz691KYFcGy
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 8800000
+_key: '!items!kJXXRYz691KYFcGy'

@@ -1,0 +1,82 @@
+name: Sanctuary
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.l5tbx4YzGHOIp3G1
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>By tapping into the various breaches and cracks that exist in the real
+    world, you are able to wrap yourself within tendrils of warp energy and use
+    them to gird yourself against harm. While this power remains in effect, an
+    enemy who wishes to target you with a ranged attack or move within 3m of you
+    must pass a DN 3 Willpower test; if they fail, they forgo their turn as the
+    power holds them at bay. Further, you may roll Determination against Mortal
+    Wounds while this power remains in effect. The effect ends instantly when
+    you make a ranged attack.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The power affects you and all allies you can see within 5m.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: Willpower test has +1 DN.
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: 3
+    type: attribute
+    specification: willpower
+_id: l5tbx4YzGHOIp3G1
+folder: BOwa2ac4VoE8QlCY
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206782
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!l5tbx4YzGHOIp3G1'

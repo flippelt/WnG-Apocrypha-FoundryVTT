@@ -1,0 +1,90 @@
+name: Abhor the Unhallowed
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: MtklKlMez4XclnYM
+    changes:
+      - key: difficulty.bonus
+        mode: 7
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              +1DN on all Scholar or Tech tests relating to items or characters
+              with the  HERETIC or  CHAOS keywords, or with any keyword
+              belonging to a Xenos species.
+    tint: null
+    origin: null
+    name: Abhor the Unhallowed
+    description: ''
+    statuses: []
+    _key: '!items.effects!5P8xcagKvb8DcT82.MtklKlMez4XclnYM'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.5P8xcagKvb8DcT82
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>The character is filled with an&nbsp;instinctive revulsion for the
+    unholy&nbsp;or unclean. They suffer +1DN on&nbsp;all Scholar or Tech tests
+    relating to&nbsp;items or characters with the
+    @Item[kZUQtnE0gqH81t98]{HERETIC} or @Item[TujuT6TkhTSvZJLF]{CHAOS} keywords,
+    or&nbsp;with any keyword belonging to a&nbsp;Xenos species.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056844
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 5P8xcagKvb8DcT82
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!5P8xcagKvb8DcT82'

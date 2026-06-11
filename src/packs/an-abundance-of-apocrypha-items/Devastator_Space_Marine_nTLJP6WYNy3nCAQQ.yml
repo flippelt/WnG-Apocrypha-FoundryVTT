@@ -1,0 +1,246 @@
+folder: j5mcT1m1I7srvO3E
+name: Devastator Space Marine
+type: archetype
+_id: nTLJP6WYNy3nCAQQ
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 1
+  cost: 270
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: 3
+    survival: null
+    tech: 1
+    weaponSkill: 4
+  ability:
+    name: Unrelenting Devastation
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ZuUsJYDtodghXT5p
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: QTUxkpLp8cOlKoKY
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 2
+      groupId: K4gcszoLwiVYPW3L
+    - name: Astartes Combat Knife
+      id: Compendium.wng-core.items.Item.4QVBQYWXXLyvFWkj
+      type: item
+      diff: {}
+      index: 3
+      groupId: H0sQD3ynwi8L4xLr
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: gJcjcRiePzoOM46k
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: ExPm3dMYFGiIdp0D
+    - name: Ammo Backpack
+      id: Compendium.wng-core.items.Item.Dh1HhVnPaURjpgTR
+      type: item
+      diff: {}
+      index: 6
+      groupId: P9VktckYUJYBhVJl
+    - name: Heavy Bolter
+      id: Compendium.wng-core.items.Item.ut6nsTPR0xL4mfET
+      type: item
+      diff: {}
+      index: 7
+      groupId: 114le5wkdTejgf0U
+    - name: Missile Launcher
+      id: Compendium.wng-core.items.Item.Ir3TL7qFOrdSzgJs
+      type: item
+      diff: {}
+      index: 8
+      groupId: u4UpQJo9q7CKvFVi
+    - name: Frag Missile
+      id: Compendium.wng-core.items.Item.FHwIBN0uKcGPMnxn
+      type: item
+      diff:
+        system:
+          quantity: 6
+      index: 9
+      groupId: XcCsBkHl5XxqwOn9
+    - name: Krak Missile
+      id: Compendium.wng-core.items.Item.YOwhm6xcXXT7BxDO
+      type: item
+      diff:
+        system:
+          quantity: 6
+      index: 10
+      groupId: HA5Kz3JfUv885bgr
+    - name: Lascannon
+      id: Compendium.wng-core.items.Item.x1Ouy4jFDseOnm26
+      type: item
+      diff: {}
+      index: 11
+      groupId: VzKkhdb1cKrliexh
+    - name: Multi-Melta
+      id: Compendium.wng-core.items.Item.Fq7YlyhxjbOjOR9H
+      type: item
+      diff: {}
+      index: 12
+      groupId: Rsyk4hh7cakkAlsE
+    - name: Plasma Cannon
+      id: Compendium.wng-core.items.Item.MrX6ET197CT2qEYF
+      type: item
+      diff: {}
+      index: 13
+      groupId: He7LIUrhSDCQCLLh
+    - name: Grav-cannon
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JPbyIJlCTbjbYuc2
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: QTUxkpLp8cOlKoKY
+      - index: 2
+        type: item
+        groupId: K4gcszoLwiVYPW3L
+      - index: 3
+        type: item
+        groupId: H0sQD3ynwi8L4xLr
+      - index: 4
+        type: item
+        groupId: gJcjcRiePzoOM46k
+      - index: 5
+        type: item
+        groupId: ExPm3dMYFGiIdp0D
+      - index: 6
+        type: item
+        groupId: P9VktckYUJYBhVJl
+      - type: or
+        items:
+          - index: 7
+            type: item
+            groupId: 114le5wkdTejgf0U
+          - index: 11
+            type: item
+            groupId: VzKkhdb1cKrliexh
+          - index: 12
+            type: item
+            groupId: Rsyk4hh7cakkAlsE
+          - index: 13
+            type: item
+            groupId: He7LIUrhSDCQCLLh
+          - index: 14
+            type: item
+            groupId: egNYMmJsAewsr1qA
+          - type: and
+            items:
+              - index: 8
+                type: item
+                groupId: u4UpQJo9q7CKvFVi
+              - index: 9
+                type: item
+                groupId: XcCsBkHl5XxqwOn9
+              - index: 10
+                type: item
+                groupId: HA5Kz3JfUv885bgr
+            groupId: yv0psH59KeF4CLti
+        groupId: Vv5tyovUAECFhWzQ
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: PWsQWzWvYeyAm0IV
+        name: And They Shall Know No Fear
+      - id: h3cX58IYSA7DiKnI
+        name: Overwatch
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710680406825
+  modifiedTime: 1710681376230
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!nTLJP6WYNy3nCAQQ'

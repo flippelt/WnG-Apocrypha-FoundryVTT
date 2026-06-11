@@ -1,0 +1,105 @@
+name: Terrify
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Terror
+    icon: systems/wrath-and-glory/asset/icons/conditions/terror.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '2'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +2 DN to all Tests
+            script: return true
+    statuses:
+      - terror
+    _id: 7nu0Y8TS0Ai1llVD
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    _key: '!items.effects!18eBDG3mWH7r3PQ4.7nu0Y8TS0Ai1llVD'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.18eBDG3mWH7r3PQ4
+system:
+  dn: '@combat.resolve.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You fill your enemies’ minds with visions of torment and agony. Select a
+    single enemy you can see within range. If successful, the enemy suffers
+    Terror.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: INQUISITION
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The enemy cannot use Reflexive Actions while under the effects of Terror
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: The enemy suffers 1 Shock as well
+      cost: 1
+      property: damage.other.shock.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 18eBDG3mWH7r3PQ4
+folder: Xna24or3vCqYsURu
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206746
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!18eBDG3mWH7r3PQ4'

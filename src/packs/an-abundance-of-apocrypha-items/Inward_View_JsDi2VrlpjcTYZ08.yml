@@ -1,0 +1,113 @@
+name: Inward View
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Inward View
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: 30PKAbzeGeTWEIwR
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!JsDi2VrlpjcTYZ08.30PKAbzeGeTWEIwR'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.JsDi2VrlpjcTYZ08
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p><strong>Activation</strong>: Five Minutes</p><p></p><p>There are many
+    myths about the “third eye” into the soul, their origins supposedly harking
+    from Ancient Terra. The Navis Nobilite know that such stories are not wholly
+    myth, and they understand that it is entirely possible to discover hidden
+    knowledge through particular forms of introspective meditation. If this
+    power is successful, you immediately recover 1d3+2 Shock, and add +2 bonus
+    dice to the first Investigation or Scholar test you attempt during the
+    power’s duration. You may use this power as part of a Regroup. Once you have
+    used this power, you may not use it again until after you have taken a
+    Respite.</p>
+  effect: ''
+  cost: 15
+  activation: ''
+  duration: 1 Hour
+  range: Self
+  multiTarget: false
+  keywords: NAVIS NOBILITE, PSYCHIC
+  prerequisites: NAVIS NOBILITE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: 1d3+2
+  potency:
+    - description: Recover +1 Shock.
+      cost: 1
+      property: damage.other.shock.bonus
+      initial: ''
+      value: 1
+      single: false
+    - description: Increase duration by +1 hour.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: You may use the bonus dice on Psychic Mastery tests.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: JsDi2VrlpjcTYZ08
+folder: rt2QsMjxN0O6qf5z
+sort: 312500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206827
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!JsDi2VrlpjcTYZ08'

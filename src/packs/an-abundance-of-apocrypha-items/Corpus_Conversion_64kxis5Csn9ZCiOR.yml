@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Corpus Conversion
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Human species, PSYKER keyword
+  description: >-
+    <p>You can sacrifice your life-force to fuel your powers.</p><p>When you
+    attempt to activate a psychic power, you may suffer 1, 2, or 3 Mortal
+    Wounds. You may not reduce this damage in any way. For each Mortal Wound
+    suffered, you add one Icon to your Psychic Mastery test.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.64kxis5Csn9ZCiOR
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699803222180
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 64kxis5Csn9ZCiOR
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1000000
+_key: '!items!64kxis5Csn9ZCiOR'

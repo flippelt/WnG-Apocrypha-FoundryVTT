@@ -1,0 +1,51 @@
+name: Ejection System
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-equipment.Item.VOyvyyTMpEmhu6jG
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">An Ejection System provides a T'au Battlesuit
+    pilot a chance of escaping catastrophic damage to his Battlesuit by throwing
+    him clear of its imminent destruction. Once ejected, the Battlesuit pilot is
+    armed with nothing more than a Pulse Pistol and must make his own escape
+    from the battlefield. Often used by those T'au Commanders who lead from the
+    front but are considered too valuable to the T'au Empire to die, Ejection
+    Systems are a special-issue system only available to lone XV8 Crisis
+    Battlesuit pilots of the rank of Shas’vre or
+    higher.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">When you are reduced to 0 Wounds, the suit’s systems
+    eject you. You land [[/r 3d6]] metres away, in the direction furthest from
+    the enemy. Your battlesuit is destroyed, but you have Wounds remaining equal
+    to [[/r 1d3]] plus the game’s Tier, and a Pulse Pistol.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: T’AU EMPIRE, SUPPORT SYSTEM
+  effect: ''
+_id: VOyvyyTMpEmhu6jG
+folder: G6w5YJj7QygkEzDX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710258892580
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!VOyvyyTMpEmhu6jG'

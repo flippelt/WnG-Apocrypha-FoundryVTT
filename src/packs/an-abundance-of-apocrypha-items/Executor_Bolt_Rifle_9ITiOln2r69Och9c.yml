@@ -1,0 +1,68 @@
+name: Executor Bolt Rifle
+type: weapon
+img: modules/wng-core/assets/icons/weapons/bolt-rifle.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A high-calibre, heavy form of the Stalker Bolt Rifle, used by Heavy
+    Intercessors.</p>
+
+    <p>An Executor Bolt Rifle comes with a
+    @UUID[Item.SWEx4ZoVCxd0oz5O]{Monoscope} as standard.</p>
+  value: 7
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 21
+    medium: 42
+    long: 63
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: brutal
+    - name: heavy
+      rating: 4
+    - name: sniper
+      rating: 1
+  upgrades: []
+effects: []
+flags:
+  scene-packer:
+    hash: b5a9cf2592af01e0a2db9306c5e1bd8a1312dc98
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665424378314
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: 9ITiOln2r69Och9c
+sort: 450000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!9ITiOln2r69Och9c'

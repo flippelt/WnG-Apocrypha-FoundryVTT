@@ -1,0 +1,199 @@
+folder: j5mcT1m1I7srvO3E
+name: Primaris Reiver (Apocrypha Version)
+type: archetype
+_id: HhHiOZyVIel7xVlA
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: Compendium.wng-core.items.Item.cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 1
+  cost: 228
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - PRIMARIS
+    - '[CHAPTER]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 4
+    initiative: 4
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Terror Troops
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.TkhVxXLnx8S0Iwzg
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Phobos Mark X
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.AQRPnnosXrnefqtq
+      type: item
+      diff: {}
+      index: 1
+      groupId: 9ptg3S1yYPSMYyRD
+    - name: Heavy Bolt Pistol
+      id: Compendium.wng-core.items.Item.piwPtkisOSeJ47HV
+      type: item
+      diff: {}
+      index: 2
+      groupId: 0lM5Qrn68fyzOmj2
+    - name: Bolt Carbine
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.2eu25R7GAPL43DdU
+      type: item
+      diff: {}
+      index: 3
+      groupId: MqVOrNnRS86MRsjX
+    - name: Astartes Combat Knife
+      id: Compendium.wng-core.items.Item.4QVBQYWXXLyvFWkj
+      type: item
+      diff: {}
+      index: 4
+      groupId: rOWVBNvXsLY8UI7A
+    - name: Grav-Chute
+      id: Compendium.wng-core.items.Item.1oDvFKX7fVW8ic2R
+      type: item
+      diff: {}
+      index: 5
+      groupId: GkFgnzGdlGrkrC6S
+    - name: Grapple Gun
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OzWEDMYuT5UnEUWj
+      type: item
+      diff: {}
+      index: 6
+      groupId: pUZ9sePznEmd2wuT
+    - name: Shock Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ZttUDwJxOPBswCVS
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 7
+      groupId: GXomVmdgEwq22pH7
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 8
+      groupId: IVdVUVwrTRhUCqRy
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 9
+      groupId: eNd7bWNCkuhszWfR
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 9ptg3S1yYPSMYyRD
+      - index: 2
+        type: item
+        groupId: 0lM5Qrn68fyzOmj2
+      - index: 3
+        type: item
+        groupId: MqVOrNnRS86MRsjX
+      - index: 4
+        type: item
+        groupId: rOWVBNvXsLY8UI7A
+      - index: 5
+        type: item
+        groupId: GkFgnzGdlGrkrC6S
+      - index: 6
+        type: item
+        groupId: pUZ9sePznEmd2wuT
+      - index: 7
+        type: item
+        groupId: GXomVmdgEwq22pH7
+      - index: 8
+        type: item
+        groupId: IVdVUVwrTRhUCqRy
+      - index: 9
+        type: item
+        groupId: eNd7bWNCkuhszWfR
+  suggested:
+    attributes:
+      strength: 6
+      toughness: 6
+      agility: 5
+      initiative: 5
+      willpower: 3
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 4
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: 3
+      survival: 2
+      tech: 1
+      weaponSkill: 5
+    talents:
+      - id: CVEfjd9hx4XWLuPM
+        name: Dirty Fighter
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+      - id: GJUeAkAPhh5uYtlP
+        name: Silent
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710718943576
+  modifiedTime: 1710719285606
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!HhHiOZyVIel7xVlA'

@@ -1,0 +1,59 @@
+folder: H0RDNpOeKBevlLyk
+name: THE DARK CREED
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>This monstrous coven cultivate terror, and wield it as the first weapon
+    in their arsenal. Enemies within 6m add +2 DN to all Resolve tests. In
+    addition, the character adds +Rank dice to all attacks against enemies with
+    a lower Resolve than them.</p>
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: THE DARK CREED
+    _id: U0BP9B8h8uT7SdNs
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              +Rank dice to all attacks against enemies with a lower Resolve
+              than them
+            hide: ''
+    tint: null
+    _key: '!items.effects!9PY9hL5Unb1H6gM7.U0BP9B8h8uT7SdNs'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.FN7fn6udiENSsVsu
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710532230815
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 9PY9hL5Unb1H6gM7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!9PY9hL5Unb1H6gM7'

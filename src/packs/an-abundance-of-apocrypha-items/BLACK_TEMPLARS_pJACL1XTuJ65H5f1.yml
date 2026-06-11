@@ -1,0 +1,54 @@
+name: BLACK TEMPLARS
+type: keyword
+img: modules/wng-core/assets/factions/adeptus-astartes.svg
+effects: []
+folder: MYPvcOwyYBKhGpby
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.d3vDOtbmIhagzSuf
+system:
+  description: >-
+    <p>Following the example set by First Captain Sigismund of the Imperial
+    Fists Legion, the Black Templars are eternal crusaders, having devoted
+    themselves utterly to the continued war against the enemies of the Emperor.
+    The Black Templars&rsquo; crusades have lasted the hundred centuries since
+    their formation, making it the longest Astartes crusade ever carried out,
+    and the Black Templars&rsquo; fanaticism and righteous fury is legendary.
+    Because of the far-ranging nature of their eternal crusades, groups of Black
+    Templars can be found across the Imperium and beyond, from crusades
+    consisting of several fighting companies of marines, to individual squads or
+    lone warriors on detached duty or penitent mission. Characters with the
+    Black Templars keyword may not, under any circumstances, take the
+    @Item[JVz6FoVEc7p1DJUj]{PSYKER} keyword: The Black Templars accept no
+    psykers within their ranks.</p>
+
+    <h4>Righteous Zeal</h4>
+
+    <p>&nbsp;Your hatred permits you to show no mercy, nor does it permit you to
+    yield while the enemy draws breath. When you charge, you may re-roll up to
+    Rank dice on your Weapon Skill test. In addition, you may reroll Rank dice
+    when you roll Determination.</p>
+
+    <h4>Gene-Seed Flaw (Gene-Seed)&nbsp;</h4>
+
+    <p>Though proven resistant to mutation and deviance, the Imperial Fists
+    gene-seed inhibits two of the Space Marine implants.&nbsp;</p>
+
+    <p>You are missing implant 12: Sus-an Membrane, and implant 17:
+    Bletcher&rsquo;s Gland. See @JournalEntry[LxNQ4A1Tp09MxkVb]{Adeptus
+    Astartes} for more information on Space Marine implants.&nbsp;&nbsp;</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056215
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: pJACL1XTuJ65H5f1
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!pJACL1XTuJ65H5f1'

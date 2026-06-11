@@ -1,0 +1,163 @@
+folder: j5mcT1m1I7srvO3E
+name: Primaris Apothecary
+type: archetype
+_id: Duxlvy2MPld5PndD
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: Compendium.wng-core.items.Item.cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 2
+  cost: 294
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+    - PRIMARIS
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 4
+    initiative: 4
+    willpower: 3
+    intellect: 4
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: 4
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Guard Thy Brethren
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qizxF6md6L6pX571
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Tacticus Mk X
+      id: Compendium.wng-core.items.Item.5KNMzZhCTuvCfRHf
+      type: item
+      diff: {}
+      index: 1
+      groupId: iJPA6QoogxAb8N9m
+    - name: Absolvor Bolt Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.PotzqRzTj0yHNrTm
+      type: item
+      diff: {}
+      index: 2
+      groupId: waqYNQNEpJewVn16
+    - name: Narthecium
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.FnfADO0uOdin1YzG
+      type: item
+      diff: {}
+      index: 3
+      groupId: Wj0fiMgGZJCDebtp
+    - name: Reductor
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.guA3KHcdxqlTzvIJ
+      type: item
+      diff: {}
+      index: 4
+      groupId: QaA5TK2dzYzC2EIj
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: HTBq7nRYuSe2Rflr
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: YfvwBNriUOa7rGhh
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: iJPA6QoogxAb8N9m
+      - index: 2
+        type: item
+        groupId: waqYNQNEpJewVn16
+      - index: 3
+        type: item
+        groupId: Wj0fiMgGZJCDebtp
+      - index: 4
+        type: item
+        groupId: QaA5TK2dzYzC2EIj
+      - index: 5
+        type: item
+        groupId: HTBq7nRYuSe2Rflr
+      - index: 6
+        type: item
+        groupId: YfvwBNriUOa7rGhh
+  suggested:
+    attributes:
+      strength: 6
+      toughness: 6
+      agility: 5
+      initiative: 4
+      willpower: 3
+      intellect: 5
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 3
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 2
+      leadership: null
+      medicae: 5
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 3
+      stealth: 3
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710700141715
+  modifiedTime: 1710700306447
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Duxlvy2MPld5PndD'

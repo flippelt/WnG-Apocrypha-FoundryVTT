@@ -1,0 +1,29 @@
+folder: R6DiCyrJrBf1MKBz
+name: Bounding Leap
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Athletics rating 5+
+  description: >-
+    <p>Your speed and grace are superlative, and little can match the pace at
+    which you cross the battlefield. You may use you Agility instead of your
+    Strength for all Athletics tests, and you use your Agility to calculate how
+    far you can jump. Finally, you may Fall Back as a Simple Action.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699811049639
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: iMJ8XOGDh9sNfatJ
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!iMJ8XOGDh9sNfatJ'

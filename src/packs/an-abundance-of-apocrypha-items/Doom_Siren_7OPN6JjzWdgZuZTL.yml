@@ -1,0 +1,83 @@
+name: Doom Siren
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-ranged.Item.7OPN6JjzWdgZuZTL
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A doom siren is a close-quarters sonic weapon
+    that is used by noise marines, along with vehicles and daemon engines that
+    are dedicated to the service of Slaanesh, the chaos god of pleasure and
+    excess. The doom siren is fitted to the chaos space marine's power armour
+    with a complex arrangement of pipes and tubes around their helmets which can
+    project short-ranged sonic attacks. These assaults are launched against
+    opponents as they close with the noise marine during melee combat and are
+    usually powerful enough to kill or at least temporarily stun their target,
+    allowing the attacker to quickly finish the foe off while they are
+    stunned.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: SONIC, CHAOS, SLAANESH
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 4
+    medium: 8
+    long: 12
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: blast
+      rating: 6
+    - name: cacophony
+      custom: true
+      display: Cacophony
+      description: >-
+        Cacophony weapons use destructive wavelengths of sound to tear targets
+        apart, and it is nigh-impossible to hide from them. Attacks with a
+        Cacophony weapon ignore cover bonuses to defence.
+  upgrades: []
+_id: 7OPN6JjzWdgZuZTL
+folder: OUOFLqDJaP03QNHY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925967090
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!7OPN6JjzWdgZuZTL'

@@ -1,0 +1,67 @@
+name: Gravitic Concussion Grenades
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.fcHEFpLvFTdxBGpt
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A Gravitic Concussion Grenade—often just
+    referred to as a Concussion Grenade—is the typical grenade used by Kin
+    soldiers. When detonated, it unleashes a powerful concussive shockwave
+    produced by manipulating gravity in the affected area</span>.</p>
+  value: 4
+  keywords: EXPLOSIVE, LEAGUES OFVOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 4
+    - name: inflict
+      rating: Staggered
+  upgrades: []
+_id: fcHEFpLvFTdxBGpt
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976127
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!fcHEFpLvFTdxBGpt'

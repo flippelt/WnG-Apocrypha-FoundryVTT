@@ -1,0 +1,78 @@
+name: Rites of Banishment
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.76VD7rWXoew7vhRX
+system:
+  dn: '@combat.defence.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You utter prayers and litanies of detestation and antipathy, which sever
+    the bonds holding Daemons to the material universe, banishing them to the
+    roiling hellscape from whence they came. You target one enemy with a psychic
+    ranged attack. If successful, the target suffers 1d3 Mortal Wounds, or 1d3+3
+    Mortal Wounds if they have the DAEMON keyword.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 25m
+  multiTarget: true
+  keywords: PSYCHIC
+  prerequisites: GREY KNIGHTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Target has DAEMON keyword
+      cost: ''
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 3
+      single: true
+    - description: +1 Mortal Wound.
+      cost: 1
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 76VD7rWXoew7vhRX
+folder: KxBz8XrM98q2ZcAs
+sort: 175000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959188
+  modifiedTime: 1712004057995
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!76VD7rWXoew7vhRX'

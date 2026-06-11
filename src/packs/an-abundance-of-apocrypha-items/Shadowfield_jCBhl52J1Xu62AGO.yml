@@ -1,0 +1,57 @@
+name: Shadowfield
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-armour.Item.jCBhl52J1Xu62AGO
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The most powerful Dark Eldar often wreath
+    themselves in a miasma of protective gloom. This is not merely a form of
+    concealment, however: advanced force field generation is intermingled with
+    the deceptive darkness. Few attacks can effectively strike the wearer of a
+    Shadowfield, and those few that do seldom strike true. However, they are not
+    infallible, and once they have failed, they leave their wearer
+    defenceless.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">*8, Power Field</span></p><p></p><p><span
+    class="fontstyle2"><strong>Near-Perfect Defence</strong>: </span><span
+    class="fontstyle0">The wearer of a functioning Shadowfield may roll
+    Determination without suffering Shock and rolls 9d6 when they roll
+    Determination.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Overload</strong>: </span><span
+    class="fontstyle0">If the wearer of a Shadowfield takes any damage, the
+    field overloads and will provide no benefit until after the next
+    Regroup.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: FORCE FIELD, DRUKHARI
+  equipped: false
+  rating: 8
+  base: 0
+  traits:
+    - name: powerField
+  invulnerable: true
+_id: jCBhl52J1Xu62AGO
+folder: 2ql45FnLafOhbldn
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090215646
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!jCBhl52J1Xu62AGO'

@@ -1,0 +1,78 @@
+folder: fgtFfRbmshJ8KM1n
+name: Irradiated and Augmented
+type: ability
+_id: 2pVq26LE2fDnmGIh
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You do not bleed (making you immune to Bleeding), and gain +Rank bonus
+    dice to Determination rolls. In addition, any living creature without the
+    ADEPTUS MECHANICUS keyword within 2 metres of you at the start of their turn
+    must pass a DN 3 Toughness Test or suffer the Poisoned condition. This
+    poison is radiation poisoning, inflicting 1 Mortal Wound and Rank Shock at
+    the start of each of the Poisoned character’s turns.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+    name: Irradiated and Augmented
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: lcgzXaflrr9PNugs
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!2pVq26LE2fDnmGIh.lcgzXaflrr9PNugs'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710617662371
+  modifiedTime: 1710617695508
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!2pVq26LE2fDnmGIh'

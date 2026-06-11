@@ -1,0 +1,54 @@
+folder: fgtFfRbmshJ8KM1n
+name: Freeze
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>At the start of the first round of combat, before anyone hastaken a turn,
+    you may make an Intimidate @UUID[JournalEntry.MTv8vzdbr1mIAlVG]{Interaction
+    Attack}against a single enemy who can see and hear you.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664210924465
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: EQPXUzTrDaYMWJNp
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!EQPXUzTrDaYMWJNp'

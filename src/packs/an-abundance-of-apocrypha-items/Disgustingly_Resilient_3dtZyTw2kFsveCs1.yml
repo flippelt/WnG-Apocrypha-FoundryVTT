@@ -1,0 +1,82 @@
+folder: fgtFfRbmshJ8KM1n
+name: Disgustingly Resilient
+type: ability
+_id: 3dtZyTw2kFsveCs1
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You may roll Determination against Mortal Wounds. In addition, any Wounds
+    negated by Determination are ignored rather than being converted into Shock.
+    However, your Speed is reduced by 1. </p><p>In addition, you gain 1d3x4
+    Corruption when you select this Archetype.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/chaos.webp
+    name: Disgustingly Resilient
+    _id: 3gDst9VonZ8NOpJO
+    changes:
+      - key: system.combat.speed
+        mode: 2
+        value: '-1'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!3dtZyTw2kFsveCs1.3gDst9VonZ8NOpJO'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710716630917
+  modifiedTime: 1710716737412
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!3dtZyTw2kFsveCs1'

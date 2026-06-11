@@ -1,0 +1,75 @@
+name: Aeldari Missile Launcher
+type: weapon
+img: modules/wng-core/assets/icons/weapons/missile-launcher.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.PYResiF0jHo6Xx3r
+system:
+  quantity: 1
+  rarity: ''
+  description: >-
+    <p><span class="fontstyle0">The Aeldari Missile Launcher is commonly used by
+    Asuryani and Anhrathe forces. Instead of the primitive launching-tubes
+    favoured by the Imperium, they use complex chambered pods designed to
+    contain several types of ammo, decreasing the need to reload. The ammunition
+    held in its internal magazines is in fact so compact that they can fit
+    scores of projectiles inside a single launcher. While portable, they are
+    often mounted on Grav Platforms and Eldar vehicles. Sunburst missiles
+    generate a high-energy pulse that blasts and sears infantry, while Starshot
+    missiles produce a concentrated blast which can overcome armoured
+    targets.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: EXPLOSIVE,AELDARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: launcher
+  range:
+    short: 24
+    medium: 48
+    long: 72
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: heavy
+      rating: 6
+  upgrades: []
+_id: PYResiF0jHo6Xx3r
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932506
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!PYResiF0jHo6Xx3r'

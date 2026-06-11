@@ -1,0 +1,110 @@
+name: Exitus Hellfire Rounds
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+effects:
+  - icon: modules/wng-core/assets/icons/ammo/ammo.webp
+    name: Exitus Hellfire Rounds
+    _id: wgMaG2HnPyRmZ3YW
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '2'
+        priority: null
+      - key: ed.bonus
+        mode: 6
+        value: '3'
+        priority: null
+      - key: system.salvo
+        mode: 5
+        value: '0'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Inorganic Target
+            hide: ''
+          '1':
+            script: ''
+            description: Organic Target
+            hide: ''
+          '2':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!TfV2t0cUwiE1Uigr.wgMaG2HnPyRmZ3YW'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ammo.Item.TfV2t0cUwiE1Uigr
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Vindicare Assassins are often entrusted with
+    Hellfire rounds for dealing with especially resilient targets. These rounds
+    contain a concentrated payload of volatile corrosive toxins which can burn a
+    target’s body to ash.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">+2ED, +3ED against organic targets. In addition, the
+    weapon gains the Careful and Inflict (Poisoned 5) trait, but its Salvo
+    rating is reduced to – for this shot.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Poisoned</strong>: </span><span
+    class="fontstyle0">A creature </span><span class="fontstyle3">Poisoned
+    </span><span class="fontstyle0">by an Exitus round suffers 1d3 Mortal Wounds
+    at the start of each of their turns.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Single Shot</strong>: </span><span
+    class="fontstyle0">A reload of Exitus special ammunition consists of a
+    single round. Using this ammunition expends that round, and grants none of
+    the normal benefits a Salvo action.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 10
+  keywords: TEMPLUM VINDICARE
+  effect: ''
+  traits:
+    - name: inflict
+      rating: Poisoned 5
+      type: add
+    - name: careful
+      custom: true
+      display: Careful
+      description: >-
+        A Careful Weapon requires precision and care to wield and cannot easily
+        be used to make multiple rapid attacks. A Careful Weapon cannot be used
+        to make a MultiAttack.
+      type: add
+_id: TfV2t0cUwiE1Uigr
+folder: qnM5Rkyt2djZ275h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017422199
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 900000
+_key: '!items!TfV2t0cUwiE1Uigr'

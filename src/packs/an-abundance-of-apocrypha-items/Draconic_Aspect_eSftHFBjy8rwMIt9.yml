@@ -1,0 +1,97 @@
+name: Draconic Aspect
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Draconic Aspect
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '@test.result.res'
+        priority: null
+    _id: B9VPJtVJHDr0t06O
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!eSftHFBjy8rwMIt9.B9VPJtVJHDr0t06O'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.eSftHFBjy8rwMIt9
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Summoning the wrath of the indigenous creatures of Nocturne, you take on
+    elements of the appearance of a great firebreathing drake. With burning eyes
+    and flame streaming from your nostrils, you inspire dread in your foes. The
+    power affects all creatures in a Blast (6) within range. While this power
+    remains in effect, all enemies within 12 metres of you add +2 to the DN of
+    all Resolve tests they attempt.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: SALAMANDERS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 DN
+      cost: 1
+      property: res
+      initial: 2
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: eSftHFBjy8rwMIt9
+folder: 2jEPrFTYa93W4edw
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959287
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!eSftHFBjy8rwMIt9'

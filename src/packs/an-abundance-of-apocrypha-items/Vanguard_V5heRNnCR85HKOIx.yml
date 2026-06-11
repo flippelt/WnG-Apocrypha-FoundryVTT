@@ -1,0 +1,56 @@
+folder: fgtFfRbmshJ8KM1n
+name: Vanguard
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You&rsquo;re practised at staying mobile while unnoticed, avoiding
+    attention until necessary. While you have a Stealth score, increase your
+    Speed by +Rank. Further, at the start of the first round of combat, before
+    turn order is determined, you may make a normal move.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.YjU1LdoUT2u0GcOO
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664299854937
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: V5heRNnCR85HKOIx
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!V5heRNnCR85HKOIx'

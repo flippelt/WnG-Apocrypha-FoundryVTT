@@ -1,0 +1,74 @@
+name: Hookfang
+type: weapon
+_id: S6fKO0ZuGfiUphpd
+img: modules/wng-core/assets/icons/weapons/knife.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>The Hookfang is a type of poisoned blade used by Venenum Assassins of the
+    Officio Assassinorum. These daggers were designed after a now-extinct apex
+    predator of the Age of Strife and contained a neuraldegenerative toxin
+    engineered by the Grandmaster of the Clade. Even the smallest scratch is
+    deadly, and it is said that only three individuals were able to survive the
+    toxin during the reign of the Grandmaster during the Horus Heresy, including
+    herself.</p>
+  value: 9
+  keywords: BLADE, OFFICIO ASSASSINORUM, TEMPLUM VENENUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Poisoned 6
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+  upgrades: []
+effects: []
+folder: QMfRKhIFUOHoAFXu
+sort: 400000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709845635230
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!S6fKO0ZuGfiUphpd'

@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Surprise Assault
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 40
+  requirements: Warp Spider aspect, Stealth rating 4+
+  description: >-
+    <p>You are a master of capitalising on the ignorance of your foes. The first
+    time in a scene that you, or a member of your squad, attacks an unaware
+    enemy, you may re-roll any failures on that attack.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.c1E93jRz7FP8tIPp
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700067876243
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: ZnsjMoDug3X12ii7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!ZnsjMoDug3X12ii7'

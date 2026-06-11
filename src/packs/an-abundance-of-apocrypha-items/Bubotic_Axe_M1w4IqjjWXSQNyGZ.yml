@@ -1,0 +1,63 @@
+name: Bubotic Axe
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>A favoured weapon of some melee specialists amongst the servants of
+    Nurgle, the Bubotic Axe is a cruel, vile weapon that inflicts horrendous
+    wounds.</p>
+  value: 7
+  keywords: BLADE, CHAOS, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Poisoned 4
+    - name: rending
+      rating: -1
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: nyHPtRO8Z1XRcTRg
+_id: M1w4IqjjWXSQNyGZ
+sort: 1100000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!M1w4IqjjWXSQNyGZ'

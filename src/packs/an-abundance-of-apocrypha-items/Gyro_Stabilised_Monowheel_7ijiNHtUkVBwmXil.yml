@@ -1,0 +1,73 @@
+name: Gyro-Stabilised Monowheel
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects:
+  - icon: modules/wng-core/assets/icons/augmetics/augmetic.webp
+    name: Gyro-Stabilised Monowheel
+    changes:
+      - key: system.combat.speed
+        mode: 1
+        value: '2'
+        priority: null
+    _id: QcxFwC9HwT4Nl3fO
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!7ijiNHtUkVBwmXil.QcxFwC9HwT4Nl3fO'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.7ijiNHtUkVBwmXil
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Ork’s legs have been entirely replaced with
+    a single wheel, normally salvaged from a Bike or a smaller Trukk. Complex
+    ‘spinny gubbinz’ allow the Ork to maintain balance upon this
+    seemingly-precarious wheel, and the Ork will find that he can move much
+    faster than before… so long as he doesn’t run into any
+    obstacles.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Your Speed is doubled. However, you can no longer climb
+    ladders or stairs, and you can no longer jump without the aid of a ramp.
+    Whenever you attempt to Run, Charge, or Sprint through Difficult Terrain,
+    you must pass an Athletics test (DN 5) or suffer [[/r 1d3]] Mortal Wounds as
+    you crash.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: ORK
+  requirements: ''
+  effect: ''
+_id: 7ijiNHtUkVBwmXil
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099836
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!7ijiNHtUkVBwmXil'

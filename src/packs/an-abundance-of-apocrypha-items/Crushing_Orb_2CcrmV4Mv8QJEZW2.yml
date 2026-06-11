@@ -1,0 +1,98 @@
+name: Crushing Orb
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Restrained
+    icon: systems/wrath-and-glory/asset/icons/conditions/restrained.svg
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '-2'
+        priority: null
+      - key: system.combat.speed
+        mode: 5
+        value: '0'
+        priority: null
+    statuses:
+      - restrained
+    _id: DvsgvGrB4GP1UB3H
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!2CcrmV4Mv8QJEZW2.DvsgvGrB4GP1UB3H'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.2CcrmV4Mv8QJEZW2
+system:
+  dn: '@attributes.strength.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You crush your foe in a sphere of kinetic energy. Target a single enemy
+    within range with a psychic ranged attack, inflicting 1 Mortal Wound and the
+    Restrained condition.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: ASURYANI, ANHRATHE, HARLEQUIN or YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: '1'
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound.
+      cost: 2
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 2CcrmV4Mv8QJEZW2
+folder: epIgLsUsKe7P6BrA
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742819
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!2CcrmV4Mv8QJEZW2'

@@ -1,0 +1,78 @@
+name: Spinneret Rifle
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranger-long-rifle.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.GBVCYIKb5MjAzKfB
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The Spinneret Rifle is a monofilament weapon
+    used by Exarchs of the Warp Spider Aspect Shrines. Compared to the normal
+    Death Spinner which releases a mist-like cloud of monofilament to slice
+    through enemies, the Spinneret Rifle fires a single, rigid strand of
+    monomolecular wire which punches straight through armour and then recoils in
+    a tight spiral.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: MONOFILAMENT, ANCIENT, AELDARI,ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: rapidFire
+      rating: 1
+    - name: mortal-(1d3)
+      custom: true
+      display: Mortal (1d3)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+_id: GBVCYIKb5MjAzKfB
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932577
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!GBVCYIKb5MjAzKfB'

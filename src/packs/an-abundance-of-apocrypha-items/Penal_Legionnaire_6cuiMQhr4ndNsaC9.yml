@@ -1,0 +1,186 @@
+name: Penal Legionnaire
+type: archetype
+img: modules/wng-core/assets/icons/abilities/astra-militarum.webp
+effects: []
+folder: TtFflqxAyCzNXGHP
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6cuiMQhr4ndNsaC9
+  cf: null
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: JjNQyUPELJb8CvL5
+  faction:
+    name: Astra Militarum
+    id: Compendium.wng-core.items.Item.F4PJBHBNdVqjl3sJ
+  influence: 1
+  cost: 8
+  keywords:
+    - IMPERIUM
+    - ASTRA MILITARUM
+    - '[REGIMENT]'
+    - MILITARUM AUXILIA
+    - SCUM
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: 1
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Death Sentence
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qnMUyGVXtMMvaoNu
+  wargear:
+    - name: Flak Armour
+      id: Compendium.wng-core.items.Item.fLx8DzWDgWDZIMSK
+      type: item
+      diff: {}
+      index: 0
+      groupId: 5xIW4no4JAHRxZKB
+    - name: Lasgun
+      id: Compendium.wng-core.items.Item.fPgdC7ur85iRGKgh
+      type: item
+      diff: {}
+      index: 1
+      groupId: bByEQtfcHgwMSS2u
+    - type: generic
+      name: 1d3 + 1 knifes
+      filters:
+        - test: eq
+          property: name
+          value: Knife
+    - name: Munitorum-Issue Mess Kit
+      id: Compendium.wng-core.items.Item.mOWPCO1mNXNKsGNa
+      type: item
+      diff: {}
+      index: 3
+      groupId: SUdUt4VXEcf6649Z
+    - type: generic
+      name: Blanket
+      filters: []
+      index: 4
+      groupId: E0d6ywSa6HyTtCaM
+    - name: Ration Packs
+      id: Compendium.wng-core.items.Item.vsjZCbjBNivbeUhk
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: BuEYZ7VTIdwivcEQ
+    - name: Frenzon
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fFBqCsrC9TyLoSjE
+      type: item
+      diff: {}
+      index: 6
+      groupId: t67AZSgDmIcVaasF
+    - name: Explosive Collar
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.L6Of4gjve0yOYi9u
+      type: item
+      diff: {}
+      index: 7
+      groupId: FPxGdpUZZLrc77DH
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: 5xIW4no4JAHRxZKB
+      - type: item
+        index: 1
+        groupId: bByEQtfcHgwMSS2u
+      - type: item
+        index: 2
+        groupId: KHM2Vye2yHmmyUz9
+      - index: 3
+        type: item
+        groupId: SUdUt4VXEcf6649Z
+      - type: item
+        index: 4
+        groupId: E0d6ywSa6HyTtCaM
+      - index: 5
+        type: item
+        groupId: BuEYZ7VTIdwivcEQ
+      - index: 6
+        type: item
+        groupId: t67AZSgDmIcVaasF
+      - index: 7
+        type: item
+        groupId: FPxGdpUZZLrc77DH
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 3
+      initiative: 3
+      willpower: 2
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 2
+      cunning: 2
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 2
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: jlrOP1uvd0x0VRiK
+        name: Death Or Glory!
+      - id: fIy3evnEKxFiNV4j
+        name: Gallows Humour
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055091
+  modifiedTime: 1710597881777
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6cuiMQhr4ndNsaC9
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!6cuiMQhr4ndNsaC9'

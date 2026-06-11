@@ -1,0 +1,79 @@
+name: CRIMSON FISTS
+type: keyword
+img: modules/wng-core/assets/factions/adeptus-astartes.svg
+effects:
+  - _id: 1ZWKDe75HVVNrMAg
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/ui/aquila-white.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: No Matter the Odds
+    tint: null
+    origin: null
+    name: No Matter the Odds
+    description: ''
+    statuses: []
+    _key: '!items.effects!QTeHWM9roFUCn6nz.1ZWKDe75HVVNrMAg'
+folder: MYPvcOwyYBKhGpby
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QTeHWM9roFUCn6nz
+system:
+  description: >-
+    <p>The other Second Founding Chapter formed from the Imperial Fists, the
+    Crimson Fists were formed from those Imperial Fists who were calm,
+    level-headed, and willing to embrace the logic and reason of the Codex
+    Astartes. In the millennia since, the Crimson Fists have earned a reputation
+    as stalwart, fierce warriors devoted to the preservation of the Imperium.
+    But fate has not been kind: they were almost wiped out during an Ork
+    invasion of their homeworld. In recent days, they have been brought back
+    from the brink by reinforcements from Roboute Guilliman&rsquo;s Indomitus
+    Crusade, and the new Primaris additions to the Chapter have been welcomed
+    for they renew the strength of these fierce Sons of Dorn.</p>
+
+    <h4>No Matter the Odds</h4>
+
+    <p>&nbsp;You will not yield in the face of overwhelming odds. When making an
+    attack while you and your allies are outnumbered at least two-to-one, you
+    may add Rank dice to your Ballistic Skill or Weapon Skill test.</p>
+
+    <h4>Gene-Seed Flaw (Gene-Seed)&nbsp;</h4>
+
+    <p>Though proven resistant to mutation and deviance, the Imperial Fists
+    gene-seed inhibits two of the Space Marine implants.&nbsp;</p>
+
+    <p>You are missing implant 12: Sus-an Membrane, and implant 17:
+    Bletcher&rsquo;s Gland. See @JournalEntry[LxNQ4A1Tp09MxkVb]{Adeptus
+    Astartes} for more information on Space Marine implants.&nbsp;&nbsp;</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056227
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: QTeHWM9roFUCn6nz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!QTeHWM9roFUCn6nz'

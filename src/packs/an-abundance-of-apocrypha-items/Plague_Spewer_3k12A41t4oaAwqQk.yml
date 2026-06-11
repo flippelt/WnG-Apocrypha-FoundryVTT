@@ -1,0 +1,72 @@
+name: Plague Spewer
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-ranged.Item.3k12A41t4oaAwqQk
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Plague Spewers are larger counterparts to Plague
+    Belchers, which hurl forth great streams of vileness and clouds of filth.
+    Few can survive contact with this weapon’s unholy emissions.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: PESTILENT, CHAOS, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 4
+    medium: 8
+    long: 12
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: flamer
+    - name: heavy
+      rating: 6
+    - name: inflict
+      rating: Poisoned 4
+  upgrades: []
+_id: 3k12A41t4oaAwqQk
+folder: OUOFLqDJaP03QNHY
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925967105
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!3k12A41t4oaAwqQk'

@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: Life Drain
+type: ability
+_id: 9bbIV29MG50f6Xoo
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Enemies engaged with you at the end of their turn must pass a Willpower
+    test (DN 2+Rank) or suffer Shock equal to your Rank. PSYKERssuffer Shock
+    equal to twice your Rank instead.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710779751928
+  modifiedTime: 1710779760456
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!9bbIV29MG50f6Xoo'

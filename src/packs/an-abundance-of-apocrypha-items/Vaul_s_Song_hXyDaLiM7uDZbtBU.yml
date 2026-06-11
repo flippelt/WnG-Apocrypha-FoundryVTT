@@ -1,0 +1,73 @@
+name: Vaul’s Song
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.hXyDaLiM7uDZbtBU
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You invoke the psychosonic ringing of Vaul’s anvil, knitting together
+    wraithbone and psychoreactive crystal in moments. Select a single AELDARI
+    vehicle or wraith-construct within range. The target regains 1d3+1 Wounds,
+    or repairs one system on the vehicle which had been damaged. Alternatively,
+    target one other pieces of Aeldari technology within range: the device is
+    repaired, and any malfunctions or jams are fixed instantly.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 5m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: AELDARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Wounds (vehicle or wraith-construct).
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: hXyDaLiM7uDZbtBU
+folder: SmX3hRCBEh4fNCZL
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742839
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!hXyDaLiM7uDZbtBU'

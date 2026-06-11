@@ -1,0 +1,75 @@
+name: Phosphor Pistol
+type: weapon
+img: modules/wng-core/assets/icons/weapons/radium-pistol.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.Y4pEUf2syyJo273g
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A lesser version of the Phosphor Blast Pistol,
+    these pistols are less revered, and thus can be used by rankand-file
+    Skitarii troopers rather than only their leaders.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: PHOSPHEX, ADEPTUSMECHANICUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: pistol
+    - name: luminagen
+      custom: true
+      display: Luminagen
+      description: >-
+        Phosphor weapons illuminate their targets with a searing light. A
+        character hit by a Luminagen weapon cannot benefit from being in cover
+        until the start of their next turn.
+  upgrades: []
+_id: Y4pEUf2syyJo273g
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711914
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!Y4pEUf2syyJo273g'

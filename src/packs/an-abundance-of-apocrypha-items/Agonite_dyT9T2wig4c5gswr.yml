@@ -1,0 +1,41 @@
+name: Agonite
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.dyT9T2wig4c5gswr
+system:
+  description: >-
+    <p><span class="fontstyle0">This venom spreads waves of agony so intense
+    that even the most robust physiologies are overwhelmed</span> with
+    pain.</p><p></p><p>Effect: While <em>poisoned, </em>the target may not roll
+    determination.<br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  value: 6
+  rarity: uncommon
+  keywords: DRUKHARI, TOXIN
+  traits: []
+_id: dyT9T2wig4c5gswr
+folder: 6ntRjpS1Ry0pU1f7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483250
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 100000
+_key: '!items!dyT9T2wig4c5gswr'

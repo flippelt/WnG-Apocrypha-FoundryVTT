@@ -1,0 +1,162 @@
+folder: MhFWvdL9JDBJQXdr
+name: Sister Famulous
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adepta Sororitas
+    id: Compendium.wng-core.items.Item.oVPeTKFG3XJG7bKv
+  influence: 1
+  cost: 28
+  keywords:
+    - IMPERIUM
+    - ADEPTA SORORITAS
+    - '[ORDER]'
+    - ADEPTUS MINISTORUM
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 2
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: 1
+    medicae: null
+    persuasion: 1
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Spiritual Advisor
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.soDfTwMyDDxUNZ6G
+  wargear:
+    - name: Formal Sororitas Robes (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Formal Sororitas Robes (Clothing)
+      index: 0
+      groupId: GL2zPfybSXYJyfcJ
+    - name: Bodyglove
+      id: Compendium.wng-core.items.Item.alCEdr91k6ttGBw9
+      type: item
+      diff: {}
+      index: 1
+      groupId: mtZkNZjkds1RYU59
+    - name: Autopistol
+      id: Compendium.wng-core.items.Item.JbTzZSQ0FZ4PIjdp
+      type: item
+      diff: {}
+      index: 2
+      groupId: YNmRU5wzy2bKW9iP
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 3
+      groupId: dOoixVxAQ7T2ue08
+    - name: Chaplet Ecclesiasticus
+      id: Compendium.wng-core.items.Item.W028UmFNKkQrUBl6
+      type: item
+      diff: {}
+      index: 4
+      groupId: O4f8lSw6EPQWyK3Y
+    - name: Rule of the Sororitas
+      id: Compendium.wng-core.items.Item.YXTc35poOQsWeSgD
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: GL2zPfybSXYJyfcJ
+      - index: 1
+        type: item
+        groupId: mtZkNZjkds1RYU59
+      - index: 2
+        type: item
+        groupId: YNmRU5wzy2bKW9iP
+      - index: 3
+        type: item
+        groupId: dOoixVxAQ7T2ue08
+      - index: 4
+        type: item
+        groupId: O4f8lSw6EPQWyK3Y
+      - index: 5
+        type: item
+        groupId: 1hW8PkpT6gLYCpSz
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 3
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 1
+      leadership: 2
+      medicae: null
+      persuasion: 2
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: ndXKRj7tRorEKRzk
+        name: Orthopraxy
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+      - id: eQa1WFZEU5wO4i4f
+        name: Repent!
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GTSwkdOAShXgMtpN
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664833387610
+  modifiedTime: 1710598476309
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: GTSwkdOAShXgMtpN
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!GTSwkdOAShXgMtpN'

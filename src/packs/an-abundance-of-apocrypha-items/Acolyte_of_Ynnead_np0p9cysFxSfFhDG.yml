@@ -1,0 +1,63 @@
+folder: ZMoR03HW5eXVf9E1
+name: Acolyte of Ynnead
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 15
+  requirements: Aeldari speciesm PSYKER keyword, YNNARIkeyword
+  description: >-
+    <p>Those psykers amongst the Ynnari hosts can use the souls of the recently
+    dead to focus their powers.</p>
+
+    <p>When you attempt a Psychic Mastery test, you may spend 1 Soul token to
+    add +Rank bonus dice to the test.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.skills.psychicMastery.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: DGIlXBxEaNx8SCvK
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Acolyte of Ynnead
+    name: Acolyte of Ynnead
+    description: ''
+    statuses: []
+    _key: '!items.effects!np0p9cysFxSfFhDG.DGIlXBxEaNx8SCvK'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.np0p9cysFxSfFhDG
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663876507246
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: np0p9cysFxSfFhDG
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 9500000
+_key: '!items!np0p9cysFxSfFhDG'

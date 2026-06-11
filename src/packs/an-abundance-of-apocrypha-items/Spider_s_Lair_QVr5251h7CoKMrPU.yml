@@ -1,0 +1,36 @@
+folder: R6DiCyrJrBf1MKBz
+name: Spider’s Lair
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Warp Spider aspect
+  description: >-
+    <p>You are deadly in dense terrain, weaving tangles of monofilament wire
+    around their location to ensnare and eviscerate the unwary foes who stumble
+    through the nearly-invisible wires. When the Exarch is in terrain which
+    provides cover, or which counts as difficult terrain, you may spend 1 Glory
+    as a Simple Action to trap that location. Characters other than the Exarch
+    or their squad who enter that terrain must pass an Awareness Test with a DN
+    of 5, or immediately suffer 1d3 Mortal Wounds and the Restrained condition.
+    A trap created dissolves at the start of the Exarch’s next turn.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3IpTmOnQaZRFC9NG
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700067532241
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: QVr5251h7CoKMrPU
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!QVr5251h7CoKMrPU'

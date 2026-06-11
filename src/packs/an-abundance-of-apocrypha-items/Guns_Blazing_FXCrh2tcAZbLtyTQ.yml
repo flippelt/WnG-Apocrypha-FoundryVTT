@@ -1,0 +1,55 @@
+name: Guns Blazing
+type: ability
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects: []
+folder: fgtFfRbmshJ8KM1n
+flags:
+  cf: null
+  core: {}
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you wield a pair of @Item[J0Xgl53Iv9VYMCvl]{Assault Bolters} or
+    @Item[QmxMWePZwTGuhGzA]{Plasma Exterminators} you may benefit from the
+    @Item[aX9bq2t854Kb7L0i]{Dual Wield} or @Item[PB5cA0QmFNcxpHm4]{Simultaneous
+    Strike} talents even though those weapons lack the Pistol trait.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219055447
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: FXCrh2tcAZbLtyTQ
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!FXCrh2tcAZbLtyTQ'

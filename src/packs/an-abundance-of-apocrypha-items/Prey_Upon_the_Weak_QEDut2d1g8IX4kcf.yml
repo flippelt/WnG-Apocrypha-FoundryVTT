@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Prey Upon the Weak
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 15
+  requirements: Drukhari species, Ballistic Skill rating 2+
+  description: >-
+    <p>Your senses heighten in the presence of terrified prey.<br>When you make
+    a ranged attack against an enemy who is currently under the effects of any
+    of the @UUID[JournalEntry.GgSWH9U694ojtUcN]{Fear,}
+    @UUID[JournalEntry.DEngBYSN5XIFJgbI]{Terror,} or
+    @UUID[JournalEntry.wVLMa7prYKmd2aVd]{Pinned}conditions, re-roll Double Rank
+    dice on the attack.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QEDut2d1g8IX4kcf
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664024984856
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: QEDut2d1g8IX4kcf
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6100000
+_key: '!items!QEDut2d1g8IX4kcf'

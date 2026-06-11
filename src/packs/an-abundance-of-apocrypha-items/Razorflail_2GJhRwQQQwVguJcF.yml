@@ -1,0 +1,72 @@
+name: Razorflail
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Wyches known as Lacerai wield a pair of razorflails, a retracting sword
+    which can be wielded either as a solid blade or as a flexible whip-like
+    series of segmented blades. Razorflails are a difficult weapon to counter,
+    as they are almost impossible to block or parry.</p>
+  value: 5
+  keywords: BLADE, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: reaping
+      custom: true
+      display: Reaping
+      description: >-
+        The weapon is intended to scythe through groups of foes. When you make a
+        Multi-Attack with this weapon, the DN increases by +1 per additional
+        target, rather than +2.
+    - name: overwhelming
+      custom: true
+      display: Overwhelming
+      description: >-
+        The weapon can batter past even the most proficient defence. When you
+        make an attack with an Overwhelming weapon, the target does not benefit
+        from the Parry trait of any of their weapons or the Defence bonus from
+        Shields.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 100098
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 2GJhRwQQQwVguJcF
+_key: '!items!2GJhRwQQQwVguJcF'

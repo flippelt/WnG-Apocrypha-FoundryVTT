@@ -1,0 +1,106 @@
+name: Hellstorm Bolt Rifle
+type: weapon
+img: modules/wng-core/assets/icons/weapons/bolt-rifle.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A high-calibre form of the Auto Bolt Rifle used to lay down heavy fire
+    while advancing.</p>
+
+    <p>A Hellstorm Bolt Rifle is fitted with an
+    @UUID[Item.zyVQUsE3ZI9PJ4pD]{Ammo Drum} as standard.</p>
+  value: 7
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: assault
+    - name: brutal
+    - name: heavy
+      rating: 4
+    - name: rapidFire
+      rating: 3
+  upgrades:
+    - _id: cQomNCSqd2YSmiI6
+      name: Ammo Drum
+      type: weaponUpgrade
+      img: modules/wng-core/assets/icons/weaponUpgrade/ammo-drum.webp
+      effects: []
+      folder: JM3j5fSh91u6lb0V
+      sort: 0
+      flags:
+        wng-core:
+          initialization-folder: Upgrades
+          sort: 0
+        core:
+          sourceId: Item.zyVQUsE3ZI9PJ4pD
+      system:
+        description: >-
+          <p>A large drum of ammunition replacing the typical&nbsp;
+          magazine.</p>
+
+          <p><strong>Effect</strong>: You can carry one additional
+          Ammo.&nbsp;</p>
+        effect: ''
+        value: 3
+        rarity: common
+        keywords: IMPERIUM, SCUM
+        traits: []
+      ownership:
+        default: 0
+        TkdNPfNTgOk5SoMe: 3
+        xygrzIwcKUPawMWs: 3
+        cAphwWMEu7MQQzqi: 3
+      _stats:
+        systemId: null
+        systemVersion: null
+        coreVersion: null
+        createdTime: null
+        modifiedTime: null
+        lastModifiedBy: null
+effects: []
+flags:
+  scene-packer:
+    hash: 9c9bb521a3a4964a92e918302b6b3e1313012f8c
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665425123987
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: bIc2F5ONahaLUSHi
+sort: 900000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!bIc2F5ONahaLUSHi'

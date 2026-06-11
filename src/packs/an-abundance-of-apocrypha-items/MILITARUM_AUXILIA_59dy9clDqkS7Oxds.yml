@@ -1,0 +1,25 @@
+folder: kumYywvxDD93XcXD
+name: MILITARUM AUXILIA
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: ''
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.59dy9clDqkS7Oxds
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664207469181
+  modifiedTime: 1710523920733
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 59dy9clDqkS7Oxds
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 100000
+_key: '!items!59dy9clDqkS7Oxds'

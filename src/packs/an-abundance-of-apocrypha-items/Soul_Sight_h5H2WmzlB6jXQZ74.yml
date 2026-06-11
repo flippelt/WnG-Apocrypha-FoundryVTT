@@ -1,0 +1,97 @@
+name: Soul Sight
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Soul Sight
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.aware'
+        priority: null
+    _id: Hr2YWlLNPD7ul5fX
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!h5H2WmzlB6jXQZ74.Hr2YWlLNPD7ul5fX'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.h5H2WmzlB6jXQZ74
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You share your warp-sight with your brethren, causing their eyes to glow
+    with an ethereal light. So empowered, no foe can escape their omniscient
+    gaze: the souls of their targets flare like beacons in the dark. If
+    successful, select a number of allies within range equal to your Willpower.
+    While this power remains, the affected allies may re-roll any failures on
+    their ranged attacks and ignore any Defence bonuses from cover.</p>
+  effect: ''
+  cost: 8
+  activation: action
+  duration: Sustained
+  range: 35m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ADEPTUS ASTARTES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 bonus die to affected allies’ Awareness tests.
+      cost: 1
+      property: aware
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: h5H2WmzlB6jXQZ74
+folder: 6agkY8o79jzZ96uL
+sort: 175000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959216
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!h5H2WmzlB6jXQZ74'

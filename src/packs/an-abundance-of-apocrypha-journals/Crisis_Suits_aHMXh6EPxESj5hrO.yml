@@ -1,0 +1,78 @@
+folder: nDYleZkn0ESlN5hn
+name: Crisis Suits
+_id: aHMXh6EPxESj5hrO
+pages:
+  - sort: 100000
+    name: Crisis Suits
+    type: text
+    _id: jCvSKFwQNbF6DuuN
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><span class="fontstyle0">XV8 Crisis Battlesuits and their variants
+        (the XV85 Enforcer Battlesuit and the XV86 Coldstar Battlesuit) may be
+        armed with any of the following weapons:</span></p><p></p><p><span
+        class="fontstyle2">• </span><span class="fontstyle0">Airbursting
+        Fragmentation Projector</span></p><p></p><p><span class="fontstyle2">•
+        </span><span class="fontstyle0">Burst Cannon</span></p><p></p><p><span
+        class="fontstyle2">• </span><span class="fontstyle0">Cyclic Ion
+        Blaster</span></p><p></p><p><span class="fontstyle2">• </span><span
+        class="fontstyle0">Fusion Blaster</span></p><p></p><p><span
+        class="fontstyle2">• </span><span class="fontstyle0">Missile
+        Pod</span></p><p></p><p><span class="fontstyle2">• </span><span
+        class="fontstyle0">Plasma Rifle</span></p><p></p><p><span
+        class="fontstyle2">• </span><span class="fontstyle0">T’au
+        Flamer</span></p><p></p><p><span class="fontstyle0">XV8 Battlesuits may
+        be equipped with any of the following </span><span
+        class="fontstyle3">SUPPORT SYSTEM </span><span
+        class="fontstyle0">items.</span></p><p></p><p><span class="fontstyle2">•
+        </span><span class="fontstyle0">Advanced Targeting
+        System</span></p><p></p><p><span class="fontstyle2">• </span><span
+        class="fontstyle0">Counterfire Defence System</span></p><p></p><p><span
+        class="fontstyle2">• </span><span class="fontstyle0">Drone
+        Controller</span></p><p></p><p><span class="fontstyle2">• </span><span
+        class="fontstyle0">Early Warning Override</span></p><p></p><p><span
+        class="fontstyle2">• </span><span
+        class="fontstyle0">Multi-Tracker</span></p><p></p><p><span
+        class="fontstyle2">• </span><span class="fontstyle0">Shield
+        Generator</span></p><p></p><p><span class="fontstyle2">• </span><span
+        class="fontstyle0">Target Lock</span></p><p></p><p><span
+        class="fontstyle2">• </span><span class="fontstyle0">Velocity
+        Tracker</span> <br
+        style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px"
+        /></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710106739372
+      modifiedTime: 1710106745465
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!aHMXh6EPxESj5hrO.jCvSKFwQNbF6DuuN'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710106727053
+  modifiedTime: 1710106745465
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!journal!aHMXh6EPxESj5hrO'
+categories: []

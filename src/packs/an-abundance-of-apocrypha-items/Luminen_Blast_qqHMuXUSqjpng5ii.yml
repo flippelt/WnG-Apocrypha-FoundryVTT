@@ -1,0 +1,37 @@
+folder: ZMoR03HW5eXVf9E1
+name: Luminen Blast
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: >-
+    ADEPTUS MECHANICUS keyword, CULT MECHANICUS keyword, Luminen Capacitor
+    augmetic
+  description: >-
+    <p>By reciting the proper litanies, you can channel the energy of your
+    Luminen Capacitor through your electoos and other implants and direct it at
+    your enemies.<br>You may make a ranged attack using this talent. The attack
+    has a range of 10m, and inflicts damage equal to twice your Willpower, plus
+    Rank ED, with the Agonizing and Spread traits, and a Salvo rating of
+    &ndash;. Instead of reloads, this attack uses charges from your Luminen
+    Capacitor.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qqHMuXUSqjpng5ii
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664022417167
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: qqHMuXUSqjpng5ii
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 9800000
+_key: '!items!qqHMuXUSqjpng5ii'

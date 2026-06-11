@@ -1,0 +1,84 @@
+folder: fgtFfRbmshJ8KM1n
+name: Serpent's Tongue
+type: ability
+_id: F34G570p2etemgVn
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank bonus dice to all Persuasion and Intimidation Interaction
+    attacks against targets with the IMPERIUM, SCUM, or HERETIC keywords. On a
+    successful Interaction Attack, you may spend 1 Wrath to add +Rank Exalted
+    Icons to the result</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Serpent's Tongue
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    _id: 2mnWWVMo0MLGc9k9
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Persuasion and Intimidation Interaction attacks against targets
+              with the IMPERIUM, SCUM, or HERETIC keywords
+            hide: ''
+    tint: null
+    _key: '!items.effects!F34G570p2etemgVn.2mnWWVMo0MLGc9k9'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710606550425
+  modifiedTime: 1710609837981
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!F34G570p2etemgVn'

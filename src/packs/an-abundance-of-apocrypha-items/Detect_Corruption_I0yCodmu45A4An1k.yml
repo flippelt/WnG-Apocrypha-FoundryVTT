@@ -1,0 +1,99 @@
+name: Detect Corruption
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.I0yCodmu45A4An1k
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Psykers, by their very nature, are attuned to the Warp. You can discern
+    the telltail stain of corruption upon objects, places, and even people. When
+    you use this ability, choose an object you can see within range. You detect
+    whether or not the object has been in contact with the warp, affected by
+    psychic powers, or other warp-related abilities within a number of hours
+    equal to your Intellect.</p>
+  effect: ''
+  cost: 5
+  activation: action
+  duration: Instant
+  range: Willpower metres
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        You can detect the nature and type of warp contact the object has had:
+        use in a ritual, held by a psyker, used a psychic power, etc. 
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: You can detect the touch of the Warp upon a person instead of an object.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: >-
+        If you can detect the touch of the warp upon a person, you can determine
+        how the person is connected to the warp, allowing you to determine if
+        they are a psyker, sorcerer, possessed, etc. 
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        You can now discern the nature of any person, place, or object’s
+        connection to the Warp. You can also detect the presence of
+        otherwise-invisible warp gates, dark pacts, possession, etc.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: I0yCodmu45A4An1k
+folder: cadR4fAXVAvR66ps
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247363
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!I0yCodmu45A4An1k'

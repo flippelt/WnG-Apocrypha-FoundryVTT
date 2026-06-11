@@ -1,0 +1,235 @@
+name: Primaris Agressor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects: []
+folder: j5mcT1m1I7srvO3E
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.BnmkGyrfpExz1Gk8
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: CN5E9Z5GqfiR1MDn
+  influence: 1
+  cost: 228
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - PRIMARIS
+    - '[CHAPTER]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 4
+    initiative: 4
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Firestorm
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ItqbB5Sx0iMZY7em
+  wargear:
+    - name: Gravis Mark X
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3KXpwHWBLoEvtxrQ
+      type: item
+      diff: {}
+      index: 0
+      groupId: SJox4lVzWTNuyei8
+    - name: Ammo Backpack
+      id: Compendium.wng-core.items.Item.Dh1HhVnPaURjpgTR
+      type: item
+      diff: {}
+      index: 1
+      groupId: vsC1N2gvJN3SIheg
+    - name: Ballistic Appeasement Auto-Reliquary (Absolutis Pattern)
+      id: Compendium.wng-core.items.Item.2jQy9TaBC7sCVXqR
+      type: item
+      diff: {}
+      index: 2
+      groupId: K3OcnuEEs5JH4Hua
+    - name: Fragstorm Grenade Launcher
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.u3MdK3DUuLG3DRBC
+      type: item
+      diff: {}
+      index: 3
+      groupId: fsYT69bj3boXsWle
+    - name: Auto-Boltstorm Gauntlet (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.uKOmopvbPBHioG98
+      type: item
+      diff: {}
+      index: 4
+      groupId: dWxweEUfPM5VQma3
+    - name: Auto-Boltstorm Gauntlet (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.O3nHflHmV3A3mlkw
+      type: item
+      diff: {}
+      index: 5
+      groupId: 6axeFzdktPapBNgW
+    - name: Auto-Boltstorm Gauntlet (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.uKOmopvbPBHioG98
+      type: item
+      diff: {}
+      index: 6
+      groupId: gxvcaARacVcGnJmE
+    - name: Auto-Boltstorm Gauntlet (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.O3nHflHmV3A3mlkw
+      type: item
+      diff: {}
+      index: 7
+      groupId: kMOA9ZiTyjYUmOte
+    - name: Flamestorm Gauntlet (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.BwMmcSwewxQApZ3j
+      type: item
+      diff: {}
+      index: 8
+      groupId: 5bTEkaovcNHuZgtw
+    - name: Flamestorm Gauntlet (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1lQhZ1uzv8yZ9KrK
+      type: item
+      diff: {}
+      index: 9
+      groupId: VXY54IuaMhSEeAHz
+    - name: Flamestorm Gauntlet (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.BwMmcSwewxQApZ3j
+      type: item
+      diff: {}
+      index: 10
+      groupId: apFLC4b8nCR92ng2
+    - name: Flamestorm Gauntlet (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1lQhZ1uzv8yZ9KrK
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: SJox4lVzWTNuyei8
+      - index: 1
+        type: item
+        groupId: vsC1N2gvJN3SIheg
+      - index: 2
+        type: item
+        groupId: K3OcnuEEs5JH4Hua
+      - type: or
+        items:
+          - type: and
+            items:
+              - index: 6
+                type: item
+                groupId: gxvcaARacVcGnJmE
+              - index: 7
+                type: item
+                groupId: kMOA9ZiTyjYUmOte
+              - index: 5
+                type: item
+                groupId: 6axeFzdktPapBNgW
+              - index: 4
+                type: item
+                groupId: dWxweEUfPM5VQma3
+              - index: 3
+                type: item
+                groupId: fsYT69bj3boXsWle
+            groupId: jSjRZEx5WFHZgQH6
+          - type: and
+            items:
+              - index: 10
+                type: item
+                groupId: apFLC4b8nCR92ng2
+              - index: 11
+                type: item
+                groupId: 7n29K0XQT3qyvWfS
+              - index: 9
+                type: item
+                groupId: VXY54IuaMhSEeAHz
+              - index: 8
+                type: item
+                groupId: 5bTEkaovcNHuZgtw
+            groupId: cGCa1a48NMuev3Ph
+        groupId: N9SSJiGl6evPGquv
+  suggested:
+    attributes:
+      strength: 6
+      toughness: 6
+      agility: 5
+      initiative: 5
+      willpower: 3
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 4
+      ballisticSkill: 6
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: 3
+      survival: null
+      tech: null
+      weaponSkill: 4
+    talents:
+      - id: YB4sl4A5toyumeAy
+        name: Angel Of Death
+      - id: PB5cA0QmFNcxpHm4
+        name: Simultaneous Strike
+      - id: emVrUoi21aS8WOwA
+        name: Promethium Proficiency
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219054947
+  modifiedTime: 1710717476264
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: bSQoQmTN0Rug6821
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!bSQoQmTN0Rug6821'

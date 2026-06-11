@@ -1,0 +1,53 @@
+folder: Jr1XUs92ggb9r4uN
+name: Spike Arm (Melee)
+type: weapon
+_id: TDany7knbIpOMICP
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: ''
+  description: ''
+  value: null
+  keywords: ORK
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits: []
+  upgrades: []
+effects: []
+sort: 900000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710291931308
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!TDany7knbIpOMICP'

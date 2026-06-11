@@ -1,0 +1,72 @@
+name: Psycannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/bolt-rifle.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.G972YlKEkISdGRXe
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Psycannon is a specialised form of bolt
+    weapon used by the Grey Knights and the Ordo Malleus, loaded with blessed
+    and sanctified bolt shells. The Grey Knights are trained to channel their
+    own psychic power into the shells, making them even more potent.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: BOLT, FORCE, GREY KNIGHTS, ORDO MALLEUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 4
+  traits:
+    - name: brutal
+    - name: force
+    - name: heavy
+      rating: 6
+  upgrades: []
+_id: G972YlKEkISdGRXe
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711923
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!G972YlKEkISdGRXe'

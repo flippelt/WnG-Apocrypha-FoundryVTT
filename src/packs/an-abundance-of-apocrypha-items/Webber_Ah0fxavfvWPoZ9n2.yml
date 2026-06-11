@@ -1,0 +1,85 @@
+name: Webber
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.Ah0fxavfvWPoZ9n2
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A Webber is an exotic, non-lethal weapon used to
+    immobilise a target. It fires a fluid filled with a mass of filaments, which
+    expands in the air to form a web of sticky, near-unbreakable material.
+    Targets are quickly entangled in a painful embrace; if they attempt to
+    struggle, the filaments constrict even more, further entrapping them. They
+    are commonly employed by the Adeptus Arbites for riot suppression, crowd
+    control, and capturing suspects alive. They would be more widespread, but
+    the web chemical they use is often difficult to
+    obtain.</span></p><p></p><p><span class="fontstyle0">Webber weapons are
+    found in pistol and heavy weapon forms, the latter often mounted on Arbites
+    combat vehicles such as Repressors.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">Webbers do not inflict damage. Rather, any creature
+    caught in the blast must pass an Athletics test or suffer the </span><span
+    class="fontstyle3">Restrained </span><span class="fontstyle0">condition. The
+    DN of the test and the rating of the Restrained condition are noted in the
+    weapon’s entry.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: WEB, IMPERIUM, ADEPTUS ARBITES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: blast
+      rating: 4
+    - name: inflict
+      rating: Restrained 4
+  upgrades: []
+_id: Ah0fxavfvWPoZ9n2
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711939
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!Ah0fxavfvWPoZ9n2'

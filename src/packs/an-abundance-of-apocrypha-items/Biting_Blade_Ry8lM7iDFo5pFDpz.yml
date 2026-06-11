@@ -1,0 +1,66 @@
+name: Biting Blade
+type: weapon
+_id: Ry8lM7iDFo5pFDpz
+img: modules/wng-core/assets/icons/weapons/sword.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Biting Blades are two-handed, long-bladed Chainswords wielded by Exarchs
+    of the Striking Scorpions shrine. Biting Blades are slender and quiet, able
+    to slice through the primitive hordes of the enemy.</p>
+  value: 8
+  keywords: CHAIN, 2-HANDED, ANCIENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: parry
+    - name: silent
+    - name: reaping
+      custom: true
+      display: Reaping
+      description: >-
+        The weapon is intended to scythe through groups of foes. When you make a
+        Multi-Attack with this weapon, the DN increases by +1 per additional
+        target, rather than +2
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 200000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709854709806
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!Ry8lM7iDFo5pFDpz'

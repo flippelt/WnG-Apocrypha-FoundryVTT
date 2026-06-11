@@ -1,0 +1,63 @@
+name: Laslock
+type: weapon
+img: modules/wng-core/assets/icons/weapons/lasgun.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>Normally produced only in resource-poor munitions factors, or on worlds
+    too primitive to manufacture true lasguns, the Laslock&mdash;also known as
+    the Las-musket&mdash;is a crude, bulky and unreliable single-shot
+    lasweapons. While the weapon itself is potent, it is relatively inaccurate
+    compared to most standard Lasguns, which discharge their power cells with
+    every shot.</p>
+  value: 2
+  keywords: LAS, SCUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 10
+    medium: 20
+    long: 30
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: null
+  traits:
+    - name: brutal
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665493432187
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: KtMQP20MTYUwmoWw
+_id: 29dlFMs9Ee62NXPs
+sort: 700000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!29dlFMs9Ee62NXPs'

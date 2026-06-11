@@ -1,0 +1,71 @@
+folder: nDYleZkn0ESlN5hn
+name: Followers
+_id: HkJWezC3xFKodkuB
+pages:
+  - sort: 100000
+    name: Tau Drones
+    type: text
+    _id: TBK5GQzLVnvfvPVO
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>A Tau Drone (Kor’vesa in the Tau language, meaning “flying helper”)
+        is a form of artificial intelligence extensively utilised by the Tau
+        Empire for a variety of combat and non-combat purposes. The mobile
+        variants of Tau Drones exist in the form of sleek disk-shaped machines
+        which are well-armoured and equipped with small anti-gravitic engines
+        and manoeuvring jetthrusters so that they can hover and skim across the
+        ground. As they hover over landscapes, rotating back and forth, their
+        sensor vane constantly transmits vital information about their
+        surroundings.</p><p>These types of Drones are commonly seen alongside
+        the warriors of the Fire Caste, but similar designs can be found buzzing
+        through the streets and skies of any T’au settlement. Although small and
+        innocuous, those foes that underestimate Tau Drones often pay for such a
+        costly mistake with their lives. In addition, Drone intelligences can
+        also be found built into a great number of technologies developed by the
+        Tau Earth Caste, giving a simple synthetic intellect to a wide array of
+        devices.</p><p>There are many different types of Drones utilised by the
+        Tau in varying roles; these can range from mundane civilian uses to
+        multiple combat roles. Tau Drones can carry a wide variety of equipment,
+        ranging from defensive Shield Generators to offensive weaponry,
+        communications equipment, and various combat support systems. Most Tau
+        Drones can interact with their Tau masters, obeying simple instructions
+        and even anticipating what duties are required of them. The Tau value
+        their Drones, and whilst they are not regarded as having equal status to
+        a Tau, they are treated much like a favoured animal companion amongst
+        humans.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710439015614
+      modifiedTime: 1710439018565
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!HkJWezC3xFKodkuB.TBK5GQzLVnvfvPVO'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710439010528
+  modifiedTime: 1710439018565
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!journal!HkJWezC3xFKodkuB'
+categories: []

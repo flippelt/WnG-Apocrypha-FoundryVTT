@@ -1,0 +1,52 @@
+name: Flechette Rounds
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ammo.Item.1mkaJl1UcffeWUTH
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">These bullets are finely engineered to fragment
+    into a bundle of razor-sharp flechettes in flight, inflicting numerous nasty
+    lacerations instead of single gunshot wounds. They’re often favoured by
+    gunslingers and bounty hunters who can afford them, to even the odds against
+    numerous foes.</span></p><p></p><p><span class="fontstyle0">These rounds may
+    be used by weapons with the </span><span
+    class="fontstyle2"><strong>PROJECTILE</strong> </span><span
+    class="fontstyle0">keyword. Weapons with the Heavy keyword may not use this
+    ammunition.</span></p><p></p><p><span class="fontstyle2"
+    style="color:rgb(0,0,0);"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The weapon gains Spread and may re-roll up to 2 dice when
+    making an attack while spending one or more Reloads.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: IMPERIUM, SCUM
+  effect: ''
+  traits:
+    - name: spread
+      type: add
+_id: 1mkaJl1UcffeWUTH
+folder: qnM5Rkyt2djZ275h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017422206
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1200000
+_key: '!items!1mkaJl1UcffeWUTH'

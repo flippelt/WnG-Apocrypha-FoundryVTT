@@ -1,0 +1,82 @@
+name: A Cloud in the Warp
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.E3pnnHY6wvXmUZ2i
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>By understanding and perceiving the currents of the warp, you can hide
+    your presence from any who would use the Immaterium to detect you. While
+    this power remains in effect, you cannot by detected by the Psyniscience
+    power, or by any form of detection or perception which relies upon the Warp,
+    including divination. Further, creatures with the DAEMON keyword must pass
+    an Awareness test (DN 5) to detect you.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: NAVIS NOBILITE, PSYCHIC
+  prerequisites: NAVIS NOBILITE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 DN to DAEMON Awareness tests
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: >-
+        This power affects you and any allies within a distance equal to your
+        Willpower in metres.
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: 5
+    type: skill
+    specification: awareness
+_id: E3pnnHY6wvXmUZ2i
+folder: rt2QsMjxN0O6qf5z
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206793
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!E3pnnHY6wvXmUZ2i'

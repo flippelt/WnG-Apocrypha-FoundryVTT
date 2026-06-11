@@ -1,0 +1,67 @@
+name: Starcannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/plasma-cannon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.GkKSuJn8avFT5hQh
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Starcannon is a plasma weapon designed by
+    the Eldar, using sophisticated electromagnetic pulses to guide bolts of
+    destructive plasma to a target. Though its plasma core produces the
+    incandescent heat of a star, the Starcannon uses containment fields to not
+    only prevent the weapon overheating but keep it cool to the
+    touch</span>.</p>
+  value: 7
+  keywords: PLASMA, AELDARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 4
+  traits:
+    - name: heavy
+      rating: 8
+  upgrades: []
+_id: GkKSuJn8avFT5hQh
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932583
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!GkKSuJn8avFT5hQh'

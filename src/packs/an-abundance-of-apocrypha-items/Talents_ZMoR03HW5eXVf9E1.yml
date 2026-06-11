@@ -1,0 +1,17 @@
+name: Talents
+type: Item
+sorting: a
+sort: 700000
+color: null
+flags: {}
+_id: ZMoR03HW5eXVf9E1
+folder: null
+description: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710071704923
+  modifiedTime: 1710524073651
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!ZMoR03HW5eXVf9E1'

@@ -1,0 +1,58 @@
+folder: fgtFfRbmshJ8KM1n
+name: Eye of the Ancestors
+type: ability
+_id: pY9cL3SdhxCrFkYE
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>As a Free Action at the start of each of your turns, you may spend 1
+    Glory to Judge a single enemy you can see. You may also Judge an enemy for
+    free as a Reflexive Action if they kill a LEAGUES OF VOTANN ally. You may
+    have a maximum number of enemies Judged equal to twice your Rank. Whenever a
+    Judged enemy is slain or leaves the scene, they are no longer Judged, and
+    you may choose to remove the Judged state from an enemy when you Judge a new
+    enemy. </p><p>When a LEAGUES OF VOTANN ally makes an attack against a Judged
+    enemy, for each Exalted Icon shifted for damage, add +2ED rather than
+    +1ED.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710704307607
+  modifiedTime: 1710704341015
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!pY9cL3SdhxCrFkYE'

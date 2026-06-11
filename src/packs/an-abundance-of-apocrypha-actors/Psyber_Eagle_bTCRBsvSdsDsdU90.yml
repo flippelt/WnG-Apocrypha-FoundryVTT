@@ -1,0 +1,682 @@
+folder: 9sw4Sr9YK6UbygF5
+name: Psyber Eagle
+type: threat
+_id: bTCRBsvSdsDsdU90
+img: modules/wng-core/assets/tokens/generic.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 4
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 5
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: tiny
+    speed: 10
+    fly: 10
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: '-'
+      second: T
+      third: T
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 6 Rare</p><p>A psy-bonded (or "psyber") Familiar
+    is a living creature bonded to its master by arcane technology. Cybernetic
+    neural interface circuitry implanted in the minds of both Familiar and
+    master (called a "psyber-lure") allows the creature to be directly and
+    precisely controlled, with the master having access to the sensory
+    experiences of the creature and able to give it instantaneous commands at
+    great distance.</p><p></p><p>Owing to the idiosyncrasies of the little
+    understood technology, usually only small, non-sapient creatures can become
+    psy-bonded to a Human master.</p><p></p><p>Psyber-Eagles are genetically and
+    cybernetically enhanced familiars created as gifts from the Adeptus
+    Mechanicus to the grandees of the Imperium. They are often utilised by
+    psykers to extend and channel their powers.</p><p></p><p>The same profile
+    can also be used for Psyber-Ravens, and similar augmented avian familiars.
+    <br></p>
+prototypeToken:
+  name: Psyber Eagle
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - _id: l3bI11PGs9k7C6XY
+    name: IMPERIUM
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 3500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ
+    system:
+      description: >-
+        <p>The vast interstellar empire of Humanity that spans over a million
+        worlds, led by the Emperor from Holy Terra. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656027
+      modifiedTime: 1710363095570
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bTCRBsvSdsDsdU90.l3bI11PGs9k7C6XY'
+  - _id: xlGEwEMmXZ2iCetW
+    name: ADEPTUS ASTARTES
+    type: keyword
+    img: modules/wng-core/assets/factions/adeptus-astartes.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 150000
+      core:
+        sourceId: Compendium.wng-core.items.Item.KiNbJ09wqnmccwb0
+    system:
+      description: >-
+        <p>The Space Marines: genetically enhanced transhuman super soldiers who
+        know no fear.&nbsp;</p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656023
+      modifiedTime: 1710363110438
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bTCRBsvSdsDsdU90.xlGEwEMmXZ2iCetW'
+  - _id: NvLaucSGRcb8lMrx
+    name: INQUISITION
+    type: keyword
+    img: modules/wng-core/assets/factions/the-inquisition.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 3600000
+      core:
+        sourceId: Compendium.wng-core.items.Item.aDPxxSPWTfKDgQDu
+    system:
+      description: >-
+        <p>A clandestine organisation given absolute power to battle the
+        greatest threats to the Imperium: heresy, xenos, and daemons.</p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656026
+      modifiedTime: 1710363117418
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bTCRBsvSdsDsdU90.NvLaucSGRcb8lMrx'
+  - _id: cT0K0R5WvxN8nx2l
+    name: ADEPTUS MECHANICUS
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 1800000
+      core:
+        sourceId: Compendium.wng-core.items.Item.1TbplwZV3WYZkQEk
+    system:
+      description: >-
+        <p>Adherents to the Cult Mechanicus, the Mars-based cult of the machine
+        that supply the Imperium with its advanced technology and guard the
+        sacred knowledge of its workings. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656020
+      modifiedTime: 1710363127597
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bTCRBsvSdsDsdU90.cT0K0R5WvxN8nx2l'
+  - _id: ti5bGHORzPlRfXy0
+    name: SERVITOR
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 5500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.q3m2xbmCFfUEPTMb
+    system:
+      description: >-
+        <p>AI, or Abominable Intelligence, is a sin to the Cult Mechanicus.
+        Their many technological servants, known as Servitors, are all
+        constructed around biological brains supplemented with holy
+        mechanisms.</p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656030
+      modifiedTime: 1710363136145
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!bTCRBsvSdsDsdU90.ti5bGHORzPlRfXy0'
+  - folder: EryJmmZVGTh72K8P
+    name: Animal
+    type: talent
+    _id: Onz6r9BQmXx3eQtt
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>A Psyber-Eagle is unable to take any actions which would require the
+        use of hands</p>
+      display: true
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.Vwym4lOqXkrqW1oy
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710363197683
+      modifiedTime: 1710363219693
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bTCRBsvSdsDsdU90.Onz6r9BQmXx3eQtt'
+  - name: Psy-Bond
+    type: talent
+    _id: NA5bd2wB2F2hmVUg
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Follower is linked to its owner via a neural interface called a
+        psyber-lure (implanted when the Follower is acquired). The owner can
+        see, hear, etc., through the Follower’s senses, and give instant mental
+        commands, so long as the Follower is within a number of kilometres equal
+        to the owner’s Willpower.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710363244827
+      modifiedTime: 1710363258519
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bTCRBsvSdsDsdU90.NA5bd2wB2F2hmVUg'
+  - name: Psychic Focus
+    type: talent
+    _id: FkJd0Ki3t7nspBst
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>If the Follower’s owner is a PSYKER, the owner may focus their
+        psychic abilities through the Follower. This adds +1 to the DN of the
+        psychic power, but the power’s range and effect are measured from the
+        Follower instead.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710363286508
+      modifiedTime: 1710363304681
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bTCRBsvSdsDsdU90.FkJd0Ki3t7nspBst'
+  - name: Determination
+    type: ability
+    _id: rIMOudxGw44qz10b
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Glory to roll 2d6</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 100000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.NyytzXiTWO84CSRs
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359735702
+      modifiedTime: 1710363315006
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bTCRBsvSdsDsdU90.rIMOudxGw44qz10b'
+  - name: Talons
+    type: weapon
+    _id: Mu9FDlvp0pMGhPAG
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 3
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits: []
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710363339644
+      modifiedTime: 1710363349451
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!bTCRBsvSdsDsdU90.Mu9FDlvp0pMGhPAG'
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710363041579
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!actors!bTCRBsvSdsDsdU90'

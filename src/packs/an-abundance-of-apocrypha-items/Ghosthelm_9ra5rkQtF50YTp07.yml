@@ -1,0 +1,85 @@
+name: Ghosthelm
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Ghosthelm
+    _id: ZdKi0nbadJzE3mPc
+    changes:
+      - key: difficulty.bonus
+        mode: 7
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              DAEMON or other warp entity attempting to perceive, attack, or
+              otherwise interact
+            hide: ''
+    tint: null
+    _key: '!items.effects!9ra5rkQtF50YTp07.ZdKi0nbadJzE3mPc'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.9ra5rkQtF50YTp07
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A Ghosthelm is an Aeldari device worn by
+    Asuryani Farseers. This helmet, fashioned in the typical Asuryani style,
+    incorporates highly intricate, psychic circuitry crafted from crystal that
+    can mask the presence of the wearer's soul in the
+    Immaterium.</span></p><p></p><p><span class="fontstyle0">This is a crucial
+    protection for potent psykers like the Aeldari, whose souls shine like
+    blazing beacons in the Warp, drawing the attention of daemons and other
+    hostile Warp entities.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Any </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">DAEMON </span><span class="fontstyle0">or other
+    warp entity attempting to perceive, attack, or otherwise interact with a
+    Farseer wearing a Ghosthelm suffers a +2DN penalty to any tests they
+    attempt. In addition, the Farseer no longer rolls on the Perils of the Warp
+    table; instead, they suffer [[/r 1d3]] Shock, +1 for each Wrath Complication
+    after the first, when they suffer Wrath Complications when using a Psychic
+    Power.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: AELDARI, ASURYANI
+  effect: ''
+_id: 9ra5rkQtF50YTp07
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240235
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 300000
+_key: '!items!9ra5rkQtF50YTp07'

@@ -1,0 +1,74 @@
+name: Chaos Mind
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.QiMw9UDKjB0ht2Wa
+system:
+  dn: '@attributes.willpower.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You form a bridge between your mind and the mind of your target. Through
+    this connection, you pour the raw power of the Warp into the target’s mind,
+    overwhelming them. This power can have a devastating effect upon you as well
+    as upon the target. Target a single enemy you can see within range and make
+    an opposed Willpower test against them: if you win, the target suffers 1d3+2
+    Mortal Wounds. If you lose, however, you suffer 1d3+2 Corruption Points from
+    the backlash.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: Willpower metres
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3 + 2
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The target suffers +1 Mortal Wound.
+      cost: 1
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: QiMw9UDKjB0ht2Wa
+folder: Y2bAliRT8Nh9MTzR
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247437
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!QiMw9UDKjB0ht2Wa'

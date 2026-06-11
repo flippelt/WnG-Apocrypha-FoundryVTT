@@ -1,0 +1,95 @@
+name: Witch Strike
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Witch Strike
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.extra'
+        priority: null
+    _id: m3LPnGeZABgvAmWW
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!uVSS9qxkJigVxB6D.m3LPnGeZABgvAmWW'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.uVSS9qxkJigVxB6D
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Focusing a still greater portion of your power into your weapon, each
+    strike blasts foes with potent aetheric energies. Until the start of your
+    next turn, you add +2ED to the damage of one melee weapon you are wielding
+    which has the Force trait.</p>
+  effect: ''
+  cost: 10
+  activation: simple
+  duration: 1 Round
+  range: Self
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: ASURYANI, ANHRATHE, HARLEQUIN or YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: An additional +1ED.
+      cost: 2
+      property: extra
+      initial: 2
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: uVSS9qxkJigVxB6D
+folder: epIgLsUsKe7P6BrA
+sort: 275000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742835
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!uVSS9qxkJigVxB6D'

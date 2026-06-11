@@ -1,0 +1,62 @@
+name: Plague Sword
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: nyHPtRO8Z1XRcTRg
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Plague Swords are a type of Daemonic weapon used by followers of Nurgle
+    such as Plague Bearers and Plague Marines. These weapons are infused with
+    foul infections and toxins that can make the merest scratch fatal.</p>
+  value: 7
+  keywords: BLADE, CHAOS, DAEMON, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Poisoned 4
+    - name: parry
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 4lJ1bCgwVld48B4x
+sort: 1700000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!4lJ1bCgwVld48B4x'

@@ -1,0 +1,87 @@
+name: HYLas Beam Cannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/lascannon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.i48ZGKKBMqHrFMDP
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Notionally similar to an Imperial lascannon, a
+    HYLas Beam Cannon is a formidable anti-tank weapon, which fires needle-thin
+    coherent beams so powerful they can carve through the armour of battle
+    tanks.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: LAS, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 18
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: heavy
+      rating: 8
+    - name: huntr
+      custom: true
+      display: HunTR
+      description: >-
+        HunTR weapons contain auto-calibration and gravstabilisation systems
+        which make them precise at any range. HunTR weapons do not suffer any
+        penalty for being fired at Long Range.
+    - name: beam
+      custom: true
+      display: Beam
+      description: >-
+        The weapon fires a focused beam of energy that bores through everything
+        in your path. Each time an attack is made with this weapon, draw a line
+        back from the target of the attack back to the weapon. The Multi-Attack
+        DN penalty for attacks with this weapon is reduced by twice the weapon’s
+        Salvo, in addition to effects from a Salvo attack. Against a Mob, an
+        attack with the weapon scores a number of additional icons equal to the
+        weapon’s Salvo.
+  upgrades: []
+_id: i48ZGKKBMqHrFMDP
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976138
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!i48ZGKKBMqHrFMDP'

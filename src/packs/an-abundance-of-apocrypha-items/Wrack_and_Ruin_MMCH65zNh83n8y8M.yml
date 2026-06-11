@@ -1,0 +1,87 @@
+name: Wrack and Ruin
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.MMCH65zNh83n8y8M
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Reaching out with your mind, you sense every fault, hairline crack, and
+    structural weakness in an enemy fortification, then build empyric resonance
+    within them until the stronghold shakes itself apart. The power affects
+    creatures in a Blast (6) that you can see within range. Roll 1d6 for each
+    enemy in the blast who is in cover or in difficult terrain; on an Exalted
+    Icon, they suffer a Mortal Wound and are Staggered. If the targets are
+    within an enclosed structure, then instead roll 1d6 and each Icon inflicts
+    1d3 Mortal Wounds and causes them to be Restrained.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: IMPERIAL FISTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: ' Affected enemies suffer +1 Mortal Wounds.'
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Increase the area of effect to a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: ' If there is a building or enclosing structure within the blast, then it begins to collapse.'
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: MMCH65zNh83n8y8M
+folder: FBWgnducTeuqGBkw
+sort: 212500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959237
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!MMCH65zNh83n8y8M'

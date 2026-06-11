@@ -1,0 +1,33 @@
+folder: R6DiCyrJrBf1MKBz
+name: Shredding Fire
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Dire Avenger aspect
+  description: >-
+    <p>You understand your weapons instinctively, understanding the way to make
+    the most from every shot. When you make a ranged attack with a SHURIKEN
+    weapon, the weapon changes its AP to -3, but loses the
+    @UUID[JournalEntry.9arSrx8B2oOHRWrP.JournalEntryPage.obcnn370Zz0ZxUEv#rending-(x)]{Rending
+    (3)} trait.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.S5OVd9Qy9TF04QZv
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700067360497
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: S5OVd9Qy9TF04QZv
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!S5OVd9Qy9TF04QZv'

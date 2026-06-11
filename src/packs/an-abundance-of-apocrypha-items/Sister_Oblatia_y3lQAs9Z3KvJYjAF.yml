@@ -1,0 +1,161 @@
+folder: MhFWvdL9JDBJQXdr
+name: Sister Oblatia
+type: archetype
+_id: y3lQAs9Z3KvJYjAF
+img: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adepta Sororitas
+    id: Compendium.wng-core.items.Item.oVPeTKFG3XJG7bKv
+  influence: -1
+  cost: 68
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MINISTORUM
+    - ADEPTA SORORITAS
+    - '[ORDER]'
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: 3
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Outcast Penitent
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.O9t6AiUNjJOJ426f
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 1
+      groupId: km0NXW5nqx6T1wAh
+    - name: Chainsword
+      id: Compendium.wng-core.items.Item.rgcz2ZC60MEM8mao
+      type: item
+      diff: {}
+      index: 2
+      groupId: 0C0S6U6oDSzLeQD4
+    - name: Sororitas Power Armour
+      id: Compendium.wng-core.items.Item.mnIlYQgkBxakPumK
+      type: item
+      diff: {}
+      index: 3
+      groupId: 36LiZPGrvmbr8eQk
+    - name: Chaplet Ecclesiasticus
+      id: Compendium.wng-core.items.Item.W028UmFNKkQrUBl6
+      type: item
+      diff: {}
+      index: 4
+      groupId: MH4WLX49s7IitlIB
+    - name: Sororitas Vestments (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Sororitas Vestments (Clothing)
+      index: 5
+      groupId: JEyPfdrao9EG2R7p
+    - name: Rule of the Sororitas
+      id: Compendium.wng-core.items.Item.YXTc35poOQsWeSgD
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: km0NXW5nqx6T1wAh
+      - index: 2
+        type: item
+        groupId: 0C0S6U6oDSzLeQD4
+      - index: 3
+        type: item
+        groupId: 36LiZPGrvmbr8eQk
+      - index: 4
+        type: item
+        groupId: MH4WLX49s7IitlIB
+      - index: 5
+        type: item
+        groupId: JEyPfdrao9EG2R7p
+      - index: 6
+        type: item
+        groupId: 7Q1sffurkobhI4ym
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 3
+      initiative: 3
+      willpower: 4
+      intellect: 1
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: 2
+      tech: null
+      weaponSkill: 4
+    talents:
+      - id: jlrOP1uvd0x0VRiK
+        name: Death Or Glory!
+      - id: UnWnJIE3XhYMVKx3
+        name: Duty Until Death
+      - id: LoHgYwDbFoZAaOMD
+        name: Flagellant
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710617218924
+  modifiedTime: 1710617528625
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!y3lQAs9Z3KvJYjAF'

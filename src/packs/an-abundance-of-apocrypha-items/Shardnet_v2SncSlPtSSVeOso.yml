@@ -1,0 +1,68 @@
+name: Shardnet
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Shardnets are Hekatarii weapons which entrap foes, making them vulnerable
+    to other attacks – they’re normally used in conjunction with an Impaler,
+    which are used to eviscerate an ensnared victim. The Shardnet is
+    electrified, barbed, and designed to tighten and constrict once they have
+    caught their prey, causing intense pain and cruel lacerations.</p>
+  value: 6
+  keywords: EXOTIC, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 3
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: inflict
+      rating: Restrained
+    - name: careful
+      custom: true
+      display: Careful
+      description: >-
+        A Careful Weapon requires precision and care to wield and cannot easily
+        be used to make multiple rapid attacks. A Careful Weapon cannot be used
+        to make a Multi-Attack.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 100025
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: v2SncSlPtSSVeOso
+_key: '!items!v2SncSlPtSSVeOso'

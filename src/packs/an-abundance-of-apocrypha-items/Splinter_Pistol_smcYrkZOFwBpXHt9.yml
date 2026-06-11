@@ -1,0 +1,73 @@
+name: Splinter Pistol
+type: weapon
+img: modules/wng-core/assets/icons/weapons/shuriken-pistol.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-ranged.Item.smcYrkZOFwBpXHt9
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">The Splinter Pistol is the sidearm of choice for
+    most Dark Eldar, finding frequent use across the Dark City. Usually paired
+    with a blade or used as a pair for added effectiveness in assaults. The
+    Splinter Pistol uses the same ammunition and firing mechanisms as the rifle,
+    although compacted and therefore have shorter range, and with a smaller
+    ammunition crystal to reduce the weight even further</span>.</p>
+  value: 5
+  keywords: SPLINTER, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: pistol
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+  upgrades: []
+_id: smcYrkZOFwBpXHt9
+folder: hvQbqAxjU9zt0gWD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927211847
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!smcYrkZOFwBpXHt9'

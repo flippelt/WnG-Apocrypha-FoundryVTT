@@ -1,0 +1,38 @@
+folder: ZMoR03HW5eXVf9E1
+name: Conqueror Imperative
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: SKITARII keyword
+  description: >-
+    <p>Though doctrina imperatives are normally initiated by a Tech-Priest
+    overseeing the Skitarii in action, you have been equipped with protocols for
+    independent action. You can engage an imperative which enhances your
+    mobility for short periods.</p>
+
+    <p>At the start of any of your turns, you may activate the Aggressor
+    Imperative. This adds +Rank to your Speed but reduces your Resilience by 2.
+    At the end of a turn in which you activate the Agressor Imperative, you
+    suffer 1d3+2 Shock.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MKsguLPsKUKmeFCX
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663876682762
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: MKsguLPsKUKmeFCX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 4700000
+_key: '!items!MKsguLPsKUKmeFCX'

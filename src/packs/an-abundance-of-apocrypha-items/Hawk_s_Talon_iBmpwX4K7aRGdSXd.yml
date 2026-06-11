@@ -1,0 +1,69 @@
+name: Hawk’s Talon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranger-long-rifle.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.iBmpwX4K7aRGdSXd
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The Hawk’s Talon is an ancient and highly potent
+    form of Lasblaster. Few examples of this type of weapon remain, and they are
+    reserved for use by only the most exceptional warriors.</span><br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: LAS, ANCIENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 4
+  traits:
+    - name: assault
+    - name: reliable
+  upgrades: []
+_id: iBmpwX4K7aRGdSXd
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932545
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!iBmpwX4K7aRGdSXd'

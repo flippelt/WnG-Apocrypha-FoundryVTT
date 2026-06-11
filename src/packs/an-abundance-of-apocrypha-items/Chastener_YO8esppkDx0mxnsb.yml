@@ -1,0 +1,162 @@
+folder: tT0eF3TBVmGD5iGo
+name: Chastener
+type: archetype
+_id: YO8esppkDx0mxnsb
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Arbites
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IokkMeiQ7h80grCb
+  influence: 2
+  cost: 110
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ARBITES
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: 4
+    intellect: null
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: 1
+    deception: null
+    insight: 3
+    intimidation: 3
+    investigation: null
+    leadership: null
+    medicae: 1
+    persuasion: 2
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Subdue and Interrogate
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zfap4vE4y4Cydod4
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Arbites Carapace
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GlC8CChnYkuXUJ7o
+      type: item
+      diff: {}
+      index: 1
+      groupId: AAsy0N633kwXsajs
+    - name: Shock Maul
+      id: Compendium.wng-core.items.Item.wSJOv4Sre6LbqbBF
+      type: item
+      diff: {}
+      index: 2
+      groupId: yzD2ZCJQBG4ilWet
+    - name: Combat Shotgun
+      id: Compendium.wng-core.items.Item.z8tIAF58HbO2X0ho
+      type: item
+      diff: {}
+      index: 3
+      groupId: lQkcrZFvNnfcDLuG
+    - name: Magnacles
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Q6W1Qr97wqUXwBi9
+      type: item
+      diff: {}
+      index: 4
+      groupId: yNKJAiXz3gbSRqnH
+    - name: Medikit
+      id: Compendium.wng-core.items.Item.mSS6bpYoQb4KilrW
+      type: item
+      diff: {}
+      index: 5
+      groupId: 7m9REtsIhJXLbIr7
+    - name: Book of Judgement (Abridged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qRC8vHhJWuKSvOrj
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: AAsy0N633kwXsajs
+      - index: 2
+        type: item
+        groupId: yzD2ZCJQBG4ilWet
+      - index: 3
+        type: item
+        groupId: lQkcrZFvNnfcDLuG
+      - index: 4
+        type: item
+        groupId: yNKJAiXz3gbSRqnH
+      - index: 5
+        type: item
+        groupId: 7m9REtsIhJXLbIr7
+      - index: 6
+        type: item
+        groupId: BsH7m7ZUhezYkahs
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 3
+      initiative: 3
+      willpower: 5
+      intellect: 3
+      fellowship: 4
+    skills:
+      athletics: 1
+      awareness: null
+      ballisticSkill: 2
+      cunning: 2
+      deception: null
+      insight: 5
+      intimidation: 5
+      investigation: null
+      leadership: null
+      medicae: 2
+      persuasion: 3
+      pilot: null
+      psychicMastery: null
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: CVEfjd9hx4XWLuPM
+        name: Dirty Fighter
+      - id: 5HchXpu60DlodyV8
+        name: Disturbing Voice
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710621233003
+  modifiedTime: 1710621519531
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!YO8esppkDx0mxnsb'

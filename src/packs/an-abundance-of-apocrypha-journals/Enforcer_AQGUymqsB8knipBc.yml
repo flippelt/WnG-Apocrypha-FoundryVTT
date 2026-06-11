@@ -1,0 +1,143 @@
+name: Enforcer
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 499927
+pages:
+  - name: Enforcer
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <blockquote><p>Nobody is innocent, there are merely varying levels of
+        guilt.</p></blockquote><p><strong>A law enforcement officer, sworn to
+        uphold the rule of your world’s Imperial Commander. This
+        might.</strong></p><p>Many worlds have their own cadres of Enforcers,
+        local law enforcement agencies provided by the Imperial Commander to
+        enforce their will and the common law of their world. Unlike the mighty
+        Arbitrators, most Enforcers, or whatever other local title they use,
+        hold little loyalty to the law itself or to the tradition of service
+        (although there are notable exceptions to this).</p><p>These native
+        Enforcers often mimic the Arbites in appearance and armament, but their
+        local ties and often less rigorous standards mean that they are far more
+        susceptible to corruption. The objectives of local Enforcers and
+        Imperial Arbitrators often overlap, and the two groups work in
+        conjunction when it is mutually beneficial. However, there are also
+        occasions when they come into direct conflict</p><p>For their local
+        knowledge and useful skills, Enforcers deemed trustworthy are often
+        deputised by the Adeptus Arbites or the Inquisition.</p><table
+        style="width:98.9228%;height:239px" border="1"><tbody><tr
+        class="table-header" style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8">ENFORCER</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
+        colspan="2">TIER</td><td
+        style="width:8.3%;height:16px;text-align:center">1</td><td
+        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
+        colspan="2">SPECIES</td><td
+        style="width:11.7268%;height:16px;text-align:center">Human</td><td
+        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
+        Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center">18</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">IMPERIUM</a>,
+        <a class="keyword">ADEPTUS ARBITES</a></td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px"
+        colspan="8"><strong>ATTRIBUTE</strong>: Toughness 2, Willpower
+        2</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
+        Ballistic Skill 2, Investigation 1, Intimidation 1</td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
+        ABILITY</strong>: @UUID[Item.EQPXUzTrDaYMWJNp]{Freeze}</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>WARGEAR</strong>: @UUID[Item.fLx8DzWDgWDZIMSK]{Flak
+        Armour}, @UUID[Item.z8tIAF58HbO2X0ho]{Combat Shotgun},
+        @UUID[Item.BpQ1EYnjQP61Edvp]{Stubber},
+        @UUID[Item.2h10MRjW86Odftu5]{Magnacles}</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left"
+        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">32</td></tr><tr
+        style="font-variant:small-caps;height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
+        style="width:12.5%;height:16px;text-align:center">S</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">T</td><td
+        style="width:5.17241%;height:16px;text-align:center">A</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">I</td><td
+        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">Int</td><td
+        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
+        style="width:12.5%;height:16px;text-align:center">2</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">3</td><td
+        style="width:5.17241%;height:16px;text-align:center">2</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">2</td><td
+        style="width:11.7268%;height:16px;text-align:center">3</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">2</td><td
+        style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left"
+        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">20</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%" colspan="8">Athletics 1, Awareness 1,
+        Cunning 2, Ballistic Skill 2, Intimidation 2, Investigation 2,
+        Persuasion 1</td></tr><tr style="height:16px"><td class="table-header"
+        style="width:92.7291%;height:16px" colspan="8">SUGGESTED
+        TALENTS</td></tr><tr style="height:16px"><td
+        style="height:15px;width:92.7291%"
+        colspan="8">@UUID[Item.HYuKXdU1r5yNyRU1]{Die Hard},
+        @UUID[Item.fIy3evnEKxFiNV4j]{Gallows Humour},
+        @UUID[Item.0sjaRWKLl28HwIpN]{Scum Savvy}</td></tr></tbody></table>
+      markdown: ''
+    _id: 6VIdIZs0RFiBmFtW
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!AQGUymqsB8knipBc.6VIdIZs0RFiBmFtW'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664173162519
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: AQGUymqsB8knipBc
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!AQGUymqsB8knipBc'
+categories: []

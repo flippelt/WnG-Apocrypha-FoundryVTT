@@ -1,0 +1,57 @@
+name: Ulthwé
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: Foresight of the Damned
+    changes:
+      - key: system.combat.passiveAwareness.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: rcWeUhQQVnsT9oq6
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!Mq43V5TohttWEm5g.rcWeUhQQVnsT9oq6'
+folder: 16S9xUIVnroLJhc3
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 2000000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Mq43V5TohttWEm5g
+system:
+  description: >-
+    <p>During the Fall of the Aeldari, the lamentable event that heralded the
+    birth of the Dark Prince Slaanesh, Ulthwé was caught in the pull of the Eye
+    of Terror. Here it has remained for millennia, trapped, where the Immaterium
+    intersects with realspace. They must remain vigilant, and their psychic
+    instincts have been honed by proximity to the Eye of Terror and the peril it
+    presents.</p><p><strong>FORESIGHT OF THE DAMNED:</strong> You increase your
+    Passive Perception by +Rank.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699479568268
+  modifiedTime: 1710530525648
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: Mq43V5TohttWEm5g
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Mq43V5TohttWEm5g'

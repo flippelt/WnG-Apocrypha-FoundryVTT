@@ -1,0 +1,80 @@
+folder: fgtFfRbmshJ8KM1n
+name: The Enemy Within
+type: ability
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>While disguised, you gain +Rank bonus dice on all Deception tests to pass
+    as an Imperial citizen. When no longer disguised, you gain +Rank bonus dice
+    on all Interaction Attacks against @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIAL}
+    characters.</p><p>In addition, you gain 1d3 Corruption.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/chaos.webp
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: wd8lhlAmOGv76z3h
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: Aura of Change
+    description: ''
+    statuses: []
+    _key: '!items.effects!k7e28IcazWJfDi5v.wd8lhlAmOGv76z3h'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.YRdgxzjNSb55HtIW
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665768658733
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: k7e28IcazWJfDi5v
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!k7e28IcazWJfDi5v'

@@ -1,0 +1,106 @@
+name: Divine Shot
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Divine Shot
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.extra'
+    _id: VsUOB27H3aowU5OE
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!Z7dkiX2ptixEgkiV.VsUOB27H3aowU5OE'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.Z7dkiX2ptixEgkiV
+system:
+  dn: '@combat.defence.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Using this power enables you to make nearly impossible ranged shots,
+    allowing you to strike virtually any target you can perceive. You
+    concentrate on a single firearm or other projectile weapon in your
+    possession, and the ammunition it carries, before casting your psychic gaze
+    into the Warp to search down the near-infinite paths of the
+    future.</p><p>When you use this power, choose a single ranged weapon you’re
+    carrying, which has ammunition. You fire a single shot from this weapon
+    against a single target—no multitargets allowed—which hits instantly if the
+    power is successfully used, at any distance up to the weapon’s normal
+    maximum range.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The attack inflicts +1ED.
+      cost: 1
+      property: extra
+      initial: ''
+      value: 1
+      single: false
+    - description: 'One ED from the attack counts as if it had rolled a 6. '
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: Z7dkiX2ptixEgkiV
+folder: cadR4fAXVAvR66ps
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247366
+  modifiedTime: 1711982362814
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Z7dkiX2ptixEgkiV'

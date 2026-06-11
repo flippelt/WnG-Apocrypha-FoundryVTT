@@ -1,0 +1,64 @@
+folder: ZMoR03HW5eXVf9E1
+name: Lightning-Fast Reactions
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Aeldari or Drukhari species
+  description: >-
+    <p>The Aeldari process thought and emotion far faster than a human, and
+    their physical reactions are so quick that they can slip past flickering
+    blades and fusillades of gunfire with astonishing ease.<br>When you are
+    targeted by a ranged or melee attack, you may spend 1 Glory as a
+    Reflexive&nbsp; Action to increase your Defence by +Double Rank until the
+    start of your next turn.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 7
+        value: '@advances.rank*2'
+        priority: null
+    _id: cXoHMtDzt8OyjPFB
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Lightning-Fast Reactions
+    name: Lightning-Fast Reactions
+    description: ''
+    statuses: []
+    _key: '!items.effects!zKejdCtfSxAA1chg.cXoHMtDzt8OyjPFB'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0AgvIx07R1REmZWO
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664022314070
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: zKejdCtfSxAA1chg
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 11100000
+_key: '!items!zKejdCtfSxAA1chg'

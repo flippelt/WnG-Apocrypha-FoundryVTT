@@ -1,0 +1,59 @@
+name: Excruciator Maul
+type: weapon
+_id: eNE54KX6hOLHr93W
+img: modules/wng-core/assets/icons/weapons/shock-maul.webp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p>These heavy-duty weapons are potent, high-powered versions of shock
+    mauls, employed by the Adeptus Arbites. Their powerful shock fields and
+    heavy impacts can deliver debilitating strikes even to resilient or armoured
+    foes.</p>
+  value: 6
+  keywords: EXOTIC, ADEPTUS ARBITES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: brutal
+  upgrades: []
+effects: []
+folder: QMfRKhIFUOHoAFXu
+sort: 300000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709845309077
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!eNE54KX6hOLHr93W'

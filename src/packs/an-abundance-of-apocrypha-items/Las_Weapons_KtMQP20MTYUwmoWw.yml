@@ -1,0 +1,16 @@
+name: Las Weapons
+sorting: a
+folder: rJGVtdSHyv2ZHnXR
+type: Item
+_id: KtMQP20MTYUwmoWw
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709901752483
+  modifiedTime: 1710451653357
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!KtMQP20MTYUwmoWw'

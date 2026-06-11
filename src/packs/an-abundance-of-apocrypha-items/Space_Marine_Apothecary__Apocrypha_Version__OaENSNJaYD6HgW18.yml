@@ -1,0 +1,177 @@
+folder: j5mcT1m1I7srvO3E
+name: Space Marine Apothecary (Apocrypha Version)
+type: archetype
+_id: OaENSNJaYD6HgW18
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 2
+  cost: 276
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 4
+    initiative: 5
+    willpower: 3
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 3
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: 4
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: null
+    survival: 3
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Guard Thy Brethren
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qizxF6md6L6pX571
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: TNQHjh3pT8X7DXIq
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 2
+      groupId: cUCXToMhiGacL2wF
+    - name: Astartes Chainsword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cl2SkggR4PWY2pxi
+      type: item
+      diff: {}
+      index: 3
+      groupId: 9yuRDOoWPguFntut
+    - name: Narthecium
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.FnfADO0uOdin1YzG
+      type: item
+      diff: {}
+      index: 4
+      groupId: x3fWRqCh6lWxejuu
+    - name: Reductor
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.guA3KHcdxqlTzvIJ
+      type: item
+      diff: {}
+      index: 5
+      groupId: ZRxC1DR4LbAe938o
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: 7yF6QOUMz6X5AjZZ
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 7
+      groupId: V0GLKom4zaLGwqAf
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: TNQHjh3pT8X7DXIq
+      - index: 2
+        type: item
+        groupId: cUCXToMhiGacL2wF
+      - index: 3
+        type: item
+        groupId: 9yuRDOoWPguFntut
+      - index: 4
+        type: item
+        groupId: x3fWRqCh6lWxejuu
+      - index: 5
+        type: item
+        groupId: ZRxC1DR4LbAe938o
+      - index: 6
+        type: item
+        groupId: 7yF6QOUMz6X5AjZZ
+      - index: 7
+        type: item
+        groupId: V0GLKom4zaLGwqAf
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: 26UYjRZ4VBoL1EyC
+        name: Blood Must Flow!
+      - id: HYuKXdU1r5yNyRU1
+        name: Die Hard
+      - id: PWsQWzWvYeyAm0IV
+        name: And They Shall Know No Fear
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710699667870
+  modifiedTime: 1710700103395
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!OaENSNJaYD6HgW18'

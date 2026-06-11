@@ -1,0 +1,38 @@
+name: Accept any Challenge, No Matter the Odds [Vow]
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+effects: []
+folder: ZMoR03HW5eXVf9E1
+flags:
+  cf: null
+  core: {}
+system:
+  effect: ''
+  cost: 20
+  requirements: ''
+  description: >-
+    <p>You cannot rest while the enemy remains breathing.</p>
+
+    <p>When you&rsquo;re engaged with an enemy, add +Rank bonus dice to your
+    melee attacks, and improve the AP of your melee weapons by 1.</p>
+
+    <p>However, you may not Fall Back.</p>
+
+    <p>You may only have one Vow talent. During downtime, you may replace this
+    talent with any other @Item[d3vDOtbmIhagzSuf]{BLACK TEMPLARS} talent marked
+    as a Vow.&nbsp;</p>
+  display: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663790169811
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: kmqdAvyeGxlzj7uK
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!kmqdAvyeGxlzj7uK'

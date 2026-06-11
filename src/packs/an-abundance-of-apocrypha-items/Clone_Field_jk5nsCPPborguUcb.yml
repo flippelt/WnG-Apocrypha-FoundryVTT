@@ -1,0 +1,55 @@
+name: Clone Field
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-armour.Item.jk5nsCPPborguUcb
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A form of defensive field used by powerful Dark
+    Eldar, Clone Fields provide no physical protection, but deceive enemies by
+    generating realistic holographic simulacra of the wearer which deceive
+    attackers. Until the moment a shot or blade makes contact, it is impossible
+    to know if an attack is at the intended target or merely a
+    duplicate.</span></p><p></p><p><span class="fontstyle0">A Clone Field cannot
+    be worn with </span><span class="fontstyle2">FORCE FIELD </span><span
+    class="fontstyle0">armour, as energy fields disrupt the holographic
+    decoys.</span></p><p></p><p><span class="fontstyle2"
+    style="color:rgb(0,0,0);">Armour Rating: </span><span
+    class="fontstyle0">0</span></p><p></p><p><span class="fontstyle2"
+    style="color:rgb(0,0,0);"><strong>Deceptive Defence</strong>: </span><span
+    class="fontstyle0">Whenever you are attacked while wearing a Clone Field,
+    roll a d6. On an Icon, the attack is considered to have missed. This has no
+    effect against Blasts or area effect attacks.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: HOLOGRAM, DRUKHARI
+  equipped: false
+  rating: 0
+  base: 0
+  traits: []
+  invulnerable: false
+_id: jk5nsCPPborguUcb
+folder: 2ql45FnLafOhbldn
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090215634
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!jk5nsCPPborguUcb'

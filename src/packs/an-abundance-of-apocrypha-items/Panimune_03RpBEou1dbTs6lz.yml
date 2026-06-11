@@ -1,0 +1,77 @@
+name: Panimune
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Panimune
+    _id: W5rDQcbZ1dYKxG0Y
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '3'
+        priority: null
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Toughness test to resist poisons, diseases, and other
+              environmental effects
+            hide: ''
+    tint: null
+    _key: '!items.effects!03RpBEou1dbTs6lz.W5rDQcbZ1dYKxG0Y'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.03RpBEou1dbTs6lz
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">This highly potent medicinal compound serves to
+    greatly enhance resistance to most forms of toxins, contaminants,
+    microorganisms, and infection for several hours, though repeated use can
+    have dangerous side effects.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A dose of Panimune provides +3 bonus dice on all
+    Toughness tests to resist poisons, diseases, and other environmental effects
+    for [[/r 1d3+2]] hours. After the dose expires, the user is </span><span
+    class="fontstyle3">Exhausted </span><span class="fontstyle0">until their
+    next Regroup. A new dose before the next Regroup will negate the
+    </span><span class="fontstyle3">Exhausted </span><span
+    class="fontstyle0">condition, but it will also inflict [[/r 1d3]] Shock, +1
+    for each subsequent dose.</span> </p>
+  value: 5
+  keywords: COMBAT DRUGS, IMPERIUM, SCUM
+  effect: ''
+_id: 03RpBEou1dbTs6lz
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099191
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 100000
+_key: '!items!03RpBEou1dbTs6lz'

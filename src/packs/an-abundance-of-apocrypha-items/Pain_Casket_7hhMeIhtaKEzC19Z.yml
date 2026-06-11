@@ -1,0 +1,48 @@
+name: Pain Casket
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-equipment.Item.7hhMeIhtaKEzC19Z
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">These psychoreactive devices, made of tortured
+    wraithbone, draw in the pain and dread felt by those nearby, and can be
+    drawn out by any who need it.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Add one Pain point to the Casket whenever an enemy does
+    one of the following within 12 metres: a character suffers three or more
+    Wounds from a single attack, you affect an enemy with an Intimidation
+    interaction attack, a character fails a Resolve test, a character becomes
+    Exhausted. Drukhari within 6 metres of the Casket may, as a Simple Action,
+    draw a Pain point from the Casket to either recover [[/r 1d3]] Shock or to
+    count towards the </span><span class="fontstyle3">Power Through Pain
+    </span><span class="fontstyle0">talent.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: DRUKHARI
+  effect: ''
+_id: 7hhMeIhtaKEzC19Z
+folder: YE4cu9ZzWq56Kg8c
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257325033
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!7hhMeIhtaKEzC19Z'

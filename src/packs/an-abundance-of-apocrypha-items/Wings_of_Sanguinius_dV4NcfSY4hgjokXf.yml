@@ -1,0 +1,72 @@
+name: Wings of Sanguinius
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.dV4NcfSY4hgjokXf
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Blood-red wings of psychic energy spring from your back, allowing you to
+    soar across the battlefield like an avenging angel. You gain the ability to
+    fly, with a speed equal to your normal speed plus your Psychic Mastery
+    skill. You may immediately move as part of the action used to manifest this
+    psychic power.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: BLOOD ANGELS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Flying Speed increases by +1
+      cost: 1
+      property: fly
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: dV4NcfSY4hgjokXf
+folder: JwusfIy0j2Cyghui
+sort: 175000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959302
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!dV4NcfSY4hgjokXf'

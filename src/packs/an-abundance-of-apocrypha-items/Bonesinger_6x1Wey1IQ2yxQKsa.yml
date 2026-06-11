@@ -1,0 +1,146 @@
+folder: GHP0SxnnlNKFusRJ
+name: Bonesinger
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 72
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - PSYKER
+  attributes:
+    strength: null
+    toughness: null
+    agility: 3
+    initiative: null
+    willpower: 4
+    intellect: 4
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 2
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: null
+  ability:
+    name: Path of the Shaper
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0HAo5IXcsRHZeKSV
+  wargear:
+    - name: Rune Armour
+      id: Compendium.wng-core.items.Item.Uw7TmKSZfG0PFiKu
+      type: item
+      diff: {}
+      index: 0
+      groupId: TRUENMo0VOEPvZ6L
+    - name: Psytronome Shaper
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.NRKvIJ5ySZ5pSK9t
+      type: item
+      diff: {}
+      index: 1
+      groupId: UhuXcESUd7q4OZGr
+    - type: generic
+      name: A set of wraithbone runes
+      filters: []
+      index: 2
+      groupId: 8Ovp7DqY2uRjkYbI
+    - name: Bonesinger Shard
+      id: Compendium.wng-core.items.Item.ZpcMcMduGreD2T02
+      type: item
+      diff: {}
+      index: 3
+      groupId: hi4fEANQypkdNINC
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: TRUENMo0VOEPvZ6L
+      - index: 1
+        type: item
+        groupId: UhuXcESUd7q4OZGr
+      - type: item
+        index: 2
+        groupId: 8Ovp7DqY2uRjkYbI
+      - index: 3
+        type: item
+        groupId: hi4fEANQypkdNINC
+      - index: 4
+        type: item
+        groupId: UGz6xofVDTusZiyx
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 3
+      initiative: 3
+      willpower: 6
+      intellect: 4
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: 2
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: 3
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: null
+    talents: []
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.vGZbbN3g5ePuP0if
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699731678403
+  modifiedTime: 1710605446967
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6x1Wey1IQ2yxQKsa
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 200000
+_key: '!items!6x1Wey1IQ2yxQKsa'

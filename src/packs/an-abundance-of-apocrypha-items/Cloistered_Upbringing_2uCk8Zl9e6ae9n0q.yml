@@ -1,0 +1,88 @@
+name: Cloistered Upbringing
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: FORJDj8zvvFbCGzC
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              +2DN on all non-hostile Interaction tests made when dealing with
+              characters who have the  SCUM keyword.
+    tint: null
+    origin: null
+    name: Cloistered Upbringing
+    description: ''
+    statuses: []
+    _key: '!items.effects!2uCk8Zl9e6ae9n0q.FORJDj8zvvFbCGzC'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core: {}
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Progena have little patience for, or understanding of, the dregs of
+    society. The character
+    suffers&nbsp;+2DN&nbsp;on&nbsp;all&nbsp;non-hostile&nbsp;Interaction tests
+    made when&nbsp;dealing with characters who have&nbsp;the
+    @Item[qb0rybF2RrcWP7e9]{SCUM} keyword.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056948
+  modifiedTime: 1710190653641
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 2uCk8Zl9e6ae9n0q
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!2uCk8Zl9e6ae9n0q'

@@ -1,0 +1,73 @@
+name: Engulfing Fear
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.FszZr1Id8FiC1c7N
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You inveigle your way into the minds of your foes. Subtly, you twist and
+    heighten their fears. While this power remains in effect, all enemies within
+    range treat all 6s on Resolve tests as 1s.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: DARK ANGELS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        Enemies within range must also take a Fear test (DN 5), treating you as
+        the source of their fear.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: 5
+    type: resolve
+    specification: fear
+_id: FszZr1Id8FiC1c7N
+folder: F3gTmYP6wHlaqWQF
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959255
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!FszZr1Id8FiC1c7N'

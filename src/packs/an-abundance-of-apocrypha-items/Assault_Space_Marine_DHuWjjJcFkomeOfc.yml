@@ -1,0 +1,166 @@
+folder: j5mcT1m1I7srvO3E
+name: Assault Space Marine
+type: archetype
+_id: DHuWjjJcFkomeOfc
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 1
+  cost: 270
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 3
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 4
+    psychicMastery: null
+    scholar: 1
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 4
+  ability:
+    name: Hammer of Wrath
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3hKSHl3RK1SCaLOX
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: q74LevlBxFWcdnm3
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 2
+      groupId: dBR0YyiWspuMTUdR
+    - name: Astartes Chainsword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cl2SkggR4PWY2pxi
+      type: item
+      diff: {}
+      index: 3
+      groupId: NCLk9XJpZsZ2v5ds
+    - name: Jump Pack
+      id: Compendium.wng-core.items.Item.fYcfZQb8Um0jf6mK
+      type: item
+      diff: {}
+      index: 4
+      groupId: 1CnUKcY4N5wUZEvT
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: QPgIvtxJ8YYs2t3M
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: ZfKiEFUpht5NMI6R
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: q74LevlBxFWcdnm3
+      - index: 2
+        type: item
+        groupId: dBR0YyiWspuMTUdR
+      - index: 3
+        type: item
+        groupId: NCLk9XJpZsZ2v5ds
+      - index: 4
+        type: item
+        groupId: 1CnUKcY4N5wUZEvT
+      - index: 5
+        type: item
+        groupId: QPgIvtxJ8YYs2t3M
+      - index: 6
+        type: item
+        groupId: ZfKiEFUpht5NMI6R
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: PWsQWzWvYeyAm0IV
+        name: And They Shall Know No Fear
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710619373030
+  modifiedTime: 1710620099677
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!DHuWjjJcFkomeOfc'

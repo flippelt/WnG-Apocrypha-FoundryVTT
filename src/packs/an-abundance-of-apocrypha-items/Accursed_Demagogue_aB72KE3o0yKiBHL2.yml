@@ -1,0 +1,100 @@
+folder: fgtFfRbmshJ8KM1n
+name: Accursed Demagogue
+type: ability
+_id: aB72KE3o0yKiBHL2
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You, and all allies with the CHAOS keyword within 15+Rank metres add
+    +Rank to Resolve. This increases to +Double Rank if they share your [MARK OF
+    CHAOS] or [LEGION] keyword. </p><p>In addition, you gain 1d3x4 Corruption
+    when you select this Archetype.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/chaos.webp
+    name: Accursed Demagogue (NOT Share [MARK OF CHAOS]/[LEGION])
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: 5H5KbzxHDkPNiaDF
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!aB72KE3o0yKiBHL2.5H5KbzxHDkPNiaDF'
+  - icon: modules/wng-core/assets/icons/abilities/chaos.webp
+    name: Accursed Demagogue (Share [MARK OF CHAOS]/[LEGION])
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank * 2'
+    _id: koFZOIQEsTPvfOQ6
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!aB72KE3o0yKiBHL2.koFZOIQEsTPvfOQ6'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710702450736
+  modifiedTime: 1710702638121
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!aB72KE3o0yKiBHL2'

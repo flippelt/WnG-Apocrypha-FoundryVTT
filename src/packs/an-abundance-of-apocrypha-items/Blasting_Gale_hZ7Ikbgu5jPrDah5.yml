@@ -1,0 +1,175 @@
+name: Blasting Gale
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Staggered
+    icon: systems/wrath-and-glory/asset/icons/conditions/staggered.svg
+    changes:
+      - key: system.combat.speed
+        mode: 1
+        value: '0.5'
+        priority: null
+    statuses:
+      - staggered
+    _id: UPPuu4sYOHZ3YyXf
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!hZ7Ikbgu5jPrDah5.UPPuu4sYOHZ3YyXf'
+  - name: Prone
+    icon: systems/wrath-and-glory/asset/icons/conditions/prone.svg
+    statuses:
+      - prone
+    _id: X71YQ2G2xAWEg1wd
+    changes: []
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!hZ7Ikbgu5jPrDah5.X71YQ2G2xAWEg1wd'
+  - name: Hindered
+    icon: systems/wrath-and-glory/asset/icons/conditions/hindered.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '1'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - hindered
+    _id: gVoERIdvxaTkSgUD
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    _key: '!items.effects!hZ7Ikbgu5jPrDah5.gVoERIdvxaTkSgUD'
+  - name: Vulnerable
+    icon: systems/wrath-and-glory/asset/icons/conditions/vulnerable.svg
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '-1'
+        priority: null
+    statuses:
+      - vulnerable
+    _id: QdIVjJ9FPdRtlgSk
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!hZ7Ikbgu5jPrDah5.QdIVjJ9FPdRtlgSk'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.hZ7Ikbgu5jPrDah5
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You call up a screaming windstorm to assail the foe. It is all your
+    victims can do to stand their ground without being torn from their feet, let
+    alone press forwards into battle. The power affects all creatures in a Blast
+    (6) within range. Affected targets are Staggered until the start of your
+    next turn.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: WHITE SCARS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: 'Targets are also knocked Prone. '
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: 'Targets are also Hindered or Vulnerable. '
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: hZ7Ikbgu5jPrDah5
+folder: oNn2KKV41u8YG29i
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959305
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!hZ7Ikbgu5jPrDah5'

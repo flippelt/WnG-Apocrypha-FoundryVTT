@@ -1,0 +1,107 @@
+name: Aversion
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Hindered
+    icon: systems/wrath-and-glory/asset/icons/conditions/hindered.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '1'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - hindered
+    _id: P4nzHU1C2YLjhkzy
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    _key: '!items.effects!Hhnp1YSqaLOl4YyC.P4nzHU1C2YLjhkzy'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.Hhnp1YSqaLOl4YyC
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You send waves of cold fear washing outwards. The foe finds themselves
+    unable to focus upon you, their subconscious screaming at them to look away
+    for fear of what they will see. The power affects all creatures in a Blast
+    (6) within range. Affected targets are Hindered until the start of the
+    Librarian’s next turn.</p>
+  effect: ''
+  cost: 8
+  activation: action
+  duration: 1 Round
+  range: 50m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: DARK ANGELS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: ' Increase Hindered effect by +1.'
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Increase the area of effect to a Blast (10).
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: Hhnp1YSqaLOl4YyC
+folder: F3gTmYP6wHlaqWQF
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959252
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Hhnp1YSqaLOl4YyC'

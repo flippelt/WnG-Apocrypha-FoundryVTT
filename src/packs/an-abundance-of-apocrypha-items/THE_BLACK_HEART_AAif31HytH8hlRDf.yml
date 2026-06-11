@@ -1,0 +1,72 @@
+folder: uVCzkHxBngQT0TMo
+name: THE BLACK HEART
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: ''
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: uM5wrPmEVW1vLHA2
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: THE BLACK HEART
+    description: ''
+    statuses: []
+    _key: '!items.effects!AAif31HytH8hlRDf.uM5wrPmEVW1vLHA2'
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: xEZU1pwfvLwmBivx
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: THE BLACK HEART
+    description: ''
+    statuses: []
+    _key: '!items.effects!AAif31HytH8hlRDf.xEZU1pwfvLwmBivx'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.AAif31HytH8hlRDf
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: AAif31HytH8hlRDf
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!AAif31HytH8hlRDf'

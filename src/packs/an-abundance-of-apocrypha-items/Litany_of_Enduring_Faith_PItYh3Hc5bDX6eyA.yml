@@ -1,0 +1,91 @@
+name: Litany of Enduring Faith
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + ADEPTA SORORITAS, not CHAOS
+  description: >-
+    <p><span class="fontstyle0">Faith is the shield of the righteous, and the
+    passionate chants of the devout can reinforce the benediction of the
+    God-Emperor.</span></p><p></p><p><span class="fontstyle0">Only </span><span
+    class="fontstyle2">PRIESTS </span><span class="fontstyle0">with the
+    </span><span class="fontstyle2">ADEPTA SORORITAS </span><span
+    class="fontstyle0">keyword may purchase this
+    Prayer.</span></p><p></p><p><span class="fontstyle2"
+    style="color:rgb(0,0,0);"><strong>Effect</strong>: </span><span
+    class="fontstyle0">If this Prayer is successful, you and all </span><span
+    class="fontstyle2">IMPERIUM </span><span class="fontstyle0">characters
+    within 12m of you add +2 to Resilience.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Litany of Enduring Faith
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: 15aQsbbVClB1Xyh2
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!PItYh3Hc5bDX6eyA.15aQsbbVClB1Xyh2'
+folder: AUFZA6KODKn4d1ad
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags:
+  core:
+    sourceId: Item.AJMskXQD81UT7c1M
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: PItYh3Hc5bDX6eyA
+_key: '!items!PItYh3Hc5bDX6eyA'

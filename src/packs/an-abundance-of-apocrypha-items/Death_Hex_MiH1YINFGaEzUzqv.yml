@@ -1,0 +1,101 @@
+name: Death Hex
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Death Hex
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@test.result.res'
+        priority: null
+    _id: AADBJpZJkzC2rtZu
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!MiH1YINFGaEzUzqv.AADBJpZJkzC2rtZu'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.MiH1YINFGaEzUzqv
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You place a dire hex upon your foes. Wards and shields flicker and fail,
+    leaving the foe exposed. The power affects all enemies in a Blast (6) within
+    range. Affected enemies may not roll Determination until the start of the
+    Sorcerer’s next turn.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: HERETIC ASTARTES, CHAOS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The area affected is a Blast (10)
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: ' -1 Resilience to the affected enemies.'
+      cost: 1
+      property: res
+      initial: ''
+      value: -1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: MiH1YINFGaEzUzqv
+folder: 62AZxr813CAe5Qug
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686518992
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!MiH1YINFGaEzUzqv'

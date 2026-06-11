@@ -1,0 +1,92 @@
+name: THOUSAND SONS
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/thousand-sons-white.png
+effects:
+  - icon: modules/wng-apocrypha/assets/images/factions/thousand-sons-white.png
+    name: Gift of Mutation
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    _id: O72xm2LWv1ToDNK2
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: resist Corruption or Malignancy by +1
+            hide: ''
+    tint: null
+    _key: '!items.effects!RIsGqL3BOaxv7OXD.O72xm2LWv1ToDNK2'
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RIsGqL3BOaxv7OXD
+system:
+  description: >-
+    <p>A Legion of psykers, being sanctioned by the Emperor for their reckless
+    use of sorcery when the Heresy broke out, it was inevitable that the
+    Thousand Sons turned to Horus after the Space Wolves sacked and razed their
+    homeworld. Always a legion of scholars and savants, knowledge was at the
+    heart of the Thousand Sons&rsquo; existence, but they were punished for
+    delving too deeply in lore that was forbidden, and in their desperation,
+    they found a patron in Tzeentch. However, the instability of their geneseed
+    made mutation rife amongst the Legion, and devotion to the Changer of Ways
+    made this worse, leading the Legion&rsquo;s Chief Librarian, Ahriman, to
+    perform a great ritual to burn this flaw from his brethren. This ritual led
+    to all those with psychic power becoming mightier, but turned the rest of
+    the Legion into automata, their bodies turned to dust within their
+    armour.</p>
+
+    <p>These rules reflect those who possess psychic abilities, rather than the
+    Rubricae automata that accompany them into battle.</p>
+
+    <p>Characters with the @Item[RIsGqL3BOaxv7OXD]{THOUSAND SONS} keyword must
+    take @Item[fR1jOMfYimktU1bl]{TZEENTCH} as their
+    @Item[TXRdb9GJ55fjSODX]{[MARK OF CHAOS]} keyword.&nbsp;</p>
+
+    <h5>The Rubric</h5>
+
+    <p>A Thousand Sons are legendary for their mastery of warp-craft.</p>
+
+    <p>You gain the Favoured By The Warp talent.</p>
+
+    <h5>Gift of Mutation (Gene-Seed)</h5>
+
+    <p>Between your unstable gene-seed and the attentions of the Changer of
+    Ways, the Thousand Sons are especially prone to mutation.</p>
+
+    <p>You gain an additional +1 Corruption whenever you would gain one or more
+    Corruption points. You also increase the DN of all tests to resist
+    Corruption or Malignancy by +1.</p>
+
+    <h5>&nbsp;</h5>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056377
+  modifiedTime: 1710524556393
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: RIsGqL3BOaxv7OXD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!RIsGqL3BOaxv7OXD'

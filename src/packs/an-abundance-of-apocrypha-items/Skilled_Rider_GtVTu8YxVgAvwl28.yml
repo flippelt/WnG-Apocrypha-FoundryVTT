@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Skilled Rider
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Shining Spear aspect, Pilot rating 7+
+  description: >-
+    <p>You control your jetbike with effortless ease, dodging and weaving
+    between incoming attacks like a leaf caught in a summer’s breeze. You gain
+    an automatic Exalted Icon on all Pilot tests to operate an Aeldari
+    Jetbike.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GtVTu8YxVgAvwl28
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700067435630
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: GtVTu8YxVgAvwl28
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!GtVTu8YxVgAvwl28'

@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Maglev Transcendence
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ADEPTUS MECHANICUS keyword, CULT MECHANICUS keyword, Maglev Coils augmetic
+  description: >-
+    <p>You have proven your devotion to the Machine God by expanding the network
+    of gravitic and magnetic coils throughout your flesh, allowing you to defy
+    gravity more easily.&nbsp;<br>You may now run and sprint while using your
+    Maglev Coils to fly, and your flying speed is increased to twice your
+    Willpower.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MKykKzll0ZPAT2iW
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664023014002
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: MKykKzll0ZPAT2iW
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 4800000
+_key: '!items!MKykKzll0ZPAT2iW'

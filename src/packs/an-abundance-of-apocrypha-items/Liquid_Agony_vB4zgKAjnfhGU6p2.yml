@@ -1,0 +1,48 @@
+name: Liquid Agony
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.vB4zgKAjnfhGU6p2
+system:
+  description: >-
+    <p><span class="fontstyle0">Popular amongst nobles of the Kabal of the
+    Splintered Talon involved in realspace raids against particularly valuable
+    targets and those fighting rivals at home alike, Liquid Agony is a potent
+    neurotoxin that amplifies nerve conductivity to extreme levels, turning even
+    the weight of clothing and the caress of the air into torturous sensations.
+    Some Drukhari in the depths of Commorragh imbibe tiny quantities of Liquid
+    Agony to heighten the sensations they experience, but overdoses are all too
+    common and leave the wretched beings in a state of perpetual agony just long
+    enough for a hungry soul to find the source of the screams and drink deep of
+    the self-inflicted pain.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The target’s senses are overwhelmed with pain while
+    </span><span class="fontstyle3">Poisoned</span><span class="fontstyle0">;
+    the character suffers 1d3 Shock at the start of each of their turns, and
+    doubles the amount of Shock they suffer from other sources</span>.</p>
+  effect: ''
+  value: 7
+  rarity: rare
+  keywords: DRUKHARI, TOXIN
+  traits: []
+_id: vB4zgKAjnfhGU6p2
+folder: 6ntRjpS1Ry0pU1f7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483272
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 101563
+_key: '!items!vB4zgKAjnfhGU6p2'

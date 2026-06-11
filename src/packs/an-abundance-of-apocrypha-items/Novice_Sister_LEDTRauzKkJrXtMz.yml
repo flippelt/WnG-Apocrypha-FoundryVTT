@@ -1,0 +1,144 @@
+folder: UOxNDZhYcJR8ilND
+name: Novice-Sister
+type: archetype
+_id: LEDTRauzKkJrXtMz
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Pariah
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.M1Yy7gqMIn7GZedz
+  faction:
+    name: Anathema Psykana
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GNDYdmsAVe5nOuPX
+  influence: 1
+  cost: 54
+  keywords:
+    - IMPERIUM
+    - ANATHEMA PSYKANA
+    - ADEPTUS ASTRA TELEPATHICA
+    - TALONS OF THE EMPEROR
+  attributes:
+    strength: null
+    toughness: null
+    agility: 3
+    initiative: 3
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 1
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Proloquor
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Eff9N4Ar7Ah4Ead0
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Mesh Armour
+      id: Compendium.wng-core.items.Item.Gkvz8V1xP8wrBBk8
+      type: item
+      diff: {}
+      index: 1
+      groupId: 4a3ssEPrQRHHeAQF
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 2
+      groupId: HBr2Hraavg5y4aYK
+    - name: Boltgun
+      id: Compendium.wng-core.items.Item.I7yC0O7DawbOznUf
+      type: item
+      diff: {}
+      index: 3
+      groupId: iweTlLiek6Y5zDuI
+    - name: Vox-Bead
+      id: Compendium.wng-core.items.Item.4LJKqbl1WR6Qcxd8
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 4a3ssEPrQRHHeAQF
+      - index: 2
+        type: item
+        groupId: HBr2Hraavg5y4aYK
+      - index: 3
+        type: item
+        groupId: iweTlLiek6Y5zDuI
+      - index: 4
+        type: item
+        groupId: 8JS0Gfe0TUsedIBy
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 4
+      initiative: 4
+      willpower: 4
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: 1
+      awareness: 3
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 2
+      leadership: null
+      medicae: null
+      persuasion: 2
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: 1
+      survival: 1
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+      - id: KblllCqaUDvYbDGT
+        name: Anathema
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710611321118
+  modifiedTime: 1710611865818
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!LEDTRauzKkJrXtMz'

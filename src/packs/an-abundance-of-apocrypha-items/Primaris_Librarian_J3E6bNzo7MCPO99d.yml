@@ -1,0 +1,166 @@
+folder: j5mcT1m1I7srvO3E
+name: Primaris Librarian
+type: archetype
+_id: J3E6bNzo7MCPO99d
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: Compendium.wng-core.items.Item.cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 2
+  cost: 375
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+    - PRIMARIS
+    - PSYKER
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 6
+    intellect: 4
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 4
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 1
+    investigation: null
+    leadership: 1
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 4
+    scholar: 3
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 4
+  ability:
+    name: Psyker
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1yhDwAyqcV4xNYkC
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Tacticus Mk X
+      id: Compendium.wng-core.items.Item.5KNMzZhCTuvCfRHf
+      type: item
+      diff: {}
+      index: 1
+      groupId: HEWrvhujbdTNSJZY
+    - name: Force Sword
+      id: Compendium.wng-core.items.Item.XPRqv1H7YPNQggeG
+      type: item
+      diff: {}
+      index: 2
+      groupId: znP4aY0ppHSVAIHf
+    - name: Psychic Hood
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.v1EY9Y15U2RSvKR8
+      type: item
+      diff: {}
+      index: 3
+      groupId: jaNlUCJF9zKMcN0e
+    - name: Heavy Bolt Pistol
+      id: Compendium.wng-core.items.Item.piwPtkisOSeJ47HV
+      type: item
+      diff: {}
+      index: 4
+      groupId: T8pypjj53ouoPJ7e
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          description: >-
+            <p>Compact, easily manufactured, and so simple even the most
+            disconnected feral worlder can use them; frag grenades are the
+            anti-personnel explosive of choice across the Imperium.</p>
+          quantity: 3
+      index: 5
+      groupId: v8zmesIX6VSClnVR
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: wWJFBo4SaIKkeI48
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: HEWrvhujbdTNSJZY
+      - index: 2
+        type: item
+        groupId: znP4aY0ppHSVAIHf
+      - index: 3
+        type: item
+        groupId: jaNlUCJF9zKMcN0e
+      - index: 4
+        type: item
+        groupId: T8pypjj53ouoPJ7e
+      - index: 5
+        type: item
+        groupId: v8zmesIX6VSClnVR
+      - index: 6
+        type: item
+        groupId: wWJFBo4SaIKkeI48
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710720288060
+  modifiedTime: 1710720410620
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!J3E6bNzo7MCPO99d'

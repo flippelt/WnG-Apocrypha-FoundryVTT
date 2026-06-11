@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Master Artisan
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 15
+  requirements: SALAMANDERS keyword
+  description: >-
+    <p>The Salamanders are craftsmen of renown, and their weapons are crafted
+    and maintained to an exceptional standard.<br>Whenever you make an attack
+    with one of your own weapons (i.e., any weapon with which you began the
+    current adventure), you may re-roll up to Rank dice on the attack.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Qtckj3EgzLQH3gcl
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664022965262
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: Qtckj3EgzLQH3gcl
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6600000
+_key: '!items!Qtckj3EgzLQH3gcl'

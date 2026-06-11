@@ -1,0 +1,181 @@
+folder: TjaiqnhWJoTjLCJ9
+name: Black Sentinel
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Astra Telepathica
+    id: Item.0S2DAp9Gyrgk4gSV
+  influence: 0
+  cost: 80
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTRA TELEPATHICA
+  attributes:
+    strength: null
+    toughness: 3
+    agility: 2
+    initiative: 3
+    willpower: 4
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 3
+    ballisticSkill: 3
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Witch-Guard
+    id: Item.Sv1przQQYmW5EYHd
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Lasgun
+      id: Item.fPgdC7ur85iRGKgh
+      type: item
+      diff: {}
+      index: 1
+      groupId: Nthpz5ieZi1uAGoT
+    - name: Shock Maul
+      id: Item.wSJOv4Sre6LbqbBF
+      type: item
+      diff: {}
+      index: 2
+      groupId: Xw4QTyOSiYauyHnI
+    - name: Flak Armour
+      id: Item.fLx8DzWDgWDZIMSK
+      type: item
+      diff: {}
+      index: 3
+      groupId: 61cKXjMeivM8HOPo
+    - name: Hexagrammic Wards
+      id: Item.djY9xnFJIXXZ76hP
+      type: item
+      diff: {}
+      index: 4
+      groupId: el7ne657RDwtbaUr
+    - type: generic
+      name: clothing (uniform)
+      filters: []
+      index: 5
+      groupId: Yp0Y6I7qN9KRy9sM
+    - type: generic
+      name: blanket
+      filters: []
+      index: 6
+      groupId: OgNbG0l8RSqSaTf7
+    - type: generic
+      name: grooming kit
+      filters: []
+      index: 7
+      groupId: Nf9H7b5e9yCcCA3Q
+    - name: Ration Packs
+      id: Item.vsjZCbjBNivbeUhk
+      type: item
+      diff: {}
+      index: 8
+      groupId: hCEnenTMUvaKFaa2
+    - name: Ration Packs
+      id: Item.vsjZCbjBNivbeUhk
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: Nthpz5ieZi1uAGoT
+      - index: 2
+        type: item
+        groupId: Xw4QTyOSiYauyHnI
+      - index: 3
+        type: item
+        groupId: 61cKXjMeivM8HOPo
+      - index: 4
+        type: item
+        groupId: el7ne657RDwtbaUr
+      - type: item
+        index: 5
+        groupId: Yp0Y6I7qN9KRy9sM
+      - type: item
+        index: 6
+        groupId: OgNbG0l8RSqSaTf7
+      - type: item
+        index: 7
+        groupId: Nf9H7b5e9yCcCA3Q
+      - index: 8
+        type: item
+        groupId: hCEnenTMUvaKFaa2
+      - index: 9
+        type: item
+        groupId: rwesghdT4dPxejTR
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 3
+      initiative: 4
+      willpower: 4
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 2
+      awareness: 4
+      ballisticSkill: 4
+      cunning: null
+      deception: null
+      insight: 1
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: null
+      survival: 3
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: CVEfjd9hx4XWLuPM
+        name: Dirty Fighter
+      - id: 5HchXpu60DlodyV8
+        name: Disturbing Voice
+      - id: Cr4n0fqlBRqeY0yY
+        name: Ever Vigilant
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699560051018
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: sg5H0TZ8adNWQLoM
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!sg5H0TZ8adNWQLoM'

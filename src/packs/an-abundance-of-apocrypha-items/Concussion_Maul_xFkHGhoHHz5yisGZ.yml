@@ -1,0 +1,63 @@
+folder: 0SAPFb2VAW9K20fX
+name: Concussion Maul
+type: weapon
+img: modules/wng-core/assets/icons/weapons/shock-maul.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A larger form of concussion hammer, the concussion maul is a two-handed
+    mining tool and weapon used most often by Cthonian Berserks. The great size
+    and heft of the weapon allows it to deliver the heaviest and most punishing
+    strikes, producing intense shockwaves of pulverizing force far beyond what
+    the weapon’s own mass could create.</p>
+  value: 9
+  keywords: MASS DRIVER, 2- HANDED, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: inflict
+      rating: Staggered
+    - name: unwieldy
+      rating: 2
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709900091079
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: xFkHGhoHHz5yisGZ
+_key: '!items!xFkHGhoHHz5yisGZ'

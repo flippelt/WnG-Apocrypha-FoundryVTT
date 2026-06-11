@@ -1,0 +1,103 @@
+name: Doom
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Doom
+    changes:
+      - key: ed.bonus
+        mode: 7
+        value: '@test.result.extra'
+        priority: null
+    _id: HHw5XRHeB5nRlkzk
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!wZLXTYmOARdaj9xV.HHw5XRHeB5nRlkzk'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.wZLXTYmOARdaj9xV
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>With a simple manipulation of that which is to come, you grant a darkened
+    fate to a chosen foe. While this shadow rests upon the enemy’s soul, death
+    seeks them out above all others, and each blow or shot that comes their way
+    is rendered inescapably deadly. The power affects all enemies in a Blast (6)
+    within range. All attacks made against the affected enemies gain +3ED and
+    may re-roll any failures on the damage roll.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: 1 Round
+  range: 50m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: AELDARI, FARSEER
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The area affected is a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: +1ED
+      cost: 1
+      property: extra
+      initial: 3
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: wZLXTYmOARdaj9xV
+folder: SWCK2I9zpJkIWpsv
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742845
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!wZLXTYmOARdaj9xV'

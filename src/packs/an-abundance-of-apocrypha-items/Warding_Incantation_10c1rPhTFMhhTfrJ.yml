@@ -1,0 +1,110 @@
+name: Warding Incantation
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Warding Incantation
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@test.results.res'
+        priority: null
+    _id: 5u3VTjZAvewSge5e
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!10c1rPhTFMhhTfrJ.5u3VTjZAvewSge5e'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.10c1rPhTFMhhTfrJ
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You chant a protective invocation, raising a wall of adjuratory empyric
+    wards around your allies. Select a number of allies you can see within range
+    equal to your Willpower. Until the start of your next turn, affected allies
+    add +3 to their Resilience, and may roll Determination against Mortal
+    Wounds</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: INQUISITION and ORDO MALLEUS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The duration is increased by +1 Round.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: +1 Resilience.
+      cost: 1
+      property: res
+      initial: 3
+      value: 1
+      single: false
+    - description: >-
+        Affected allies attacked by DAEMONS may re-roll any dice which roll a 1
+        on their Determination rolls
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: 10c1rPhTFMhhTfrJ
+folder: Xna24or3vCqYsURu
+sort: 187500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206774
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!10c1rPhTFMhhTfrJ'

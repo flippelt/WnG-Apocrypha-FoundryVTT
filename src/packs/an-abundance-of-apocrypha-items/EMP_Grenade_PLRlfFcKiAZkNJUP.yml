@@ -1,0 +1,73 @@
+name: EMP Grenade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.PLRlfFcKiAZkNJUP
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">These devices generate a disruptive energy pulse
+    which hinders the technological workings of a wide range of
+    technologies.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">When a vehicle is hit by the blast from an EMP grenade,
+    it immediately suffers the Hindered (2) and Restrained conditions, which
+    last until the end of the vehicle’s next turn.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: EMP, T’AU EMPIRE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 2
+  upgrades: []
+_id: PLRlfFcKiAZkNJUP
+folder: KCVqHx1PYrcqXhMV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932681288
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!PLRlfFcKiAZkNJUP'

@@ -1,0 +1,142 @@
+name: Slaangor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 499927
+pages:
+  - name: Slaangor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <blockquote><p>Gorge and rut, rip and gore. Slake every hunger and
+        thirst you possess. The Dark Prince commands it</p><p
+        style="text-align:right"><em>—— Mal’grash the Sharp-horned,
+        Slaangor</em></p></blockquote><p><strong>You are a servant of the Prince
+        of Chaos and blessed to even vaguely resemble the great Keepers of
+        Secrets who serve them.</strong></p><p>With sleek fur, gleaming horns,
+        and lithe, supple flesh, Slaangor appear almost as if they had been
+        perfected. Yet the spittle in their maws and the mania in their eyes
+        show that, for all their glorified appearance, they are still the same
+        savage creatures. Slaangor are marked as beloved creatures of the Prince
+        of Pleasure and given status as protectors and guardians of the cults
+        and temples they dwell within; for their status, they are gaudily
+        adorned with jewellery and fine fabrics.</p><table
+        style="width:98.9228%;height:239px" border="1"><tbody><tr
+        class="table-header" style="height:16px;background-color:#301444"><td
+        style="width:92.7291%;height:16px" colspan="8">SLAANGOR</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
+        colspan="2">TIER</td><td
+        style="width:8.3%;height:16px;text-align:center">1</td><td
+        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
+        colspan="2">SPECIES</td><td
+        style="width:11.7268%;height:16px;text-align:center">Beastman</td><td
+        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
+        Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center">38</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">CHAOS</a>, <a
+        class="keyword">ABHUMAN</a>, <a class="keyword">HERETIC</a>, <a
+        class="keyword">SLAANESH</a></td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px"
+        colspan="8"><strong>ATTRIBUTE</strong>: Agility 3, Strength 3, Toughness
+        3</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
+        Persuasion 1, Weapon Skill 2</td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
+        ABILITY</strong>: @UUID[Item.6QN6CZT5gUpkGT5q]{Distracting
+        Musk}</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
+        @UUID[Item.Gkvz8V1xP8wrBBk8]{Mesh Armour}, 2x
+        @UUID[Item.JlXH8xNwZcDgtfcn]{Sword}</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;background-color:rgba(0, 0, 0, 0.2);height:16px"
+        colspan="8"><strong>INFLUENCE</strong>: +1</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
+        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">28</td></tr><tr
+        style="font-variant:small-caps;height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
+        style="width:12.5%;height:16px;text-align:center">S</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">T</td><td
+        style="width:5.17241%;height:16px;text-align:center">A</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">I</td><td
+        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">Int</td><td
+        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
+        style="width:12.5%;height:16px;text-align:center">3</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">3</td><td
+        style="width:5.17241%;height:16px;text-align:center">4</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">3</td><td
+        style="width:11.7268%;height:16px;text-align:center">2</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">1</td><td
+        style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
+        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">10</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%" colspan="8">Athletics 1, Awareness 1,
+        Persuasion 1, Weapon Skill 3</td></tr><tr style="height:16px"><td
+        class="table-header"
+        style="width:92.7291%;height:16px;background-color:#301444"
+        colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td
+        style="height:15px;width:92.7291%"
+        colspan="8">@UUID[Item.AXqKMwrgsKMdohOw]{Acute Sense},
+        @UUID[Item.aX9bq2t854Kb7L0i]{Dual Wield},
+        @UUID[Item.kj8Jm2JKxELokK4X]{Let The Galaxy
+        Burn}</td></tr></tbody></table>
+      markdown: ''
+    _id: 6VIdIZs0RFiBmFtW
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!nAD46aQJXWBP32pb.6VIdIZs0RFiBmFtW'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664173162519
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: nAD46aQJXWBP32pb
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!nAD46aQJXWBP32pb'
+categories: []

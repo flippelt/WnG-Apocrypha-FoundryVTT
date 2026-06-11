@@ -1,0 +1,69 @@
+name: Blade-Tines
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects:
+  - icon: modules/wng-core/assets/icons/augmetics/augmetic.webp
+    name: Blade-Tines
+    changes:
+      - key: system.skills.medicae.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: UFqK31o9EAbHJJji
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    _key: '!items.effects!Dg4Hk6Rok4qrWaHd.UFqK31o9EAbHJJji'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.Dg4Hk6Rok4qrWaHd
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Long, thin blades are mounted within the
+    recipient’s hands, razor-sharp and useful as scalpels or other cutting
+    implements. The hand must be completely rebuilt to accommodate this, and
+    most versions feature long, spindly fingers that can extend past the blades
+    to perform other dextrous tasks.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Blade-tines grant the recipient +1d on all Medicae tests,
+    and they can be used as a Mono-Knife in melee.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: CHAOS, DARK MECHANICUM, DRUKHARI
+  requirements: ''
+  effect: ''
+_id: Dg4Hk6Rok4qrWaHd
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099787
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!Dg4Hk6Rok4qrWaHd'

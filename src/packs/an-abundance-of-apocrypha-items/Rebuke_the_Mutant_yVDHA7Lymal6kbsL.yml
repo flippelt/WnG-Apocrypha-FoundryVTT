@@ -1,0 +1,82 @@
+name: Rebuke the Mutant
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.yVDHA7Lymal6kbsL
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The foul mutant cannot bear to stand against he who has stood before the
+    God-Emperor. Those who dare gaze upon him have their own imperfections
+    reflected back upon them; only the most stalwart can stand against this.
+    When using this technique, you open yourself up to the currents of the warp
+    and act as a mirror, revealing to the viewer what he truly is. If this power
+    is successful, any ABHUMAN or MUTANT character within range must take a DN 3
+    Fear test. They suffer 1d3 Mortal Wounds at the start of their turn if
+    within the power’s range while suffering from Fear.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: Willpower x 10m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: '+1 DN to the Fear test. '
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: 'Targets suffer +1 Mortal Wound. '
+      cost: 2
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: 3
+    type: resolve
+    specification: fear
+_id: yVDHA7Lymal6kbsL
+folder: BOwa2ac4VoE8QlCY
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206779
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!yVDHA7Lymal6kbsL'

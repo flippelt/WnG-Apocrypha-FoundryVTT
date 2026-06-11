@@ -1,0 +1,72 @@
+folder: sC0XQyo4SjbmOHz3
+name: Navigator
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  cost: 24
+  speed: 6
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.23ZLpvSTd2qQJb1G
+      name: Mutant
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.7WLrorujGlqtpMcc
+      name: Warp Eye
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Onh9Az4GX07rlgr1
+      name: Hereditary Mutations
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 1
+    psychicMastery: 1
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: 8
+    toughness: 8
+    agility: 8
+    initiative: 8
+    willpower: 8
+    intellect: 8
+    fellowship: 8
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.aaT3fFHWm4U5I0OS
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699476939516
+  modifiedTime: 1710522808645
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: sct1yeuKvW4tOqGn
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!sct1yeuKvW4tOqGn'

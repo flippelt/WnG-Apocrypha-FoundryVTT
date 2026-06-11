@@ -1,0 +1,53 @@
+folder: fgtFfRbmshJ8KM1n
+name: Psyker
+type: ability
+_id: 1yhDwAyqcV4xNYkC
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are a psyker; you have all the Universal psyker abilities, you know
+    the Smite psychic power. You know the Librarius discipline, and receive one
+    power from that Discipline, and you may select one other Psychic Discipline
+    of your choice to learn powers from.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710720170763
+  modifiedTime: 1710720180233
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!1yhDwAyqcV4xNYkC'

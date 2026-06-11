@@ -1,0 +1,71 @@
+name: Flail of Corruption
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: nyHPtRO8Z1XRcTRg
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>This massive flail is heavy with rusted chains and filthencrusted spikes,
+    weights, and barbs. Impact from the flail is dangerous enough, but the
+    virulent diseases living upon the weapon&rsquo;s surfaces kill any who
+    aren&rsquo;t slain by the weapon itself.</p>
+  value: 7
+  keywords: CHAOS, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: inflict
+      rating: Poisoned 4
+    - name: overwhelming
+      custom: true
+      display: Overwhelming
+      description: >-
+        The weapon can batter past even the most proficient defence. When you
+        make an attack with an Overwhelming weapon, the target does not benefit
+        from the Parry trait of any of their weapons or the Defence bonus from
+        Shields.
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 45vUdxZHWJpZ1Wfw
+sort: 1200000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!45vUdxZHWJpZ1Wfw'

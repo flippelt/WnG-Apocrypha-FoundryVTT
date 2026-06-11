@@ -1,0 +1,61 @@
+folder: ZMoR03HW5eXVf9E1
+name: Indomitable Belief
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ADEPTA SORORITAS keyword, must not possess the CHAOS keyword
+  description: >-
+    <p>Your faith is such that you will not yield before the Emperor&rsquo;s
+    enemies.<br>You, and all @UUID[Item.WynBkEBsU3T6shtu]{ADEPTA
+    SORORITAS}characters within 15m of you, add +Rank to Resilience. In
+    addition, when you suffer damage in excess of your Maximum Wounds, you gain
+    1 Faith. If you die, all characters with the
+    @UUID[Item.TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM}or
+    @UUID[Item.WynBkEBsU3T6shtu]{ADEPTA SORORITAS}keywords gain 2 Faith and
+    recover +Double Rank Shock, as they are spurred on by your martyrdom.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: X0YyoNnCwAYS663R
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: Indomitable Belief
+    description: ''
+    statuses: []
+    _key: '!items.effects!TX45RTPlgalTErlp.X0YyoNnCwAYS663R'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.TX45RTPlgalTErlp
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663880716284
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: TX45RTPlgalTErlp
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 7000000
+_key: '!items!TX45RTPlgalTErlp'

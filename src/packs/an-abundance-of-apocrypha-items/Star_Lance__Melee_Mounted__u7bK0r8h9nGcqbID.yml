@@ -1,0 +1,77 @@
+name: Star Lance (Melee Mounted)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranger-long-rifle.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.03DrXwX10WLUC4Tx
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A high-powered form of laser lance, star lances
+    are named for the legendary weapon of the Phoenix King, Asuryan, when he
+    rode into battle during the War in Heaven. Like their namesake, they deliver
+    punishing strikes that even the mightiest foes cannot resist</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "><span
+    class="fontstyle0"><strong>Special</strong>: </span><span
+    class="fontstyle2">When a character wielding a star lance attacks while
+    mounted (upon a moving vehicle or charging creature), the weapon’s damage
+    rating becomes 16, though it is not modified by the user’s Strength.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: LAS, ANCIENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 3
+    medium: 6
+    long: 9
+    melee: 2
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits: []
+  upgrades: []
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932581
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_id: u7bK0r8h9nGcqbID
+_key: '!items!u7bK0r8h9nGcqbID'

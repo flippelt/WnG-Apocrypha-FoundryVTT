@@ -1,0 +1,44 @@
+name: Synth-Skin
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.iYDNN2eK2hPVmpB8
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A thin foam sprayed over damaged flesh to
+    staunch bleeding and promote new skin regeneration, synthskin is a valuable
+    part of any combat medkit.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Synthskin can be applied as a Combat Action, and
+    immediately removes all </span><span class="fontstyle3">Bleeding
+    </span><span class="fontstyle0">conditions from you or another character
+    within arm’s reach.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 3
+  keywords: IMPERIUM, ASTRA MILITARUM, OFFICIO MEDICAE
+  effect: ''
+_id: iYDNN2eK2hPVmpB8
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099212
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1500000
+_key: '!items!iYDNN2eK2hPVmpB8'

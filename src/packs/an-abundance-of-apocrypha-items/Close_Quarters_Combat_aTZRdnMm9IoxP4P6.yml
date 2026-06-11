@@ -1,0 +1,51 @@
+folder: fgtFfRbmshJ8KM1n
+name: Close Quarters Combat
+type: ability
+_id: aTZRdnMm9IoxP4P6
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you make a melee attack, or a ranged attack at short range, against
+    an enemy in cover, you may re-roll up to Double Rank dice.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710718394815
+  modifiedTime: 1710718405680
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!aTZRdnMm9IoxP4P6'

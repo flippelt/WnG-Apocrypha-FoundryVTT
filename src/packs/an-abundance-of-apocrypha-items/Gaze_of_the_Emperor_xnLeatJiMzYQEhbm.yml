@@ -1,0 +1,78 @@
+name: Gaze of the Emperor
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.xnLeatJiMzYQEhbm
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You cage the immense power of the Immaterium within your physical form,
+    and your eyes blaze with the Emperor’s vengeful fury. Select one enemy you
+    can see within range, and draw a straight line between you and them. Roll 3
+    d6 for each enemy touched by this line: each Icon rolled inflicts one Mortal
+    Wound, while each Exalted Icon rolled inflicts 2 Mortal Wounds instead.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: ' Roll +1 d6 for each enemy. '
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: +6m range.
+      cost: 1
+      property: range
+      initial: ''
+      value: 6
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: xnLeatJiMzYQEhbm
+folder: XzBZHQMRhqwSzD6z
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206704
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!xnLeatJiMzYQEhbm'

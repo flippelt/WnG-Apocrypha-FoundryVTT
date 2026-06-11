@@ -1,0 +1,148 @@
+name: Gift of Contagion
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Poisoned
+    icon: systems/wrath-and-glory/asset/icons/conditions/poisoned.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '@test.result.pois'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - poisoned
+    _id: 8Dc35UUoOqiUbC2Z
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    tint: null
+    _key: '!items.effects!Gyks6lGSWOTrE3ZC.8Dc35UUoOqiUbC2Z'
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Gift of Contagion
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '@test.result.dif'
+        priority: null
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: OCSKm5fg4WeRGXpD
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: 'Gift of Contagion: Melee Attack'
+            hide: ''
+          '1':
+            script: ''
+            description: 'Gift of Contagion: Strength based test'
+            hide: ''
+    tint: null
+    _key: '!items.effects!Gyks6lGSWOTrE3ZC.OCSKm5fg4WeRGXpD'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.Gyks6lGSWOTrE3ZC
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>With a gesture, you gather a foul fog of contagion about your foes,
+    granting them a blessing from Grandfather Nurgle. This affects enemies you
+    can see within a Blast (6) within range. Each enemy hit suffers the Poisoned
+    (4) condition. While they remain Poisoned, creatures affected increase the
+    DN of all Strength-based tests by +2.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: HERETIC ASTARTES, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Add +1 to the rating of the Poisoned effect.
+      cost: 1
+      property: pois
+      initial: 8
+      value: 2
+      single: false
+    - description: >-
+        While Poisoned affected targets also add +2 DN to all melee attacks they
+        make
+      cost: 2
+      property: dif
+      initial: ''
+      value: 2
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: Gyks6lGSWOTrE3ZC
+folder: i8b0La8fz53gTHrf
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519039
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Gyks6lGSWOTrE3ZC'

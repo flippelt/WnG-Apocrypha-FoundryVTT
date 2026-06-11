@@ -1,0 +1,39 @@
+folder: ZMoR03HW5eXVf9E1
+name: Familiar
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 5
+  requirements: ''
+  description: >-
+    <p>You are accompanied by a small companion creature which aids and assists
+    you.</p><p>Your companion is a single Troop level Threat of Tiny or Small
+    size, as described in Chapter 14 of the Wrath & Glory Core Rulebook. You may
+    use the stats presented in the core rulebook or another bestiary, or use the
+    following rules:</p><ul><li><p>Companion Attributes are equal to 1 + Double
+    Rank.</p></li><li><p>Companion Skills are equal to 1 + Double
+    Rank.</p></li><li><p>A companion’s Attributes and Skills cannot be higher
+    than your own.</p></li></ul><p>Your familiar will stick close to you—within
+    3m—under most circumstances and will try to avoid combat unless ordered
+    otherwise. If your familiar is within 3m of you, its Defence is increased by
+    +2.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ZPRyR0ENmPrCbwzj
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699803441241
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 4B6vewhnMVAuE0nD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 500000
+_key: '!items!4B6vewhnMVAuE0nD'

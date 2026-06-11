@@ -1,0 +1,35 @@
+name: Biel-Tan
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+effects: []
+folder: 16S9xUIVnroLJhc3
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 2000000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jmXQanAj1k1Wgz3f
+system:
+  description: >-
+    <p>Biel-Tan is renowned for the strong warrior ideals of its people. For the
+    Asuryani of Biel-Tan, the Way of the Warrior, the life-stage that
+    encompasses the Aspect Warriors, is considered the first step upon the
+    Asuryani Path. Upon reaching physical maturity a Biel-Tan Asuryani becomes
+    an Aspect Warrior, and only once they have fulfilled this role can they
+    continue along the other roles of the Asuryani Path.</p><p><strong>PROWESS
+    OF THE BLADEWIND:</strong> Select either ranged attacks or melee attacks.
+    You may re-roll up to Rank dice on the chosen type of attack.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699479568268
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: p8V3Eu4CUx6Yo4VK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!p8V3Eu4CUx6Yo4VK'

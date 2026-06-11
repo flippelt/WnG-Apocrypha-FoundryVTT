@@ -1,0 +1,60 @@
+folder: ewmeGmrcXn6sa90B
+name: THE RED GRIEF
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>The Cult of the Red Grief seek to attack so swiftly that few even know an
+    attack has begun before the first drops of blood are shed. They are lethally
+    fast, and compete amongst themselves to be the first into battle. The
+    character&rsquo;s Speed is increased by +Rank when they Advance or
+    Charge.</p>
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: THE RED GRIEF
+    changes:
+      - key: system.combat.speed
+        mode: 6
+        value: '@advances.rank'
+    _id: MJSmLlXjQQFLNWUe
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              The character’s Speed is increased by +Rank when they Advance or
+              Charge
+            hide: ''
+    tint: null
+    _key: '!items.effects!OgIf6kY0tZGYoD3J.MJSmLlXjQQFLNWUe'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OgIf6kY0tZGYoD3J
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710532160569
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: OgIf6kY0tZGYoD3J
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!OgIf6kY0tZGYoD3J'

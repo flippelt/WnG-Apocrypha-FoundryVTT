@@ -1,0 +1,65 @@
+name: Laspistol (Triplex-Phall)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/laspistol.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>A variant design developed on the Forge World of Triplex Phall, these
+    weapons demonstrates that Forge World&rsquo;s mastery of variable-charge
+    capacitors and similar technologies, allowing these patterns to be set to
+    higher settings for greater effect, at the cost of more power.</p>
+
+    <p>VARIABLE CHARGE: When the weapon is fired, the user may choose to remove
+    the Reliable trait to gain the Brutal trait.</p>
+  value: 4
+  keywords: LAS, IMPERIUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: pistol
+    - name: reliable
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665492233484
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: KtMQP20MTYUwmoWw
+_id: Wdg6og8aFGksTZqf
+sort: 1000000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!Wdg6og8aFGksTZqf'

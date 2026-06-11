@@ -1,0 +1,111 @@
+name: Dominate
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Exhausted
+    icon: systems/wrath-and-glory/asset/icons/conditions/exhausted.svg
+    statuses:
+      - exhausted
+    _id: ln6jCuIlmGn7JNzE
+    changes: []
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!W7t1iKUuGHgjTnGX.ln6jCuIlmGn7JNzE'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.W7t1iKUuGHgjTnGX
+system:
+  dn: '@combat.conviction.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You reach into a target’s mind and assume control over their conscious
+    thoughts, pushing them to act as you see fit. This affects a single enemy
+    you can see within range. While the power remains in effect, when the enemy
+    acts, you may choose the actions they take. However, enemies affected are
+    also Exhausted. You suffer 1 Shock each round you sustain this power.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Sustained
+  range: 12m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: INQUISITION
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: 'Enemies affected may take actions freely and are not Exhausted. '
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: >-
+        Instead of the normal effect, you may leave a single command within the
+        target’s mind, which remains for a number of days equal to your
+        Willpower. This version of the power is not Sustained. You choose a
+        single action the target is compelled to take, and the specific
+        conditions which they will take that action. The target will not
+        remember being given the command until after they have performed the
+        action.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: +1 bonus die on a single action taken by the target.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: W7t1iKUuGHgjTnGX
+folder: Xna24or3vCqYsURu
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206749
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!W7t1iKUuGHgjTnGX'

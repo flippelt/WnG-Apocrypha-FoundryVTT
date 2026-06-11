@@ -1,0 +1,76 @@
+name: Pandemic Staff (Ranged)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Lovingly crafted from the wood of one of the Gnarlmaw trees in Nurgle’s
+    garden, this staff has soaked in pestilential waters and the blood of the
+    infected for aeons uncounted in the Warp. At a moment’s notice, it can
+    unleash a great cloud of contagion</p>
+  value: 7
+  keywords: FORCE, 2-HANDED, CHAOS, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 7
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 7
+    medium: 14
+    long: 21
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 7
+    - name: inflict
+      rating: Poisoned 4
+    - name: gas
+      custom: true
+      display: Gas
+      description: >-
+        A Gas weapon deploys clouds of aerosolised or gaseous chemical agents.
+        To use a Gas weapon, make a Ballistic Skill test to target a specific
+        location; if it hits, that is where the gas emerges, filling the blast
+        area and affecting creatures within. The gas dissipates over time,
+        reducing the Blast Rating by 2 at the end of each round. Strong winds
+        may make the gas dissipate more quickly, at GM’s discretion. Characters
+        wearing a rebreather or a void suit, or armour which includes such
+        features, automatically succeed at any tests required to resist Gas
+        weapon’s effects, as are creatures which do not need to breathe, such as
+        unliving automata, NECRONS, or DAEMONS, or creatures impervious to
+        chemical weapons like TYRANIDS.
+  upgrades: []
+effects: []
+folder: nyHPtRO8Z1XRcTRg
+sort: 800000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709854113547
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: KM5bvUGfDOoAvnkc
+_key: '!items!KM5bvUGfDOoAvnkc'

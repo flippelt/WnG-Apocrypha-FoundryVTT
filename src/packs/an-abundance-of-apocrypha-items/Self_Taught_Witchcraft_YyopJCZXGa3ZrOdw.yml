@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Self-Taught Witchcraft
+type: ability
+img: modules/wng-core/assets/icons/abilities/scum.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are a psyker; you know a number of randomly determined Minor Psychic
+    Powers equal to 1 +Rank, and you may learn additional Minor Powers. Each
+    time you suffer Perils of the Warp, you lose the power you attempted to use,
+    and must randomly generate a new minor power to replace it.</p><p>You may
+    not learn Smite or powers from any psychic discipline unless you have
+    ascended and achieved Tier 2 or higher.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699540780208
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: YyopJCZXGa3ZrOdw
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!YyopJCZXGa3ZrOdw'

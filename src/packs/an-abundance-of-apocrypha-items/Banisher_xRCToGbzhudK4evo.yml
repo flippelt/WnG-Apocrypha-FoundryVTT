@@ -1,0 +1,201 @@
+folder: we4hKPpDAyHavRz2
+name: Banisher
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-ministorum.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Ministorum
+    id: Compendium.wng-core.items.Item.ii74Pd1lAMuiG57x
+  influence: 2
+  cost: 50
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MINISTORUM
+    - PRIEST
+    - INQUISITION
+    - '[ORDO]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 4
+    intellect: null
+    fellowship: 4
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 3
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: 3
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Litany of Purity
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.U3jyFFquO728rt3m
+  wargear:
+    - name: Flamer
+      id: Compendium.wng-core.items.Item.telJRS8B2dxA7ILp
+      type: item
+      diff: {}
+      index: 0
+      groupId: 9y0QzFIo5w29IHjb
+    - name: Blessed Promethium
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wTb88ILg6JQZ5l7H
+      type: item
+      diff: {}
+      index: 1
+      groupId: SSNHyRbMB38aIVlo
+    - type: generic
+      name: >-
+        one melee weapon of up to Value 7 and a rarity of up to Rare, with the
+        Sanctified upgrade
+      filters:
+        - test: le
+          property: Value
+          value: '7'
+        - test: le
+          property: Rarity
+          value: Rare
+      index: 2
+      groupId: ysUnFClx49AOjDi3
+    - name: Sanctified
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jnVZtGvELjLaLy9a
+      type: item
+      diff: {}
+      index: 3
+      groupId: CsQ2nSYrecnseke3
+    - name: Rosarius
+      id: Compendium.wng-core.items.Item.hTdCHo9SWzaZPxXh
+      type: item
+      diff: {}
+      index: 4
+      groupId: i88CdvVQZq2mugHk
+    - name: Knife
+      id: Compendium.wng-core.items.Item.drUoIw7l4vPyI9Zm
+      type: item
+      diff: {}
+      index: 5
+      groupId: SOPIhfUKkTfOuFyR
+    - name: Ministorum Robes (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Ministorum Robes (Clothing)
+      index: 6
+      groupId: LM9GtueTBHdKDWCy
+    - name: Symbol of Authority
+      id: Compendium.wng-core.items.Item.jJVaniinuX8Hjh08
+      type: item
+      diff: {}
+      index: 7
+      groupId: w4WT4CFxyZTkBbpb
+    - name: Missionary Kit
+      id: Compendium.wng-core.items.Item.ykJiMSVm8muqdrHp
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: 9y0QzFIo5w29IHjb
+      - type: item
+        index: 1
+        groupId: SSNHyRbMB38aIVlo
+      - type: item
+        index: 2
+        groupId: ysUnFClx49AOjDi3
+      - index: 3
+        type: item
+        groupId: CsQ2nSYrecnseke3
+      - index: 4
+        type: item
+        groupId: i88CdvVQZq2mugHk
+      - index: 5
+        type: item
+        groupId: SOPIhfUKkTfOuFyR
+      - index: 6
+        type: item
+        groupId: LM9GtueTBHdKDWCy
+      - index: 7
+        type: item
+        groupId: w4WT4CFxyZTkBbpb
+      - index: 8
+        type: item
+        groupId: cyrVPJYdmQ41wseA
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 3
+      willpower: 5
+      intellect: 3
+      fellowship: 5
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 4
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: 4
+      pilot: null
+      psychicMastery: null
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: JCogdWLvMA9x2E1q
+        name: Disarming Stare
+      - id: 7gtYXzwakje0Nb8N
+        name: Forbidden Knowledge
+      - id: mRtdhfcl4dlPIXYJ
+        name: War Hymns
+      - id: JegFALE7E9r6WnpH
+        name: Consecrated Light
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.vXawWmhIF3vAG6Xw
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699559404874
+  modifiedTime: 1710604444592
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: xRCToGbzhudK4evo
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 100000
+_key: '!items!xRCToGbzhudK4evo'

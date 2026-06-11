@@ -1,0 +1,74 @@
+name: Fortune
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.e5Js3q1xUavzWifS
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You scry possible futures to foresee imminent danger, then aid your
+    allies in avoiding it. The terrors of the warp recoil from your mind, while
+    shots pass through thin air where Asuryani warriors stood a moment before.
+    Select a number of allies equal to your Willpower within range. Until the
+    start of your next turn, when they roll Determination, they roll a number of
+    dice equal to your Intellect, and each Icon rolled negates a single Wound or
+    Mortal Wound, rather than converting Wounds into Shock.</p>
+  effect: ''
+  cost: 30
+  activation: action
+  duration: 1 Round
+  range: 50m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: AELDARI, FARSEER
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affect one extra ally.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: e5Js3q1xUavzWifS
+folder: SWCK2I9zpJkIWpsv
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742851
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!e5Js3q1xUavzWifS'

@@ -1,0 +1,163 @@
+name: XV25 Stealth Battlesuit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Nanocrystalline Structure
+    changes:
+      - key: system.attributes.toughness.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: 4JAYKu99tPtUaeRQ
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!GaibvMqYxFctZ6Bs.4JAYKu99tPtUaeRQ'
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Stealth Field
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '2'
+        priority: null
+      - key: difficulty.bonus
+        mode: 7
+        value: '2'
+        priority: null
+    _id: kw4GNmGsdGcAzy8S
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Defence With Stealth Field Active
+            hide: ''
+          '1':
+            script: ''
+            description: Observe/Detect
+            hide: ''
+    tint: null
+    _key: '!items.effects!GaibvMqYxFctZ6Bs.kw4GNmGsdGcAzy8S'
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Jump Jets
+    changes:
+      - key: system.combat.fly
+        mode: 5
+        value: '8'
+        priority: null
+    _id: Hgq4Qop6CuVLphmc
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!GaibvMqYxFctZ6Bs.Hgq4Qop6CuVLphmc'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-armour.Item.GaibvMqYxFctZ6Bs
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Kappa Mortis Incident was an important event
+    that contributed to the future use of XV25 Stealthsuits. An Ultramarines
+    strike force sent to the planet of Kappa Mortis managed to recover a single
+    XV15 Stealthsuit helmet from a crashed Aquila Lander bearing captured Tau
+    technology. This forced the Tau Earth Caste to accelerate development of a
+    new type of Stealthsuit, rushing the single-weapon XV25 Stealthsuit into
+    service ahead of the much more difficult to produce XV22 Stealthsuit they
+    had hoped to introduce en masse. This caused XV15 Stealthsuits to become
+    less common in Tau Hunter Cadres due to their replacement as the standard
+    Stealthsuit by the newer XV25.</span></p><p></p><p><span
+    class="fontstyle0">Larger, more durable, and more versatile than their
+    predecessors, the XV25 Stealth Battlesuit is a superior piece of equipment.
+    The larger frame can support additional systems and the use of fusion guns
+    alongside the typical burst cannons of a Stealth Battlesuit, without
+    sacrificing mobility or compromising the stealth of the
+    unit.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">5, Powered (3)</span></p><p></p><p><span
+    class="fontstyle2"><strong>Nanocrystalline Structure</strong>: </span><span
+    class="fontstyle0">The wearer’s Toughness is increased by +2 while they wear
+    this suit. This increases the wearer’s Wounds and Determination
+    accordingly.</span></p><p></p><p><span class="fontstyle2"><strong>Stealth
+    Field</strong>: </span><span class="fontstyle0">When active, the Stealth
+    Field increases the wearer’s Defence by +2 and increases the DN to observe
+    or detect the wearer by +2.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Jump Jets</strong>: </span><span
+    class="fontstyle0">The armour is fitted with jump jets allowing for
+    considerable mobility. The suit has a Speed of 8 (Flying). As a Stealth
+    Battlesuit, moving using this flight speed does not affect the wearer’s
+    Stealth Score.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Armament</strong>: </span><span
+    class="fontstyle0">This battlesuit is armed with a single Burst Cannon,
+    modified to grant it the Silent trait, or a Fusion Gun. It may take one
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">SUPPORT
+    SYSTEM</span><span class="fontstyle0">: either a Target Lock or Drone
+    Controller.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: BATTLESUIT, JUMP JETS, T’AU EMPIRE,FIRE CASTE
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powered
+      rating: 3
+  invulnerable: false
+_id: GaibvMqYxFctZ6Bs
+folder: 44KqXS6yhkO4uUqv
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090445963
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 200000
+_key: '!items!GaibvMqYxFctZ6Bs'

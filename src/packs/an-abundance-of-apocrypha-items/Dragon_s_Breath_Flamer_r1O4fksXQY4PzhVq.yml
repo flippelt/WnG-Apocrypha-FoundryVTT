@@ -1,0 +1,64 @@
+name: Dragon’s Breath Flamer
+type: weapon
+img: modules/wng-core/assets/icons/weapons/flamer.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.r1O4fksXQY4PzhVq
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A relic found in some temples of the Fire Dragon
+    Aspect Warriors, Dragon’s Breath flamers are lightweight but powerful
+    weapons, turning their foes to ash</span>.</p>
+  value: 7
+  keywords: FIRE, ANCIENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 10
+    medium: 20
+    long: 30
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: assault
+    - name: flamer
+  upgrades: []
+_id: r1O4fksXQY4PzhVq
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932528
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!r1O4fksXQY4PzhVq'

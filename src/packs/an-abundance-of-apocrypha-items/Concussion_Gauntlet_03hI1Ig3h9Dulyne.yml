@@ -1,0 +1,62 @@
+folder: 0SAPFb2VAW9K20fX
+name: Concussion Gauntlet
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Superficially similar to an Imperial power fist, Concussion
+    gauntlets—also sometimes called Mass Gauntlets—use “mass driver” technology
+    to magnify the impact force of strikes by several orders of magnitude.
+    Whether used as a mining tool by the Cthonian Mining Guilds, or as a weapon
+    by a Kahl and his Einhyr Hearthguard (or by Cthonian Berserks), they allow a
+    lone operator to punch with devastating force.</p>
+  value: 8
+  keywords: MASS DRIVER, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: inflict
+      rating: Staggered
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709900091079
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 03hI1Ig3h9Dulyne
+_key: '!items!03hI1Ig3h9Dulyne'

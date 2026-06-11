@@ -1,0 +1,65 @@
+name: Polymorphine
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.OZZI6aSNMKzJZ0NS
+system:
+  quantity: 2
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">All the Assassins of the Callidus Temple are
+    trained in the use of Polymorphine. With this specialised drug alone a
+    Callidus Assassin may masquerade as any human being she may choose, from a
+    beautiful young woman to a crippled old man. However, in addition, the
+    Medicae Adepts of the Imperium have developed a range of surgical implants
+    to allow Callidus Assassins to mimic members of alien races, like the Orks
+    and Aeldari.</span></p><p></p><p><span class="fontstyle0">These implants
+    consist of flex-cartilage and hardened synskin. When the Assassin is in
+    their normal form these implants lie dormant under their flesh and within
+    their bones. It is only when Polymorphine is injected that these implants
+    react to the stimulants within the drug and transform into genetically
+    encoded shapes that allow the Assassin to restructure their body into the
+    grotesque and hunched form of an Ork, or the lithe and graceful form of an
+    Aeldari.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A Callidus may take a single dose of Polymorphine at the
+    start of a Regroup (page 196 of the </span><span class="fontstyle3">Wrath &
+    Glory </span><span class="fontstyle0">core rulebook) and spend the following
+    hour adjusting their form in the desired way. A Callidus can take on the
+    appearance of any humanoid creature of Average size (though they require
+    additional surgical assistance to take on forms with more than the human
+    number of limbs, such as Genestealer Cultists). Creating the appropriate
+    form requires a Deception test (DN 3, or DN 5 if the creature is Xenos), and
+    once the form has been successfully assumed, it adds +4 to the DN of any
+    Awareness or Insight test an attempt to determine that the assassin is not
+    who they seem. The GM will assign a list of Keywords which the assumed form
+    possesses. Resetting to the assassin’s initial form can be done within one
+    round. A single purchase contains two doses: one to transform, and a second
+    to revert to normal.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 11
+  keywords: TEMPLUM CALLIDUS
+  effect: ''
+_id: OZZI6aSNMKzJZ0NS
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099195
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 900000
+_key: '!items!OZZI6aSNMKzJZ0NS'

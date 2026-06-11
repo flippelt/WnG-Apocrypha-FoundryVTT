@@ -1,0 +1,60 @@
+folder: 0SAPFb2VAW9K20fX
+name: Ancestral Ward Stave
+type: weapon
+_id: NkA0Dgx7pcYwMSuD
+img: modules/wng-core/assets/icons/weapons/force-stave.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>An extension of their Barrier-Tech, Ancestral Ward Staves help a Grimnyr
+    commune with the Votann through their Hold’s fane. They also serve as
+    symbols of office, and can function as potent weapons, directing the
+    energies of the Warp both to fuel the Grimnyr’s powers and to deliver
+    punishing strikes in melee.</p>
+  value: 6
+  keywords: FORCE, 2-HANDED, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: force
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709900091079
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!NkA0Dgx7pcYwMSuD'

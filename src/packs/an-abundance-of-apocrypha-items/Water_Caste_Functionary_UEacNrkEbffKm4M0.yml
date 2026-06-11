@@ -1,0 +1,146 @@
+folder: FQ4YTlz56b4rSD2s
+name: Water Caste Functionary
+type: archetype
+_id: UEacNrkEbffKm4M0
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Por T'au
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.obL5lHVPP8iSJysP
+  faction:
+    name: T'au Empire
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymiA0vN6P5lSl08j
+  influence: 2
+  cost: 26
+  keywords:
+    - T'AU EMPIRE
+    - WATER CASTE
+    - '[SEPT]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: 2
+    fellowship: 3
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: 1
+    deception: null
+    insight: 2
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: 2
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Careful Words
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rmp4QRTAvQfllJeF
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Functionary's Robes (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Functionary's Robes (Clothing)
+      index: 1
+      groupId: iS6ZGINUBvCjMPov
+    - type: generic
+      name: Escort Drone (Follower)
+      filters: []
+      index: 2
+      groupId: y0Iws42Y9QDJlXfI
+    - name: Vox Caster
+      id: Compendium.wng-core.items.Item.BqbbsuADNQE5l2yl
+      type: item
+      diff: {}
+      index: 3
+      groupId: 5FXUafxth1Ie1A9H
+    - name: Holographic Projector
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.p0Kq1oOOaNQRvo2U
+      type: item
+      diff: {}
+      index: 4
+      groupId: ht1P4Au8ZcUj4WG3
+    - type: generic
+      name: Trade Goods (Worth +3 Wealth)
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: iS6ZGINUBvCjMPov
+      - type: item
+        index: 2
+        groupId: y0Iws42Y9QDJlXfI
+      - index: 3
+        type: item
+        groupId: 5FXUafxth1Ie1A9H
+      - index: 4
+        type: item
+        groupId: ht1P4Au8ZcUj4WG3
+      - type: item
+        index: 5
+        groupId: ib65f1UwXdfCKfXm
+  suggested:
+    attributes:
+      strength: 1
+      toughness: 1
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 3
+      fellowship: 4
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: null
+      cunning: 2
+      deception: 2
+      insight: 3
+      intimidation: null
+      investigation: 1
+      leadership: null
+      medicae: null
+      persuasion: 3
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710602242257
+  modifiedTime: 1710618309669
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!UEacNrkEbffKm4M0'

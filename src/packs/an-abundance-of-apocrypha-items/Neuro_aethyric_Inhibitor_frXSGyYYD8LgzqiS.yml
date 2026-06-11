@@ -1,0 +1,74 @@
+name: Neuro-aethyric Inhibitor
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects:
+  - icon: modules/wng-core/assets/icons/augmetics/augmetic.webp
+    name: Neuro-aethyric Inhibitor
+    _id: PqesjOyc55zWvLoa
+    changes:
+      - key: system.attributes.willpower.bonus
+        mode: 2
+        value: '-1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!frXSGyYYD8LgzqiS.PqesjOyc55zWvLoa'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.frXSGyYYD8LgzqiS
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">Some psykers, while potent, are on the edge of
+    being too unstable to be useful to the Imperium. While many of these are
+    slain as a precaution, a few are implanted with inhibitors which serve to
+    contain their power when it grows out of control. This does dampen some of
+    the psyker’s innate power, but this is for their own
+    good.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">Your Willpower is reduced by 1. When you
+    suffer a Wrath Complication on a Psychic Mastery test, you may activate this
+    implant: you immediately suffer 1 Mortal Wound. Then, when you roll on the
+    Perils of the Warp table, roll [[/r 2d6]], and which ever die rolls lowest
+    is the ‘tens’ die.</span> </p>
+  value: 5
+  keywords: IMPERIUM, ADEPTUS ASTRA TELEPATHICA
+  requirements: ''
+  effect: ''
+_id: frXSGyYYD8LgzqiS
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099815
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!frXSGyYYD8LgzqiS'

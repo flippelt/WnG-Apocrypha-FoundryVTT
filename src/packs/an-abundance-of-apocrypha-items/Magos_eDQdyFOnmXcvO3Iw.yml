@@ -1,0 +1,169 @@
+folder: ynSNkXL3NdmXm43i
+name: Magos
+type: archetype
+_id: eDQdyFOnmXcvO3Iw
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Compendium.wng-core.items.Item.NEkaKMEm79MWGo8b
+  influence: 4
+  cost: 138
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - CULT MECHANICUS
+    - '[FORGE WORLD]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 5
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: 2
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: 4
+    weaponSkill: null
+  ability:
+    name: Forge-Lord
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9UT0iztvGqs6h3so
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Omnissian Axe
+      id: Compendium.wng-core.items.Item.gp881IiZhvjfvLfF
+      type: item
+      diff: {}
+      index: 1
+      groupId: BV2LJoLh2uXFmOKi
+    - name: Servo Arm
+      id: Compendium.wng-core.items.Item.MYkAkn0Dye79EdmW
+      type: item
+      diff: {}
+      index: 2
+      groupId: kbAJNSxrJYVc8Zgd
+    - type: generic
+      name: any two augmetic enhancements
+      filters: []
+      index: 3
+      groupId: A79bUe40JFOPNNkK
+    - type: generic
+      name: any two augmetic implants of up to Availability 7 (Unique)
+      filters:
+        - test: le
+          property: Rarity
+          value: Unique
+        - test: le
+          property: Value
+          value: '7'
+      index: 4
+      groupId: aT28iHdwIzR7Wx9q
+    - name: Light Power Armour
+      id: Compendium.wng-core.items.Item.jy00ECKFvu0ontTx
+      type: item
+      diff: {}
+      index: 5
+      groupId: 1UHeHdfC2ZDifOQg
+    - type: generic
+      name: and any two weapons of up to Availability 7 (Unique).
+      filters:
+        - test: le
+          property: Rarity
+          value: Unique
+        - test: le
+          property: Value
+          value: '7'
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: BV2LJoLh2uXFmOKi
+      - index: 2
+        type: item
+        groupId: kbAJNSxrJYVc8Zgd
+      - type: item
+        index: 3
+        groupId: A79bUe40JFOPNNkK
+      - type: item
+        index: 4
+        groupId: aT28iHdwIzR7Wx9q
+      - index: 5
+        type: item
+        groupId: 1UHeHdfC2ZDifOQg
+      - type: item
+        index: 6
+        groupId: PZtGEE3plQRYns3b
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 5
+      agility: 2
+      initiative: 2
+      willpower: 6
+      intellect: 8
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 3
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: 2
+      medicae: null
+      persuasion: null
+      pilot: 1
+      psychicMastery: null
+      scholar: 5
+      stealth: null
+      survival: null
+      tech: 6
+      weaponSkill: 3
+    talents:
+      - id: IJ7qoX41R4i5PkYz
+        name: Rite of Fear
+      - id: vxsi953ncB48aylK
+        name: Rite of Pure Thought
+      - id: MgRO6y7ytpHs03RT
+        name: The Flesh is Weak
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710710784662
+  modifiedTime: 1710711980171
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!eDQdyFOnmXcvO3Iw'

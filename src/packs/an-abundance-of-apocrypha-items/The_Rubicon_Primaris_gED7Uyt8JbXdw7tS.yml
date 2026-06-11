@@ -1,0 +1,168 @@
+name: The Rubicon Primaris
+type: ascension
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+effects:
+  - _id: A6YQFacRVy7iBPqj
+    changes:
+      - key: system.attributes.strength.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/ascension/ascension.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: The Rubicon Primaris
+    description: ''
+    statuses: []
+    _key: '!items.effects!gED7Uyt8JbXdw7tS.A6YQFacRVy7iBPqj'
+  - _id: xfhUT68DbmzKt0HV
+    changes:
+      - key: system.attributes.toughness.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/ascension/ascension.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: The Rubicon Primaris
+    description: ''
+    statuses: []
+    _key: '!items.effects!gED7Uyt8JbXdw7tS.xfhUT68DbmzKt0HV'
+  - _id: 0pmDwjjs1tn3pG12
+    changes:
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '3'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/ascension/ascension.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: The Rubicon Primaris
+    description: ''
+    statuses: []
+    _key: '!items.effects!gED7Uyt8JbXdw7tS.0pmDwjjs1tn3pG12'
+folder: 0e4JnvdZPT2mvK1p
+flags:
+  cf: null
+  core: {}
+system:
+  cost: 40
+  description: >-
+    <p>The induction of the Primaris Marines into the Adeptus Astartes was not
+    an easy process by any means. The Chapters of the Space Marines are arch
+    traditionalists, and some are conservative in the extreme, having upheld the
+    same warrior traditions for thousands of Terran years. Of course, the
+    express command of Roboute Guilliman as the Lord Commander of the Imperium
+    eased the transition into the new era.</p>
+
+    <p>For the Ultramarines and the vast majority of their Successor Chapters,
+    the word of their risen Primarch was good enough, and many Chapters welcomed
+    the Primaris Battle-Brothers gladly. But there were those especially
+    secretive or wilful Chapters who saw the incorporation of the Primaris
+    Marines into their ranks as a dilution of their gene-stock and a betrayal of
+    their long-held culture.</p>
+
+    <p>Some amongst the Adeptus Astartes suspected that the Primaris Marines,
+    being stronger, more durable and closer in blood to the Primarchs
+    themselves, represented the obsolescence of the traditional Astartes. No
+    amount of reason&mdash;of pointing out that what the Primaris offered in raw
+    ability, they lacked in experience and versatility&mdash;could salve the
+    spiritual wound dealt by the sight of the newcomers wearing their Chapter
+    heraldry.</p>
+
+    <p>The Primaris Marines of the Ultima Founding had been swiftly inducted
+    into brotherhoods that the incepted Aspirants of yesteryear had given
+    everything they had to join. Questions, heavy with the weight of Mankind's
+    destiny, hung in the air. Would the Primaris Marines ultimately render the
+    traditional Space Marines extinct? Would the identity of each Chapter's
+    homeworld be diluted, with so many thousands of new recruits sourced from
+    the stasis vaults of Mars? And was it possible for a Space Marine to be
+    transformed into a Primaris, inheriting the benefits of Adeptus Mechanicus
+    arcanoscience whilst retaining his personality and experience?</p>
+
+    <p>This last question had been raised in Adeptus Astartes Chapters across
+    the galaxy. It was a query Marneus Calgar, Chapter Master of the
+    Ultramarines, had asked of Belisarius Cawl himself, and had discussed with
+    those of his fellow Chapter Masters he was able to meet in person.</p>
+
+    <p>Debate raged as to whether such an act was even possible without having
+    deadly consequences for the recipient -- for data that Archmagos Cawl had
+    already amassed on the subject suggested there would be a 61.6% failure rate
+    at such a transformation until the process could be perfected, which would
+    take time. Then there was the moral concern of whether the process should be
+    attempted at all.</p>
+
+    <p>The dilemma proved divisive. There were those who claimed that this was
+    the ultimate destiny of all Adeptus Astartes, while from other quarters came
+    whispers of rejection, even mutiny, at the prospect.</p>
+
+    <p>The lords of the Ultramarines concluded that to ease the transition from
+    centuries of Imperial tradition to a new order, the theoreticals of that
+    raging debate needed to be put into practice. It was Marneus Calgar who
+    stepped forward as the first test subject from the ranks of his storied
+    Chapter. It was a process he did not survive&mdash;though like his Primarch
+    before him, he was to rise from the threshold of death once more.</p>
+
+    <p>You have chosen to follow this example, and survived the process,
+    emerging anew with greater strength and vitality.</p>
+  requirements: Strength 5, Toughness 5, Ballistic Skill 4+, Weapon Skill 4+
+  keywords: ADEPTUS ASTARTES, PRIMARIS
+  influence: 1
+  benefits: >-
+    <p>You become a Primaris Marine. Increase your Strength and Toughness by +1
+    each, and +3 Wounds. In addition, you no longer suffer impurities in your
+    Chapter Gene-Seed, and you benefit from the Primaris implants alongside your
+    original Space Marine Implants. The cost for all these benefits is included
+    in the cost of taking this package.</p>
+
+    <p><strong>WARGEAR: </strong>You may replace your weapons with the nearest
+    equivalents which have the Primaris keyword, and you replace your Power
+    Armour with a suit of Mark X Power Armour (your choice of Tacticus, Phobos,
+    or Gravis). At the GM&rsquo;s discretion, unique wargear may be altered or
+    upgraded to fit your enhanced form.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219055937
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: gED7Uyt8JbXdw7tS
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!gED7Uyt8JbXdw7tS'

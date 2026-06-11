@@ -1,0 +1,31 @@
+folder: ZMoR03HW5eXVf9E1
+name: A Taste for Death
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Aeldari or Drukhari species, YNNARI keyword
+  description: >-
+    <p>When one of the Reborn sees the soul of their foes departing their
+    bodies, they feel a renewed sense of purpose.<br>You may spend a Soul token
+    to add +Rank bonus dice to your next attack.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663877443423
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: tmf4MaFE1pHpLlc4
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!tmf4MaFE1pHpLlc4'

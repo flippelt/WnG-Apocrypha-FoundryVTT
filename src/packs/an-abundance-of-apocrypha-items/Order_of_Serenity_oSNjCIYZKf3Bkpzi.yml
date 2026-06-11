@@ -1,0 +1,32 @@
+name: Order of Serenity
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects: []
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.oSNjCIYZKf3Bkpzi
+system:
+  description: >-
+    <p>The Sisters of Serenity are a grim order, well-known for the solemn
+    deliverance and quiet mercy they offer those who cannot be saved. Yet, to
+    the living, they also represent the serene endurance of hardship and
+    suffering, and their patients often seek to emulate their example rather
+    than be offered their mercy.</p><p><strong>Serene Endurance:</strong> When
+    you succeed at a Medicae test to recover a patient’s Shock, recover +Rank
+    shock. Your own Maximum Shock is increased by +Rank.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: oSNjCIYZKf3Bkpzi
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!oSNjCIYZKf3Bkpzi'

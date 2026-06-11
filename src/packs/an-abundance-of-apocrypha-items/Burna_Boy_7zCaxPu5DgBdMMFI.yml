@@ -1,0 +1,136 @@
+folder: enJYSEZtnOYeu8p3
+name: Burna Boy
+type: archetype
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Ork
+    id: Compendium.wng-core.items.Item.HkICqcWbRIsDHtMy
+  faction:
+    name: Ork
+    id: Compendium.wng-core.items.Item.BkBpSmTLEsh1tqCG
+  influence: 0
+  cost: 48
+  keywords:
+    - ORK
+    - '[CLAN]'
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: 2
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 2
+  ability:
+    name: Da Burny Dance
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9YflQgzI04L6PaN7
+  wargear:
+    - name: Burna
+      id: Compendium.wng-core.items.Item.BfcIQcvK9NflPkUI
+      type: item
+      diff: {}
+      index: 0
+      groupId: OKSjlpxWL2NM8loQ
+    - name: Ork Flak
+      id: Compendium.wng-core.items.Item.YArm2VCihbVlLurI
+      type: item
+      diff: {}
+      index: 1
+      groupId: hK07WELQ45DLF3J2
+    - name: Stikkbomb
+      id: Compendium.wng-core.items.Item.L7E0G56RBAn4Fmlv
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 2
+      groupId: DwdpYnGSBKraTEFf
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: OKSjlpxWL2NM8loQ
+      - index: 1
+        type: item
+        groupId: hK07WELQ45DLF3J2
+      - index: 2
+        type: item
+        groupId: DwdpYnGSBKraTEFf
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 4
+      initiative: 3
+      willpower: 1
+      intellect: 2
+      fellowship: 1
+    skills:
+      athletics: 2
+      awareness: 1
+      ballisticSkill: 2
+      cunning: 1
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: 2
+      weaponSkill: 4
+    talents:
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: P9uTwYByV17eTfzf
+        name: More Dakka!
+      - id: bOIcPXwLQWQzDrKZ
+        name: Trademark Weapon
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.YneiNxNfN9CanYY7
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699734486556
+  modifiedTime: 1710605656116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 7zCaxPu5DgBdMMFI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!7zCaxPu5DgBdMMFI'

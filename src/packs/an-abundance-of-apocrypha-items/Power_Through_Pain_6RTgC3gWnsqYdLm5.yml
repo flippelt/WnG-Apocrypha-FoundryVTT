@@ -1,0 +1,250 @@
+folder: ZMoR03HW5eXVf9E1
+name: Power Through Pain
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Drukhari species
+  description: >-
+    <p>Your soul slips away, little by little, and you replenish it by drinking
+    deep of the anguish and despair of others.<br>You gain one Pain point
+    whenever an enemy does one of the following within Willpower+Rank metres of
+    you: a character suffers three or more Wounds from a single attack, you
+    affect an enemy with an Intimidation interaction attack, a character fails a
+    Resolve test, a character becomes
+    @UUID[JournalEntry.0NDkZwUGfw0e3KAj]{Exhausted.}<br>You immediately recover
+    +Rank Shock whenever you gain a Pain point. Further, you gain an increasing
+    bonus for the number of Pain points you&rsquo;ve obtained, as described on
+    the table below. You lose all accumulated Pain points upon taking a Regroup
+    or Respite.</p>
+
+    <p>&nbsp;</p>
+
+    <table style="width: 100%; height: 119px;" border="1"><colgroup><col
+    style="width: 17.7124%;"><col style="width: 82.2876%;"></colgroup>
+
+    <tbody>
+
+    <tr style="width: 100.072%; height: 17px; text-align: center;
+    background-color: #734ea0; color: #dddddd;">
+
+    <td style="height: 17px;">Pain Points</td>
+
+    <td style="height: 17px;">Effect</td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="height: 17px; text-align: center;">1</td>
+
+    <td style="height: 17px; text-align: center;"><strong>Inured to
+    Suffering:</strong> +1 Resilience</td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="height: 17px; text-align: center;">2</td>
+
+    <td style="height: 17px; text-align: center;"><strong>Eager to
+    Flay:</strong> +Rank to Speed.</td>
+
+    </tr>
+
+    <tr style="height: 34px;">
+
+    <td style="height: 34px; text-align: center;">3</td>
+
+    <td style="height: 34px; text-align: center;"><strong>Flensing Fury:
+    </strong>+Rank bonus dice to<br>Weapon Skill tests</td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="height: 17px; text-align: center;">4</td>
+
+    <td style="height: 17px; text-align: center;"><strong>Emboldened by
+    Bloodshed:</strong> +Rank<br>Resilience</td>
+
+    </tr>
+
+    <tr style="height: 17px;">
+
+    <td style="height: 17px; text-align: center;">5+</td>
+
+    <td style="height: 17px; text-align: center;"><strong>Mantle of Agony:
+    </strong>Your Resolve increases<br>by +Double Rank.</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    _id: 2kbNBHxo33S9tCxT
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Inured to Suffering
+    name: Inured to Suffering
+    description: ''
+    statuses: []
+    _key: '!items.effects!6RTgC3gWnsqYdLm5.2kbNBHxo33S9tCxT'
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.speed
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: 3RpsuAxTZ1evntEc
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Eager to Flay
+    name: Eager to Flay
+    description: ''
+    statuses: []
+    _key: '!items.effects!6RTgC3gWnsqYdLm5.3RpsuAxTZ1evntEc'
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.skills.weaponSkill.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: YNEdlEeGiNsvPISX
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Flensing Fury
+    name: Flensing Fury
+    description: ''
+    statuses: []
+    _key: '!items.effects!6RTgC3gWnsqYdLm5.YNEdlEeGiNsvPISX'
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: mHlPDxrKOS2tnCro
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Emboldened by Bloodshed
+    name: Emboldened by Bloodshed
+    description: ''
+    statuses: []
+    _key: '!items.effects!6RTgC3gWnsqYdLm5.mHlPDxrKOS2tnCro'
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 6
+        value: '@advances.rank*2'
+        priority: null
+    _id: nKi4kdM1gUcJ3VDJ
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Mantle of Agony
+    name: Mantle of Agony
+    description: ''
+    statuses: []
+    _key: '!items.effects!6RTgC3gWnsqYdLm5.nKi4kdM1gUcJ3VDJ'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6RTgC3gWnsqYdLm5
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664023706511
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6RTgC3gWnsqYdLm5
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1100000
+_key: '!items!6RTgC3gWnsqYdLm5'

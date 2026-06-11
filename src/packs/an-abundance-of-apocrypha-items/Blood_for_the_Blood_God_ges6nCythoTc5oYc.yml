@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Blood for the Blood God
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: CHAOS keyword, KHORNE keyword
+  description: >-
+    <p>You are a blood-soaked devotee of the Lord of Skulls, and your desire to
+    slay cannot be sated.</p>
+
+    <p>You gain +1d3 Corruption. After you make a melee attack, you may spend 1
+    Wrath to make an additional attack.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WzKcz4M6VeQHeX5F
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663877764668
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: ges6nCythoTc5oYc
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 8100000
+_key: '!items!ges6nCythoTc5oYc'

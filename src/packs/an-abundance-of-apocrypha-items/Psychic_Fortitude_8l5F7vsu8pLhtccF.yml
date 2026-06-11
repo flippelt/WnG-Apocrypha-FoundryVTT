@@ -1,0 +1,112 @@
+name: Psychic Fortitude
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Psychic Fortitude
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@test.result.res'
+        priority: null
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '@test.result.con'
+        priority: null
+    _id: LxVMocRvgbl7f9Y6
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!8l5F7vsu8pLhtccF.LxVMocRvgbl7f9Y6'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.8l5F7vsu8pLhtccF
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Drawing on boundless reserves of inner strength, you shield your allies’
+    minds from mortal fears and the threat of sorcerous assault. If successful,
+    choose a number of allied IMPERIUM allies equal to your Willpower within
+    range. Until the start of your next turn, affected allies add +3 to their
+    Resolve and Conviction.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: INQUISITION
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Resolve
+      cost: 1
+      property: res
+      initial: 3
+      value: 1
+      single: false
+    - description: +1 Conviction.
+      cost: 1
+      property: con
+      initial: 3
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 8l5F7vsu8pLhtccF
+folder: Xna24or3vCqYsURu
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206742
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!8l5F7vsu8pLhtccF'

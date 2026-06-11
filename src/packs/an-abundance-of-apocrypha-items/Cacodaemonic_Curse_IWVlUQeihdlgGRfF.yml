@@ -1,0 +1,127 @@
+name: Cacodaemonic Curse
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Cacodaemonic Curse
+    changes:
+      - key: damage.base
+        mode: 6
+        value: '-2'
+        priority: null
+      - key: ed.base
+        mode: 6
+        value: '-1'
+        priority: null
+      - key: ap.base
+        mode: 6
+        value: '@ap.base*0'
+        priority: null
+    _id: oVFUmbP1fHMp7bq6
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+          '2':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!IWVlUQeihdlgGRfF.oVFUmbP1fHMp7bq6'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.IWVlUQeihdlgGRfF
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>With dark invocations, you summon cackling daemon imps to infest the
+    enemy’s weapons. This targets the ranged weapons of all enemies within a
+    Blast (6) within range and line of sight. Until the start of your next turn,
+    the affected weapons reduce their base damage by 2.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: HERETIC ASTARTES, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affected weapons roll one fewer ED than normal, to a minimum of 0ED.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: Affected weapons’ AP is reduced to 0.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        Affected weapons suffer a complication on any Wrath die roll of 1, 2, or
+        3.
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: IWVlUQeihdlgGRfF
+folder: Etpcm2KGN6kx7ODw
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519049
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!IWVlUQeihdlgGRfF'

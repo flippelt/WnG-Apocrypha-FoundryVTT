@@ -1,0 +1,120 @@
+name: Nightshroud
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Nightshroud
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '@test.result.def'
+        priority: null
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: 0CSv76oRwb3c3bCE
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: 'Nightshroud: Stealth'
+            hide: ''
+    tint: null
+    _key: '!items.effects!PWhAdusDKhkQ8sI6.0CSv76oRwb3c3bCE'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.PWhAdusDKhkQ8sI6
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Calling upon the power of the empyrean, you cloak your allies in a
+    flowing curtain shadow, concealing them from the enemy. Select a number of
+    IMPERIUM allies you can see within range equal to your Willpower. While this
+    power remains in effect, affected allies add +2 to their Defence. If any
+    ally affected attempts a Stealth test, they gain +2 bonus dice.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Defence.
+      cost: 2
+      property: def
+      initial: 2
+      value: 1
+      single: false
+    - description: Affect +1 ally.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        Affected allies who have a Stealth score may increase their Stealth
+        Score by +1 at the start of each turn this power remains in effect.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: PWhAdusDKhkQ8sI6
+folder: XzBZHQMRhqwSzD6z
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206713
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!PWhAdusDKhkQ8sI6'

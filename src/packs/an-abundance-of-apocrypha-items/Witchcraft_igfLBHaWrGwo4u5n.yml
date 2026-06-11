@@ -1,0 +1,57 @@
+folder: fgtFfRbmshJ8KM1n
+name: Witchcraft
+type: ability
+_id: igfLBHaWrGwo4u5n
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are a psyker; you have all the Universal psyker abilities, you know
+    the Smite psychic power. You know the Maleficarum discipline, and receive
+    one power from that Discipline, and you may select one other Psychic
+    Discipline of your choice to learn powers from. </p><p>Further, when you use
+    a psychic power, you may re-roll up to Tier dice on your Psychic Mastery
+    test, but each dice you re-roll counts as an additional Wrath Complication.
+    </p><p>In addition, you gain 1d3x2 Corruption when you select this
+    Archetype.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710614960546
+  modifiedTime: 1710615006728
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!igfLBHaWrGwo4u5n'

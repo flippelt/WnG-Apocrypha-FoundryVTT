@@ -1,0 +1,34 @@
+folder: R6DiCyrJrBf1MKBz
+name: Rain of Death
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Dark Reaper aspect, Ballistic Skill rating 7+
+  description: >-
+    <p>You are a master at delivering precision barrages that few enemies can
+    escape. When the you use a Tempest Launcher or other Indirect ranged weapon
+    to make a ranged attack, they may increase the rating of the Blast trait of
+    the weapon by Double Rank (this also increases the number of enemies in a
+    Mob hit by +Rank). In addition, enemies hit by the blast must pass a Resolve
+    test (DN = your Ballistic Skill rating) or become pinned.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1zB5vGuBIPdAXHVe
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700053520710
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: VrEm1pKTkPmB7G0j
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!VrEm1pKTkPmB7G0j'

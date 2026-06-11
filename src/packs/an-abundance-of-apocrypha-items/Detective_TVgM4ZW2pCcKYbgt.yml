@@ -1,0 +1,205 @@
+folder: tT0eF3TBVmGD5iGo
+name: Detective
+type: archetype
+_id: TVgM4ZW2pCcKYbgt
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Arbites
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IokkMeiQ7h80grCb
+  influence: 2
+  cost: 108
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ARBITES
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 4
+    fellowship: 4
+  skills:
+    athletics: null
+    awareness: 2
+    ballisticSkill: null
+    cunning: 2
+    deception: 2
+    insight: null
+    intimidation: null
+    investigation: 3
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: 2
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Undercover Agent
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zJAls6gHfRnC0BZT
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Flak Coat
+      id: Compendium.wng-core.items.Item.Ru3JSdSw8LOCd3z8
+      type: item
+      diff: {}
+      index: 1
+      groupId: 4dftkYfNRdmISAgX
+    - name: Combi-Tool
+      id: Compendium.wng-core.items.Item.JjxTSDKzy37hRIGd
+      type: item
+      diff: {}
+      index: 2
+      groupId: 8xgMXbJeWKaVygsX
+    - type: generic
+      name: any one ranged weapon of uncommon or lower rarity
+      filters:
+        - test: le
+          property: Rarity
+          value: Uncommon
+        - test: eq
+          property: Catagory
+          value: Ranged
+      index: 3
+      groupId: 2rFesK14WE8BLvGA
+    - name: Knife
+      id: Compendium.wng-core.items.Item.drUoIw7l4vPyI9Zm
+      type: item
+      diff: {}
+      index: 4
+      groupId: R121qwSnlhfTwuqh
+    - name: Auspex
+      id: Compendium.wng-core.items.Item.ao9aV67Lzcvi03KR
+      type: item
+      diff: {}
+      index: 5
+      groupId: Dy3FQgomxGUmQQp8
+    - name: Disguise (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Disguise (Clothing)
+        system:
+          quantity: 3
+      index: 6
+      groupId: gdere4Ryek5UUQAs
+    - name: Disguise (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Disguise (Clothing)
+      index: 7
+      groupId: Q0dGJHwrtmi8yZVh
+    - name: Disguise (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Disguise (Clothing)
+      index: 8
+      groupId: K4CAEItWjfGfMMER
+    - name: Symbol of Authority
+      id: Compendium.wng-core.items.Item.jJVaniinuX8Hjh08
+      type: item
+      diff: {}
+      index: 9
+      groupId: 4fXsXuVurpSAE0Ok
+    - name: Vox Caster
+      id: Compendium.wng-core.items.Item.BqbbsuADNQE5l2yl
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 4dftkYfNRdmISAgX
+      - index: 2
+        type: item
+        groupId: 8xgMXbJeWKaVygsX
+      - type: item
+        index: 3
+        groupId: 2rFesK14WE8BLvGA
+      - index: 4
+        type: item
+        groupId: R121qwSnlhfTwuqh
+      - index: 5
+        type: item
+        groupId: Dy3FQgomxGUmQQp8
+      - index: 6
+        type: item
+        groupId: gdere4Ryek5UUQAs
+      - index: 7
+        type: item
+        groupId: Q0dGJHwrtmi8yZVh
+      - index: 8
+        type: item
+        groupId: K4CAEItWjfGfMMER
+      - index: 9
+        type: item
+        groupId: 4fXsXuVurpSAE0Ok
+      - index: 10
+        type: item
+        groupId: sD2h22bL78jiYtvc
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 4
+      initiative: 4
+      willpower: 4
+      intellect: 4
+      fellowship: 5
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 2
+      cunning: 4
+      deception: 5
+      insight: null
+      intimidation: null
+      investigation: 4
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 3
+      stealth: 3
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: TW7hB9uxxy76Jiyf
+        name: Paranoid
+      - id: 0sjaRWKLl28HwIpN
+        name: Scum Savvy
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710679997448
+  modifiedTime: 1710680354931
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TVgM4ZW2pCcKYbgt'

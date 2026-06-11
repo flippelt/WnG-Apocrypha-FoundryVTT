@@ -1,0 +1,81 @@
+name: Voidsheen Cloak
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Voidsheen Cloak
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 7
+        value: '2'
+        priority: null
+    _id: ZeVPkeNFAkJu7vdb
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Attacks with the Blast quality
+            hide: ''
+    tint: null
+    _key: '!items.effects!WIiuUwnKrboj6ZAE.ZeVPkeNFAkJu7vdb'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.force-shields.Item.WIiuUwnKrboj6ZAE
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The voidsheen cloaks worn by the Oblivion
+    Knights are made from micro-vitrious mesh designed to diffract and absorb
+    energy. These cloaks are especially effective at shielding the wielder from
+    blasts.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">*1; Power Field,
+    Shield</span></p><p></p><p><span class="fontstyle2"><strong>Blast
+    Diffraction:</strong> </span><span class="fontstyle0">A character wearing a
+    Voidsheen Cloak adds +2 to their Resilience against attacks with the Blast
+    quality.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: FORCE FIELD, ANATHEMA PSYKANA
+  equipped: false
+  rating: 1
+  base: 0
+  traits:
+    - name: powerField
+    - name: shield
+  invulnerable: true
+_id: WIiuUwnKrboj6ZAE
+folder: tfjVFu4f5w54iLmI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089903099
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!WIiuUwnKrboj6ZAE'

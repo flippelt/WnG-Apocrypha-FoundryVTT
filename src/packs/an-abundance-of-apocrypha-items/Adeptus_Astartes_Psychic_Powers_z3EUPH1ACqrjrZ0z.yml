@@ -1,0 +1,16 @@
+name: Adeptus Astartes Psychic Powers
+sorting: a
+folder: uKGIaDhU4mPMn7pJ
+type: Item
+_id: z3EUPH1ACqrjrZ0z
+sort: 100000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711980025865
+  modifiedTime: 1711994690513
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!z3EUPH1ACqrjrZ0z'

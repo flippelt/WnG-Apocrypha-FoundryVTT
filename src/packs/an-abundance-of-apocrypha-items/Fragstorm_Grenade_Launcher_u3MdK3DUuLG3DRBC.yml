@@ -1,0 +1,70 @@
+name: Fragstorm Grenade Launcher
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade-launcher.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.u3MdK3DUuLG3DRBC
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Utilised by Primaris Aggressors and aboard
+    certain Astartes vehicles, Fragstorm grenade launchers fire salvoes of
+    charges like frag grenades, though somewhat denser and more compact, raining
+    down fire and shrapnel upon the enemy.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: EXPLOSIVE, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: assault
+    - name: blast
+      rating: 6
+  upgrades: []
+_id: u3MdK3DUuLG3DRBC
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430813
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!u3MdK3DUuLG3DRBC'

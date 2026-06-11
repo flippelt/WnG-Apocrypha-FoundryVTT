@@ -1,0 +1,55 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Lost Upon the Warrior Path
+type: ascension
+_id: LFcPB4GMqQXskTEk
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 15
+  description: >-
+    <p>An Exarch is a former Eldar Aspect Warrior who has lost himself upon the
+    Eldar Path of the Warrior and is unable to ever leave it again. At this
+    point he is considered to have abandoned the Eldar Paths with their promise
+    of new experiences and development of new skills in favour of a constant
+    life of bloodshed. The Eldar becomes the elite warrior called an Exarch;
+    simultaneously, an Exarch is a priest of Kaela Mensha Khaine, the Eldar God
+    of War as well as a caretaker of the individual warrior shrine, and trainer,
+    teacher, and instructor for other Aspect Warriors. The sacrifice of an Eldar
+    Exarch can summon an Avatar of Kaela Mensha Khaine. He is equipped with
+    ancient and powerful Eldar weaponry and armour. Each Eldar Warrior Aspect
+    has its own kind of Exarch. On the battlefield, an Exarch commands an
+    individual squad of Eldar Aspect Warriors.</p>
+  requirements: Aeldari species, ASPECT WARRIOR keyword
+  keywords: EXARCH
+  influence: 1
+  benefits: >-
+    <p><strong>INFLUENCE BONUS</strong>: +1 per Tier
+    ascended</p><p><strong>STORY ELEMENT</strong>: You take up the armour,
+    identity, and Aspect Shrine of an Exarch of your Aspect. This has a number
+    of effects: </p><p><strong>LOST TO WAR</strong>: You increase the DN of all
+    Interaction tests against non-warriors by +2, and they suffer the same
+    penalty in return. </p><p><strong>STUDENTS OF WAR</strong>: You gain
+    followers as per the Devotees talent, without needing to meet the Leadership
+    requirement. These followers are Aspect Warriors from your shrine.
+    </p><p><strong>MASTER OF WAR</strong>: You may purchase Exarch powers. You
+    may purchase one power if you are Tier 4, or two if you are Tier 5 or
+    higher.</p><p><strong>WARGEAR</strong>: You replace your Aspect Armour with
+    Exarch Armour, which provides the same functions but has an Armour Rating of
+    6 and loses the Bulky (X) or Cumbersome traits (if it had them). All your
+    weapons gain the Master-Crafted upgrade, and you may replace one of your
+    weapons with a weapon of any rarity and a Value of up to 5 + the new Tier.
+    The GM may create a unique weapon, an ancient relic of the Aeldari, for this
+    purpose.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710793626768
+  modifiedTime: 1710793723304
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!LFcPB4GMqQXskTEk'

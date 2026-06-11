@@ -1,0 +1,49 @@
+name: Anti-Grav Platform
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.K7TB6nzy9zF6w7tL
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">The advanced gravity-defying technology on the
+    platforms allows the Eldar to move heavy weapons and other heavy equipment
+    rapidly and effortlessly across the field of battle regardless of
+    terrain.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">An Anti-Grav Platform has a Speed of 8 and will
+    automatically attempt to stay within 3m of the operator. It floats about a
+    metre above the ground and will ignore any obstacles or hindrances of that
+    height or smaller. A Heavy weapon mounted on the platform always counts as
+    Braced, and the operator may fire the weapon from up to 3m away, determining
+    line of sight and line of fire from the weapon instead. The platform can be
+    used to carry other heavy equipment, such as Serpent Shield
+    generators.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: ASURYANI
+  effect: ''
+_id: K7TB6nzy9zF6w7tL
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240219
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 900000
+_key: '!items!K7TB6nzy9zF6w7tL'

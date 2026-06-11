@@ -1,0 +1,104 @@
+name: Jaws of the World Wolf
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Prone
+    icon: systems/wrath-and-glory/asset/icons/conditions/prone.svg
+    statuses:
+      - prone
+    _id: tIcfsu1lLK9EmbpS
+    changes: []
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!h19aumQvVuf9q2Us.tIcfsu1lLK9EmbpS'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.h19aumQvVuf9q2Us
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You implore the spirit of the world upon which you walk to open its
+    rock-fanged maw. The power affects all creatures in a Blast (6) within
+    range. Those affected must pass an Agility test (DN 5) or suffer 1d3+2
+    Mortal Wounds and be knocked prone.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: SPACE WOLVES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3+2
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound.
+      cost: 2
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+    - description: +1 DN to Agility test
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: Affected area is a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: 5
+    type: attribute
+    specification: agility
+_id: h19aumQvVuf9q2Us
+folder: h4kiPhIt6oM6JLum
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959337
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!h19aumQvVuf9q2Us'

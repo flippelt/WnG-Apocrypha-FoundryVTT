@@ -1,0 +1,156 @@
+folder: lEqVRehKQvTYGEoK
+name: Wrack
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 0
+  cost: 48
+  keywords:
+    - AELDARI
+    - '[COVEN]'
+    - DRUKHARI
+    - HAEMACOLYTE
+  attributes:
+    strength: 4
+    toughness: 3
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: 2
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Insensible to Pain
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OnNghEtbDMwo4gIb
+  wargear:
+    - name: Gnarlskin
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jwhZEz55iwDJQeNa
+      type: item
+      diff: {}
+      index: 0
+      groupId: 5tsN0ZgSdntngNJ2
+    - name: Wrack Blades
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.EVbXne3acZaVegdV
+      type: item
+      diff: {}
+      index: 1
+      groupId: JA6U8P1Tm3bpHxlY
+    - name: Haemacolyte’s Tools
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.22vKcISQfWYT89J7
+      type: item
+      diff: {}
+      index: 2
+      groupId: 2PgRAaWCk0nx69td
+    - type: generic
+      name: Any one Augmetic with the DRUKHARI keyword and a rarity of up to Rare
+      filters:
+        - test: eq
+          property: keywords
+          value: DRUKHARI
+        - test: le
+          property: Rarity
+          value: Rare
+        - test: eq
+          property: Type
+          value: Augmetic
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 0
+        groupId: 5tsN0ZgSdntngNJ2
+      - type: item
+        index: 1
+        groupId: JA6U8P1Tm3bpHxlY
+      - type: item
+        index: 2
+        groupId: 2PgRAaWCk0nx69td
+      - type: item
+        index: 3
+        groupId: 6qHKl8eZFp6rUCgI
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: 2
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: 1
+      insight: 1
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: 26UYjRZ4VBoL1EyC
+        name: Blood Must Flow!
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.csZLXhelHYwWOUNV
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699539703767
+  modifiedTime: 1710602964232
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: KMIuNCxHsCBh2y5K
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 400000
+_key: '!items!KMIuNCxHsCBh2y5K'

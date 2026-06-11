@@ -1,0 +1,167 @@
+folder: cZ7bosRjx1cxapg8
+name: Chaos Cultist
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Chaos
+    id: Item.oNSe7G9pJIHehwhI
+  influence: 0
+  cost: 8
+  keywords:
+    - CHAOS
+    - HERETIC
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: 2
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: 1
+    deception: 1
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: The Enemy Within
+    id: Item.YRdgxzjNSb55HtIW
+  wargear:
+    - name: Autogun
+      id: Item.fQCOj3mVrhnIEOty
+      type: item
+      diff: {}
+      index: 0
+      groupId: alb4IZcbboyZASHv
+    - name: Stubber
+      id: Item.BpQ1EYnjQP61Edvp
+      type: item
+      diff: {}
+      index: 1
+      groupId: 6kgsmnsBEy3p2W1f
+    - name: Industrial Bludgeon
+      id: Item.mw8BHTZftejjfcLn
+      type: item
+      diff: {}
+      index: 2
+      groupId: tDaNBm1MBzOhPsal
+    - type: generic
+      name: Unholy Icon
+      filters: []
+      index: 3
+      groupId: 5m9ho56pY7AL23yv
+    - name: Munitorum-Issue Mess Kit
+      id: Item.mOWPCO1mNXNKsGNa
+      type: item
+      diff: {}
+      index: 4
+      groupId: 9QTl3VxDuBm2FrfA
+    - type: generic
+      name: Tattered Blanket
+      filters: []
+      index: 5
+      groupId: UOc3ngGvSDJVW0Ku
+    - type: generic
+      name: Ordinary Citizen's Clothing
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: or
+        items:
+          - type: and
+            items:
+              - type: item
+                index: 2
+                groupId: tDaNBm1MBzOhPsal
+              - type: item
+                index: 1
+                groupId: 6kgsmnsBEy3p2W1f
+            groupId: WPwtR2UXAR7aprxm
+          - type: item
+            index: 0
+            groupId: alb4IZcbboyZASHv
+        groupId: Dc5rxMr50ntjcV4h
+      - type: item
+        index: 3
+        groupId: 5m9ho56pY7AL23yv
+      - index: 4
+        type: item
+        groupId: 9QTl3VxDuBm2FrfA
+      - type: item
+        index: 5
+        groupId: UOc3ngGvSDJVW0Ku
+      - type: item
+        index: 6
+        groupId: w5FnzIlx1i43qdO2
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 1
+      fellowship: 3
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 2
+      cunning: 2
+      deception: 2
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: 1
+      survival: 1
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: zuaCZ6JEmAB9LUYt
+        name: Betrayer
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+      - id: cjIXYREw9Ar63CXc
+        name: Supplicant
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699537432016
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: E3g9JOgGvNKku6A7
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!E3g9JOgGvNKku6A7'

@@ -1,0 +1,54 @@
+folder: fgtFfRbmshJ8KM1n
+name: Crime Scene Investigation
+type: ability
+_id: WCnPLMkSlOYM1huI
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You have seen enough crime scenes that you can quickly identify common
+    patterns. When you shift one or more Exalted Icons on an Investigation test,
+    you count as having shifted +Rank additional Exalted Icons (this doesn’t
+    affect whether you pass or fail, just the number of extra benefits you get
+    from shifting).</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710700962363
+  modifiedTime: 1710700985780
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!WCnPLMkSlOYM1huI'

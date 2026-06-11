@@ -1,0 +1,61 @@
+folder: Jr1XUs92ggb9r4uN
+name: Twin Plasma Rifles
+type: weapon
+_id: u5R4Duo9sHDOIRN5
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">A paired set of plasma rifles with a linked
+    targeting system, used to supplement the firepower of the XV88 at close
+    range.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 0
+  keywords: ''
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 11
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+  upgrades: []
+effects: []
+sort: 1100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710107274201
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!u5R4Duo9sHDOIRN5'

@@ -1,0 +1,56 @@
+name: Pentagrammic Wards
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.force-shields.Item.P12OMcdHa2lgsQPl
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Sometimes known as a shield of faith, a
+    Pentagrammic Ward is a collection of psychoreactive symbols and patterns,
+    inlaid and inscribed using sacred materials, which repels daemons. The
+    Inquisition regards knowledge of Pentagrammic Wards as extremely sensitive,
+    as heretics can use the same techniques to capture and bind
+    daemons.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">*5; Power Field</span></p><p></p><p><span
+    class="fontstyle2"><strong>Daemonbane</strong>: </span><span
+    class="fontstyle0">Any creature with the </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">DAEMON </span><span class="fontstyle0">keyword
+    attempting to attack or interact with Pentagrammic Wards (or something
+    warded with them) must take a </span><span class="fontstyle3">Terror
+    </span><span class="fontstyle0">test (DN 5). Pentagrammic wards provide no
+    protection— not even Armour Rating—against attacks from non-Daemons.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: WARD, IMPERIUM, INQUISITION, ORDO MALLEUS
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powerField
+  invulnerable: true
+_id: P12OMcdHa2lgsQPl
+folder: tfjVFu4f5w54iLmI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089903096
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!P12OMcdHa2lgsQPl'

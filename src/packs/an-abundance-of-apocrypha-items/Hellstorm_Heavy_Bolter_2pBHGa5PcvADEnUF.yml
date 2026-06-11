@@ -1,0 +1,65 @@
+name: Hellstorm Heavy Bolter
+type: weapon
+img: modules/wng-core/assets/icons/weapons/heavy-bolter.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A form of Heavy Bolter which sacrifices range and penetrative power for
+    fire rate, used in support of Hellstorm Bolt Rifles.</p>
+  value: 7
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 4
+  traits:
+    - name: brutal
+    - name: heavy
+      rating: 4
+    - name: rapidFire
+      rating: 4
+  upgrades: []
+effects: []
+flags:
+  scene-packer:
+    hash: 901ff81e6ef8c012c6ef5c1917d3bf6e7649f768
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665425372362
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: 2pBHGa5PcvADEnUF
+sort: 1000000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!2pBHGa5PcvADEnUF'

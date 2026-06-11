@@ -1,0 +1,57 @@
+name: Iyanden
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: Stoic and Tenacious
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: SBkr6kxcqfK7yaca
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!CqJxWhZME2AVY4yk.SBkr6kxcqfK7yaca'
+folder: 16S9xUIVnroLJhc3
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 2000000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.trlMuMNd5ecoLHSr
+system:
+  description: >-
+    <p>Iyanden drifts through the stars of the eastern rim. Once, its halls were
+    busy and vibrant with life, but no longer. Now, it is but a shadow of its
+    former glory, a sombre and desolate vessel where the dead walk and the
+    living dwindle. The Iyanden people have endured much, and suffered great
+    tragedy, but they do not allow their despair to consume
+    them.</p><p><strong>STOIC AND TENACIOUS</strong>: Your Resolve is increased
+    by +Rank.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699479568268
+  modifiedTime: 1710530465710
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: CqJxWhZME2AVY4yk
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!CqJxWhZME2AVY4yk'

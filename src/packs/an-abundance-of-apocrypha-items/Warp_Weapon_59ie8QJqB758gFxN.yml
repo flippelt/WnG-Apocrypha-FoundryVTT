@@ -1,0 +1,79 @@
+name: Warp Weapon
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial.Item.59ie8QJqB758gFxN
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Your undying faith in the God-Emperor allows you to perform amazing feats
+    that can normally only be performed by warp entities. By tapping into the
+    flow of warp energy that passes through the Materium, you use your faith to
+    imbue a single melee weapon with aethyric power. Until the end of your next
+    turn, one melee weapon you hold in your grasp gains the Blessed (1) and Warp
+    Weapon traits.</p>
+  effect: ''
+  cost: 15
+  activation: simple
+  duration: 1 Round
+  range: Touch
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ADEPTUS ASTRA TELEPATHICA
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Increase Blessed rating to 2
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: The power’s effects last +1 Round.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 59ie8QJqB758gFxN
+folder: BOwa2ac4VoE8QlCY
+sort: 156250
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005206790
+  modifiedTime: 1712180960071
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!59ie8QJqB758gFxN'

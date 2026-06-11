@@ -1,0 +1,843 @@
+folder: r1d1tnSrDdQX8mqt
+name: Murder Servitor
+type: threat
+img: modules/wng-core/assets/tokens/servitor.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 8
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: null
+      bonus: 0
+      max: null
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 8
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: '-'
+      second: E
+      third: E
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 6 Rare</p><p>Commonly used aboard starships to
+    supplement boarding parties and raiding forces, murder servitors are
+    ghoulish, skull-masked killing machines. The most common patterns take the
+    form of a hunched, predatory monster, driven by sadistic and aggressive
+    machine spirits. Mono-talons and viscerator-limbs allow them to tear apart
+    most living foes, while meltacutters allow them to burn through bulkheads
+    and destroy equipment. Designed to intimidate as much as to kill, murder
+    servitors are consummate hunters, stalking their prey and moving with
+    inhuman speed. If not ordered otherwise, they spend hours hunting any living
+    creature not programmed into their spoor-targeters, undeterred by any
+    obstruction and unhindered by fear or humanity.</p>
+prototypeToken:
+  name: Murder Servitor
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/servitor.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - name: Iron Soul
+    type: talent
+    _id: sDlvsafMiRjdQOBc
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower is unaffected by abilities that target the mind, and
+        never needs to make a Resolve test to continue fighting.</p>
+      display: true
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 200000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.8O7OfESDO1thpEae
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359147151
+      modifiedTime: 1710412948328
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.sDlvsafMiRjdQOBc'
+  - _id: fjoAXeYO1p4Hujsq
+    name: IMPERIUM
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 3500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ
+    system:
+      description: >-
+        <p>The vast interstellar empire of Humanity that spans over a million
+        worlds, led by the Emperor from Holy Terra. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656027
+      modifiedTime: 1710412964125
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.fjoAXeYO1p4Hujsq'
+  - _id: v6KX0byNjkezKOjA
+    name: ADEPTUS MECHANICUS
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 1800000
+      core:
+        sourceId: Compendium.wng-core.items.Item.1TbplwZV3WYZkQEk
+    system:
+      description: >-
+        <p>Adherents to the Cult Mechanicus, the Mars-based cult of the machine
+        that supply the Imperium with its advanced technology and guard the
+        sacred knowledge of its workings. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656020
+      modifiedTime: 1710412982727
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.v6KX0byNjkezKOjA'
+  - _id: xRU6OQJDpcjW8VNA
+    name: SERVITOR
+    type: keyword
+    img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 5500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.q3m2xbmCFfUEPTMb
+    system:
+      description: >-
+        <p>AI, or Abominable Intelligence, is a sin to the Cult Mechanicus.
+        Their many technological servants, known as Servitors, are all
+        constructed around biological brains supplemented with holy
+        mechanisms.</p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656030
+      modifiedTime: 1710413014377
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.xRU6OQJDpcjW8VNA'
+  - name: Determination
+    type: ability
+    _id: Q47z0pTeurC14WjB
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Glory to roll 5d6</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 100000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.NyytzXiTWO84CSRs
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359735702
+      modifiedTime: 1710416847408
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.Q47z0pTeurC14WjB'
+  - name: 'Complication: Murderlock'
+    type: ability
+    _id: oGJiXOgyWyskN5Vl
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The Servitor is Frenzied for 1 round. This can be negated by an ally
+        succeeding on a DN 3 Tech (Int) Test.</p>
+      display: true
+      abilityType: complication
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects:
+      - name: Frenzied
+        icon: systems/wrath-and-glory/asset/icons/conditions/frenzied.svg
+        changes:
+          - key: system.attributes.strength.bonus
+            mode: 2
+            value: '1'
+            priority: null
+        statuses:
+          - frenzied
+        _id: gqPYZw5MUEhaSMr4
+        disabled: false
+        duration:
+          startTime: null
+          seconds: null
+          combat: null
+          rounds: null
+          turns: null
+          startRound: null
+          startTurn: null
+        description: ''
+        origin: null
+        transfer: true
+        flags: {}
+        _key: >-
+          !actors.items.effects!PXGiV7yvKuBZHG0B.oGJiXOgyWyskN5Vl.gqPYZw5MUEhaSMr4
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710413088497
+      modifiedTime: 1710416893865
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.oGJiXOgyWyskN5Vl'
+  - name: Augmetics
+    type: armour
+    _id: JkyN5yEtYVA2lxTW
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710413296194
+      modifiedTime: 1710416524479
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.JkyN5yEtYVA2lxTW'
+  - _id: Pc7dvzNWvqeo5QDc
+    name: NAVIS IMPERIALIS
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 4300000
+      core:
+        sourceId: Compendium.wng-core.items.Item.CLNosYIpUPPODQ15
+    system:
+      description: >-
+        <p>The Imperial organisation responsible for the operation and
+        application of voidships. The Navis Imperialis, or Imperial Navy, ferry
+        the Astra Militarum from one of a million battles to another, and engage
+        in void combat with the many spacefaring enemies of the Imperium. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656022
+      modifiedTime: 1710416726505
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.Pc7dvzNWvqeo5QDc'
+  - name: Second Strike
+    type: talent
+    _id: Zx4gno1RrN7IvyMB
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower reduces the Multi-Attack penalty by 2 DN, as though it
+        had the Dual Wield Talent.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710416790215
+      modifiedTime: 1710416821567
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.Zx4gno1RrN7IvyMB'
+  - name: Mono-Talons
+    type: weapon
+    _id: yubvrM3HCbuzCM49
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 8
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: tearing
+          custom: true
+          display: Tearing
+          description: >-
+            The weapon rips and tears at their enemies, inflicting horrific
+            wounds. When you roll for damage with this weapon, you may re-roll
+            any number of ED.
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710416946688
+      modifiedTime: 1710417213818
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.yubvrM3HCbuzCM49'
+  - name: Viscerator Limb
+    type: weapon
+    _id: YDFYDJ3VYJP4wmoV
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 4
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: brutal
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710417218758
+      modifiedTime: 1710417266836
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.YDFYDJ3VYJP4wmoV'
+  - name: Melta-Cutters
+    type: weapon
+    _id: Q9kyt4ejZJUkHVjA
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 16
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 3
+        medium: 6
+        long: 9
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: melta
+        - name: spread
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710417269414
+      modifiedTime: 1710417345144
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!PXGiV7yvKuBZHG0B.Q9kyt4ejZJUkHVjA'
+effects: []
+sort: 100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710413088497
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: PXGiV7yvKuBZHG0B
+_key: '!actors!PXGiV7yvKuBZHG0B'

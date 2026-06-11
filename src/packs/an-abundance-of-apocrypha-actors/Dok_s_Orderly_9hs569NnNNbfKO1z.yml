@@ -1,0 +1,698 @@
+folder: 5AIDdWm2WtYV7NQQ
+name: Dok's Orderly
+type: threat
+img: modules/wng-core/assets/images/grot.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 4
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 2
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: small
+    speed: 5
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: T
+      second: T
+      third: T
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 3 Common</p><p>Gretchin or Grotz are basically a
+    smaller subspecies of Orks, who are more cowardly than normal Orks and are
+    usually used as living shields, to clear mine fields, are stepped on to get
+    through difficult terrain, and sometimes even as emergency rations.
+    Gretchins are quite low in the strict hierarchy of Ork society because of
+    their small size (the lowest Orkoids being the Snotlings) and are often used
+    for the dirtiest jobs like scavenging and being used as the football when
+    the bigger Orks get bored.</p><p>While they are not as aggressive as
+    standard Orks, they enjoy fighting weaker opponents and are less likely to
+    flee if they comfortably outnumber their opponents. If a Gretchin is
+    particularly wealthy, he may purchase a second-hand, worn-down, low-tech
+    gun. These guns are mainly to reassure the Gretchin that they have a chance
+    of killing something, provided they remember which way to hold the
+    gun.</p><p>Even so, Gretchin have to be forced into battle by Runtherdz who
+    utilise grabba sticks in order to ensure that the Gretchin stay in battle. A
+    skilled Runtherd can grab a fleeing Gretchin and hurl him into a minefield
+    with one smooth motion. The more tech-savvy of the Runtherdz use a grot prod
+    which delivers an electric charge to a Gretchin's vulnerable
+    parts.</p><p>Basically, all Gretchin work as slaves for Orks, although there
+    is a faction of revolutionary Rebel Grots that developed in the chaos of the
+    Ork World of Gorkamorka. As they are a bit more organised than the larger
+    Orks, Gretchin are often used to maintain Greenskin war machines and
+    artillery. Such work is considered highly undesirable by most Orks because
+    it prevents them from being in the heart of the battle. Gretchin also serve
+    as attendants or "ammo runts" to Ork Warbosses, assistants to Ork Mekboyz,
+    and orderlies to Ork Mad Doks.</p>
+prototypeToken:
+  name: Dok's Orderly
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/grot.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - folder: NIfHOAfLrRCoYd1Y
+    name: Gretchin
+    type: keyword
+    _id: AQ0Z9cwSCgkL22yl
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.aBlMy2369qc4ZXdM
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710435737318
+      modifiedTime: 1710435772343
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.AQ0Z9cwSCgkL22yl'
+  - folder: NIfHOAfLrRCoYd1Y
+    name: Runts
+    type: keyword
+    _id: nYbVW5wiT3sz5Hdu
+    img: modules/wng-core/assets/factions/orks.svg
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.bqL6783i6DVf3Ovq
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710435756971
+      modifiedTime: 1710435773495
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.nYbVW5wiT3sz5Hdu'
+  - name: Ammo Runt
+    type: talent
+    _id: fNLt1AthrVYbU9tH
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>An Ammo Runt carries two Reloads for its owner. The owner may ignore
+        the first Complication they suffer on a ranged attack.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710435912243
+      modifiedTime: 1710435926890
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.fNLt1AthrVYbU9tH'
+  - name: Cowardly
+    type: talent
+    _id: vFkGmwSsJO4AQS8j
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>When making a Resolve test, if the Wrath die rolls a failure, it is
+        counted as a Complication.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710435930570
+      modifiedTime: 1710435948706
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.vFkGmwSsJO4AQS8j'
+  - name: Determination
+    type: ability
+    _id: 2j9cwC3jt36cXUrL
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Glory to roll 2d6</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 100000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.NyytzXiTWO84CSRs
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359735702
+      modifiedTime: 1710436012593
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.2j9cwC3jt36cXUrL'
+  - name: Grot Blasta
+    type: weapon
+    _id: iUH37JgNmGFISIAS
+    img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 7
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 1
+      traits:
+        - name: pistol
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710436043069
+      modifiedTime: 1710436174843
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.iUH37JgNmGFISIAS'
+  - name: Sneaky Stabba
+    type: weapon
+    _id: yHG1DXsPkTZWyeWI
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 3
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: silent
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710436097692
+      modifiedTime: 1710436181041
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.yHG1DXsPkTZWyeWI'
+  - name: Dok's Orderly
+    type: talent
+    _id: 87vdMUucuuGCovUs
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>A Dok’s Orderly has a Medicae skill of 5. When a DOK has a Grot
+        Orderly within 2m, they may re-roll any 1s on their Medicae tests.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710436507256
+      modifiedTime: 1710436524722
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.87vdMUucuuGCovUs'
+  - name: Grot Shields
+    type: ability
+    _id: rPg9TkdoWxBXI4cG
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Any ORK Agents count as having full cover (+2 Defence) when they are
+        behind and within 6, of a Gretchin mob. Each failed attack against ORK
+        Agents benefitting from this inflicts 1d3 Mortal Wounds on the Gretchin
+        Mob instead.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710436544723
+      modifiedTime: 1710436748327
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!9hs569NnNNbfKO1z.rPg9TkdoWxBXI4cG'
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710435534390
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 9hs569NnNNbfKO1z
+_key: '!actors!9hs569NnNNbfKO1z'

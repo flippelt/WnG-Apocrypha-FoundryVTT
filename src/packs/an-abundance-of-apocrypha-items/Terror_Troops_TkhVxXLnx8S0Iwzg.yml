@@ -1,0 +1,51 @@
+folder: fgtFfRbmshJ8KM1n
+name: Terror Troops
+type: ability
+_id: TkhVxXLnx8S0Iwzg
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you charge an enemy who was unaware of you before you charged, they
+    must make a Fear test with a DN equal to your Stealth Score.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710719136769
+  modifiedTime: 1710719171877
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TkhVxXLnx8S0Iwzg'

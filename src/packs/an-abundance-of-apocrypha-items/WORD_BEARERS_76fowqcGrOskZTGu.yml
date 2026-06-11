@@ -1,0 +1,56 @@
+name: WORD BEARERS
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/word-bearers-white.png
+effects: []
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.76fowqcGrOskZTGu
+system:
+  description: >-
+    <p>Long ago, they were devout servants of the Emperor, faithful in an age
+    where faith was scorned. They brought the Emperor&rsquo;s light to many
+    worlds, building great monuments to the Imperium and converting populations
+    to the Imperial Truth. But, when the Emperor rebuked their worship, the Word
+    Bearers turned to other, darker gods, and set in motion events that would
+    tear the Imperium asunder. The Legion now consists of warbands of
+    daemon-worshipping zealots, sorcerer-priests, and the possessed.</p>
+
+    <h5>Profane Zeal</h5>
+
+    <p>The Word Bearers march to war for the glory of the Dark Gods.</p>
+
+    <p>You may reroll any failed Resolve test. In addition, you are immune to
+    fear caused by creatures with the @Item[eeSvJvzZBjQvtZq0]{DAEMON}
+    keyword.</p>
+
+    <h5>The Will of the Gods (Tradition)</h5>
+
+    <p>Word Bearers follow the will of the Chaos Gods, as interpreted through
+    their prayers and visions, and through the guidance of their Apostles, and
+    must strive to walk the path the Dark Gods set before them.</p>
+
+    <p>You start each session with 1 Wrath Point instead of 2.</p>
+
+    <h5>&nbsp;</h5>
+
+    <p>&nbsp;</p>
+
+    <p>&nbsp;</p>
+
+    <h5>&nbsp;</h5>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056389
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 76fowqcGrOskZTGu
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!76fowqcGrOskZTGu'

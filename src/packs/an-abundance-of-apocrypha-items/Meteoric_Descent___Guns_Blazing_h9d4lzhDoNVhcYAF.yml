@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Meteoric Descent + Guns Blazing
+type: ability
+_id: h9d4lzhDoNVhcYAF
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You run, sprint, or charge using your jump pack, any enemy within 2m of
+    the point where you landed must pass an Agility test (DN 2+Rank) or be
+    knocked prone and suffer a Mortal Wound. </p><p></p><p><strong>Guns
+    Blazing</strong>: When you wield a pair of Assault Bolters or Plasma
+    Exterminators, you may benefit from the Dual Wield or Simultaneous Strike
+    talents even though those weapons lack the Pistol trait.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710718163250
+  modifiedTime: 1710718179909
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!h9d4lzhDoNVhcYAF'

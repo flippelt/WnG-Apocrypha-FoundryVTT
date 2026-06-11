@@ -1,0 +1,108 @@
+name: Indomitable, Incorruptible
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: Nz5XWgXiZno5Lmzk
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: Indomitable, Incorruptible
+    description: ''
+    statuses: []
+    _key: '!items.effects!isjWWbgWCxNXSnEC.Nz5XWgXiZno5Lmzk'
+  - _id: y1f3vn4vb82t16bD
+    changes:
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '4'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    origin: null
+    tint: null
+    name: Indomitable, Incorruptible
+    description: ''
+    statuses: []
+    _key: '!items.effects!isjWWbgWCxNXSnEC.y1f3vn4vb82t16bD'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.x7s2f6fyNvNvnScl
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p><span class="fontstyle0">You add +2 to your Resolve, and you
+    automatically succeed on all Corruption Tests. Your Maximum Wounds are
+    increased by +4.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057095
+  modifiedTime: 1710522169718
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: isjWWbgWCxNXSnEC
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!isjWWbgWCxNXSnEC'

@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Grim Visage
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Willpower 6+
+  description: >-
+    <p>Your presence inspires feelings of foreboding and dread in their foes.
+    Characters within 12 yards of you add +Rank to the DN of Resolve tests they
+    are required to take. Your squad is immune to this effect.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.w3fbeEKQfzk6gDYi
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700052884804
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: LmaJVp3eB7sUaDo6
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!LmaJVp3eB7sUaDo6'

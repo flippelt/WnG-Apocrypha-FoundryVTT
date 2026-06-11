@@ -1,0 +1,87 @@
+name: Fury of Nocturne
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.h9s997XAW5AKbPQ4
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You channel your powers into the ground around you to create a microcosm
+    of Nocturne around your foes. The earth darkens and begins to split, before
+    towering flames and boiling magma spew forth to burn the enemies of the
+    Salamanders to cinders. The power affects all creatures in a Blast (10)
+    within range. Affected targets suffer a hit with Damage 15 +4ED, adding your
+    Willpower score to the base damage, with an AP of -3. Further anyone hit
+    must pass an Agility test (DN 5) or be set On Fire.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: FIRE, PSYCHIC
+  prerequisites: SALAMANDERS
+  damage:
+    base: 15
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1ED damage.
+      cost: 2
+      property: damage.ed.number
+      initial: ''
+      value: 1
+      single: false
+    - description: Increase DN of Agility test by +1
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: Increase the area effected to a Blast (20).
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: 5
+    type: attribute
+    specification: agility
+_id: h9s997XAW5AKbPQ4
+folder: 2jEPrFTYa93W4edw
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959285
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!h9s997XAW5AKbPQ4'

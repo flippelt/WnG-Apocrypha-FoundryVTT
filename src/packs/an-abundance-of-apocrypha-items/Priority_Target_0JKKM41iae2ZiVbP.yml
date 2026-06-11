@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Priority Target
+type: ability
+_id: 0JKKM41iae2ZiVbP
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>At the start of the first round of combat, before any actions are taken,
+    select a single enemy you can see or who you know for certain is present in
+    the scene. They are your priority target. Against your priority target, you
+    may re-roll up to Rank dice on all Awareness tests and attacks. </p><p>Once
+    your priority target has been slain, you may select a new priority target as
+    a Simple Action</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710609153016
+  modifiedTime: 1710609173133
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0JKKM41iae2ZiVbP'

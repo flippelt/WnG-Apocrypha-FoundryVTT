@@ -1,0 +1,183 @@
+name: Primaris Inceptor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects: []
+folder: j5mcT1m1I7srvO3E
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.r6irhVzrjCuy9PFM
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: CN5E9Z5GqfiR1MDn
+  influence: 1
+  cost: 230
+  keywords:
+    - PRIMARIS
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 4
+    initiative: 4
+    willpower: 3
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 1
+    psychicMastery: null
+    scholar: null
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Meteoric Descent + Guns Blazing
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.h9d4lzhDoNVhcYAF
+  wargear:
+    - name: Gravis Mark X
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3KXpwHWBLoEvtxrQ
+      type: item
+      diff: {}
+      index: 0
+      groupId: y89hKi5GCv3hyjwb
+    - name: Jump Pack
+      id: Compendium.wng-core.items.Item.fYcfZQb8Um0jf6mK
+      type: item
+      diff: {}
+      index: 1
+      groupId: WmSWa7NcLGcgfGV5
+    - name: Grav-Chute
+      id: Compendium.wng-core.items.Item.1oDvFKX7fVW8ic2R
+      type: item
+      diff: {}
+      index: 2
+      groupId: eEZbJ2gIgnmliXhM
+    - name: Assault Bolter
+      id: Compendium.wng-core.items.Item.J0Xgl53Iv9VYMCvl
+      type: item
+      diff: {}
+      index: 3
+      groupId: uSZuytCB3uXQbFi0
+    - name: Assault Bolter
+      id: Compendium.wng-core.items.Item.J0Xgl53Iv9VYMCvl
+      type: item
+      diff: {}
+      index: 4
+      groupId: Cf5Q99YymycNJGQy
+    - name: Plasma Exterminator
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QmxMWePZwTGuhGzA
+      type: item
+      diff: {}
+      index: 5
+      groupId: v2dmJslr6VDJn8u4
+    - name: Plasma Exterminator
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QmxMWePZwTGuhGzA
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: y89hKi5GCv3hyjwb
+      - index: 1
+        type: item
+        groupId: WmSWa7NcLGcgfGV5
+      - index: 2
+        type: item
+        groupId: eEZbJ2gIgnmliXhM
+      - type: or
+        items:
+          - type: and
+            items:
+              - index: 5
+                type: item
+                groupId: v2dmJslr6VDJn8u4
+              - index: 6
+                type: item
+                groupId: EiGsm8sqTy7b62LK
+            groupId: PcdFRFhxxvvASXi5
+          - type: and
+            items:
+              - index: 4
+                type: item
+                groupId: Cf5Q99YymycNJGQy
+              - index: 3
+                type: item
+                groupId: uSZuytCB3uXQbFi0
+            groupId: aFj9aLQ3hPfXQRks
+        groupId: P38gcWRKHy2yiARL
+  suggested:
+    attributes:
+      strength: 6
+      toughness: 6
+      agility: 6
+      initiative: 4
+      willpower: 3
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 4
+      ballisticSkill: 6
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 2
+      psychicMastery: null
+      scholar: 1
+      stealth: 3
+      survival: null
+      tech: 1
+      weaponSkill: 3
+    talents:
+      - id: YB4sl4A5toyumeAy
+        name: Angel Of Death
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: PB5cA0QmFNcxpHm4
+        name: Simultaneous Strike
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219054993
+  modifiedTime: 1710718251003
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: r6irhVzrjCuy9PFM
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!r6irhVzrjCuy9PFM'

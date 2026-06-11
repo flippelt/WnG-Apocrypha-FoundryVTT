@@ -1,0 +1,34 @@
+folder: QS8D6Ywysk6wC2xq
+name: SHADOWKEEPER
+type: keyword
+_id: cbCAqCT02qHXnQ76
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p><span class="fontstyle0">The Shadowkeepers watch over the Dark Cells
+    beneath the Imperial Palace and keep trammelled the dread entities and
+    technologies sealed within. Should such potent and terrible manifestations
+    appear abroad in the Imperium, it falls to the Shadowkeepers to capture and
+    imprison them.</span></p><p></p><p><span
+    class="fontstyle2"><strong>WARDEN</strong>: </span><span
+    class="fontstyle0">When an enemy engaged with you attempts to Fall Back,
+    roll a number of d6 equal to Double Rank. For each Icon rolled, the enemy’s
+    Speed is reduced by 1.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710530940124
+  modifiedTime: 1710530961089
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!cbCAqCT02qHXnQ76'

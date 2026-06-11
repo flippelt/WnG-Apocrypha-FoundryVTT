@@ -1,0 +1,159 @@
+folder: j5mcT1m1I7srvO3E
+name: Space Marine Librarian (Apocrypha Version)
+type: archetype
+_id: eKbt86TLBf1sUX03
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 2
+  cost: 367
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+    - PSYKER
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 6
+    intellect: 4
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 3
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: 1
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 4
+    scholar: 3
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 4
+  ability:
+    name: Psyker
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1yhDwAyqcV4xNYkC
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aquila Mk VII
+      id: Compendium.wng-core.items.Item.7Bp1rDIfKEB2MB9N
+      type: item
+      diff: {}
+      index: 1
+      groupId: 5t4zka24Jj6OTJnH
+    - name: Bolt Pistol
+      id: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+      type: item
+      diff: {}
+      index: 2
+      groupId: MF8pp83knbiOXuWa
+    - name: Force Stave
+      id: Compendium.wng-core.items.Item.9vfkaU0vc61t7hKO
+      type: item
+      diff: {}
+      index: 3
+      groupId: xUDYXxmBE8GZdrvb
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: VwJzUb9sYPRdc2yy
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: 0crWldfuEb6So4un
+    - name: Psychic Hood
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.v1EY9Y15U2RSvKR8
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 5t4zka24Jj6OTJnH
+      - index: 2
+        type: item
+        groupId: MF8pp83knbiOXuWa
+      - index: 3
+        type: item
+        groupId: xUDYXxmBE8GZdrvb
+      - index: 4
+        type: item
+        groupId: VwJzUb9sYPRdc2yy
+      - index: 5
+        type: item
+        groupId: 0crWldfuEb6So4un
+      - index: 6
+        type: item
+        groupId: ITHWHmp5DBWDvqKl
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710720086267
+  modifiedTime: 1710720257834
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!eKbt86TLBf1sUX03'

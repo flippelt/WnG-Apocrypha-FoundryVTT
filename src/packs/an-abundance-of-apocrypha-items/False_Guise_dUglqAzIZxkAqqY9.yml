@@ -1,0 +1,56 @@
+folder: fgtFfRbmshJ8KM1n
+name: False Guise
+type: ability
+_id: dUglqAzIZxkAqqY9
+img: modules/wng-core/assets/icons/abilities/the-inquisition.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You possess numerous cover identities. You can create up to Rank
+    alternative identities, which function in the same way as with the Secret
+    Identity talent. You may only use one identity at a time, and if one is
+    revealed or exposed, you may replace it with a new identity. These
+    identities have their own Influence score, with a bonus starting at +0.
+    </p><p>When you use one of your identities, you may re-roll up to double
+    Rank bonus dice on Deception tests.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710617918289
+  modifiedTime: 1710617952802
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!dUglqAzIZxkAqqY9'

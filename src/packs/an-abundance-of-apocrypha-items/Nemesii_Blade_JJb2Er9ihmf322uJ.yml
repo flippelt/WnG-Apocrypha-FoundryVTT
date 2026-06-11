@@ -1,0 +1,62 @@
+name: Nemesii Blade
+type: weapon
+_id: JJb2Er9ihmf322uJ
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Forged by the indentured tech-wrights of the Adamus Temple, each Nemesii
+    blade is alleged to be patterned after an Ancient Terran artefact, held in
+    stasis within the core vaults of Temple Adamus itself. Despite having no
+    obvious force-projectors or augmentations, these weapons are possessed with
+    an unnaturally sharp edge, able to cut through flesh and armour with
+    impunity</p>
+  value: 9
+  keywords: BLADE, OFFICIO ASSASSINORUM, TEMPLUM ADAMUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: parry
+    - name: rending
+      rating: 3
+  upgrades: []
+effects: []
+folder: QMfRKhIFUOHoAFXu
+sort: 500000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709846012871
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!JJb2Er9ihmf322uJ'

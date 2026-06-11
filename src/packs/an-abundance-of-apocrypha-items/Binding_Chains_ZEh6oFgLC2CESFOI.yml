@@ -1,0 +1,110 @@
+name: Binding Chains
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Binding Chains (self)
+    _id: v764FwnHGveOwI4w
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '3'
+        priority: null
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Opposed Willpower against a Daemon attempting to posses you
+            hide: ''
+    tint: null
+    _key: '!items.effects!ZEh6oFgLC2CESFOI.v764FwnHGveOwI4w'
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Binding Chains (Daemon Possessed)
+    _id: CxFhSGtvG4Pp9bXM
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '4'
+        priority: null
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Willpower test attempting to break free
+            hide: ''
+    tint: null
+    _key: '!items.effects!ZEh6oFgLC2CESFOI.CxFhSGtvG4Pp9bXM'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-equipment.Item.ZEh6oFgLC2CESFOI
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">These heavy iron chains are inscribed with
+    powerful hexagrammic wards designed to assist with the summoning,
+    containment, and binding of daemons.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">When these chains are used to bind a living creature, any
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">DAEMON
+    </span><span class="fontstyle0">summoned into or possessing that creature is
+    </span><span class="fontstyle3">Restrained </span><span
+    class="fontstyle0">and suffers +4DN on any Willpower tests to break free. If
+    you wrap the chains around yourself, you gain +3 bonus dice on any Opposed
+    Willpower test made against a </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">DAEMON </span><span
+    class="fontstyle0">attempting to possess you and take control.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: CHAOS, DAEMON
+  effect: ''
+_id: ZEh6oFgLC2CESFOI
+folder: UZO0XBlvHEumtcSK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257172270
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!ZEh6oFgLC2CESFOI'

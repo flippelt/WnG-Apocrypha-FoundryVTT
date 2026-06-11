@@ -1,0 +1,54 @@
+name: Phobos Mark X
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes-armour.Item.AQRPnnosXrnefqtq
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Phobos armour is a lightweight variant of Mark X
+    power armour, with lighter plating and tuned servos that operate silently
+    and virtually no loss of protection, though the reduced bulk of the armour
+    does mean it provides less of a boost to the wearer’s strength. It’s
+    favoured by Reivers and other Vanguard Primaris, who operate deep behind
+    enemy lines and rely on stealth and evasion to wage
+    war.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">5; Powered (3)</span></p><p></p><p><span
+    class="fontstyle2"><strong>Silenced</strong>: </span><span
+    class="fontstyle0">Moving Stealthily only requires a Simple Action and your
+    Movement, rather than a Combat Action and your Movement.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: POWERED, IMPERIUM, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powered
+      rating: 3
+  invulnerable: false
+_id: AQRPnnosXrnefqtq
+folder: 9qcY1oNgsxJI58Au
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089763024
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 400000
+_key: '!items!AQRPnnosXrnefqtq'

@@ -1,0 +1,16 @@
+name: Orks
+sorting: a
+folder: yXcqo2UBHFo91rqb
+type: Item
+_id: enJYSEZtnOYeu8p3
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699560399839
+  modifiedTime: 1710451669857
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!enJYSEZtnOYeu8p3'

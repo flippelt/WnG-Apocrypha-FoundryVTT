@@ -1,0 +1,16 @@
+name: Leagues of Votann Melee
+sorting: a
+folder: F1rEn8xBJoXJBXwI
+type: Item
+_id: 0SAPFb2VAW9K20fX
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709900066603
+  modifiedTime: 1710451653357
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!0SAPFb2VAW9K20fX'

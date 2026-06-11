@@ -1,0 +1,67 @@
+folder: PXUu6CUred2iUpPT
+name: Arbites Combat Shotgun
+type: weapon
+_id: WyEje3P93o5DYa9U
+img: modules/wng-core/assets/icons/weapons/combat-shotgun.webp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">There are numerous patterns of combat shotgun
+    employed by Arbites precincts across the Imperium, but the fearsome roar of
+    the </span><span class="fontstyle2">Vox Legi </span><span
+    class="fontstyle0">pattern—High Gothic for “Voice of the Law”—is favoured by
+    many. These potent and versatile weapons are a staple of Arbites combat
+    formations</span>.<br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: PROJECTILE, IMPERIUM, ADEPTUS ARBITES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: assault
+    - name: rapidFire
+      rating: 1
+    - name: spread
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709904783226
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!WyEje3P93o5DYa9U'

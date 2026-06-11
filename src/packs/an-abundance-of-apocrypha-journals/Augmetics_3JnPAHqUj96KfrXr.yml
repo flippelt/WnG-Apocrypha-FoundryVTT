@@ -1,0 +1,64 @@
+folder: nDYleZkn0ESlN5hn
+name: Augmetics
+_id: 3JnPAHqUj96KfrXr
+pages:
+  - sort: 100000
+    name: Drukhari Fleshcraft
+    type: text
+    _id: oBBZCsj87ipn745s
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><span class="fontstyle0">The Drukhari do not use or make augmetics in
+        any manner recognisable to most humans, Orks, or even other Aeldari.
+        Rather, the art and science of physical augmentation within the Dark
+        City is dominated by the Covens of the Haemonculi, ancient and depraved
+        fleshsmiths and bioartisans who can cure (or inflict) any disease or
+        injury, and even resurrect the dead. Of course, such services come at a
+        price, and the Haemonculi have little use for conventional forms of
+        wealth: the price of a Haemonculus’ aid may come in some gruesome and
+        esoteric form, never the same twice.</span></p><p></p><p><span
+        class="fontstyle0">Augmetic Reconstruction, and any Augmetic Enhancement
+        or Augmetic Implant with the </span><span class="fontstyle2">[ANY]
+        </span><span class="fontstyle0">Keyword can be produced by Haemonculus
+        fleshcraft by choosing the </span><span class="fontstyle2">DRUKHARI
+        </span><span class="fontstyle0">keyword. These augmetics are biological
+        in nature rather than technological but provide the same effect.</span>
+        <br
+        style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px"
+        /></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710292152182
+      modifiedTime: 1710292157194
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!3JnPAHqUj96KfrXr.oBBZCsj87ipn745s'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710292141638
+  modifiedTime: 1710292157194
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!journal!3JnPAHqUj96KfrXr'
+categories: []

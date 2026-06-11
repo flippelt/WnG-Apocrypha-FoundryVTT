@@ -1,0 +1,16 @@
+name: Litanies of Devotion
+sorting: a
+folder: M1D2xbEt9vJFwm6a
+type: Item
+_id: 2QU5OElCoQtte5Vj
+sort: 100000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710966920225
+  modifiedTime: 1711748031269
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!2QU5OElCoQtte5Vj'

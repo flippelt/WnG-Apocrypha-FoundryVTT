@@ -1,0 +1,59 @@
+name: Tartaros Terminator Armour
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes-armour.Item.tcfCSC9XTINUjwag
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Developed during the Great Crusade alongside
+    Mark IV Power Armour, Tartaros-pattern Tactical Dreadnought Armour trades
+    some of the resilience of Cataphractiipattern armour for greater mobility.
+    Providing comparable protection to the more common Indomitus-pattern armour
+    (the standard Terminator Armour on page 303 of the </span><span
+    class="fontstyle2">Wrath & Glory </span><span class="fontstyle0">core
+    rulebook), Tartaros is easier to move in. However, the technical and
+    resource requirements to make each suit were prohibitive, and they were
+    never produced in large numbers. After the Heresy, only a few of these suits
+    remain in active service.</span></p><p></p><p><span
+    class="fontstyle3">Armour Rating: </span><span class="fontstyle0">7; Bulk
+    (1), Powered (5)</span></p><p></p><p><span
+    class="fontstyle3"><strong>Tartaros Field Generator</strong>: </span><span
+    class="fontstyle0">The wearer may roll Determination against Mortal
+    Wounds.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 11
+  keywords: POWERED, RELIC, IMPERIUM, ADEPTUSASTARTES
+  equipped: false
+  rating: 7
+  base: 0
+  traits:
+    - name: bulk
+      rating: 1
+    - name: powered
+      rating: 5
+  invulnerable: false
+_id: tcfCSC9XTINUjwag
+folder: 9qcY1oNgsxJI58Au
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089763037
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1500000
+_key: '!items!tcfCSC9XTINUjwag'

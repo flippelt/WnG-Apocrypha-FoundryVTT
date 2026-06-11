@@ -1,0 +1,50 @@
+name: Multiwave Comms Array
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.leagues-of-votann-equipment.Item.J2LeZPo2wTi0hewz
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">A Multiwave Comms Array is a radio-wave
+    communications device similar to the Imperial vox used by the Leagues of
+    Votann. It is able to broadcast and receive on multiple frequency carrier
+    waves, in order to overcome any hindrance or interference that would block
+    communications. This naturally takes considerable skill to operate, so these
+    communications arrays are often carried by a dedicated operators called a
+    Kinlynk, who maintain contact with, and coordinates actions between their
+    immediate group and the rest of their Oathband.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">You can communicate with anyone within 100 kilometres
+    that has a comm unit (a comms array, vox, or similar). In addition, when
+    using this item, the maximum range of Tech interaction attacks is increased
+    to your Intellect Attribute multiplied by Double Rank.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: LEAGUES OF VOTANN
+  effect: ''
+_id: J2LeZPo2wTi0hewz
+folder: OBM5CJDK3tWaYAVA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257385293
+  modifiedTime: 1710625204854
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 500000
+_key: '!items!J2LeZPo2wTi0hewz'

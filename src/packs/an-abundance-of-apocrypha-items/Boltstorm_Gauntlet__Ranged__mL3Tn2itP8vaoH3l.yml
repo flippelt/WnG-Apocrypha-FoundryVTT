@@ -1,0 +1,62 @@
+name: Boltstorm Gauntlet (Ranged)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/storm-bolter.webp
+effects: []
+flags:
+  cf: null
+  core: {}
+  scene-packer:
+    sourceId: Item.cs4HzfVsP0K780j7
+system:
+  quantity: 1
+  rarity: very-rare
+  description: <p>A rapid-firing bolt pistol mounted on the underside of a power fist.</p>
+  value: 8
+  keywords: BOLT, POWER FIELD, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: assault
+    - name: brutal
+    - name: rapidFire
+      rating: 3
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: mL3Tn2itP8vaoH3l
+sort: 600000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!mL3Tn2itP8vaoH3l'

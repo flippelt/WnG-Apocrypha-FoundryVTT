@@ -1,0 +1,78 @@
+name: Precision Telekinesis
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.73cUqJkPOhVfbrlq
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You have honed your will to wield it as deftly and carefully as you use
+    your own two hands. While this power remains in effect, you can manipulate
+    objects you can see within range as if you were physically handling them. If
+    you do something that would require a skill test, you roll your Psychic
+    Mastery instead. You may only manipulate one object at a time.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: Sustained
+  range: 10m
+  multiTarget: false
+  keywords: KINETIC, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Manipulate one additional object within range.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: ''
+      cost: 3
+      property: range
+      initial: ''
+      value: 10
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 73cUqJkPOhVfbrlq
+folder: 4l2ZECZopcUcauCc
+sort: 112500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247417
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!73cUqJkPOhVfbrlq'

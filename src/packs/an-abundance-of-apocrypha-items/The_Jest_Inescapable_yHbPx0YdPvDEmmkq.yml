@@ -1,0 +1,52 @@
+folder: FDt4F8k5x50NB9bP
+name: The Jest Inescapable
+type: ability
+_id: yHbPx0YdPvDEmmkq
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Add +6 to the short range of your ranged weapon, +12 to the medium range,
+    and +18 to the long range. In addition, the weapon gains the Mortal [1]
+    trait.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710781507610
+  modifiedTime: 1710781514595
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!yHbPx0YdPvDEmmkq'

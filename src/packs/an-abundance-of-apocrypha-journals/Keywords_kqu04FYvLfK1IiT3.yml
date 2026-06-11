@@ -1,0 +1,290 @@
+folder: nDYleZkn0ESlN5hn
+name: Keywords
+_id: kqu04FYvLfK1IiT3
+pages:
+  - sort: 100000
+    name: Misc Keywords
+    type: text
+    _id: 5XWiL5J3ufkCneIx
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><span class="fontstyle0">DARK GIFTS</span></h4><p><span
+        class="fontstyle2">Any item with the </span><span class="fontstyle0"
+        style="color:rgb(112,0,0)">DARK GIFT </span><span
+        class="fontstyle2">keyword cannot be lost or removed—they are
+        permanently bound to the character. When you obtain a </span><span
+        class="fontstyle0" style="color:rgb(112,0,0)">DARK GIFT </span><span
+        class="fontstyle2">item, you must pass a Corruption Test with a DN equal
+        to the Value.</span> <br
+        style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px"
+        /></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710270139952
+      modifiedTime: 1710270227861
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!kqu04FYvLfK1IiT3.5XWiL5J3ufkCneIx'
+  - sort: 0
+    name: Weapon Keywords
+    type: text
+    _id: AFxNFh4vSRgmU38m
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><span class="fontstyle0"><strong>Nurgle's
+        Rot</strong></span></h4><p><span class="fontstyle0">Any Weapon with the
+        </span><span class="fontstyle2">NURGLE </span><span
+        class="fontstyle0">keyword and the </span><span
+        class="fontstyle3">Inflict (Poisoned X) </span><span
+        class="fontstyle0">Trait is coated in a mixture of virulent diseases and
+        deadly warp-toxins. A character </span><span class="fontstyle3">Poisoned
+        </span><span class="fontstyle0">by a </span><span
+        class="fontstyle2">NURGLE </span><span class="fontstyle0">weapon suffers
+        1d3 Mortal Wounds at the start of each of their
+        turns.</span></p><p></p><p><span class="fontstyle2">PESTILENT
+        </span><span class="fontstyle0">weapons with the Flamer trait do not
+        inflict the </span><span class="fontstyle3">On Fire </span><span
+        class="fontstyle0">condition. Rather, they inflict the </span><span
+        class="fontstyle3">Poisoned 4 </span><span
+        class="fontstyle0">condition.</span> </p><h4>Ancient
+        Weapons</h4><p><span class="fontstyle0">Any Aeldari Weapon with the
+        </span><span class="fontstyle2">ANCIENT </span><span
+        class="fontstyle0">keyword predates the Fall of the Eldar and is
+        normally only borne by the champions of the Asuryani and Anhrathe today.
+        They will invariably draw attention to the wielder, especially if the
+        wielder is not Aeldari</span>.</p><h4>Ghost Weapons</h4><p><span
+        class="fontstyle0">These mighty weapons draw power from the Soulstone of
+        a Ghost Warrior wielder. Weapons with the </span><span
+        class="fontstyle2">GHOST </span><span class="fontstyle0">keyword may
+        only be wielded by Ghost Warrior characters.</span> </p><h4>Poisoned
+        Weapons</h4><p><span class="fontstyle2">A selection of alternative
+        Drukhari poisons is presented in the Reloads and Ammunition section,
+        which can be applied to </span><span class="fontstyle0"
+        style="color:rgb(112,0,0)">DRUKHARI </span><span
+        class="fontstyle2">weapons with the Fleshbane and/or Inflict (Poisoned
+        X) traits. Many Drukhari also add the Envenomed Blade upgrade to their
+        </span><span class="fontstyle0" style="color:rgb(112,0,0)">BLADE
+        </span><span class="fontstyle2">weapons</span> </p><h4>Grav
+        Weapons</h4><p><span class="fontstyle0">Grav-weaponry, also called
+        Graviton weapons, are devastating graviton-based weapons employed by the
+        Adeptus Astartes based on ancient and forgotten technology dating back
+        to the time of the Dark Age of Technology. Manipulating the very nature
+        of gravity itself, Grav-weaponry turns a target's mass against it,
+        crushing it to pulp under its own weight. This is especially shocking
+        when used against heavily armoured infantry like Terminators, as the
+        hapless warrior is brutally crushed by the bulk of their ceramite plates
+        until only a crimson trickle remains. Space Marine Chapters are among
+        the few warriors of the Imperium to be gifted with the use of
+        Grav-weaponry, and it is considered a sacred honour to wield such a
+        potent weapon.</span> </p><h4>Las Weapons</h4><p><span
+        class="fontstyle0">Laser weaponry commonly used by the Imperium comes in
+        numerous small regional variations, typically referred to as Patterns.
+        Different Forge Worlds and different industrial centres utilise
+        different designs of weapon, and while all fundamentally based upon the
+        same central technology. Within the Astra Militarum, and other forces
+        that use lasweapons, different forces will come to favour different
+        patterns for their rate of fire, power output, weight, effective range,
+        and a variety of other factors.</span> </p><h4>Archaic Plasma
+        Weapons</h4><p><span class="fontstyle0">Archaic Plasma Weapons:
+        </span><span class="fontstyle2">Plasma weapon technology has varied
+        considerably across the history of </span><span
+        class="fontstyle3">Warhammer 40,000</span><span class="fontstyle2">.
+        This section provides a number of different forms of plasma weapon, that
+        reflect different ways that plasma weapons have functioned over the
+        years.</span></p><p></p><ul><li><p><span class="fontstyle2">Mark I
+        Plasma weapons are based on those introduced in </span><span
+        class="fontstyle3">Codex: Chaos </span><span class="fontstyle2">in 1996,
+        during </span><span class="fontstyle3">Warhammer 40,000</span><span
+        class="fontstyle2">’s second edition. They have a higher rate of fire
+        and are more deadly but are </span><span class="fontstyle5">much
+        </span><span class="fontstyle2">more dangerous to
+        use.</span></p></li><li><p><span class="fontstyle2">Mark II Plasma
+        weapons are based on those presented in 2</span><span class="fontstyle2"
+        style="font-size:7pt">nd </span><span class="fontstyle2">edition
+        </span><span class="fontstyle3">Warhammer 40,000</span><span
+        class="fontstyle2">, which could only fire on every other game
+        turn.</span></p></li><li><p><span class="fontstyle2">Mark III Plasma
+        weapons reflect the way these weapons functioned during 3</span><span
+        class="fontstyle2" style="font-size:7pt">rd </span><span
+        class="fontstyle2">edition </span><span class="fontstyle3">Warhammer
+        40,000 </span><span class="fontstyle2">until the end of 7</span><span
+        class="fontstyle2" style="font-size:7pt">th </span><span
+        class="fontstyle2">edition.</span></p></li><li><p><span
+        class="fontstyle2">The versions in the </span><span
+        class="fontstyle3">Wrath &amp; Glory Core Rulebook </span><span
+        class="fontstyle2">most closely resemble the plasma weapons seen in
+        8</span><span class="fontstyle2" style="font-size:7pt">th </span><span
+        class="fontstyle2">edition </span><span class="fontstyle3">Warhammer
+        40,000 </span><span
+        class="fontstyle2">onwards.</span></p></li></ul><h4><br
+        style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px"
+        />Mk I Plasma Weapons</h4><p><span class="fontstyle0">These archaic
+        models of plasma weapon were in common use by the Legiones Astartes
+        during the Great Crusade and the early Horus Heresy. One a number of
+        experimental forms of plasma weapon, this design emphasised lethality
+        and destructive power at the expense of the user’s safety, with the
+        weapon frequently overheating or losing magnetic containment during
+        sustained use. As the Heresy wore on, these weapons fell out of use
+        amongst the Loyalist forces, and the loyalist Mechanicum declared them
+        </span><span class="fontstyle2">Fabrus Excommunicata</span><span
+        class="fontstyle0">, and no longer blessed by the Machine God. However,
+        the Traitor Legions continued to use these potent weapons, finding
+        kinship with the savage and malevolent weapons’ spirits. In the
+        41</span><span class="fontstyle0" style="font-size:7pt">st </span><span
+        class="fontstyle0">Millennium, these weapons are no longer produced by
+        the Imperium, but they can still be found in the hands of Traitor
+        Legionaries.</span> </p><h4>Mk II Plasma Weapons</h4><p><span
+        class="fontstyle0">During the latter years of the Heresy, early plasma
+        weapons issued to Loyalist forces often incorporated more cautious,
+        patient machine spirits which would prevent the weapon firing if there
+        was risk of overheat. This drastically reduced the weapon’s effective
+        fire rate, the weapons’ firepower was still a valuable resource against
+        Traitor forces, with users able to take cover or redeploy while the
+        weapon was locked in a cooling cycle.</span> </p><h4>Special Issue
+        Grenades</h4><p><span class="fontstyle0">A character seeking to acquire
+        an </span><span class="fontstyle2">EXOTIC </span><span
+        class="fontstyle0">grenade acquires only one such grenade, and must
+        attempt a new test each time they wish to obtain more: you can’t
+        resupply Vortex Grenades easily.</span> </p><h4>Splinter
+        Weapons</h4><p><span class="fontstyle0">A selection of alternative
+        Drukhari poisons is presented on page 393, which can be applied to
+        </span><span class="fontstyle2">SPLINTER </span><span
+        class="fontstyle0">weapons and weapons with the </span><span
+        class="fontstyle3">Inflict (Poisoned X) </span><span
+        class="fontstyle0">trait.</span> </p><h4>Kustom Weapons</h4><p><span
+        class="fontstyle0">MEK </span><span class="fontstyle2">weapons with the
+        Supercharge trait are always considered to be in Supercharge mode: the
+        firer cannot choose not to use it. The additional ED from the trait is
+        included in the weapon’s profile.</span> </p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710270191526
+      modifiedTime: 1710270245827
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!kqu04FYvLfK1IiT3.AFxNFh4vSRgmU38m'
+  - sort: 50000
+    name: Armour Keywords
+    type: text
+    _id: SNFLRKyHdaUXhQOc
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><span class="fontstyle0">Agile Armour</span></h4><p><span
+        class="fontstyle2">A few types of armour listed in this section have the
+        </span><span class="fontstyle3">Agile </span><span
+        class="fontstyle2">trait. A character wearing </span><span
+        class="fontstyle3">Agile </span><span class="fontstyle2">armour may use
+        their Agility to calculate their Determination instead of their
+        Toughness.</span> </p><h4><span class="fontstyle0">Void
+        Armour</span></h4><p><span class="fontstyle2">A number of types of
+        armour listed in this section have the </span><span
+        class="fontstyle3">Void </span><span class="fontstyle2">trait. A
+        character with </span><span class="fontstyle3">Void </span><span
+        class="fontstyle2">armour reduces the AP of incoming attacks by one step
+        (i.e., from AP -1 to 0, or from AP -3 to -2).</span></p><p><span
+        class="fontstyle3">Void </span><span class="fontstyle2">armour also
+        benefits from the Built-in Tech rule (page 235 of the </span><span
+        class="fontstyle4">Wrath &amp; Glory Core Rulebook</span><span
+        class="fontstyle2">).</span> </p><h4>T'au Empire Armour</h4><p><span
+        class="fontstyle0">T’au Empire armour uses a couple of unique Keywords
+        to govern how their technology interacts.</span></p><p></p><p><span
+        class="fontstyle0">Armour with the </span><span
+        class="fontstyle2">BATTLESUIT </span><span class="fontstyle0">keyword
+        are the armoured battlesuits used by elite T’au warriors. Due to
+        advanced stabilisation systems, a warrior wearing </span><span
+        class="fontstyle2">BATTLESUIT </span><span class="fontstyle0">armour may
+        make ranged attacks while in engagement range, as if their weapons had
+        the Pistol trait. Weapons with the Blast trait may not be fired in
+        engagement range, however.</span></p><p></p><p><span
+        class="fontstyle2">BATTLESUIT </span><span class="fontstyle0">armour is
+        designed to be fitted with an assortment of modular systems to improve
+        effectiveness. These items have the </span><span
+        class="fontstyle2">SUPPORT SYSTEM </span><span
+        class="fontstyle0">keyword. A character cannot use a </span><span
+        class="fontstyle2">SUPPORT SYSTEM </span><span class="fontstyle0">item
+        unless it is mounted on a </span><span
+        class="fontstyle2">BATTLESUIT</span><span class="fontstyle0">, and each
+        </span><span class="fontstyle2">BATTLESUIT </span><span
+        class="fontstyle0">can only mount a limited number of </span><span
+        class="fontstyle2">SUPPORT SYSTEMS</span><span
+        class="fontstyle0">.</span></p><p></p><p><span class="fontstyle0">Many
+        T’au </span><span class="fontstyle2">BATTLESUIT</span><span
+        class="fontstyle0">s are equipped with </span><span
+        class="fontstyle2">JUMP JETS</span><span class="fontstyle0">. In
+        addition to providing the wearer with a flight speed, a character
+        wearing armour with </span><span class="fontstyle2">JUMP JETS
+        </span><span class="fontstyle0">may Fall Back from engagement range as a
+        Simple Action, rather than as a Combat Action.</span></p><p></p><p><span
+        class="fontstyle0">If you’re using the Built-in Tech optional rule
+        (sidebar, p. 234 of the </span><span class="fontstyle3">Wrath &amp;
+        Glory </span><span class="fontstyle0">core rulebook), T’au Empire armour
+        is considered to contain the following items: Mag Boots, Preysense
+        Goggles, Respirator, Vox-Bead, and Void Suit. The T’au have their own
+        names for these items—a Blacksun Filter instead of Preysense Goggles,
+        for example—but the function remains the same.</span> </p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710270212535
+      modifiedTime: 1710270286597
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!kqu04FYvLfK1IiT3.SNFLRKyHdaUXhQOc'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710270125354
+  modifiedTime: 1710270286597
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!journal!kqu04FYvLfK1IiT3'
+categories: []

@@ -1,0 +1,57 @@
+name: Warp Spider Jump Generator
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.DvIoHpvBEvAJwUhm
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">A Warp Spider Jump Generator is an Eldar
+    teleportation device used by Warp Spider Aspect Warriors housed within the
+    armoured backpack of their armour. This compact and complex device allows
+    for instantaneous travel through the Warp, giving their prey no warning as
+    they appear right beside them. The distances which can be travelled in this
+    manner are relatively short, but it is an unpleasant experience for the
+    wearer as visions of the Warp sweep across their vision and a great
+    hungering maw tugs at their spirit. For the Eldar to spend even a short
+    amount of time within the Warp is not only a danger to their body but their
+    very soul, and the possibility of a fate worse than death means the Warp
+    Spiders are counted among the bravest of all Aspect
+    Warriors.</span></p><p></p><p><span class="fontstyle0">A warrior wearing a
+    Warp Spider Jump Generator may activate it as a Simple Action. If they do
+    so, then they vanish from the battlefield, and instantly reappear anywhere
+    within 20m. When they reappear, make a Resolve test (DN 3) for the warrior:
+    if they fail, they suffer [[/r 1d3]] Shock from the harrowing experience,
+    and 1 Mortal Wound if a Complication was rolled.</span></p><p></p><p><span
+    class="fontstyle0">The distance jumped may be increased; for every 10m of
+    increased range, add +2 to the DN of the Resolve test that follows and +1 to
+    the number of Mortal Wounds inflicted on a Complication.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: AELDARI, ASURYANI
+  effect: ''
+_id: DvIoHpvBEvAJwUhm
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240257
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 700000
+_key: '!items!DvIoHpvBEvAJwUhm'

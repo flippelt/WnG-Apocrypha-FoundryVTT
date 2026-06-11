@@ -1,0 +1,36 @@
+folder: ZMoR03HW5eXVf9E1
+name: Pulse Onslaught
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: FIRE CASTE keyword
+  description: >-
+    <p>Rather than charge into hand-to-hand combat, T&rsquo;au soldiers
+    intensify their fire and lay waste to their foes methodically.</p>
+
+    <p>When you make a ranged attack with a PULSE weapon, you may spend one
+    Glory. If you do so, each Exalted Icon you shift for Extra Damage on that
+    attack adds +2ED rather than 1. You cannot use this talent while wearing a
+    BATTLESUIT.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jf54LPrTTMkWzoiB
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127113347
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: BAKZ7NMbp2YwReRv
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 3000000
+_key: '!items!BAKZ7NMbp2YwReRv'

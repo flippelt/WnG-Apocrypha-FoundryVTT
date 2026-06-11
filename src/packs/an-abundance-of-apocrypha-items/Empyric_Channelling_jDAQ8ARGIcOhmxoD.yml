@@ -1,0 +1,81 @@
+name: Empyric Channelling
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.jDAQ8ARGIcOhmxoD
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You focus your thoughts to channel warp energies into a
+    psychically-attuned ally, achieving a harmonious psychic choristry that
+    magnifies their powers considerably. Select an allied Psyker within range.
+    Before your next turn, that psyker may add your Rank as bonus dice to a
+    single Psychic Mastery test. This increases to Double Rank if they also have
+    the ULTRAMARINES keyword.</p>
+  effect: ''
+  cost: 8
+  activation: full
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ULTRAMARINES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 additional bonus die
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        The targeted psyker may re-roll a single Wrath die which rolled a
+        Complication
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: jDAQ8ARGIcOhmxoD
+folder: 5oIpdFAHgVixaHkE
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959239
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!jDAQ8ARGIcOhmxoD'

@@ -1,0 +1,37 @@
+folder: 7CS5GsLu157itFOz
+name: Warp Focus
+type: weaponUpgrade
+_id: quNM1URNXwtfpN8p
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+system:
+  description: >-
+    <p><span class="fontstyle0">The weapon is etched with blasphemous runes and
+    sigils of arcane power that allow the wielder to direct their powers through
+    it.</span></p><p></p><p><span class="fontstyle0">This may be added to any
+    <strong>melee</strong> weapon.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Add +2d3 metres to the range of any psychic power the
+    wielder uses while wielding this weapon.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  value: 0
+  rarity: common
+  keywords: ''
+  traits: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710026891201
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!quNM1URNXwtfpN8p'

@@ -1,0 +1,139 @@
+folder: enJYSEZtnOYeu8p3
+name: Painboy
+type: archetype
+_id: UmG6OX3EzX8Yw6wR
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Ork
+    id: Compendium.wng-core.items.Item.HkICqcWbRIsDHtMy
+  faction:
+    name: Ork
+    id: Compendium.wng-core.items.Item.BkBpSmTLEsh1tqCG
+  influence: 1
+  cost: 52
+  keywords:
+    - ORK
+    - '[CLAN]'
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: 3
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: 3
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Make It All Betta
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.otYEE5KC47N44mvk
+  wargear:
+    - - name: ''
+        id: ''
+    - name: ‘Urty Syringe
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.q1CSZlL0oII3zZR1
+      type: item
+      diff: {}
+      index: 1
+      groupId: MNyRIjJGKx3VHDgn
+    - name: Choppa
+      id: Compendium.wng-core.items.Item.zCg3aku6t9knvNIe
+      type: item
+      diff: {}
+      index: 2
+      groupId: qQyTzctz2OxlWite
+    - name: Ork Flak
+      id: Compendium.wng-core.items.Item.YArm2VCihbVlLurI
+      type: item
+      diff: {}
+      index: 3
+      groupId: rSSjOMznAns3Bs32
+    - name: Dok’s Toolz
+      id: Compendium.wng-core.items.Item.XyWB6QGKxdXiyb5O
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: MNyRIjJGKx3VHDgn
+      - index: 2
+        type: item
+        groupId: qQyTzctz2OxlWite
+      - index: 3
+        type: item
+        groupId: rSSjOMznAns3Bs32
+      - index: 4
+        type: item
+        groupId: Sm4kh4POikIR5guD
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 4
+      initiative: 3
+      willpower: 1
+      intellect: 4
+      fellowship: 1
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 1
+      cunning: 2
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: 4
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 1
+      tech: 1
+      weaponSkill: 3
+    talents:
+      - id: 26UYjRZ4VBoL1EyC
+        name: Blood Must Flow!
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710611931539
+  modifiedTime: 1710616850617
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!UmG6OX3EzX8Yw6wR'

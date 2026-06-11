@@ -1,0 +1,150 @@
+folder: yFKwNivJm2h6RQHw
+name: Venenum Assassin
+type: archetype
+_id: kFvqjdlrrQ44GyO8
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Officio Assassinorum
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GgJupC58AywMDFq9
+  influence: 0
+  cost: 370
+  keywords:
+    - IMPERIUM
+    - OFFICIO ASSASSINORUM
+    - TEMPLUM VENENUM
+  attributes:
+    strength: 4
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: 4
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: 4
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: 5
+    survival: null
+    tech: 2
+    weaponSkill: 5
+  ability:
+    name: The Venem
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.P0JhLpnBews5PN5c
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Assassinorum Bodyglove
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.50gYnTefq7FohjIH
+      type: item
+      diff: {}
+      index: 1
+      groupId: wvg1A4MHlBXvGMt6
+    - name: Toxin Ejector
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.DCZiVRwdrPwuPexq
+      type: item
+      diff: {}
+      index: 2
+      groupId: 1CHkMV9i2xKhBnZw
+    - name: Hookfang
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.S6fKO0ZuGfiUphpd
+      type: item
+      diff: {}
+      index: 3
+      groupId: IbJQqNwv498lIFeh
+    - name: Poison Globe
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MdQwe2fDNnZconrR
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: dzPbsK1wcmnDmdZA
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: wvg1A4MHlBXvGMt6
+      - index: 2
+        type: item
+        groupId: 1CHkMV9i2xKhBnZw
+      - index: 3
+        type: item
+        groupId: IbJQqNwv498lIFeh
+      - index: 4
+        type: item
+        groupId: dzPbsK1wcmnDmdZA
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 6
+      agility: 5
+      initiative: 5
+      willpower: 4
+      intellect: 6
+      fellowship: 3
+    skills:
+      athletics: 4
+      awareness: 4
+      ballisticSkill: 4
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: 6
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 4
+      stealth: 6
+      survival: null
+      tech: 2
+      weaponSkill: 5
+    talents:
+      - id: GJUeAkAPhh5uYtlP
+        name: Silent
+      - id: l4Fp0OzFPXVY2LdK
+        name: Unremarkable
+      - id: l6ooX0I3lk8DuiBT
+        name: Anatomical Scourge
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710790014856
+  modifiedTime: 1710790267866
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!kFvqjdlrrQ44GyO8'

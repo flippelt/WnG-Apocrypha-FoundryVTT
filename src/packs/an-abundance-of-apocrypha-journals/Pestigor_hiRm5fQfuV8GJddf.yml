@@ -1,0 +1,142 @@
+name: Pestigor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 499927
+pages:
+  - name: Pestigor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <blockquote><p>It wouldn’t stop. No manner how many shots we put into
+        it; we couldn’t bring it down. It just kept braying and bellowing and
+        fighting.</p><p style="text-align:right"><em>—— Unknown Guardsman
+        [executed], describing a Pestigor</em></p></blockquote><p><strong>You
+        are special. Beloved. The Grandfather, the Filthbringer, the Poxmaker…
+        he will protect you, give you a home and a purpose, if you protect his
+        other children.</strong></p><p>Filthy, disease-ridden creatures,
+        Pestigor are Beastmen devoted to Nurgle. Their fur and flesh are
+        decaying and filled with parasites, their horns and claws are yellowed
+        and deformed, and they are variously wasted or bloated depending on the
+        diseases that infest them. Pestigor are often used as the guardians of
+        temples and other profane sites devoted to Nurgle, and as bodyguards for
+        cult leaders.</p><table style="width:98.9228%;height:239px"
+        border="1"><tbody><tr class="table-header"
+        style="height:16px;background-color:#301444"><td
+        style="width:92.7291%;height:16px" colspan="8">PESTIGOR</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
+        colspan="2">TIER</td><td
+        style="width:8.3%;height:16px;text-align:center">1</td><td
+        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
+        colspan="2">SPECIES</td><td
+        style="width:11.7268%;height:16px;text-align:center">Beastman</td><td
+        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
+        Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center">34</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;height:16px"
+        colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">CHAOS</a>, <a
+        class="keyword">ABHUMAN</a>, <a class="keyword">HERETIC</a>, <a
+        class="keyword">NURGLE</a></td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px"
+        colspan="8"><strong>ATTRIBUTE</strong>: Strength 3, Toughness
+        4</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
+        Intimidation 1, Weapon Skill 1</td></tr><tr
+        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
+        ABILITY</strong>: @UUID[Item.2TojZpGC2x5HEZb4]{Inured to
+        Suffering}</td></tr><tr style="height:16px"><td
+        style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
+        @UUID[Item.fLx8DzWDgWDZIMSK]{Flak Armour},
+        @UUID[Item.fQCOj3mVrhnIEOty]{Autogun},
+        @UUID[Item.RYl5lvSY97e9x82z]{Plague Knife}</td></tr><tr
+        style="height:16px"><td style="width:92.7291%;background-color:rgba(0,
+        0, 0, 0.2);height:16px" colspan="8"><strong>INFLUENCE</strong>:
+        +1</td></tr><tr style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
+        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">16</td></tr><tr
+        style="font-variant:small-caps;height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
+        style="width:12.5%;height:16px;text-align:center">S</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">T</td><td
+        style="width:5.17241%;height:16px;text-align:center">A</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">I</td><td
+        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">Int</td><td
+        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
+        style="height:16px"><td
+        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
+        style="width:12.5%;height:16px;text-align:center">3</td><td
+        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">4</td><td
+        style="width:5.17241%;height:16px;text-align:center">2</td><td
+        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, .2)">2</td><td
+        style="width:11.7268%;height:16px;text-align:center">2</td><td
+        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">1</td><td
+        style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
+        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
+        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
+        colspan="2">XP Cost</td><td
+        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
+        0, 0, 0.2)">12</td></tr><tr style="height:16px"><td
+        style="height:16px;width:92.7291%" colspan="8">Athletics 1, Ballistic
+        Skill 1, Intimidation 2, Weapon Skill 2</td></tr><tr
+        style="height:16px"><td class="table-header"
+        style="width:92.7291%;height:16px;background-color:#301444"
+        colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td
+        style="height:15px;width:92.7291%"
+        colspan="8">@UUID[Item.HYuKXdU1r5yNyRU1]{Die Hard},
+        @UUID[Item.kj8Jm2JKxELokK4X]{Let The Galaxy Burn},
+        @UUID[Item.TLV6c8FJhbKFKKUK]{Tenacious}</td></tr></tbody></table>
+      markdown: ''
+    _id: 6VIdIZs0RFiBmFtW
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!hiRm5fQfuV8GJddf.6VIdIZs0RFiBmFtW'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1664173162519
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: hiRm5fQfuV8GJddf
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!hiRm5fQfuV8GJddf'
+categories: []

@@ -1,0 +1,68 @@
+name: Axe of Khorne
+type: weapon
+_id: mPXlAHDmtMEPZKRV
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>The ancient, bloodstained axes are saturated with Khorne’s insatiable,
+    endless bloodlust. They are heavy blades of dark iron, bound by brass to a
+    haft of living bone, and they continually urge their wielder to greater and
+    greater feats of bloodshed.</p>
+  value: 8
+  keywords: BLADE, CHAOS, DAEMON, KHORNE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: rending
+      rating: 2
+    - name: sustained
+      custom: true
+      display: Sustained
+      description: >-
+        The weapon is well-suited for delivering attack after attack. For each
+        Exalted Icon rolled when you make an attack with this weapon, you may
+        roll one additional attack die. These additional dice cannot themselves
+        generate additional dice
+  upgrades: []
+effects: []
+folder: nyHPtRO8Z1XRcTRg
+sort: 200000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709853350662
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!mPXlAHDmtMEPZKRV'

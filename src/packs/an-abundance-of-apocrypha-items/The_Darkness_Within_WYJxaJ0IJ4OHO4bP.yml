@@ -1,0 +1,85 @@
+name: The Darkness Within
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.WYJxaJ0IJ4OHO4bP
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You send your mind forth, calling not to the visible shadows surrounding
+    your foes but rather to the fears and doubts that shadow their souls. Select
+    a number of enemies that you can see within range equal to your Willpower.
+    When this power is used, and at the start of each turn it is sustained, each
+    selected enemy must pass a Resolve test (DN 4) or suffer 1d3+2 Shock.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: RAVEN GUARD
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: 1d3+2
+  potency:
+    - description: +1 DN to Resolve test
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: +1 Shock
+      cost: 1
+      property: damage.other.shock.bonus
+      initial: ''
+      value: 1
+      single: false
+    - description: Affect an additional number of enemies equal to your Willpower.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: 4
+    type: resolve
+    specification: ''
+_id: WYJxaJ0IJ4OHO4bP
+folder: eJ7mtTuoleAkMUij
+sort: 225000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959362
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!WYJxaJ0IJ4OHO4bP'

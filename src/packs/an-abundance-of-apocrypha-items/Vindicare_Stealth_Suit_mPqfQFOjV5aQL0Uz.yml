@@ -1,0 +1,103 @@
+name: Vindicare Stealth Suit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>The Stealth Suit worn by Vindicare assassins combines cameleoline layers
+    with the normal synskin bodyglove worn by other Imperial Assassins. Combined
+    with their training, these suits mean that a Vindicare is almost impossible
+    to detect.</p>
+
+    <p>The photoreactive mimic-fibres in the suit blur&rsquo;s the
+    wearer&rsquo;s outline, granting a +2d bonus to Stealth tests and a +2 bonus
+    to Defence when in shadow or in cover.</p>
+  value: 10
+  keywords: LIGHT, OFFICIO ASSASSINORUM, TEMPLUM VINDICARE
+  equipped: false
+  rating: 2
+  base: 0
+  traits:
+    - name: agile
+      custom: true
+      display: Agile
+      description: >-
+        A few types of armour listed in this section have the Agile trait. A
+        character wearing Agile armour may use their Agility to calculate their
+        Determination instead of their Toughness.
+  invulnerable: false
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    _id: eZiC6UpE6cAQNygf
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Stealth tests when in shadow or in cover
+    name: Vindicare Stealth Suit
+    description: ''
+    statuses: []
+    _key: '!items.effects!mPqfQFOjV5aQL0Uz.eZiC6UpE6cAQNygf'
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: srXWbs39FKzys3sF
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: Vindicare Stealth Suit Defense in Shadow or Cover
+    description: ''
+    statuses: []
+    _key: '!items.effects!mPqfQFOjV5aQL0Uz.srXWbs39FKzys3sF'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.mPqfQFOjV5aQL0Uz
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663861986447
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: eLb57h7zaMzBK94e
+_id: mPqfQFOjV5aQL0Uz
+sort: 700000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!mPqfQFOjV5aQL0Uz'

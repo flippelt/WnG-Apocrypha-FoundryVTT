@@ -1,0 +1,85 @@
+folder: fgtFfRbmshJ8KM1n
+name: Incite Zeal
+type: ability
+_id: II5rkbKY1Be1MDQI
+img: modules/wng-core/assets/icons/abilities/adeptus-ministorum.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Double Rank to all Persuasion Interaction attacks against
+    targets with the IMPERIUM, SCUM, or HERETIC keywords. In addition, you may
+    spend a Wrath point to make yourself Frenzied; If you do so, then you may
+    make all allies with the IMPERIUM keyword within 15 +Double Rank metres
+    Frenzied as well.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adeptus-ministorum.webp
+    name: Incite Zeal
+    _id: NHeXm97daSrvaHbf
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank *2'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              You add +Double Rank to all Persuasion Interaction attacks against
+              targets with the IMPERIUM, SCUM, or HERETIC keywords.
+            hide: ''
+    tint: null
+    _key: '!items.effects!II5rkbKY1Be1MDQI.NHeXm97daSrvaHbf'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710619114288
+  modifiedTime: 1710619184239
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!II5rkbKY1Be1MDQI'

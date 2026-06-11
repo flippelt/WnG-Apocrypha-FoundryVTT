@@ -1,0 +1,63 @@
+name: Mace of Contagion
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>These cumbersome censer-maces emit a sickly miasma of disease. A Mace of
+    Contagion combines heavy blows with a sickly fog that turns blood rancid and
+    flesh necrotic.</p>
+  value: 6
+  keywords: 2-HANDED, CHAOS, NURGLE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Poisoned 4
+    - name: unwieldy
+      rating: 2
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: nyHPtRO8Z1XRcTRg
+_id: 2JuFhLjPKQZOeTKZ
+sort: 1400000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!2JuFhLjPKQZOeTKZ'

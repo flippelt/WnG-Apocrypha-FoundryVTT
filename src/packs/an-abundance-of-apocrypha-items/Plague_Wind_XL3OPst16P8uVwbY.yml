@@ -1,0 +1,110 @@
+name: Plague Wind
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Poisoned
+    icon: systems/wrath-and-glory/asset/icons/conditions/poisoned.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '@test.result.pois'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - poisoned
+    _id: WjmTo2tC5QmEUjmq
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    tint: null
+    _key: '!items.effects!XL3OPst16P8uVwbY.WjmTo2tC5QmEUjmq'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.XL3OPst16P8uVwbY
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You belch forth a wind of plague that blows through your foes, choking
+    them and leaving only diseased, maggot-bloated corpses in its wake. This
+    affects enemies within a Blast (6). Each enemy hit suffers 1d3 Mortal Wounds
+    and the Poisoned (4) condition. While they remain Poisoned, creatures
+    affected suffer 1d3 Mortal Wounds at the start of each turn.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: HERETIC ASTARTES, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Add +1 to the rating of the Poisoned effect.
+      cost: 1
+      property: pois
+      initial: 8
+      value: 2
+      single: false
+    - description: >-
+        Add +1 to the number of Mortal Wounds inflicted by the power’s initial
+        effect, and each turn.
+      cost: 3
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: XL3OPst16P8uVwbY
+folder: i8b0La8fz53gTHrf
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519041
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!XL3OPst16P8uVwbY'

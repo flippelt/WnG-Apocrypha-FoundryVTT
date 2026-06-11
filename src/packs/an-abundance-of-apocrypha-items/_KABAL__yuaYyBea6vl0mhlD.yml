@@ -1,0 +1,24 @@
+folder: uVCzkHxBngQT0TMo
+name: '[KABAL]'
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.yuaYyBea6vl0mhlD
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: yuaYyBea6vl0mhlD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!yuaYyBea6vl0mhlD'

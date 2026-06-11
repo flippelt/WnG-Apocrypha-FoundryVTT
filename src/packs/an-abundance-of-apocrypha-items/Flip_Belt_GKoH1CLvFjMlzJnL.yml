@@ -1,0 +1,53 @@
+name: Flip-Belt
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.GKoH1CLvFjMlzJnL
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">A Flip Belt or Inertia Pivot (known as
+    </span><span class="fontstyle2">geirgilath </span><span
+    class="fontstyle0">or a "belt of speed" in the Eldar language) is an item
+    worn exclusively by the mysterious Eldar Harlequins. This device is a wonder
+    of Eldar technology, a portable antigrav generator keyed to trigger upon the
+    mental command of its wearer. So incredibly lightweight are Flip Belts that
+    they do nothing to hamper their wearer's natural agility. Instead, they
+    heighten it to the point that Harlequins can leap clean over all but the
+    most towering obstacles, springing and bounding through rubble and wreckage
+    with supernatural ease.</span></p><p></p><p><span
+    class="fontstyle3"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A character wearing a Flip-Belt ignores the effects of
+    difficult terrain, can ignore any obstacles less than 2m tall or wide during
+    their movement, and may stand up from prone as a free action at any time
+    without penalty. In addition, a Harlequin wearing a flip-belt determines
+    jump distance using their Agility instead of their Strength, and they do not
+    suffer falling damage unless unconscious.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: HARLEQUIN
+  effect: ''
+_id: GKoH1CLvFjMlzJnL
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240232
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 800000
+_key: '!items!GKoH1CLvFjMlzJnL'

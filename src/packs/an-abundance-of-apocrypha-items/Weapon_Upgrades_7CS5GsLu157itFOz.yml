@@ -1,0 +1,16 @@
+name: Weapon Upgrades
+type: Item
+color: null
+folder: RCmWVrLDFIwxdSe9
+_id: 7CS5GsLu157itFOz
+sorting: a
+sort: 500000
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710023146102
+  modifiedTime: 1710451653357
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!7CS5GsLu157itFOz'

@@ -1,0 +1,84 @@
+name: Stasis Grenades
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.7GLIREPBYoSGsi2D
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The stasis grenade is an unusual and rare weapon
+    developed by the Adeptus Mechanicus for use by special agents of the
+    Imperium. At the heart of each grenade lies a small time-warp generator that
+    creates a self-replicating temporal distortion centred upon itself.
+    Everything near the grenade is frozen in time, trapped within a single
+    instant of time. The effect of the field weakens the further from the
+    centre, slowing rather than freezing time. The field lasts only a brief
+    time.</span></p><p></p><p><span class="fontstyle2"><strong>Special</strong>:
+    </span><span class="fontstyle0">Stasis Grenades do not inflict damage.
+    Creatures and objects caught within Blast (4) are frozen in time, and unable
+    to take actions of any kind while the grenade effect remains but cannot be
+    acted against in turn. Creatures and objects outside Blast (4), but within
+    Blast (8) are </span><span class="fontstyle3">Hindered (3) </span><span
+    class="fontstyle0">and </span><span class="fontstyle3">Staggered
+    </span><span class="fontstyle0">as they are slowed in time, until the
+    grenade effect remains or they manage to start their turn outside of the
+    Blast. The GM should secretly roll 1d3+1 when the grenade is used: this is
+    the number of rounds the grenade’s effect remains active for.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 10
+  keywords: EXOTIC, ADEPTUS MECHANICUS,INQUISITION
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 4/8
+  upgrades: []
+_id: 7GLIREPBYoSGsi2D
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430840
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!7GLIREPBYoSGsi2D'

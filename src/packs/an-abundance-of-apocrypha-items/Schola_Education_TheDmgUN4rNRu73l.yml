@@ -1,0 +1,58 @@
+name: Schola Education
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lFN8eHKadzeKBjHq
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>The character <span style="font-family: var(--font-primary); font-size:
+    var(--font-size-14);">was groomed from a young age to&nbsp;</span>be an
+    example to others. You gain&nbsp;+1d on any two of the
+    following&nbsp;skills, chosen during character&nbsp;creation: Insight,
+    Intimidation,&nbsp;Leadership, Scholar.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057197
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: TheDmgUN4rNRu73l
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!TheDmgUN4rNRu73l'

@@ -1,0 +1,98 @@
+name: Executioner
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Executioner
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.extra'
+        priority: null
+    _id: kxkZC15dAsNV5khI
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!JhBfjDPCBDu4UZDX.kxkZC15dAsNV5khI'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.JhBfjDPCBDu4UZDX
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You summon an astral doppelgänger and unleash it upon the foe. This
+    vengeful apparition carves a path through the enemy’s ranks, each kill
+    spurring it on as it rips apart flesh in a blaze of psychic energy. The
+    nearest enemy within range immediately takes damage as if struck by one of
+    your melee weapons. Each time an enemy is slain by this power, you may hit
+    another enemy within 5m. A single use of this power may inflict a number of
+    hits equal to your Willpower.</p>
+  effect: ''
+  cost: 30
+  activation: action
+  duration: Instant
+  range: 35m
+  multiTarget: true
+  keywords: AELDARI, PSYCHIC
+  prerequisites: AELDARI, FARSEER
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1ED to each hit.
+      cost: 1
+      property: extra
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: JhBfjDPCBDu4UZDX
+folder: SWCK2I9zpJkIWpsv
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742849
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!JhBfjDPCBDu4UZDX'

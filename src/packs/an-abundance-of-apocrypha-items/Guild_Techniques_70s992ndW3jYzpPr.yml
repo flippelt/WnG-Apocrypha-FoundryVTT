@@ -1,0 +1,84 @@
+folder: fgtFfRbmshJ8KM1n
+name: Guild Techniques
+type: ability
+_id: 70s992ndW3jYzpPr
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You receive +Rank on Tech tests to repair a damaged LEAGUES OF VOTANN
+    machine, or to craft a new one. You may re-roll up to Rank dice on any skill
+    test made to use a device you’ve personally built. You are considered to
+    have built all of your starting wargear personally.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Guild Techniques
+    _id: I5yaz8ABf4lVMo1U
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              You receive +Rank on Tech tests to repair a damaged LEAGUES OF
+              VOTANN machine, or to craft a new one.
+            hide: ''
+    tint: null
+    _key: '!items.effects!70s992ndW3jYzpPr.I5yaz8ABf4lVMo1U'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710620541100
+  modifiedTime: 1710620591487
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!70s992ndW3jYzpPr'

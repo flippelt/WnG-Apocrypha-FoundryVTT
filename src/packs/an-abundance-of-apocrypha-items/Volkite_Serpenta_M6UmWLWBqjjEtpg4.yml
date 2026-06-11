@@ -1,0 +1,76 @@
+name: Volkite Serpenta
+type: weapon
+img: modules/wng-core/assets/icons/weapons/volkite-blaster.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.M6UmWLWBqjjEtpg4
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Volkite Weapons is an arcane term used by the
+    Adeptus Mechanicus to refer to a class of powerful thermal ray weapons whose
+    technology is pre-Imperial in origin and dates back to the Dark Age of
+    Technology or the Age of Strife. These weapons possessed considerable
+    killing power, surpassing most other armaments of their
+    size.</span></p><p></p><p><span class="fontstyle0">The pistol variant of a
+    Volkite Weapon wielded singlehanded, the Volkite Serpenta was sometimes
+    carried by high-ranking soldiers of the Imperial Army and the Tech-priests
+    of the Mechanicum during the Great Crusade era.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 10
+  keywords: VOLKITE, ADEPTUS MECHANICUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 5
+    medium: 10
+    long: 15
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: inflict
+      rating: On Fire
+    - name: pistol
+  upgrades: []
+_id: M6UmWLWBqjjEtpg4
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711933
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!M6UmWLWBqjjEtpg4'

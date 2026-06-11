@@ -1,0 +1,156 @@
+folder: tT0eF3TBVmGD5iGo
+name: Enforcer
+type: archetype
+img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Arbites
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IokkMeiQ7h80grCb
+  influence: 0
+  cost: 18
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ARBITES
+  attributes:
+    strength: null
+    toughness: 2
+    agility: null
+    initiative: null
+    willpower: 2
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 1
+    investigation: 1
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Freeze
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.66b9nQscMReyhZo7
+  wargear:
+    - name: Flak Armour
+      id: Compendium.wng-core.items.Item.fLx8DzWDgWDZIMSK
+      type: item
+      diff: {}
+      index: 0
+      groupId: eiXLHi3vDkJ69x4e
+    - name: Combat Shotgun
+      id: Compendium.wng-core.items.Item.z8tIAF58HbO2X0ho
+      type: item
+      diff: {}
+      index: 1
+      groupId: 83CEz9StB1iaamoT
+    - name: Stubber
+      id: Compendium.wng-core.items.Item.BpQ1EYnjQP61Edvp
+      type: item
+      diff: {}
+      index: 2
+      groupId: oUCySrcDZebkjvvj
+    - name: Repression Baton
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.w3BPhkd3JfbQgE6B
+      type: item
+      diff: {}
+      index: 3
+      groupId: qQgDRJKY47he9KFp
+    - name: Magnacles
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Q6W1Qr97wqUXwBi9
+      type: item
+      diff: {}
+      index: 4
+      groupId: 2hTbXFAkjjYSy7Nn
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: eiXLHi3vDkJ69x4e
+      - index: 1
+        type: item
+        groupId: 83CEz9StB1iaamoT
+      - index: 2
+        type: item
+        groupId: oUCySrcDZebkjvvj
+      - index: 3
+        type: item
+        groupId: qQgDRJKY47he9KFp
+      - index: 4
+        type: item
+        groupId: 2hTbXFAkjjYSy7Nn
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 2
+      cunning: 2
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: 2
+      leadership: null
+      medicae: null
+      persuasion: 1
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: HYuKXdU1r5yNyRU1
+        name: Die Hard
+      - id: fIy3evnEKxFiNV4j
+        name: Gallows Humour
+      - id: 0sjaRWKLl28HwIpN
+        name: Scum Savvy
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HEQYIst8UZr0VDng
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664210898661
+  modifiedTime: 1710543939234
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: HEQYIst8UZr0VDng
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!HEQYIst8UZr0VDng'

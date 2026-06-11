@@ -1,0 +1,176 @@
+folder: yFKwNivJm2h6RQHw
+name: Vindicare Assassin
+type: archetype
+_id: dF5tXC7JYH6MKirc
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Officio Assassinorum
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GgJupC58AywMDFq9
+  influence: 0
+  cost: 320
+  keywords:
+    - IMPERIUM
+    - OFFICIO ASSASSINORUM
+    - TEMPLUM VINDICARE
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 6
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: 4
+    survival: 2
+    tech: 2
+    weaponSkill: 4
+  ability:
+    name: Perfect Shot
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lriLD6wScDrDDtR0
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Exitus Longrifle
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ylgObOcgkQr4aRij
+      type: item
+      diff: {}
+      index: 1
+      groupId: wvwhCe6CNB2aLh7v
+    - name: Exitus Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1KzLvfhNYDnrBDcR
+      type: item
+      diff: {}
+      index: 2
+      groupId: Xp27khPSPkR6nX5W
+    - name: Exitus Hellfire Rounds
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.TfV2t0cUwiE1Uigr
+      type: item
+      diff: {}
+      index: 3
+      groupId: NyoZQDassHOgGz4b
+    - name: Exitus Shield-breaker Rounds
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MKbTqmFXjb0qannH
+      type: item
+      diff: {}
+      index: 4
+      groupId: rnbBimRBbixrZWuq
+    - name: Exitus Turbo-Penetrator Rounds
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.pPus40cp8ayL2tmo
+      type: item
+      diff: {}
+      index: 5
+      groupId: m4Wxkna8zd26ncmW
+    - name: Vindicare Stealth Suit
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.mPqfQFOjV5aQL0Uz
+      type: item
+      diff: {}
+      index: 6
+      groupId: 4lOBkpDQtWQdMPxR
+    - name: Vindicare Spy Mask
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ju2V5XfrCo6z0Fii
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: wvwhCe6CNB2aLh7v
+      - index: 2
+        type: item
+        groupId: Xp27khPSPkR6nX5W
+      - index: 3
+        type: item
+        groupId: NyoZQDassHOgGz4b
+      - index: 4
+        type: item
+        groupId: rnbBimRBbixrZWuq
+      - index: 5
+        type: item
+        groupId: m4Wxkna8zd26ncmW
+      - index: 6
+        type: item
+        groupId: 4lOBkpDQtWQdMPxR
+      - index: 7
+        type: item
+        groupId: OiEsCQhMMDUDWdxk
+  suggested:
+    attributes:
+      strength: 6
+      toughness: 6
+      agility: 6
+      initiative: 5
+      willpower: 4
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 4
+      awareness: 4
+      ballisticSkill: 7
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: 5
+      survival: 4
+      tech: 3
+      weaponSkill: 5
+    talents:
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+      - id: gM1zenlhkmIMBA5C
+        name: Eliminator
+      - id: GJUeAkAPhh5uYtlP
+        name: Silent
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710790312044
+  modifiedTime: 1710790519847
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!dF5tXC7JYH6MKirc'

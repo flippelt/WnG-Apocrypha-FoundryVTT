@@ -1,0 +1,81 @@
+name: Neural Shredder
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.C6gd97Luzb31BaAy
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A Neural Shredder is a vicious and shockingly
+    effective weapon against living targets. Though short ranged, the weapon
+    projects a cone of psionic disruption that tears apart a victims' neural
+    pathways. Armour is no protection against his hideous attack, even the
+    mightiest foes dropping to their knees, spasming violently as liquidised
+    brain-matter froths from their eyes, ears, and mouths. This strange weapon's
+    origin is unknown, although some speculate that it is but one of a range of
+    psychic weapons developed by the Adeptus Astra
+    Telepathica.</span></p><p><span class="fontstyle2"><strong>Special</strong>:
+    </span><span class="fontstyle0">A Neural Shredder uses no ammo and never
+    needs to reload. It just works. Nobody knows entirely how. The damage of a
+    Neuro Disruptor is compared to the target’s Resolve, rather than Resilience,
+    and each point of damage inflicted is a Mortal Wound instead of a normal
+    wound. It has no effect against mindless creatures or inanimate
+    objects.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: EXOTIC, OFFICIO ASSASSINORUM, TEMPLUMCALLIDUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 5
+    medium: 9
+    long: 14
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: assault
+    - name: blast
+      rating: 6
+  upgrades: []
+_id: C6gd97Luzb31BaAy
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711908
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!C6gd97Luzb31BaAy'

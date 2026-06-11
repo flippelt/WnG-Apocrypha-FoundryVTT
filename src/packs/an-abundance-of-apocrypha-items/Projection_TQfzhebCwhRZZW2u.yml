@@ -1,0 +1,71 @@
+name: Projection
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.TQfzhebCwhRZZW2u
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You send your disembodied mind and spirit, allowing you to touch other
+    minds from a great distance away. While this power remains in effect, you
+    leave your physical body, and can travel thousands of kilometres in an
+    instant. In this form, you cannot physically affect anything, and you are
+    undetectable to anyone except people you choose… though characters with the
+    PSYKER or DAEMON keywords may be able to sense and affect you. You can
+    communicate freely with anyone you know well who is in the same solar
+    system. </p><p>While in this form, you are completely unaware of your
+    physical body, which is unconscious. Every minute you sustain this power,
+    you suffer 1 Shock.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency: []
+  test:
+    dn: null
+    type: ''
+_id: TQfzhebCwhRZZW2u
+folder: Y2bAliRT8Nh9MTzR
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247450
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TQfzhebCwhRZZW2u'

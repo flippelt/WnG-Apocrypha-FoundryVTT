@@ -1,0 +1,902 @@
+folder: FUoucq3Qte8aJ3HB
+name: Rubric Marine
+type: threat
+_id: Y4NRwYHwPdVU8q46
+img: modules/wng-core/assets/tokens/thousand-son.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 7
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 6
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 11
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: null
+      bonus: 0
+      max: null
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 7
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: '-'
+      second: '-'
+      third: E
+      fourth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 6 Rare</p><p><strong>You may only acquire a
+    Rubric Marine if you are an HERETIC ASTARTES PSYKER of the THOUSAND SONS
+    Legion.</strong></p><p>Rubric Marines were created shortly after the
+    Thousand Sons Legion fled to the Eye of Terror. Having dealt with sorcerous
+    practices and energies for decades and now under the sway of Chaos, mutation
+    ran wild within the Legion.[4a] In order to put an end to this warping
+    process, a mighty spell called the Rubric of Ahriman was cast upon them.
+    However, the powers unleashed reduced all Marines without psychic abilities
+    to ash, sealing every clasp and joint of their armour and trapping their
+    souls within. </p><p>These living suits are still capable of fighting and
+    receiving orders from their masters, and with no fear and no will of their
+    own, they make perfect bodyguards and guardians. Without an Aspiring
+    Sorcerer to guide them, Rubric Marines tend to fall into inactivity; in
+    combat, however, their battle-hunger returns and so they tend to move more
+    like their former living selves. </p><p>A single Sorcerer is capable of
+    controlling a whole squad and will use his powers to enchant their bolters
+    and turn their ammunition into explosive Inferno Bolts. These magical shots
+    are able to ignore mundane armour and burn the souls of sentient beings.
+    </p><p>When a Rubric Marine dies, the dried remains of his material form
+    pour from his rent armour and are scattered to all winds of the battlefield.
+    After this, only the most powerful sorcerers could re-collect this dust,
+    reseal the armour, and through a complicated ritual reanimate the Rubric
+    Marine to a new "life". The sorcery required for this deed are very
+    dangerous and just one syllable misspelled could drive the Sorcerer insane -
+    or kill him outright.</p>
+prototypeToken:
+  name: Rubric Marine
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/thousand-son.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - _id: Yl9sZskiD9Z0v9o0
+    name: CHAOS
+    type: keyword
+    img: modules/wng-core/assets/factions/chaos.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 2800000
+      core:
+        sourceId: Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF
+    system:
+      description: <p>The forces and worshippers of the Chaos Gods. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656025
+      modifiedTime: 1710430711020
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.Yl9sZskiD9Z0v9o0'
+  - folder: StNxChViOAGx6Fyf
+    name: Heretic Astartes
+    type: keyword
+    _id: 96GPWRYYrUV32Ppx
+    img: modules/wng-core/assets/factions/chaos.svg
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.knbKmJGjW70MwU9w
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710430821696
+      modifiedTime: 1710430881422
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.96GPWRYYrUV32Ppx'
+  - name: THOUSAND SONS
+    type: keyword
+    img: modules/wng-apocrypha/assets/images/factions/thousand-sons-white.png
+    effects: []
+    folder: 2T5G7V5JDuIkc0Om
+    flags:
+      cf: null
+      core:
+        sourceId: >-
+          Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RIsGqL3BOaxv7OXD
+    system:
+      description: >-
+        <p>A Legion of psykers, being sanctioned by the Emperor for their
+        reckless use of sorcery when the Heresy broke out, it was inevitable
+        that the Thousand Sons turned to Horus after the Space Wolves sacked and
+        razed their homeworld. Always a legion of scholars and savants,
+        knowledge was at the heart of the Thousand Sons&rsquo; existence, but
+        they were punished for delving too deeply in lore that was forbidden,
+        and in their desperation, they found a patron in Tzeentch. However, the
+        instability of their geneseed made mutation rife amongst the Legion, and
+        devotion to the Changer of Ways made this worse, leading the
+        Legion&rsquo;s Chief Librarian, Ahriman, to perform a great ritual to
+        burn this flaw from his brethren. This ritual led to all those with
+        psychic power becoming mightier, but turned the rest of the Legion into
+        automata, their bodies turned to dust within their armour.</p>
+
+        <p>These rules reflect those who possess psychic abilities, rather than
+        the Rubricae automata that accompany them into battle.</p>
+
+        <p>Characters with the @Item[RIsGqL3BOaxv7OXD]{THOUSAND SONS} keyword
+        must take @Item[fR1jOMfYimktU1bl]{TZEENTCH} as their
+        @Item[TXRdb9GJ55fjSODX]{[MARK OF CHAOS]} keyword.&nbsp;</p>
+
+        <h5>The Rubric</h5>
+
+        <p>A Thousand Sons are legendary for their mastery of warp-craft.</p>
+
+        <p>You gain the Favoured By The Warp talent.</p>
+
+        <h5>Gift of Mutation (Gene-Seed)</h5>
+
+        <p>Between your unstable gene-seed and the attentions of the Changer of
+        Ways, the Thousand Sons are especially prone to mutation.</p>
+
+        <p>You gain an additional +1 Corruption whenever you would gain one or
+        more Corruption points. You also increase the DN of all tests to resist
+        Corruption or Malignancy by +1.</p>
+
+        <h5>&nbsp;</h5>
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664219056377
+      modifiedTime: 1710430888719
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _id: 2kMdNMhXX8Fl74Jx
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    sort: 0
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.2kMdNMhXX8Fl74Jx'
+  - name: Ancient Power Armour
+    type: armour
+    _id: c8TfDHCi2tBJ7eq3
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 5
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710430920875
+      modifiedTime: 1710430940028
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.c8TfDHCi2tBJ7eq3'
+  - name: Arcane Automata
+    type: talent
+    _id: jd1QjYMpnML2sTIJ
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower is unaffected by abilities that target the mind, and
+        never needs to make a Resolve test to continue fighting.</p>
+      display: true
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 200000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.8O7OfESDO1thpEae
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359147151
+      modifiedTime: 1710431065714
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.jd1QjYMpnML2sTIJ'
+  - name: Inferno Boltgun
+    type: weapon
+    _id: NZyO3r4kubW3Rj0n
+    img: modules/wng-core/assets/icons/weapons/boltgun.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 2
+      traits:
+        - name: brutal
+        - name: rapidFire
+          rating: 2
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710431081402
+      modifiedTime: 1710431135783
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.NZyO3r4kubW3Rj0n'
+  - name: Armoured Fists
+    type: weapon
+    _id: AQvDA5FZQbim72bA
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 7
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits: []
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710431136444
+      modifiedTime: 1710431155151
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.AQvDA5FZQbim72bA'
+  - name: Warpflamer
+    type: weapon
+    img: modules/wng-core/assets/icons/weapons/flamer.webp
+    effects: []
+    flags:
+      exportSource:
+        system: wrath-and-glory
+        coreVersion: '9.269'
+        systemVersion: 3.5.0
+      core:
+        sourceId: Compendium.world.chaos-ranged.Item.3uGED8SY3R94OrFQ
+    system:
+      quantity: 1
+      rarity: rare
+      description: >-
+        <p><span class="fontstyle0">Used by the servants of Tzeentch,
+        warpflamers unleash the corrosive power of the warp, burning not only
+        the body, but the soul as well. The Warpflamer is the standard Warpflame
+        weapon, like a standard Imperial Flamer but with the added mutagenic
+        power of Tzeentch.</span> <br style=" font-style: normal; font-variant:
+        normal; font-weight: normal; letter-spacing: normal; line-height:
+        normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+      value: 6
+      keywords: FIRE, CHAOS, TZEENTCH
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -2
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 4
+        medium: 8
+        long: 12
+        melee: 1
+        thrown: 0
+      ammo: ''
+      salvo: 1
+      traits:
+        - name: assault
+        - name: flamer
+        - name: corrupting
+          custom: true
+          display: Corrupting
+          description: >-
+            This weapon directs the corrupting power of the Warp. For each
+            Exalted Icon rolled on the weapon’s damage roll, the target gains 1
+            Corruption.
+      upgrades: []
+    _id: cEuOjk5sbCtb9LsF
+    folder: OUOFLqDJaP03QNHY
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1709925967120
+      modifiedTime: 1710431288941
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    sort: 0
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.cEuOjk5sbCtb9LsF'
+  - name: Soulreaper Cannon
+    type: weapon
+    img: modules/wng-core/assets/icons/weapons/autocannon.webp
+    effects: []
+    flags:
+      exportSource:
+        system: wrath-and-glory
+        coreVersion: '9.269'
+        systemVersion: 3.5.0
+      core:
+        sourceId: Compendium.world.chaos-ranged.Item.SgAx98olbhhnvr0K
+    system:
+      quantity: 1
+      rarity: very-rare
+      description: >-
+        <p><span class="fontstyle0">The Soulreaper Cannon is a ballistic heavy
+        weapon utilised by the Heretic Astartes of the Thousand Sons Traitor
+        Legion and other Chaos Space Marine forces dedicated to the Chaos God
+        Tzeentch. It is a heavy rotor cannon similar to the Chaincannon used by
+        other Traitor Marines, or the Assault Cannons used by loyal Astartes.
+        However, the Soulreaper Cannon’s ammunition has been enhanced by
+        sorcerous power to be able to melt through flesh and ceramite
+        both.</span> <br style=" font-style: normal; font-variant: normal;
+        font-weight: normal; letter-spacing: normal; line-height: normal;
+        orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+        none; white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+      value: 9
+      keywords: PROJECTILE, FIRE, CHAOS, TZEENTCH, HERETICASTARTES
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 13
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -3
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 1
+        thrown: 0
+      ammo: ''
+      salvo: 5
+      traits:
+        - name: heavy
+          rating: 7
+        - name: sustained
+          custom: true
+          display: Sustained
+          description: >-
+            The weapon is well-suited for delivering attack after attack. For
+            each Exalted Icon rolled when you make an attack with this weapon,
+            you may roll one additional attack die. These additional dice cannot
+            themselves generate additional dice.
+      upgrades: []
+    _id: Iqtpak7VHhPCbUBT
+    folder: OUOFLqDJaP03QNHY
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1709925967115
+      modifiedTime: 1710431318801
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    sort: 0
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.Iqtpak7VHhPCbUBT'
+  - name: Follower Options
+    type: ability
+    _id: PQzE09brsdsvRkWL
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The follower’s <strong>Inferno Boltgun</strong> may be exchanged for
+        one of the following. </p><p><strong>Warpflamer</strong>: 10 +1ED / AP
+        -2 / Range 4-8-12 / Salvo 1 / Assault, Corrupting, Flamer
+        </p><p><strong>Soulreaper Cannon</strong>: 13 +1ED / AP -3 / Range
+        12-24- 36 / Salvo 5 / Heavy (7), Sustained</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710431327920
+      modifiedTime: 1710431514736
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.PQzE09brsdsvRkWL'
+  - name: All is Dust
+    type: ability
+    _id: 3dA2XrQ02qnSkAxB
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Spend 1 Glory to roll 6d6. The Follower may re-roll any dice which
+        roll 1s</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 100000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.NyytzXiTWO84CSRs
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359735702
+      modifiedTime: 1710431549515
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!Y4NRwYHwPdVU8q46.3dA2XrQ02qnSkAxB'
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710423244287
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!actors!Y4NRwYHwPdVU8q46'

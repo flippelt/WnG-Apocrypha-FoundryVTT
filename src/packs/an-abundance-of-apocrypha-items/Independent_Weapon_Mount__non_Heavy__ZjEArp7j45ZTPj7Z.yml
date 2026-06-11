@@ -1,0 +1,47 @@
+name: Independent Weapon Mount (non-Heavy)
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.877fqncz3ebNmwzV
+system:
+  description: >-
+    <p><span class="fontstyle0">This heavy bracing allows a single ranged weapon
+    to be mounted along the arm, on a shoulder, or somewhere else on the
+    character’s body or armour. It allows the user to keep both hands free to
+    use other weapons or tools.</span></p><p><br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span
+    class="fontstyle0">The value and rarity of this mod varies by weapon
+    size</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  value: 6
+  rarity: rare
+  keywords: '[ANY]'
+  traits: []
+folder: 7CS5GsLu157itFOz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483233
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_id: ZjEArp7j45ZTPj7Z
+_key: '!items!ZjEArp7j45ZTPj7Z'

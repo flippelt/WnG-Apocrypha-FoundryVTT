@@ -1,0 +1,61 @@
+name: Void Armour
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.kin-armour.Item.FZEUGRe0ZUJZC0LW
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">Void armour is the standard-issue personal
+    protection provided by the Leagues of Votann to its soldiers of the line.
+    Void armour provides substantial personal protection to its wearer, a
+    multilayer defence against atmospheric hazards and a full suite of built-in
+    scanning and communications equipment.</span></p><p></p><p><span
+    class="fontstyle0">Void armour is comprised of hardened, jointed segments
+    that are hooked into the void suit always worn by its wearer beneath the
+    armour. The armour is fashioned from magnaferrite weave, and often
+    reinforced with adamantium and enhanced with microfield generators for
+    greater protection from enemy ballistic and directed energy
+    weapons.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">4, Void</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: HEAVY, LEAGUES OF VOTANN
+  equipped: false
+  rating: 4
+  base: 0
+  traits:
+    - name: void
+      custom: true
+      display: Void
+      description: >-
+        A number of types of armour listed in this section have the Void trait.
+        A character with Void armour reduces the AP of incoming attacks by one
+        step (i.e., from AP -1 to 0, or from AP -3 to -2). Void armour also
+        benefits from the Built-in Tech rule (page 235 of the Wrath & Glory Core
+        Rulebook).
+  invulnerable: false
+_id: FZEUGRe0ZUJZC0LW
+folder: RAPYMnGpGtheAIly
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090342788
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!FZEUGRe0ZUJZC0LW'

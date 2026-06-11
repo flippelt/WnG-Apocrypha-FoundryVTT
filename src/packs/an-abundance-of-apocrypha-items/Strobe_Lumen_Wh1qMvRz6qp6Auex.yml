@@ -1,0 +1,47 @@
+name: Strobe-Lumen
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.Wh1qMvRz6qp6Auex
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">These intense lumen-globes, fitted to armour or
+    weapons, can be set to flash and pulse rapidly, creating a disorienting
+    effect. This can be extremely useful during riot control, as disoriented
+    foes are much easier to pacify.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">When you attempt an Intimidation Interaction Attack, you
+    may activate your Strobe-Lumen. If you do so, increase the rating of the
+    </span><span class="fontstyle3">Hindered </span><span class="fontstyle0">or
+    </span><span class="fontstyle3">Vulnerable </span><span
+    class="fontstyle0">condition you inflict by +2.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: IMPERIUM, ADEPTUS ARBITES
+  effect: ''
+_id: Wh1qMvRz6qp6Auex
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937609
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!Wh1qMvRz6qp6Auex'

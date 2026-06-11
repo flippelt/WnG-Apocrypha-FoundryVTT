@@ -1,0 +1,64 @@
+name: DisintegratorCannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/fusion-gun.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-ranged.Item.kIQ7ETdkZpXwth33
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Disintegrator Cannon is a Drukhari weapon,
+    able to fire burst of particles of unstable matter from a stolen sun. It is
+    similar to Imperial plasma weapons but more sophisticated and does not
+    suffer from the same overheating problems. It remains cool even in the
+    fiercest battles despite the ravening energies housed within.</span></p>
+  value: 6
+  keywords: PLASMA,DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 3
+  traits: []
+  upgrades: []
+_id: kIQ7ETdkZpXwth33
+folder: hvQbqAxjU9zt0gWD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927211817
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!kIQ7ETdkZpXwth33'

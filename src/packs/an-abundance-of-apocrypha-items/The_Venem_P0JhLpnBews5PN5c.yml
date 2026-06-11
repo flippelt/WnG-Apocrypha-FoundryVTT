@@ -1,0 +1,54 @@
+folder: fgtFfRbmshJ8KM1n
+name: The Venem
+type: ability
+_id: P0JhLpnBews5PN5c
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Whenever a creature suffers the Poisoned (X) condition from an attack or
+    weapon from you, they will suffer 1d3+Rank Mortal Wounds at the start of
+    each of their turns. In addition, you cannot ever be affected by the
+    Poisoned condition, and you are immune to poisons, diseases, and radiation
+    effects.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710790163870
+  modifiedTime: 1710790179340
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!P0JhLpnBews5PN5c'

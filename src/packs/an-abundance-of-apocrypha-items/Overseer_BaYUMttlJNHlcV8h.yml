@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Overseer
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Leadership Rating 3+
+  description: >-
+    <p>Allies follow your direction without hesitation, trusting your judgement
+    in the heat of battle.<br>As a Full Action, you may command a single ally
+    within 15+Rank metres. That ally may immediately take Movement, a Combat
+    Action, and a Simple Action as if it was their turn. This does not prevent
+    the ally from taking a turn of their own later in the round. Once you have
+    used this option, you may not do so again until after your next Regroup.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.j72s02PRgrojq6Pd
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664023571960
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: BaYUMttlJNHlcV8h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 8200000
+_key: '!items!BaYUMttlJNHlcV8h'

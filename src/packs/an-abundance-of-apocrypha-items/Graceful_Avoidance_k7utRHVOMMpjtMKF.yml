@@ -1,0 +1,29 @@
+folder: R6DiCyrJrBf1MKBz
+name: Graceful Avoidance
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Howling Banshee aspect
+  description: >-
+    <p>Your motions make it almost impossible to land a telling blow upon you.
+    When you roll Determination against damage inflicted by a melee attack, you
+    or a member of your squad may use Agility +Rank instead of Toughness to
+    Soak, and may roll Determination against Mortal Wounds.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1700052843952
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: k7utRHVOMMpjtMKF
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!k7utRHVOMMpjtMKF'

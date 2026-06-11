@@ -1,0 +1,80 @@
+folder: fgtFfRbmshJ8KM1n
+name: Precision Shots
+type: ability
+_id: HBuhrX1BbX3EGmIZ
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you aim, you add +Rank bonus dice onto the following ranged attack,
+    in addition to the other benefits of aiming.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+    name: Precision Shots
+    _id: aEIrlkGW1eLQ23uQ
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Aiming
+            hide: ''
+    tint: null
+    _key: '!items.effects!HBuhrX1BbX3EGmIZ.aEIrlkGW1eLQ23uQ'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710717644411
+  modifiedTime: 1710717704010
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!HBuhrX1BbX3EGmIZ'

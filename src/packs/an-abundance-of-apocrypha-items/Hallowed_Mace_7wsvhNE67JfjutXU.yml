@@ -1,0 +1,62 @@
+name: Hallowed Mace
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: M81y3pnOdLuRP51r
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>These sacred weapons are entrusted to only the most devout and skilled
+    Celestian Sisters, who use them to crush the bodies and spirits of the
+    faithless.</p>
+  value: 7
+  keywords: POWER FIELD, ADEPTA SORORITAS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: blessed
+      rating: 2
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 7wsvhNE67JfjutXU
+sort: 1000000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!7wsvhNE67JfjutXU'

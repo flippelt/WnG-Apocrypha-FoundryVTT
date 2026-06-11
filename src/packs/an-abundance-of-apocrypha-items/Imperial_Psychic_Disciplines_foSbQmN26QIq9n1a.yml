@@ -1,0 +1,16 @@
+name: Imperial Psychic Disciplines
+sorting: a
+folder: uKGIaDhU4mPMn7pJ
+type: Item
+_id: foSbQmN26QIq9n1a
+sort: 200000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712005307838
+  modifiedTime: 1712180960183
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!foSbQmN26QIq9n1a'

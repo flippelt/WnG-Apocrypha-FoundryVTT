@@ -1,0 +1,162 @@
+name: Astartes Combat Knife (Matched Pair)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/astartes-combat-knife.webp
+effects: []
+flags:
+  wng-core:
+    initialization-folder: Weapons
+    sort: 0
+  core: {}
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    This large, exceptionally sharp blade is carried by many Space Marines as
+    part of their standard issue armament. Similar in size to a regular Human’s
+    short sword, this knife has a monomolecular edge that never dulls and always
+    cuts true.
+  value: 3
+  keywords: BLADE, ADEPTUS ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: reliable
+  upgrades:
+    - name: Matched Pair
+      type: weaponUpgrade
+      img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+      effects: []
+      flags:
+        exportSource:
+          world: warhammer-shadowbreaker
+          system: wrath-and-glory
+          coreVersion: '9.269'
+          systemVersion: 3.5.0
+        core:
+          sourceId: Compendium.world.weapon-upgrades.Item.S2MK3WX57MQW3r4s
+      system:
+        description: >-
+          <p><span class="fontstyle0">This weapon is part of a set, designed
+          with an identical counterpart to be wielded in the other
+          hand.</span></p><p></p><p><span class="fontstyle0">This modification
+          may be applied to a pair of identical melee weapons or to a pair of
+          identical pistols. If either weapon has any other upgrades, both must
+          have that upgrade.</span></p><p></p><p><span
+          class="fontstyle2"><strong>Effect</strong>: </span><span
+          class="fontstyle0">The weapons gain the Paired trait.</span> <br
+          style=" font-style: normal; font-variant: normal; font-weight: normal;
+          letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+          -webkit-auto; text-indent: 0px; text-transform: none; white-space:
+          normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+          -webkit-text-stroke-width: 0px; "></p>
+        effect: ''
+        value: 4
+        rarity: uncommon
+        keywords: '[ANY]'
+        traits:
+          - name: paired
+            custom: true
+            display: Paired
+            description: >-
+              The weapon is designed to be used in a pair—two weapons of that
+              type, one in each hand. When a character makes an attack while
+              wielding both weapons in a pair, either count it as a Simultaneous
+              Strike (as per the talent) or reduce the DN of a multiattack by 2.
+              If you have the Signature Weapon talent, you may apply it to both
+              weapons in a pair.
+            type: add
+      _id: DjvhXJap9N9M2YFT
+      folder: 7CS5GsLu157itFOz
+      ownership:
+        default: 0
+        iqIIJEvwgrLX4V4E: 3
+      _stats:
+        systemId: wrath-and-glory
+        systemVersion: 5.0.2
+        coreVersion: '11.315'
+        createdTime: 1710017483235
+        modifiedTime: 1710451653533
+        lastModifiedBy: iqIIJEvwgrLX4V4E
+      sort: 0
+  bonus:
+    attributes:
+      strength: 0
+      toughness: 0
+      agility: 0
+      initiative: 0
+      willpower: 0
+      intellect: 0
+      fellowship: 0
+    skills:
+      athletics: 0
+      awareness: 0
+      ballisticSkill: 0
+      cunning: 0
+      deception: 0
+      insight: 0
+      intimidation: 0
+      investigation: 0
+      leadership: 0
+      medicae: 0
+      persusasion: 0
+      pilot: 0
+      psychicMastery: 0
+      scholar: 0
+      stealth: 0
+      survival: 0
+      tech: 0
+      weaponSkill: 0
+    combat:
+      defence: 0
+      resilience: 0
+      wounds: 0
+      determination: 0
+      shock: 0
+      resolve: 0
+      passiveAwareness: 0
+      conviction: 0
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664497654704
+  modifiedTime: 1710781282048
+  lastModifiedBy: CkX1zlse2zyKIjlv
+folder: MQykOvcWtZwgblsd
+_id: 4QVBQYWXXLyvFWkj
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!4QVBQYWXXLyvFWkj'

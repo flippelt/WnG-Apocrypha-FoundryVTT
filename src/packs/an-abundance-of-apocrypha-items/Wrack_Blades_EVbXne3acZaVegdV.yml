@@ -1,0 +1,63 @@
+name: Wrack Blades
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>The servants of the Haemonculi are frequently equipped with razor-sharp
+    cleavers, flensing-blades, and macro-scalpels, all liberally coated with a
+    cocktail of deadly toxins.</p>
+  value: 6
+  keywords: BLADE, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 100007
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: EVbXne3acZaVegdV
+_key: '!items!EVbXne3acZaVegdV'

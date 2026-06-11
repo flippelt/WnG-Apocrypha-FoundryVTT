@@ -1,0 +1,31 @@
+folder: ZMoR03HW5eXVf9E1
+name: Hail of Fire
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Ballistic Skill 2+
+  description: >-
+    <p>On command, you can produce a veritable wall of firepower that few foes
+    can withstand. When you use a Salvo option when making a ranged attack, you
+    add +Rank ED to the attack&rsquo;s damage.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663880545216
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: hOa9JaGg2aPeNflT
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!hOa9JaGg2aPeNflT'

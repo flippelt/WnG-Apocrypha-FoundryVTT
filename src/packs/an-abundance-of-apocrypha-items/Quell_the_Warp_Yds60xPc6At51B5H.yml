@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Quell the Warp
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: Pariah species, Willpower 5
+  description: >-
+    <p>You can focus your mind to still disturbances in the Warp nearby.<br>You
+    gain the ability to @UUID[Item.qZ1MhJjRIuxJxEF7]{Deny The Witch}, &nbsp;even
+    though you are not a psyker. Instead of a Psychic Mastery test, you make a
+    Willpower test with a bonus of +Double Rank.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127176222
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Yds60xPc6At51B5H
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!Yds60xPc6At51B5H'

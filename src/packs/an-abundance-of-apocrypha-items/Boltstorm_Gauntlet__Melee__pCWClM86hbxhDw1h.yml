@@ -1,0 +1,61 @@
+name: Boltstorm Gauntlet (Melee)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/storm-bolter.webp
+effects: []
+flags:
+  cf: null
+  core: {}
+  scene-packer:
+    sourceId: Item.GKtB25vSJj9IiQZo
+system:
+  quantity: 1
+  rarity: very-rare
+  description: <p>A rapid-firing bolt pistol mounted on the underside of a power fist.</p>
+  value: 8
+  keywords: BOLT, POWER FIELD, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: null
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: brutal
+    - name: unwieldy
+      rating: 2
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: pCWClM86hbxhDw1h
+sort: 700000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!pCWClM86hbxhDw1h'

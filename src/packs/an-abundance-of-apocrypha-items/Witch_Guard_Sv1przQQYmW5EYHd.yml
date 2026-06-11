@@ -1,0 +1,59 @@
+folder: fgtFfRbmshJ8KM1n
+name: Witch-Guard
+type: ability
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are trained to react swiftly to psychic phenomena. When a
+    @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER }within Double Rank metres of you
+    attempts to use a Psychic Power, or suffers Perils of the Warp, you may use
+    your Reflexive action to immediately attack that Psyker. If the attack
+    inflicts one or more Wounds, the  psychic power and any accompanying Perils
+    of the Warp immediately fails. If you use this ability on a friendly Psyker,
+    you may choose to reduce the damage inflicted by up to Rank.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Sv1przQQYmW5EYHd
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699560140330
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Sv1przQQYmW5EYHd
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Sv1przQQYmW5EYHd'

@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Urban Clearance Tactics
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You have an efficient way of flushing enemies out of defensivepositions.
+    When you make a ranged attack against an enemy who has taken the Blinded or
+    Pinned conditions, add +Rank ED to the attack&rsquo;s damage.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4fIZoH2IpPcSnRiR
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664299854937
+  modifiedTime: 1710544555349
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: GM8rpWO6br6hZw7n
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!GM8rpWO6br6hZw7n'

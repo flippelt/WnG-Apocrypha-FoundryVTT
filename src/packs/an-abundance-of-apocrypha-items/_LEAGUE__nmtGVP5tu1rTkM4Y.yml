@@ -1,0 +1,24 @@
+folder: EJ6lK67pJ1JqvFo2
+name: '[LEAGUE]'
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.igsr9ZLFC8948X79
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699504031398
+  modifiedTime: 1710521413249
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: nmtGVP5tu1rTkM4Y
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 100000
+_key: '!items!nmtGVP5tu1rTkM4Y'

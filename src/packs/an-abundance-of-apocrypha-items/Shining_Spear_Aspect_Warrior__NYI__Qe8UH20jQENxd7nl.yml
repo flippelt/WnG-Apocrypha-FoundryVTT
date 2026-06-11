@@ -1,0 +1,157 @@
+folder: GHP0SxnnlNKFusRJ
+name: Shining Spear Aspect Warrior (NYI)
+type: archetype
+_id: Qe8UH20jQENxd7nl
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 141
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - ASPECT WARRIOR
+  attributes:
+    strength: 3
+    toughness: 5
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 5
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: 5
+  ability:
+    name: Ride the Wind
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ch0jHsFTwF26kjjl
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Heavy Aspect Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KXn7FgD0ly6vLiOK
+      type: item
+      diff: {}
+      index: 1
+      groupId: Arl27XQ5cUlzqV1T
+    - name: Laser Lance (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Gt00PqgOKOeilIxS
+      type: item
+      diff: {}
+      index: 2
+      groupId: Uh8T4xe5jlycP4ZW
+    - name: Laser Lance (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.s62o2qaBS0mhQ8Lf
+      type: item
+      diff: {}
+      index: 3
+      groupId: 3ReHXpwa5MpTKfM8
+    - name: Laser Lance (Melee Mounted)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9dmUd6Bmw9B3UDSp
+      type: item
+      diff: {}
+      index: 4
+      groupId: OM2DTInRzxTEBTJI
+    - type: generic
+      name: Aeldari Jetbike (NYI)
+      filters: []
+      index: 5
+      groupId: 02eGFKEDfbX0v0Z9
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: Arl27XQ5cUlzqV1T
+      - index: 2
+        type: item
+        groupId: Uh8T4xe5jlycP4ZW
+      - index: 3
+        type: item
+        groupId: 3ReHXpwa5MpTKfM8
+      - index: 4
+        type: item
+        groupId: OM2DTInRzxTEBTJI
+      - type: item
+        index: 5
+        groupId: 02eGFKEDfbX0v0Z9
+      - index: 6
+        type: item
+        groupId: NiqhByMBLIFTDUqz
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 5
+      initiative: 5
+      willpower: 4
+      intellect: 3
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 4
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 5
+      psychicMastery: 2
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: 6
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710688991939
+  modifiedTime: 1710689145130
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Qe8UH20jQENxd7nl'

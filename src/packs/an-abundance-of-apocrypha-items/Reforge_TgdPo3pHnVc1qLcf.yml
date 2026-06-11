@@ -1,0 +1,79 @@
+name: Reforge
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.TgdPo3pHnVc1qLcf
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Placing your hand on rent plating, you chant binharic incantations that
+    urge a machine to return to function. Wiring reknits, damaged energy cells
+    are sealed, and buckled plating flattens and reforms. Select one damaged
+    machine within range. If the machine is a piece of wargear, it is fully
+    repaired and will function normally. If the machine is a vehicle, it
+    recovers a number of wounds equal to your Willpower.</p>
+  effect: ''
+  cost: 8
+  activation: full
+  duration: Instant
+  range: 3m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: IRON HANDS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: A vehicle recovers +1 wound.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Activation reduced to an Action.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: TgdPo3pHnVc1qLcf
+folder: S7O8QSVPBRof9hTZ
+sort: 125000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959329
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TgdPo3pHnVc1qLcf'

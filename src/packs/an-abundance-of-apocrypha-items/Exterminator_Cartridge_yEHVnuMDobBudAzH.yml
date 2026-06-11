@@ -1,0 +1,43 @@
+name: Exterminator Cartridge
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.yEHVnuMDobBudAzH
+system:
+  description: >-
+    <p><span class="fontstyle0">Common amongst some of the most destructive
+    zealots and redemptionist sects in the Imperium, an Exterminator cartridge
+    is a compact, improvised flameprojector affixed to a larger
+    weapon.</span></p><p></p><p><span class="fontstyle0">An Exterminator may be
+    mounted onto any other weapon, and it counts as a hand flamer which may only
+    be fired once.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  value: 5
+  rarity: uncommon
+  keywords: FIRE, IMPERIUM, SCUM, ADEPTUS MINISTORUM
+  traits: []
+_id: yEHVnuMDobBudAzH
+folder: 7CS5GsLu157itFOz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483227
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!yEHVnuMDobBudAzH'

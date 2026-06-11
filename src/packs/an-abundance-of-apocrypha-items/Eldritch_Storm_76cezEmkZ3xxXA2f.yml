@@ -1,0 +1,74 @@
+name: Eldritch Storm
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.76cezEmkZ3xxXA2f
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You summon a swirling corona of energy that assails the foe with bolts of
+    lightning and psychic shockwaves. Entire platoons are devastated beneath the
+    onslaught of the roiling tempest as you channel more and more power into
+    their storm of destruction. The power affects all enemies in a Blast (10)
+    within range. All enemies within the affected area at the start of each of
+    your turns, immediately take 9 +3ED damage with an AP of -2 and the
+    Agonizing, Arc (2) and Warp Weapon traits.</p>
+  effect: ''
+  cost: 30
+  activation: full
+  duration: Sustained
+  range: 50m
+  multiTarget: false
+  keywords: AELDARI, KINETIC,  PSYCHIC
+  prerequisites: AELDARI, FARSEER
+  damage:
+    base: 9
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The size of the Blast is increased by +5.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 76cezEmkZ3xxXA2f
+folder: SWCK2I9zpJkIWpsv
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742847
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!76cezEmkZ3xxXA2f'

@@ -1,0 +1,120 @@
+name: Diabolic Strength
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Diabolic Strength
+    changes:
+      - key: system.attributes.strength.bonus
+        mode: 2
+        value: '@test.result.str'
+        priority: null
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.extra'
+        priority: null
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: lGQMnVUZMDy2sYn2
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: 'Diabolic Strength: Melee Attack'
+            hide: ''
+          '2':
+            script: ''
+            description: 'Diabolic Strength: Melee Attack'
+            hide: ''
+    tint: null
+    _key: '!items.effects!Mc3d0GSkjN9NHJTC.lGQMnVUZMDy2sYn2'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.Mc3d0GSkjN9NHJTC
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The unholy energies of Chaos course through the recipient, swelling their
+    frame with the strength to tear tanks asunder. Select an ally with the CHAOS
+    keyword within range. The ally’s Strength is increased by +4, and they
+    receive +2 bonus dice on melee attacks, while this power remains in
+    effect.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Sustained
+  range: 12m
+  multiTarget: false
+  keywords: CHAOS, PSYCHIC
+  prerequisites: HERETIC ASTARTES, CHAOS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Strength
+      cost: 1
+      property: str
+      initial: 4
+      value: 1
+      single: false
+    - description: +1ED to the affected ally’s melee damage.
+      cost: 1
+      property: extra
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: Mc3d0GSkjN9NHJTC
+folder: 62AZxr813CAe5Qug
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519013
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Mc3d0GSkjN9NHJTC'

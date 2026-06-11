@@ -1,0 +1,71 @@
+folder: zy9aJZUOooZEiNXj
+name: Asuryani Ghost Warriors
+pages:
+  - sort: 100000
+    name: Asuryani Ghost Warriors
+    type: text
+    _id: aESsrmacXNPuxPca
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>All Asuryani—the Aeldari of the Craftworlds—bear upon their breast a
+        glittering gem known as a Spirit Stone. These psycho-reactive jewels are
+        designed to capture the soul of the bearer at the moment of their death,
+        a far gentler fate than entering the Warp and being devoured by She Who
+        Thirsts (Slaanesh).</p><p>A Ghost Warrior is a wraithbone robotic
+        construct utilised exclusively by the Craftworld Aeldari in times of
+        urgent need. For the Asuryani, death does not guarantee respite from
+        war, for the species' need is greater than that of its constituent
+        souls.</p><p>With the guidance of a Spiritseer, it is possible for an
+        Asuryani spirit to separate itself from the Infinity Circuit of the
+        craftworlds and flow into a Spirit Stone put aside for that purpose.
+        Such a Spirit Stone can then be placed within the robotic body of a
+        wraith-construct, imbuing its artificial form with a living
+        intellect.</p><p>This process is abhorrent to the Asuryani, and such a
+        technique is only initiated in times of dire need, but none can deny
+        that the resultant combination of fierce warrior spirit and impervious
+        host is a major weapon in the Craftworld Aeldari arsenal.</p><p>The
+        wraith-constructs in which the Spirit Stones are housed are made from no
+        common material -- they are crafted from wraithbone. At least as strong
+        as ceramite, wraithbone is an organic material -- grown from pure
+        psychic energy, not forged, and able to selfrepair over
+        time.</p><p></p><img
+        src="worlds/module-development/assets/pages/GErM5YUHAbWvc7nE-pages-aESsrmacXNPuxPca-image-XKzM5vDwhYrVtWSL.png"
+        />
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      QQwHydvBuTROXyXM: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 4.2.1
+      coreVersion: '11.314'
+      createdTime: 1699293436658
+      modifiedTime: 1699293767845
+      lastModifiedBy: QQwHydvBuTROXyXM
+    _key: '!journal.pages!GErM5YUHAbWvc7nE.aESsrmacXNPuxPca'
+flags:
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1699293417334
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: GErM5YUHAbWvc7nE
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!GErM5YUHAbWvc7nE'
+categories: []

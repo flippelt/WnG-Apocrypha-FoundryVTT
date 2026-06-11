@@ -1,0 +1,87 @@
+name: Litany of Faith
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + IMPERIUM/ADEPTUS ASTARTES, not CHAOS
+  description: >-
+    <p><span class="fontstyle0">You exhort your charges to steel themselves
+    against the most dangerous weapons the enemy can bring to
+    bear.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">If this Prayer is successful, you and all
+    allies with the </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">IMPERIUM </span><span class="fontstyle0">keyword
+    within 12m of you may roll Determination against Mortal Wounds, and may add
+    +Rank dice to Determination, while the Prayer remains in effect.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Litany of Faith
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: 8Ypc4eNo98KuPIqd
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!UVKoyLWNLggJJSYT.8Ypc4eNo98KuPIqd'
+folder: 2QU5OElCoQtte5Vj
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: UVKoyLWNLggJJSYT
+_key: '!items!UVKoyLWNLggJJSYT'

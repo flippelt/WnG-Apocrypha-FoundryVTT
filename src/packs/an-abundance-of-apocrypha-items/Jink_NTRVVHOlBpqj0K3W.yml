@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Jink
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: DARK ANGELS keyword, Agility 5+
+  description: >-
+    <p>You are a paragon of high-speed mounted combat, and few foes can draw a
+    bead upon you when you&rsquo;re at full speed.<br>When you pilot an
+    @UUID[Item.KiNbJ09wqnmccwb0]{ADEPTUS ASTARTES}vehicle with the RAIDER or
+    FLYER keywords, the vehicle&rsquo;s Defence increases by +Rank, or by
+    +Double Rank if you take the Evasive Manoeuvres action. In addition, you
+    gain the RAVENWING keyword.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.NTRVVHOlBpqj0K3W
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664021896526
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: NTRVVHOlBpqj0K3W
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 5300000
+_key: '!items!NTRVVHOlBpqj0K3W'

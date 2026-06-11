@@ -1,0 +1,33 @@
+folder: R6DiCyrJrBf1MKBz
+name: Lancer
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Shining Spear aspect
+  description: >-
+    <p>You wield a lance as if it were an extension of your arm. When you score
+    a critical hit with an attack with a Laser Lance, Star Lance, or similar
+    weapon while charging, you may choose to make an additional attack with the
+    weapon instead of inflicting a critical hit. This additional attack cannot
+    produce further attacks.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9vr3mxgJNT170MZw
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700053022064
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 9vr3mxgJNT170MZw
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!9vr3mxgJNT170MZw'

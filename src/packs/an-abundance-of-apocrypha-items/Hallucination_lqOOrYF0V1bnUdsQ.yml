@@ -1,0 +1,116 @@
+name: Hallucination
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Hallucination
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '@test.result.resolve'
+        priority: null
+      - key: difficulty.bonus
+        mode: 6
+        value: '@test.result.attack'
+        priority: null
+    _id: ZmvZkoNGz4CEDfQW
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Resolve test
+            hide: ''
+          '1':
+            script: ''
+            description: Attack
+            hide: ''
+    tint: null
+    _key: '!items.effects!lqOOrYF0V1bnUdsQ.ZmvZkoNGz4CEDfQW'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.lqOOrYF0V1bnUdsQ
+system:
+  dn: '@combat.resolve.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You instil terror and panic in your foes by conjuring images from their
+    memories— from past allies returned from the dead to apparitions wrought
+    from nightmares. If successful, select an enemy within range. That enemy
+    adds +1 to the DN of all Resolve tests and attacks while the power remains
+    in effect</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: 35m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: ADEPTUS ASTARTES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: ''
+      cost: 2
+      property: resolve
+      initial: 1
+      value: 1
+      single: false
+    - description: ''
+      cost: 2
+      property: attack
+      initial: 1
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: lqOOrYF0V1bnUdsQ
+folder: 6agkY8o79jzZ96uL
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959206
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!lqOOrYF0V1bnUdsQ'

@@ -1,0 +1,69 @@
+name: Stygies VIII
+type: keyword
+img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+effects:
+  - icon: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    name: Shroud Protocols
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 7
+        value: '1'
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    _id: Oq2l6XkfH5B1hi4j
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: 'Shroud Protocols: Ranged attack from more than 12 metres'
+            hide: ''
+          '1':
+            script: ''
+            description: 'Shroud Protocols: You add +Rank bonus dice to Stealth Tests'
+            hide: ''
+    tint: null
+    _key: '!items.effects!67V1s73BpBIyF2MC.Oq2l6XkfH5B1hi4j'
+folder: EOubWyxMDb5RRb88
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 1800000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.tdrVzvJVdaUmcJks
+system:
+  description: >-
+    <p>When the armies of Stygies VIII march to war, they do so beneath stealth
+    screen projectors and target-befouling apparatus. That the Tech-Priests of
+    this forge world deny owning such technology only reinforces their
+    untrustworthy reputation.</p><p><strong>SHROUD PROTOCOLS:</strong> You add
+    +Rank bonus dice to Stealth Tests and gain an additional +1 to Defence
+    against ranged attacks from more than 12 metres away.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699478596396
+  modifiedTime: 1710530383954
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 67V1s73BpBIyF2MC
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!67V1s73BpBIyF2MC'

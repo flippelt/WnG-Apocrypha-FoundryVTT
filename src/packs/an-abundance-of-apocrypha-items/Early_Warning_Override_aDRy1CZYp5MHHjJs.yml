@@ -1,0 +1,48 @@
+name: Early Warning Override
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-equipment.Item.aDRy1CZYp5MHHjJs
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">An Early Warning Override is an advanced sensor
+    suite that has been calibrated to detect the electronic signatures of
+    teleport beams and orbital-entry jump systems. If such a signal is detected,
+    the system jolts a T'au Battlesuit's weapons to lock-on status and firing
+    before the target has a chance to react. This Support System is available to
+    most forms of T'au Battlesuit.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">When you are Charged, you may use your Reflexive Action
+    and spend 1 ammo to make a ranged attack against the enemy Charging you.
+    This attack is resolved before the Charge begins. This is considered a Salvo
+    option, so you must reload your weapon after this attack before you can fire
+    it again.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: T’AU EMPIRE, SUPPORT SYSTEM
+  effect: ''
+_id: aDRy1CZYp5MHHjJs
+folder: G6w5YJj7QygkEzDX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710258892578
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!aDRy1CZYp5MHHjJs'

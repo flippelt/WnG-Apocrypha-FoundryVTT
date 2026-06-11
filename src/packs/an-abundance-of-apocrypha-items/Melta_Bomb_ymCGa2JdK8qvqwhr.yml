@@ -1,0 +1,83 @@
+name: Melta Bomb
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.ymCGa2JdK8qvqwhr
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A Melta Bomb is a type of explosive device that
+    makes use of nuclear fusion based Melta Weapons technology and is employed
+    by both Imperial and Aeldari military forces. Typical examples have
+    dimensions analogous to that of a large Imperial or Aeldari grenade but can
+    be manufactured larger with a resulting increase in explosive force. When
+    activated, a Melta Bomb explodes with an intense blast of thermal energy,
+    literally "melting" the target away.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">Any target within a Melta Bomb’s blast counts as within
+    close range for the purposes of the Melta trait. Melta Bombs cannot be used
+    in a grenade launcher. In addition, they may be placed onto a vehicle or
+    structure within 1m rather than thrown, requiring a Tech test with a DN
+    equal to the vehicle’s Defence. Placed melta bombs do not detonate
+    immediately and can be detonated as a simple action on any of the
+    character’s subsequent turns.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: MELTA, IMPERIUM, AELDARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 2
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 2
+    - name: melta
+    - name: unwieldy
+      rating: 2
+  upgrades: []
+_id: ymCGa2JdK8qvqwhr
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430816
+  modifiedTime: 1710683043520
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 0
+_key: '!items!ymCGa2JdK8qvqwhr'

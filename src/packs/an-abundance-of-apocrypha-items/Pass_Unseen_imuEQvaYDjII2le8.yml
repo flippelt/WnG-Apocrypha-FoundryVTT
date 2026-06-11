@@ -1,0 +1,28 @@
+folder: R6DiCyrJrBf1MKBz
+name: Pass Unseen
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Striking Scorpion Aspect, Stealth 6+
+  description: >-
+    <p>Your body, mind, and soul are wreathed in deceptive mists and illusory
+    shadows, such that you cannot easily be detected, even by the most vigilant
+    of sentries. You add an Exalted Icon to all Stealth tests you attempt.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1700053293085
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: imuEQvaYDjII2le8
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!imuEQvaYDjII2le8'

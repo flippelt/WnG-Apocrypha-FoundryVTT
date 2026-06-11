@@ -1,0 +1,159 @@
+folder: j5mcT1m1I7srvO3E
+name: Grey Knight Space Marine
+type: archetype
+_id: yS0JcEQtmPQU5dp5
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.KpwHo0A92bR7iVMB
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 1
+  cost: 340
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - GREY KNIGHTS
+    - PSYKER
+    - INQUISITION
+    - ORDO MALLEUS
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: 4
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 4
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 4
+    scholar: 2
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Daemon-Hunter
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.AglIgigCuSvq3bl1
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aegis Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bOAEsty9KeXkxFLY
+      type: item
+      diff: {}
+      index: 1
+      groupId: rnUnDnwK2xILVzXu
+    - name: Nemesis Force Sword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.CvEZohtypYXanrM8
+      type: item
+      diff: {}
+      index: 2
+      groupId: jTAc41jxAmtf3i0k
+    - name: Storm Bolter (Wrist Mounted)
+      id: Compendium.wng-core.items.Item.09gEBy2LQVCOJaW9
+      type: item
+      diff:
+        name: Storm Bolter (Wrist Mounted)
+      index: 3
+      groupId: M13MOj5ha683UYIh
+    - name: Psyk-Out Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Rs98pBCteVE7y1GS
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: r3xPEjqI0cRGHFJa
+    - name: Armoured Liber Daemonica
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3GjkjdfqGj9yEjWo
+      type: item
+      diff:
+        name: Armoured Liber Daemonica
+      index: 5
+      groupId: CQnIpnHI0Uk1NA5c
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: rnUnDnwK2xILVzXu
+      - index: 2
+        type: item
+        groupId: jTAc41jxAmtf3i0k
+      - index: 3
+        type: item
+        groupId: M13MOj5ha683UYIh
+      - index: 4
+        type: item
+        groupId: r3xPEjqI0cRGHFJa
+      - index: 5
+        type: item
+        groupId: CQnIpnHI0Uk1NA5c
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: JqpiKvNhyaAfXaU0
+        name: Brotherhood of Psykers
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710703380823
+  modifiedTime: 1710703659811
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!yS0JcEQtmPQU5dp5'

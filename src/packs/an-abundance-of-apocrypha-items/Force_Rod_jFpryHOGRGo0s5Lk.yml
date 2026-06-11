@@ -1,0 +1,62 @@
+name: Force Rod
+type: weapon
+_id: jFpryHOGRGo0s5Lk
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>These stout crystalline rods are usable as weapons to a limited degree,
+    but they are more useful as a way to store psychic energy for later
+    use.</p><p><strong>Special</strong>: When the wielder of a Force Rod
+    succeeds at using a psychic power, they may store Exalted Icons rolled on
+    that Psychic Mastery test. These icons may be spent to gain additional dice
+    on subsequent Psychic Mastery tests, or to purchase Potency options on
+    psychic powers used later. The weapon may store a maximum of 6 Exalted
+    Icons.</p>
+  value: 4
+  keywords: FORCE, ADEPTUS ASTRA TELEPATHICS, INQUISITION, AELDARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: force
+  upgrades: []
+effects: []
+folder: flRpFXtin9Qiphj7
+sort: 100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709829894647
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!jFpryHOGRGo0s5Lk'

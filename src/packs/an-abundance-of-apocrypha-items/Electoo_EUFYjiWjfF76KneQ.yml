@@ -1,0 +1,55 @@
+name: Electoo
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.EUFYjiWjfF76KneQ
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">An electoo is a sophisticated subcutaneous
+    tattoo that utilises crystalline circuit technology to allow its user to
+    store digital information within their own body. More advanced forms have
+    other, powerful uses, such as conducting vast amounts of bioelectric energy,
+    but these are reserved only for the chosen amongst the Cult
+    Mechanicus.</span></p><p></p><p><span class="fontstyle0">On many worlds, an
+    electoo is implanted in all citizens of working age—typically between ten
+    and fourteen Terran years—to track personal information, security records,
+    and economic data. Such electoos are scanned dozens of times a day without
+    the owner even realising.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">An Electoo can be used to store information
+    electronically and can even adjust this information under pre-programmed
+    conditions or when instructed by an outside source. The user has no direct
+    control over the electoo or its contents and may not even be aware of it,
+    unless they have the </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">ADEPTUS MECHANICUS </span><span
+    class="fontstyle0">keyword.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 3
+  keywords: IMPERIUM, ADEPTUS MECHANICUS
+  requirements: ''
+  effect: ''
+_id: EUFYjiWjfF76KneQ
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099798
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!EUFYjiWjfF76KneQ'

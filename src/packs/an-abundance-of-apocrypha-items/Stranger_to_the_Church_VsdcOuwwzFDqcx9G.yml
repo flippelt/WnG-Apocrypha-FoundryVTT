@@ -1,0 +1,86 @@
+name: Stranger to the Church
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: aPpwYc9IL4rsYokP
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: +2DN on all Scholar tests relating to the Imperial Creed.
+    tint: null
+    origin: null
+    name: Stranger to the Church
+    description: ''
+    statuses: []
+    _key: '!items.effects!VsdcOuwwzFDqcx9G.aPpwYc9IL4rsYokP'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VsdcOuwwzFDqcx9G
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Forgeworlders are unfamiliar with the ways of the Ministorum and the
+    Imperial Creed and suffer +2DN on all Scholar tests relating to the Imperial
+    Creed. The character may not take any&nbsp;archetypes with the
+    @Item[TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM} keyword.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057239
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: VsdcOuwwzFDqcx9G
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!VsdcOuwwzFDqcx9G'

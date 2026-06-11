@@ -1,0 +1,49 @@
+name: Etherium
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.puNhmpfvYPkjreST
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">The Etherium is a highly advanced form of the
+    same kinds of psychic-resistant technology found in Hexagrammic Wards, Null
+    Rods, and the Aegis-pattern armour worn by the Grey Knights. This, in
+    combination with the Culexus Assassin’s innate abilities, is so psychically
+    disruptive that most minds struggle to perceive the assassin, as physical
+    senses and psychic instincts conflict.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">You may activate the Etherium as a Simple Action. While
+    active, your Stealth Score cannot ever fall below your Willpower: if ever it
+    would drop below your Willpower, it increases to that level at the start of
+    your next turn. Further, if your Stealth Score is higher than a creature’s
+    Willpower, they cannot perceive you at all— their minds refuse to
+    acknowledge your presence.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 11
+  keywords: TEMPLUM CULEXUS
+  effect: ''
+_id: puNhmpfvYPkjreST
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937574
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!puNhmpfvYPkjreST'

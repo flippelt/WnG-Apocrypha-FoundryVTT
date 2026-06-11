@@ -1,0 +1,72 @@
+folder: PXUu6CUred2iUpPT
+name: Primitive Pistol
+type: weapon
+_id: d25cr4sriebwkZH2
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">These simple black powder weapons can take many
+    forms, from finely crafted pistols constructed for the nobles of low-tech
+    worlds to simple pipe and powder affairs used by underhive scum.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: PROJECTILE, SCUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: pistol
+    - name: volatile-(1)
+      custom: true
+      display: Volatile (1)
+      description: >-
+        The weapon’s power is barely-contained, and it can be harmful to an
+        unwary wielder. If you suffer a Complication when wielding this weapon,
+        you immediately suffer X Mortal Wounds. X may either be a static value,
+        or it may be a die roll, such as d3 or d6. If a Volatile weapon has the
+        Blast trait, then a Complication inflicts X Mortal Wounds to all
+        creatures within the weapon’s Blast rating, centred on the wielder.
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709905516469
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!d25cr4sriebwkZH2'

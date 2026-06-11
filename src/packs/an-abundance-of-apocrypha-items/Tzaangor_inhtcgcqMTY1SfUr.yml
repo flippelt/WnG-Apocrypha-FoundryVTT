@@ -1,0 +1,150 @@
+folder: cZ7bosRjx1cxapg8
+name: Tzaangor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Beastman
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Pmkvgia9uKxhEOVk
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 1
+  cost: 38
+  keywords:
+    - CHAOS
+    - ABHUMAN
+    - HERETIC
+    - TZEENTCH
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 2
+  ability:
+    name: Aura of Change
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.oHxZa40iFbhla53M
+  wargear:
+    - name: Sword
+      id: Compendium.wng-core.items.Item.JlXH8xNwZcDgtfcn
+      type: item
+      diff: {}
+      index: 0
+      groupId: RFJMZZbhl3VDl35c
+    - name: Sword
+      id: Compendium.wng-core.items.Item.JlXH8xNwZcDgtfcn
+      type: item
+      diff: {}
+      index: 1
+      groupId: gCiEiclVWbSfOB7e
+    - name: Chainsword
+      id: Compendium.wng-core.items.Item.rgcz2ZC60MEM8mao
+      type: item
+      diff: {}
+      index: 2
+      groupId: bljFdavyj5VS4jX1
+    - name: Autopistol
+      id: Compendium.wng-core.items.Item.JbTzZSQ0FZ4PIjdp
+      type: item
+      diff: {}
+  groups:
+    type: or
+    groupId: root
+    items:
+      - type: and
+        items:
+          - index: 0
+            type: item
+            groupId: RFJMZZbhl3VDl35c
+          - index: 1
+            type: item
+            groupId: gCiEiclVWbSfOB7e
+        groupId: ytbXCzsj0p4JKT2Z
+      - type: and
+        items:
+          - index: 2
+            type: item
+            groupId: bljFdavyj5VS4jX1
+          - index: 3
+            type: item
+            groupId: LQOa1hv1UcKxuRZe
+        groupId: OZxMQ7moyaPLMHbk
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 3
+      agility: 2
+      initiative: 2
+      willpower: 2
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 1
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: aX9bq2t854Kb7L0i
+        name: Dual Wield
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+      - id: A0b7EHqFCH6nblAK
+        name: Touched By Fate
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kdCsdpgGizprWz3f
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664831740666
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: inhtcgcqMTY1SfUr
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1300000
+_key: '!items!inhtcgcqMTY1SfUr'

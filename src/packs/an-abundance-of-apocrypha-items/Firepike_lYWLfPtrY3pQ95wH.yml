@@ -1,0 +1,67 @@
+name: Firepike
+type: weapon
+img: modules/wng-core/assets/icons/weapons/fusion-gun.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.lYWLfPtrY3pQ95wH
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A sophisticated form of Eldar fusion weapon,
+    these long-barrelled devices are commonly used by Fire Dragon Exarchs to
+    deliver burning ruin over a considerable distance</span>.</p>
+  value: 7
+  keywords: MELTA, ANCIENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 18
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: agonising
+    - name: brutal
+    - name: inflict
+      rating: On Fire
+    - name: melta
+  upgrades: []
+_id: lYWLfPtrY3pQ95wH
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932538
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!lYWLfPtrY3pQ95wH'

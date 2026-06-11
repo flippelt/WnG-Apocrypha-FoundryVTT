@@ -1,0 +1,33 @@
+name: Order of the Argent Shroud
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects: []
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Hk6RdvNtcoiCqu7S
+system:
+  description: >-
+    <p>It is the strong belief of those within the Order of the Argent Shroud
+    that one&rsquo;s conviction is best shown through bold action. Thus is
+    battle the best way to prove their unquenchable faith, for there they may
+    smite the Emperor&rsquo;s foes and demonstrate the depths of their
+    devotion.</p>
+
+    <p><strong>Deeds, Not Words:</strong> When you make an attack, you may
+    re-roll up to Rank dice on that attack.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056117
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Hk6RdvNtcoiCqu7S
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Hk6RdvNtcoiCqu7S'

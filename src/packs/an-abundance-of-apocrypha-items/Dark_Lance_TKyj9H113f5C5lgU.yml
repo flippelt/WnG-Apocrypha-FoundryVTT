@@ -1,0 +1,73 @@
+name: Dark Lance
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranger-long-rifle.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-ranged.Item.TKyj9H113f5C5lgU
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The most common example of Darklight Weaponry is
+    the Dark Lance. Similar in construction to the Bright Lance of their Eldar
+    cousin's forces, a Dark Lance is redesigned to allow for the use of
+    Darklight ammunition. It's commonly found mounted on Raiders and Ravagers,
+    although Kabalite Warriors are seen carrying them across the battlefield as
+    well. The device uses magnetic containment and stabilization fields to
+    prevent the Darklight from damaging the weapon or its user. The Darklight is
+    accelerated very rapidly down the barrel by these same containment fields.
+    Upon striking its target, it reacts violently, tearing through armor
+    regardless of thickness or composition, and in the event of the Dark Lances
+    use on infantry, it's incredibly rare that any sign of the unfortunate
+    target is left whatsoever</span>.</p>
+  value: 7
+  keywords: DARKLIGHT, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: heavy
+      rating: 4
+  upgrades: []
+_id: TKyj9H113f5C5lgU
+folder: hvQbqAxjU9zt0gWD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927211815
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!TKyj9H113f5C5lgU'

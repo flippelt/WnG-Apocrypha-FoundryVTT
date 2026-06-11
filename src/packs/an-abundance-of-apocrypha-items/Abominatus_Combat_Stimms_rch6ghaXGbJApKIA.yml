@@ -1,0 +1,53 @@
+name: Abominatus Combat Stimms
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-equipment.Item.rch6ghaXGbJApKIA
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">Champions of Slaanesh often partake of bizarre
+    and horrific combat drugs, produced from renderings of sentient creatures
+    and suffused with the power of the warp. These drugs are often dispensed
+    from baroque injector rigs fused into the user’s
+    armour.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">As a Simple Action, the user may administer a dose of
+    these Combat Stimms, which have an effect which lasts until the start of
+    their next turn. The user may select up to three effects from the following
+    list, and then suffers Mortal Wounds equal to the number of effects
+    chosen:</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p><ul><li><p><span
+    class="fontstyle0">+2 dice on Athletics tests</span> </p></li><li><p><span
+    class="fontstyle0">+2 dice on Weapon Skill tests</span>
+    </p></li><li><p><span class="fontstyle0">Melee attacks inflict +2ED</span>
+    </p></li><li><p><span class="fontstyle0">+2 Determination</span>
+    </p></li><li><p><span class="fontstyle0">Ignore up to 2 points of DN penalty
+    on a MultiAttack.</span> </p></li></ul>
+  value: 5
+  keywords: COMBAT DRUGS, CHAOS, SLAANESH
+  effect: ''
+_id: rch6ghaXGbJApKIA
+folder: UZO0XBlvHEumtcSK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257172256
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!rch6ghaXGbJApKIA'

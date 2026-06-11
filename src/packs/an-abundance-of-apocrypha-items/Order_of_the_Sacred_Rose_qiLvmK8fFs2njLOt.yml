@@ -1,0 +1,55 @@
+name: Order of the Sacred Rose
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects:
+  - icon: modules/wng-core/assets/factions/adepta-sororitas.svg
+    name: Devout Serenity
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: xRIjxkCWmVymUQci
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!qiLvmK8fFs2njLOt.xRIjxkCWmVymUQci'
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qiLvmK8fFs2njLOt
+system:
+  description: >-
+    <p>The Sisters of the Order of the Sacred Rose are renowned for their calm
+    and implacable resolve in battle. Even in the face of overwhelming odds, the
+    heirs of Saint Arabella stand unyielding.</p>
+
+    <p><strong>Devout Serenity:</strong> You increase your Resolve by +Rank.
+    Further, if you ever roll a 6 on your Wrath die when making a Resolve test,
+    you gain 1 Faith.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056149
+  modifiedTime: 1710524877644
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: qiLvmK8fFs2njLOt
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!qiLvmK8fFs2njLOt'

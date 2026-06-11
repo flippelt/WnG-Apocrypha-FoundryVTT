@@ -1,0 +1,95 @@
+name: Hammerhand
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Hammerhand
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.extra'
+        priority: null
+    _id: FSmr8mwyHL5lfqr5
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!7qt51TaxwTiZTpO5.FSmr8mwyHL5lfqr5'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.7qt51TaxwTiZTpO5
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Focusing the raging power of your mind, you augment your strength to the
+    point where your fists can crush flesh and bone with a single blow. You add
+    +3ED to the damage of all melee attacks until the start of your next
+    turn.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 5m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: GREY KNIGHTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1ED to damage.
+      cost: 3
+      property: extra
+      initial: 3
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 7qt51TaxwTiZTpO5
+folder: KxBz8XrM98q2ZcAs
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959204
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!7qt51TaxwTiZTpO5'

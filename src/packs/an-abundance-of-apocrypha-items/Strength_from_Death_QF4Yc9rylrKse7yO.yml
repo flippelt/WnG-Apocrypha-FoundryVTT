@@ -1,0 +1,55 @@
+folder: RYPg7oyvoqAg24Bq
+name: Strength from Death
+type: ability
+_id: QF4Yc9rylrKse7yO
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p><span style="font-family: 'Caxton Std Book'">Once per round, when a
+    player character, or an Adversary or Elite, or three Troops, dies within 15m
+    of you, you immediately gain +1 Soul token. You may carry a number of Soul
+    tokens up to your Willpower, and unused Soul tokens are lost when you
+    Regroup or take a Respite. Soul tokens may be used as if they were Glory
+    points, but only by you or allied YNNARI characters within 10m.</span></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710793932536
+  modifiedTime: 1710793937654
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!QF4Yc9rylrKse7yO'

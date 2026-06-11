@@ -1,0 +1,54 @@
+folder: fgtFfRbmshJ8KM1n
+name: Lethal Swiftness
+type: ability
+_id: HpXFyhzhy2MVaAAL
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>While riding a Reaver Jetbike, you may attempt to roll Determination
+    against damage inflicted to your vehicle: roll dice equal to your Pilot dice
+    pool, or the Jetbike’s Handling score, whichever is higher. Each icon
+    converts Wounds to Shock as normal.</p><p> In addition, you may add +Rank ED
+    to the damage of your Reaver Jetbike’s Bladevanes.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710614176849
+  modifiedTime: 1710614187618
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!HpXFyhzhy2MVaAAL'

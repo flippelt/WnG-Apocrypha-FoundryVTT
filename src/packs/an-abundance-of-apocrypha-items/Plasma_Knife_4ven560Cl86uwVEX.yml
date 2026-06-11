@@ -1,0 +1,57 @@
+folder: 0SAPFb2VAW9K20fX
+name: Plasma Knife
+type: weapon
+img: modules/wng-core/assets/icons/weapons/knife.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>A great many Kin carry plasma knives, whether as tools of utility,
+    ceremonial objects, symbols of office, or some mixture of the three.</p>
+  value: 4
+  keywords: PLASMA, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 4
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: rending
+      rating: 1
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709900091079
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 4ven560Cl86uwVEX
+_key: '!items!4ven560Cl86uwVEX'

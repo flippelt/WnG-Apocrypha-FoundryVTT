@@ -1,0 +1,72 @@
+name: Grav-gun
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A rifle-sized Graviton weapon, this device is doom to heavy infantry and
+    armoured vehicles that stray too close to the wielder. Each gun is a rare
+    relic left over from the Dark Age of Technology and are now sacredly guarded
+    by the Adeptus Mechanicus, and very rarely will they allow one to leave
+    their armouries, but some Space Marine Chapters still field a handful of
+    such weapons.</p>
+  value: 6
+  keywords: GRAV, ADEPTUS ASTARTES, ADEPTUS MECHANICUS, SQUAT
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: rapidFire
+      rating: 1
+    - name: grav
+      custom: true
+      display: Grav
+      description: >-
+        Grav weaponry turn their targets’ own mass against them. The weapon
+        gains additional ED equal to half the target’s Resilience, and the
+        target is Staggered until the end of its next turn if they suffer any
+        wounds or shock from the attack.
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664148890384
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: UzODMAaTgnvKsHE4
+_id: bCIbOaNqAoyZEhcn
+sort: 200000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!bCIbOaNqAoyZEhcn'

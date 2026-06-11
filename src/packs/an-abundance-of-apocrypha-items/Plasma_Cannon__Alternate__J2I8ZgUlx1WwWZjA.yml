@@ -1,0 +1,62 @@
+folder: e9EXVo6L2qnEFMDP
+name: Plasma Cannon (Alternate)
+type: weapon
+_id: J2I8ZgUlx1WwWZjA
+img: modules/wng-core/assets/icons/weapons/plasma-cannon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Heavy, dangerous, and stretching the destructive limits of man portable
+    weaponry. Each crackling blast burns brighter than the sun, igniting all in
+    its path and cutting through flesh and steel like they were naught but
+    air.</p>
+  value: 7
+  keywords: PLASMA, IMPERIUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 15
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 53
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: blast
+      rating: 4
+    - name: heavy
+      rating: 8
+    - name: supercharge
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709902339491
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!J2I8ZgUlx1WwWZjA'

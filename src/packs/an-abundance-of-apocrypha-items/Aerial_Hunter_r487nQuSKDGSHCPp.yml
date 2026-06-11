@@ -1,0 +1,57 @@
+folder: fgtFfRbmshJ8KM1n
+name: Aerial Hunter
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>While you are PILOT of an @UUID[Item.AIDhVkSIsCH9Jfbx]{AERONAUTICA
+    IMPERIALIS }vehicle, the vehicle’s Defence is increased by +Rank while it is
+    moving. In addition, you may re-roll up to Rank dice on attacks using the
+    weapons of any @UUID[Item.AIDhVkSIsCH9Jfbx]{AERONAUTICA IMPERIALIS }vehicle
+    you are PILOT or CREW of.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.r487nQuSKDGSHCPp
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699541367426
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: r487nQuSKDGSHCPp
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!r487nQuSKDGSHCPp'

@@ -1,0 +1,101 @@
+name: Ghostwalk
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Ghostwalk
+    changes:
+      - key: system.combat.speed
+        mode: 2
+        value: '@test.result.spd'
+        priority: null
+    _id: 33XuROwh6JUwlV6W
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!4gcHOd9DbTw7Fsw7.33XuROwh6JUwlV6W'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.4gcHOd9DbTw7Fsw7
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Channelling energies from your runes, you imbue your allies with ethereal
+    speed. You select a number of allies within range equal to your Willpower.
+    Until the start of your next turn, the targets increase their Speed by
+    +2.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 6m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: ASURYANI, ANHRATHE, HARLEQUIN or YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affect one additional target.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: The targets’ Speed is increased by a further +1.
+      cost: 2
+      property: spd
+      initial: 2
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 4gcHOd9DbTw7Fsw7
+folder: epIgLsUsKe7P6BrA
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742831
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!4gcHOd9DbTw7Fsw7'

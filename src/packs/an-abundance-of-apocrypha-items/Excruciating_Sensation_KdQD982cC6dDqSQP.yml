@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Excruciating Sensation
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: CHAOS keyword, SLAANESH keyword
+  description: >-
+    <p>The Prince of Pleasure has granted you the greatest depths of awareness,
+    to better appreciate the sensations of existence. Your mind burns with
+    glorious agony as you open your senses to perceive more deeply than any
+    mortal should.<br>You gain +1d3 Corruption. When you attempt an Awareness or
+    Insight Test, you may choose to suffer 1, 2, or 3 Shock in order to gain
+    that many additional dice on the Test.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KdQD982cC6dDqSQP
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663880026081
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: KdQD982cC6dDqSQP
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 4300000
+_key: '!items!KdQD982cC6dDqSQP'

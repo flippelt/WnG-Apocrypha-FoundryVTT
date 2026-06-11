@@ -1,0 +1,74 @@
+name: Lightning Call
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.hnCqXDMw1MSV0WiP
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Raising your arms to the roiling stormclouds overhead, you call down
+    lightning strikes upon your foes. If this power is successfully used, the
+    nearest enemy within range suffers a Damage 17 +3ED hit with the Agonizing
+    trait. Then roll 1d6; on an Icon, the nearest enemy within 5m of the first
+    target suffers 12 +2ED Damage with the Agonizing trait. Repeat that d6 roll
+    until there are no targets remaining within range who have not been rolled
+    for.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: WHITE SCARS
+  damage:
+    base: 17
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1ED damage to one target
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: hnCqXDMw1MSV0WiP
+folder: oNn2KKV41u8YG29i
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959307
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!hnCqXDMw1MSV0WiP'

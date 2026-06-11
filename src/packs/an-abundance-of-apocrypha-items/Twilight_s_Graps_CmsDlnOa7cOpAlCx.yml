@@ -1,0 +1,51 @@
+folder: OiJlFlclXDOALgON
+name: Twilight's Graps
+type: ability
+_id: CmsDlnOa7cOpAlCx
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you make a melee attack against an enemy which is not a Vehicle or
+    Monstrous Creature, your melee weapon gains the Warp Weapon trait.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710789153260
+  modifiedTime: 1710789165884
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!CmsDlnOa7cOpAlCx'

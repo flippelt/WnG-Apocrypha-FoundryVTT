@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: Unrelenting Devastation
+type: ability
+_id: ZuUsJYDtodghXT5p
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you sacrifice your Move to Brace a Heavy weapon, you may re-roll
+    +Rank dice on attacks with that weapon, and +Rank ED to that weapon’s
+    damage.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710680945968
+  modifiedTime: 1710680981619
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ZuUsJYDtodghXT5p'

@@ -1,0 +1,37 @@
+folder: JmXLzf2ge3nwJeU0
+name: BORK'AN SEPT
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+system:
+  description: >-
+    <p>Bork’an is a centre of learning and academia, and it is the home to many
+    of the T’au Empire’s universities and research facilities. Many of the most
+    distinguished Earth caste hail from this world, and the most advanced and
+    ingenious prototypes emerge from Bork’an’s laboratories.</p><p>•
+    <strong>Air</strong> caste T’au from Bork’an add +1 to the Speed, Wounds,
+    and Resilience of their vehicles, due to superior engineering.</p><p>•
+    <strong>Earth</strong> caste T’au from Bork’an add +2 to their Medicae,
+    Scholar, and Tech skills.</p><p>• <strong>Fire</strong> caste T’au from
+    Bork’an add +2 to the short range of their ranged weapons, +4 to the medium
+    range, and +6 to the long range.</p><p>• <strong>Water</strong> caste T’au
+    from Bork’an are practical and reliable; they may re-roll a 1 on their Wrath
+    die when attempting a Cunning, Deception, Insight, or Persuasion test</p>
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JD7A7FV4yWt8Krk7
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664207638106
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: JD7A7FV4yWt8Krk7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!JD7A7FV4yWt8Krk7'

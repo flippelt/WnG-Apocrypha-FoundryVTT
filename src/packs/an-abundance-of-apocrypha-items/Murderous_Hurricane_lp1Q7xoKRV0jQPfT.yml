@@ -1,0 +1,109 @@
+name: Murderous Hurricane
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Vulnerable
+    icon: systems/wrath-and-glory/asset/icons/conditions/vulnerable.svg
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '-1'
+        priority: null
+    statuses:
+      - vulnerable
+    _id: wkLvA1ErW8NGJB0s
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!lp1Q7xoKRV0jQPfT.wkLvA1ErW8NGJB0s'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.lp1Q7xoKRV0jQPfT
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You bellow an ancient curse, and within moments your foes are all but
+    consumed in a hurricane of freezing shards, a thousand blades of psychically
+    formed ice plunging into their flesh. The power affects all creatures in a
+    Blast (6) within range. Roll 1d6 for each enemy affected: for each Icon, one
+    enemy takes 1 Mortal Wound and is Vulnerable until the start of your next
+    turn.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 35m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: SPACE WOLVES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: '1'
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Enemies suffer 1d3 Mortal Wounds instead of 1
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: +1 to Vulnerable effect.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Affected area is a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: lp1Q7xoKRV0jQPfT
+folder: h4kiPhIt6oM6JLum
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959342
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!lp1Q7xoKRV0jQPfT'

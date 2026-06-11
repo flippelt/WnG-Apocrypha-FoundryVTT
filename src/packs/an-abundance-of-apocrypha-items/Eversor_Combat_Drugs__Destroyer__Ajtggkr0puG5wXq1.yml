@@ -1,0 +1,39 @@
+name: Eversor Combat Drugs (Destroyer)
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.1HdUYd8P3yCGg54q
+system:
+  quantity: 3
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0"><strong>Destroyer</strong>: </span><span
+    class="fontstyle2">During this turn, if the Eversor scores a critical hit or
+    kills an enemy, they may immediately move up to half their Speed and make
+    one additional melee attack if they are within reach. If this or any
+    subsequent attack this turn also scores a critical hit or reduces an enemy
+    to 0 Wounds, roll a [[/r d6]]: on a 4 or more, the Eversor may make another
+    half-Speed move and another attack.</span></p>
+  value: null
+  keywords: TEMPLUM EVERSOR
+  effect: ''
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099173
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 200000
+_id: Ajtggkr0puG5wXq1
+_key: '!items!Ajtggkr0puG5wXq1'

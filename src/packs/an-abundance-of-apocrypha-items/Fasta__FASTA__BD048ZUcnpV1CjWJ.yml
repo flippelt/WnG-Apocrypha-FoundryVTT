@@ -1,0 +1,53 @@
+folder: fgtFfRbmshJ8KM1n
+name: Fasta! FASTA!
+type: ability
+_id: BD048ZUcnpV1CjWJ
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you are the PILOT or CREW of an ORK vehicle, you do not replace
+    extra dice with Wrath dice when travelling at BreakNeck Speed. Further, you
+    add +2 to your Conviction and Resolve while mounted on an ORK vehicle. This
+    increases to +3 on any turn in which you travel at Breakneck Speed.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710618168463
+  modifiedTime: 1710618173368
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!BD048ZUcnpV1CjWJ'

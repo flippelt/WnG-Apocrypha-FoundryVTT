@@ -1,0 +1,77 @@
+name: Auramite Custodian Power Armour
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Auramite Custodian Power Armour
+    changes:
+      - key: system.combat.passiveAwareness.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: dgL5o90hEbRekRJi
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!kxNIfEtnqCM9ISrM.dgL5o90hEbRekRJi'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial-armour.Item.kxNIfEtnqCM9ISrM
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Custodian Armour is an advanced form of highly
+    sophisticated, Artificer-wrought Power Armour utilised exclusively by the
+    Adeptus Custodes, the elite guardians of the Emperor of Mankind. Finely
+    wrought, Custodian Armour is customised exactly to task, and was produced
+    without any regard to the consumption of resources or rarity of components
+    or lore required; to arm and outfit the Custodians to the optimum, nothing
+    was spared.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">7, Powered (4)</span></p><p></p><p><span
+    class="fontstyle2"><strong>Proximity Sensors</strong>: </span><span
+    class="fontstyle0">The wearer’s Passive Perception is increased by
+    +2.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 11
+  keywords: POWERED, ADEPTUS CUSTODES
+  equipped: false
+  rating: 6
+  base: 0
+  traits:
+    - name: powered
+      rating: 4
+  invulnerable: false
+_id: kxNIfEtnqCM9ISrM
+folder: eLb57h7zaMzBK94e
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089726441
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 900000
+_key: '!items!kxNIfEtnqCM9ISrM'

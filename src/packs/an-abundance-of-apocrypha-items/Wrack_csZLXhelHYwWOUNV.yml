@@ -1,0 +1,107 @@
+folder: lEqVRehKQvTYGEoK
+name: Wrack
+type: archetype
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Drukhari
+    id: Item.0cyPTEOhN6wKHMDz
+  faction:
+    name: Drukhari
+    id: Item.VRUzzV9dcLPm19Mk
+  influence: 0
+  cost: 48
+  keywords:
+    - AELDARI
+    - '[COVEN]'
+    - DRUKHARI
+    - HAEMACOLYTE
+  attributes:
+    strength: 4
+    toughness: 3
+    agility: 3
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: 2
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 3
+  ability:
+    name: Insensible to Pain
+    id: Item.dKDK4BAs175ZzfT7
+  wargear:
+    - - name: ''
+        id: ''
+  groups:
+    type: and
+    groupId: root
+    items: []
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: 2
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: 1
+      insight: 1
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 3
+    talents:
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: 26UYjRZ4VBoL1EyC
+        name: Blood Must Flow!
+      - id: kpAn3XZjjS07M0Zi
+        name: Furious Charge
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699539703767
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: csZLXhelHYwWOUNV
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!csZLXhelHYwWOUNV'

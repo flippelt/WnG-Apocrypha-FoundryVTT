@@ -1,0 +1,46 @@
+name: Rapturous Standard
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-equipment.Item.hzgG71XkY0vNsjQK
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Rapturous Standard contains the bound
+    essence of innumerable servants of the Dark Prince, each of whom died in
+    rapturous slaughter. The air around the standard is filled with their
+    ecstatic howls and overpowering waves of heady, exotic
+    musk.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">SLAANESH DAEMONS
+    </span><span class="fontstyle0">within 6m of this banner may re-roll any 1s
+    when rolling Determination. Further, you may unleash the banner’s power as a
+    Combat Action. Until the start of your next turn, all </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">SLAANESH </span><span
+    class="fontstyle0">allies within 6m automatically pass Resolve tests, and
+    reduce all Shock they suffer to 0. Once you have unleashed the banner’s
+    power, it may not be unleashed again until after your next
+    Regroup</span>.</p>
+  value: 6
+  keywords: CHAOS, SLAANESH, ICON
+  effect: ''
+_id: hzgG71XkY0vNsjQK
+folder: UZO0XBlvHEumtcSK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257172292
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!hzgG71XkY0vNsjQK'

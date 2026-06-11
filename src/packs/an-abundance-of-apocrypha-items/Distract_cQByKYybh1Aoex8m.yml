@@ -1,0 +1,29 @@
+folder: R6DiCyrJrBf1MKBz
+name: Distract
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Athletics rating 5+
+  description: >-
+    <p>The Exarch’s motions in battle are misleading, even entrancing, leaving
+    enemies off-balance and unable to perceive when the true attack will come.
+    You may make an Athletics Interaction attack as a Simple Action, rather than
+    a Combat Action.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699835184082
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: cQByKYybh1Aoex8m
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!cQByKYybh1Aoex8m'

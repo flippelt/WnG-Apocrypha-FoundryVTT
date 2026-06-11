@@ -1,0 +1,73 @@
+name: Magna-coil Autocannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/autocannon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.6aO6lftO8x0EhgAn
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">Superficially similar to Imperial autocannons,
+    the magna-coil autocannon uses a magnetic coil rather than explosive
+    propellant to fire a hail of high-velocity solid shells. These weapons are
+    commonly mounted on the light vehicles used by Leagues of Votann Kinhosts,
+    such as on the grav bikes ridden by Hernkyn pioneers</span>.</p>
+  value: 5
+  keywords: PROJECTILE, LEAGUES OFVOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: heavy
+      rating: 6
+    - name: huntr
+      custom: true
+      display: HunTR
+      description: >-
+        HunTR weapons contain auto-calibration and gravstabilisation systems
+        which make them precise at any range. HunTR weapons do not suffer any
+        penalty for being fired at Long Range.
+  upgrades: []
+_id: 6aO6lftO8x0EhgAn
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976158
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!6aO6lftO8x0EhgAn'

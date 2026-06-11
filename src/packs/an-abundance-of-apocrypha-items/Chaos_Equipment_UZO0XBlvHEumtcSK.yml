@@ -1,0 +1,16 @@
+name: Chaos Equipment
+type: Item
+color: null
+folder: 5byiOc8cFmrZ7KKF
+_id: UZO0XBlvHEumtcSK
+sorting: a
+sort: 37500
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710258940745
+  modifiedTime: 1710451653357
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!folders!UZO0XBlvHEumtcSK'

@@ -1,0 +1,53 @@
+name: Order of the Lexicon
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects:
+  - icon: modules/wng-core/assets/factions/adepta-sororitas.svg
+    name: Unquestioned Faith
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: pceSCI1q6QKjxSjd
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!JAzRvz7aKS3xWSJh.pceSCI1q6QKjxSjd'
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.JAzRvz7aKS3xWSJh
+system:
+  description: >-
+    <p>Some of the greatest linguists and lexicographers in the Imperium are
+    found within the Order of the Lexicon, and they are charged with the
+    protection and study of texts that would be too great a moral threat for any
+    scholar of lesser faith.</p><p><strong>Unquestioned Faith:</strong> You
+    increase your Conviction by +Rank.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1710525186124
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: JAzRvz7aKS3xWSJh
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!JAzRvz7aKS3xWSJh'

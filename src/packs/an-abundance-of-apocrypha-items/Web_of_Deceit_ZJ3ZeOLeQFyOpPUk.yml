@@ -1,0 +1,31 @@
+folder: R6DiCyrJrBf1MKBz
+name: Web of Deceit
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 40
+  requirements: Warp Spider aspect
+  description: >-
+    <p>You know hidden paths through the Warp and Webway and can lead your
+    students to places where your skills are most necessary. Once per scene, you
+    may perform a warp jump by spending a point of Wrath and taking a Full
+    Action. You and your squad immediately vanish from the battlefield,
+    reappearing anywhere within 500 metres, though you may not reappear within
+    10m of an enemy.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1700068489627
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: ZJ3ZeOLeQFyOpPUk
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!ZJ3ZeOLeQFyOpPUk'

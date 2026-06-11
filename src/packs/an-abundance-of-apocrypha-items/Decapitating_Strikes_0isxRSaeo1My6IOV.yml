@@ -1,0 +1,30 @@
+folder: R6DiCyrJrBf1MKBz
+name: Decapitating Strikes
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Weapon Skill rating 7+
+  description: >-
+    <p>Your sweeping strikes seldom miss their mark, leaving maimed and
+    butchered foes in their wake mere moments after the charge. When you inflict
+    a critical hit with a melee attack, the severity of that critical hit
+    automatically increases as if two Glory had been spent. You may still spend
+    Glory to increase the severity further, if desired.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699834778205
+  modifiedTime: 1700074998836
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: 0isxRSaeo1My6IOV
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!0isxRSaeo1My6IOV'

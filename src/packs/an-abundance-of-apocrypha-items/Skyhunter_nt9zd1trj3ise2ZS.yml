@@ -1,0 +1,82 @@
+folder: fgtFfRbmshJ8KM1n
+name: Skyhunter
+type: ability
+_id: nt9zd1trj3ise2ZS
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you make a shooting attack against another FLYER, add +Rank bonus
+    dice to your attack.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    name: Skyhunter
+    _id: IIaqChKsdtg0rHUN
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              When you make a shooting attack against another FLYER, add +Rank
+              bonus dice to your attack.
+            hide: ''
+    tint: null
+    _key: '!items.effects!nt9zd1trj3ise2ZS.IIaqChKsdtg0rHUN'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710621645991
+  modifiedTime: 1710621675255
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!nt9zd1trj3ise2ZS'

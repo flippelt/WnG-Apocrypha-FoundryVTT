@@ -1,0 +1,36 @@
+folder: ZMoR03HW5eXVf9E1
+name: Supporting Fire
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: FIRE CASTE keyword
+  description: >-
+    <p>You are always ready to deliver punishing fire against those who stray
+    too close to your allies.<br>When an enemy uses the Charge action to charge
+    an ally you can see within 12m of you, you may spend 1 ammo to make a ranged
+    attack as a Reflexive action. This ranged attack is resolved before their
+    Charge action is completed, and the enemy&rsquo;s Defence is increased by
+    +2. This is considered a Salvo attack, and thus the weapon must be reloaded
+    after the attack.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cIJSwqHfDGxq6QID
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664128206006
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: xINMeqzjccMgbx1l
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 10700000
+_key: '!items!xINMeqzjccMgbx1l'

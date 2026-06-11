@@ -1,0 +1,71 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Right of Duplessence
+type: ascension
+_id: 4UJZ1bDszvjaWIa4
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 10
+  description: >-
+    <p>The Adeptus Mechanicus are willing to go to almost any lengths to further
+    their understanding of the arcane sciences they study. In the most extreme
+    cases, some of the oldest Arch-Magi have long since become little more than
+    artificially-sustained brains linked to vast meme-vaults and data-crypts,
+    driven insane by possessing far more knowledge than any human mind can truly
+    comprehend and willingly locked within a steel prison of their own design
+    for centuries. For people such as these, the pursuit of knowledge is
+    something worth paying any price for, and such a disembodied existence,
+    basking in the purity of absolute and incalculable knowledge unfettered by
+    the weaknesses of the flesh, is something that more than a few Tech-Priests
+    aspire to.</p><p>To discard all but the brain in the pursuit of knowledge is
+    not as uncommon as it might seem. In many cases, two Tech-Priests working
+    upon the same project have been known to enter into the deepest of
+    collaborations, a process known as the Rite of Duplessence. This procedure
+    requires that one of the two Tech-Priests shed his flesh and most of his
+    implants to become a disembodied brain, which is then implanted into the
+    body of the other Tech-Priest, their brains linked together so that they can
+    work together more closely. To undertake this rite is looked upon favourably
+    by many Tech-Priests, who particularly applaud the one who willingly takes
+    on the burden of remaining clothed in flesh so that another can be freed of
+    it.</p><p>The union of a Binary Cortex—as the resulting symbiosis of two
+    brains is called—is not always an easy one, however. Each mind within the
+    union is still an independent, free willed entity possessed of its own
+    memories, experiences, opinions and beliefs. While the Rite of Duplessence
+    is seldom performed on two TechPriests of radically differing perspectives,
+    differences of opinion can arise, particularly as both minds have no way to
+    be distanced from one another. Even the most logical Tech-Priests are
+    sometimes prone to becoming irritated by such close proximity with a
+    colleague.</p><p>The benefits, however, are vast. When working perfectly in
+    synch with one another, the two TechPriests can collaborate on tasks with
+    impossible speed, completing research and solving technical problems faster
+    and more efficiently than either of them could have done alone, able to
+    receive an alternate opinion on their theories instantaneously.</p>
+  requirements: >-
+    Intellect 5, Scholar 4+, Tech 5+, ADEPTUS MECHANICUS and CULT MECHANICUS
+    keywords
+  keywords: ''
+  influence: 1
+  benefits: >-
+    <p><strong>NFLUENCE BONUS</strong>: +1 per Tier
+    ascended.</p><p><strong>STORY ELEMENT:</strong> You gain a Binary Cortex,
+    the mind of a second Tech-Priest implanted into your body to allow you to
+    collaborate more closely with them. This second mind is considered to have
+    an Intellect of 5, and this can be increased by spending XP separately from
+    your own attributes.</p><p>The Binary Cortex can Help on any Intellect-based
+    skill Test you attempt, using their own Intellect. However, whenever they do
+    so, you replace one additional die in your dice pool with a Wrath die. You
+    suffer a Complication if either Wrath die rolls a 1, but you only score a
+    Wrath Critical if both Wrath dice roll 6s.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710794234554
+  modifiedTime: 1710794371628
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!4UJZ1bDszvjaWIa4'

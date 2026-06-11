@@ -1,0 +1,25 @@
+name: TEMPLUM CALLIDUS
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/callidus-white.png
+effects: []
+folder: fMZrkf8jz5Baj0N8
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.g4O1nZF9bUTnutMM
+system:
+  description: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056558
+  modifiedTime: 1710789730807
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: VhyW299U0ltt7Ypu
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 300000
+_key: '!items!VhyW299U0ltt7Ypu'

@@ -1,0 +1,71 @@
+name: Grudgepyre
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.tj3HR6i8c1FXfdPH
+system:
+  dn: '@attributes.willpower.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Harnessing the Kin’s gestalt hatred for a begrudged foe, you engulfs your
+    victim in a pillar of flame that scours them from existence. Select a single
+    enemy within range and line of sight and make an Opposed Willpower test
+    against them. If you succeed, the target suffers 1d3+3 Mortal Wounds.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: LEAGUES OF VOTANN, PSYCHIC, FIRE
+  prerequisites: LEAGUES OF VOTANN
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3+3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Mortal Wound
+      cost: 1
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: tj3HR6i8c1FXfdPH
+folder: zhAbc5nO8ReutmpV
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742926
+  modifiedTime: 1712707814632
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!tj3HR6i8c1FXfdPH'

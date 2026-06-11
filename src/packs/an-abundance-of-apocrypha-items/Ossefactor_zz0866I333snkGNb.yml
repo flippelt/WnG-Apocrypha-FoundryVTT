@@ -1,0 +1,81 @@
+name: Ossefactor
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-ranged.Item.zz0866I333snkGNb
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">An Ossefactor is a Drukhari biomedical
+    technology used by the Haemonculi to accelerate and alter their
+    fleshcrafting clients' bone growth. The devices have also been pressed into
+    military service and are wielded by Haemonculi and their Wracks with deadly
+    results.</span></p><p><span class="fontstyle0">Bones twist and lengthen
+    violently, shooting out dozens of spurs like the branches of some hideous
+    tree. The luckless victim is rent apart by their own warped skeleton.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: EXOTIC, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: inflict
+      rating: Bleeding
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+  upgrades: []
+_id: zz0866I333snkGNb
+folder: hvQbqAxjU9zt0gWD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927211834
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!zz0866I333snkGNb'

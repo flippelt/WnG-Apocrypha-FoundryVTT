@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Baleful Acolyte
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: CHAOS keyword, you may not be a PSYKER
+  description: >-
+    <p>You gain the @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER} keyword and learn the
+    Smite psychic power. You may learn minor psychic powers, and powers from a
+    single Chaos Discipline (any Discipline with powers with the
+    @UUID[Item.TujuT6TkhTSvZJLF]{CHAOS }keyword). You rely on a focal item: a
+    balefire tome, a ritual dagger, or similar, and can only use your powers
+    when you have that item in hand.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.7ju0FqitSMbIsTlF
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699802045207
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 7ju0FqitSMbIsTlF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1900000
+_key: '!items!7ju0FqitSMbIsTlF'

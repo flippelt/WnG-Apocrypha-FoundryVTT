@@ -1,0 +1,130 @@
+name: XV15 Stealth Battlesuit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Jump Jets
+    changes:
+      - key: system.combat.fly
+        mode: 5
+        value: '8'
+        priority: null
+    _id: EE572rpmhkycsSQv
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!ixpmzD260YBUtIno.EE572rpmhkycsSQv'
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Stealth Field
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '2'
+        priority: null
+      - key: difficulty.bonus
+        mode: 7
+        value: '2'
+        priority: null
+    _id: Ca8D9yHmjoUqbsyW
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: Observe/Detect
+            hide: ''
+    tint: null
+    _key: '!items.effects!ixpmzD260YBUtIno.Ca8D9yHmjoUqbsyW'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-armour.Item.ixpmzD260YBUtIno
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The XV15 Stealthsuit is the smallest of all the
+    various Tau Battlesuit variants and is designed for use in operations
+    requiring a high degree of stealth. Fire Warriors serving in a Stealth Team
+    specialise in covert operations such as infiltration, sabotage,
+    reconnaissance, and ambush. Stealth Teams are the Fire Caste's special
+    operations units. They are the "lone wolves" of the Tau military, typically
+    operating independently of their Hunter Cadre. Suddenly appearing, as if
+    stepping out from nowhere, a Stealth Team unleashes a hail of gunfire to
+    cripple or eliminate their selected targets. Theirs is a secretive way of
+    war, as they infiltrate enemy lines, seeking vulnerable targets to destroy.
+    To pass unseen into enemy territory, Stealth Teams use light-bending
+    disruption technology embedded in their sleek Battlesuits to camouflage
+    themselves. Additional cloaking fields deaden sound and shield them from
+    heat-detecting sensors, allowing them to penetrate deep into hostile regions
+    before launching precisely timed ambushes.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">5, Powered
+    (2)</span></p><p></p><p><span class="fontstyle2"><strong>Stealth
+    Field</strong>: </span><span class="fontstyle0">When active, the Stealth
+    Field increases the wearer’s Defence by +2 and increases the DN to observe
+    or detect the wearer by +2.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Jump Jets</strong>: </span><span
+    class="fontstyle0">The armour is fitted with jump jets allowing for
+    considerable mobility. The suit has a Speed of 8 (Flying). As a Stealth
+    Battlesuit, moving using this flight speed does not affect the wearer’s
+    Stealth Score.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Armament</strong>: </span><span
+    class="fontstyle0">This battlesuit is armed with a single Burst Cannon,
+    modified to grant it the Silent trait. They cannot take a </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">SUPPORT SYSTEM</span><span
+    class="fontstyle0">.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: BATTLESUIT, JUMP JETS, T’AU EMPIRE,FIRE CASTE
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powered
+      rating: 2
+  invulnerable: false
+_id: ixpmzD260YBUtIno
+folder: 44KqXS6yhkO4uUqv
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090445961
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 100000
+_key: '!items!ixpmzD260YBUtIno'

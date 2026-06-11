@@ -1,0 +1,74 @@
+name: Torpor
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Torpor
+    changes:
+      - key: system.skills.psychicMastery.bonus
+        mode: 2
+        value: '-4'
+        priority: null
+    _id: vRUnUj0ArkfrlDrz
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!RRcNOUPJiu6MxXUn.vRUnUj0ArkfrlDrz'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.RRcNOUPJiu6MxXUn
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Long-used by the League of Blackships to control
+    their ‘cargo’, Torpor is a chemical cocktail of neural inhibitors and
+    narcotics designed to render the subject docile and dampen their psychic
+    talents. The Holy Ordos maintain their own supplies of Torpor to control
+    prisoners.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A single dose of Torpor lasts for a number of hours equal
+    to 10 minus the subject’s Toughness, during which time the subject counts as
+    </span><span class="fontstyle3">Exhausted </span><span
+    class="fontstyle0">and </span><span class="fontstyle3">Staggered</span><span
+    class="fontstyle0">. Further, </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">PSYKERS </span><span class="fontstyle0">under
+    the effects of Torpor count their Psychic Mastery rank as 4 less than normal
+    while under the drug’s effects.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: INQUISITION, ADEPTUS ASTRA TELEPATHICA, ANATHAMA PSYKANA
+  effect: ''
+_id: RRcNOUPJiu6MxXUn
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099214
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1000000
+_key: '!items!RRcNOUPJiu6MxXUn'

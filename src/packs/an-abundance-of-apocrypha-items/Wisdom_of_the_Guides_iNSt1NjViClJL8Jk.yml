@@ -1,0 +1,65 @@
+name: Wisdom of the Guides
+type: ability
+img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + T'AU EMPIRE/ETHEREAL CASTE
+  description: >-
+    <p><span class="fontstyle0">An unspoken sense of serene enlightenment flows
+    through the T’au ranks. None questions its source, for all understand this
+    is the wisdom of the Ethereals made manifest amongst them. Thus offered the
+    calm for fresh perspective amidst the mayhem of battle, the T’au commanders
+    swiftly glean insights into the strategic ebb and
+    flow.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">If this Prayer is successful, then
+    immediately add 1+Rank Glory to the Glory pool.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects: []
+folder: vWDpSrn0D0gaKrxv
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags:
+  core:
+    sourceId: Item.XsZKTerYz3pcnW6W
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: iNSt1NjViClJL8Jk
+_key: '!items!iNSt1NjViClJL8Jk'

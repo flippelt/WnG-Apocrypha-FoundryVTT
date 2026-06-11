@@ -1,0 +1,84 @@
+folder: fgtFfRbmshJ8KM1n
+name: Voice of Authority
+type: ability
+_id: iB5pcaPjo1cojg4K
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You gain +Rank bonus dice on all Leadership skill tests to command,
+    bolster, or rally NAVIS IMPERIALIS characters, or to issue orders aboard a
+    starship. Further, NAVIS IMPERIALIS characters within 6m of you may add your
+    Rank bonus to their Resolve.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Voice of Authority
+    _id: 3SEK6mtM0VD47VGI
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Leadership skill tests to command, bolster, or rally NAVIS
+              IMPERIALIS characters, or to issue orders aboard a starship
+            hide: ''
+    tint: null
+    _key: '!items.effects!iB5pcaPjo1cojg4K.3SEK6mtM0VD47VGI'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710611104978
+  modifiedTime: 1710611158326
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!iB5pcaPjo1cojg4K'

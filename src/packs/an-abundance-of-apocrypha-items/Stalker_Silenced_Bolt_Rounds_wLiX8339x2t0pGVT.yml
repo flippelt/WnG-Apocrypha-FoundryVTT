@@ -1,0 +1,43 @@
+name: Stalker Silenced Bolt Rounds
+type: ammo
+img: modules/wng-core/assets/icons/ammo/kraken-bolt-rounds.webp
+effects: []
+folder: qnM5Rkyt2djZ275h
+flags:
+  wng-core:
+    initialization-folder: Ammo
+    sort: 0
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wLiX8339x2t0pGVT
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>Utilising a compressed gas propellant instead of the conventional rocket
+    engine and replacing the warhead with a high-density liquid metal core to
+    increase impact force, Stalker bolt rounds are designed to make minimum
+    noise when fired.</p>
+
+    <p><strong>Effect</strong>: Bolt weapons firing Stalker bolt rounds gain the
+    Silent trait. If the weapon already has the Silent trait, then firing the
+    weapon no longer affects the character&rsquo;s Stealth score</p>
+  value: 7
+  keywords: ADEPTUS ASTARTES
+  effect: ''
+  traits: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069448095
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: wLiX8339x2t0pGVT
+sort: 712500
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!wLiX8339x2t0pGVT'

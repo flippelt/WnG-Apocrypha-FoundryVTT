@@ -1,0 +1,54 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Illuminated
+type: ascension
+_id: 1W2XjjzVJoD0Qwmw
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 10
+  description: >-
+    <p>There are those within the Imperium who believe that the Emperor alone is
+    not enough to hold back the onslaught of Chaos. They have foreseen the
+    terrors that await the moment when humanity is most vulnerable. They call
+    themselves Illuminati, and they are bound by a single common experience:
+    they have been possessed by Daemons, and through sheer will they have cast
+    the daemon out. Through this harrowing experience, the Illuminati know the
+    truth of Chaos, and they have become all too aware of the terrible nature of
+    the broken universe they inhabit.</p><p>The Illuminati know of the Fall of
+    the Aeldari and seek to prevent the same happening to Mankind. They know
+    that if Chaos were to triumph during humanity’s development into a psychic
+    species, the universe will end. The Fall of the Aeldari fractured reality
+    and sent shockwaves through Materium and Immaterium both as Slaanesh was
+    born. The fall of Humanity could shatter reality entirely.</p><p>The
+    Illuminati have many plots and schemes and even seem to be working in
+    conjunction with the enigmatic Harlequins of the Aeldari. They are utterly
+    ruthless in their actions and have worked hard to infiltrate many parts of
+    the Imperium… but they must work just as hard to avoid being hunted, for
+    there are those in the Imperium who see the schemes of the Illuminati as a
+    dire threat to the Imperium and the Emperor Himself.</p><p>Hunted almost to
+    extinction a few decades before the Great Rift opened, the terrors of the
+    Noctis Aeterna have seen a great resurgence in the numbers of Illuminati,
+    and they see recent events as proof that Mankind’s fall may be imminent.</p>
+  requirements: Willpower 4, human species
+  keywords: ILLUMINATI
+  influence: 1
+  benefits: >-
+    <p>INFLUENCE BONUS: +1 per Tier ascended. </p><p><strong>STORY
+    ELEMENT:</strong> Your mind and soul are hardened against the powers of
+    Chaos. Your Conviction score is increased by an amount equal to the game’s
+    Tier, and you can never gain Corruption Points. Further, whenever you make a
+    test or opposed test against a CHAOS enemy, power, or effect, you gain
+    +Double Rank bonus dice.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710793433228
+  modifiedTime: 1710793501851
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!1W2XjjzVJoD0Qwmw'

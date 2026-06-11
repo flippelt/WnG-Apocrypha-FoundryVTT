@@ -1,0 +1,80 @@
+name: Tankbusta Bomb
+type: weapon
+img: modules/wng-core/assets/icons/weapons/stikkbomb.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ork-ranged.Item.ScXqF3oyBi3qmPIQ
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Tankbusta Bombs are heavy magnetic discs size
+    and shape of manhole covers. They are directional and are used when
+    Stikkbombs simply aren't sufficient to destroy something. They are attached
+    to the vehicles by magnetic clamps and detonated with deadly
+    efficiency.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">A Tankbusta Bomb cannot be thrown or fired from a
+    launcher. It must be planted with a Tech test against a vehicle within 1m,
+    with a DN equal to the vehicle’s Defence. The bomb will detonate at the end
+    of the current turn. After placing a Tankbusta Bomb, the character may move
+    1d3+1 metres away from the bomb and fall </span><span
+    class="fontstyle3">Prone </span><span class="fontstyle0">as they leap away
+    before the bomb detonates.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: EXPLOSIVE, ORK
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 2
+    - name: brutal
+    - name: waaagh!
+  upgrades: []
+_id: ScXqF3oyBi3qmPIQ
+folder: TbTipy6D5qTeDCZc
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927681209
+  modifiedTime: 1710618673263
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 0
+_key: '!items!ScXqF3oyBi3qmPIQ'

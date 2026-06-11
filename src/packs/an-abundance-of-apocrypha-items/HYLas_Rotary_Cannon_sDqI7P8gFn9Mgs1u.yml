@@ -1,0 +1,86 @@
+name: HYLas Rotary Cannon
+type: weapon
+img: modules/wng-core/assets/icons/weapons/lascannon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.sDqI7P8gFn9Mgs1u
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The HYLas rotary cannon is a powerful
+    antipersonnel weapon, similar in power to the HYLas auto rifle but with a
+    much greater rate of fire, owing to the revolving trio of barrels.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: LAS, LEAGUES OF VOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 9
+  traits:
+    - name: heavy
+      rating: 6
+    - name: rapidFire
+      rating: 3
+    - name: huntr
+      custom: true
+      display: HunTR
+      description: >-
+        HunTR weapons contain auto-calibration and gravstabilisation systems
+        which make them precise at any range. HunTR weapons do not suffer any
+        penalty for being fired at Long Range.
+    - name: sustained
+      custom: true
+      display: Sustained
+      description: >-
+        The weapon is well-suited for delivering attack after attack. For each
+        Exalted Icon rolled when you make an attack with this weapon, you may
+        roll one additional attack die. These additional dice cannot themselves
+        generate additional dice.
+  upgrades: []
+_id: sDqI7P8gFn9Mgs1u
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976140
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!sDqI7P8gFn9Mgs1u'

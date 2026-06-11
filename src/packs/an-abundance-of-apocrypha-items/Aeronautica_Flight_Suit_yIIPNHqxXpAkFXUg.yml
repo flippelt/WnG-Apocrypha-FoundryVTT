@@ -1,0 +1,86 @@
+name: Aeronautica Flight Suit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Void Armour
+    _id: JikY8nOdnhMVC1my
+    changes:
+      - key: ap.base
+        mode: 7
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Void Armour
+            hide: ''
+    tint: null
+    _key: '!items.effects!yIIPNHqxXpAkFXUg.JikY8nOdnhMVC1my'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.imperial-armour.Item.yIIPNHqxXpAkFXUg
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">These pressurised flight suits are lightly
+    reinforced to limit punctures from shrapnel and similar combat hazards.
+    They’re the standard issue garb of the pilots of the Aeronautica Imperialis
+    and can function as voidsuits for a limited duration when flying between
+    orbiting carriers and a planetary atmosphere.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">1,
+    Void</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: LIGHT, IMPERIUM, AERONAUTICA IMPERIALIS
+  equipped: false
+  rating: 1
+  base: 0
+  traits:
+    - name: void
+      custom: true
+      display: Void
+      description: >-
+        A number of types of armour listed in this section have the Void trait.
+        A character with Void armour reduces the AP of incoming attacks by one
+        step (i.e., from AP -1 to 0, or from AP -3 to -2). Void armour also
+        benefits from the Built-in Tech rule (page 235 of the Wrath & Glory Core
+        Rulebook).
+  invulnerable: false
+_id: yIIPNHqxXpAkFXUg
+folder: eLb57h7zaMzBK94e
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089726432
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1200000
+_key: '!items!yIIPNHqxXpAkFXUg'

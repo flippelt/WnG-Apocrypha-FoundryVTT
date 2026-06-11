@@ -1,0 +1,87 @@
+name: Auto-Séance
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.bdEmvaRDi4tcSJek
+system:
+  dn: '3'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You tune your psychic abilities to peer into the streams of time and
+    space, to see events from past, present, and future. A hallmark of
+    Astropaths, the auto-séance is a power by which a psyker opens up their mind
+    and analyses the auras and psychic resonances around them. By doing this,
+    they also augment and enhance the powers of another psyker and serve as a
+    buffer against the worst dangers of the Immaterium. When you use this power,
+    you assist another psyker, adding your ranks in Psychic Mastery as bonus
+    dice to their next attempt to use a Divination power. In addition, should
+    they suffer Perils of the Warp, you may both roll, and choose whichever
+    result is lower</p>
+  effect: ''
+  cost: 10
+  activation: full
+  duration: Sustained
+  range: Special
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        The assisted psyker may re-roll up to 1 Wrath die that rolled a
+        Complication.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        The assisted psyker gains one additional Exalted Icon to spend on
+        Potency effects for their power.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: bdEmvaRDi4tcSJek
+folder: cadR4fAXVAvR66ps
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247356
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!bdEmvaRDi4tcSJek'

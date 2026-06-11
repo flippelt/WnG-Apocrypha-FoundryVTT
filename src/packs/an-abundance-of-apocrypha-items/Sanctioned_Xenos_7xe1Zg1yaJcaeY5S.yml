@@ -1,0 +1,68 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Sanctioned Xenos
+type: ascension
+_id: 7xe1Zg1yaJcaeY5S
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 5
+  description: >-
+    <p>In the broadest of terms, no human may interact with a xenos creature in
+    any way except violently—such creatures are inherently blasphemous against
+    the GodEmperor and must be eliminated on sight without exception.</p><p>From
+    a young age, citizens of the Imperium are taught to fear and hate the xenos,
+    and innumerable legions of Imperial Guardsmen are taught of the superiority
+    of Man over all inhuman things as they are drilled in the use of lasgun and
+    bayonet. The number of xenos who have set foot upon human worlds peacefully
+    and survived is small indeed.</p><p>But this is not always the case. Though
+    the Imperium was founded upon a creed of intolerance towards nonhumans,
+    peaceful contact with a variety of xenos species actually happens
+    frequently. In most instances, these are short-term alliances or matters of
+    temporary mutual convenience. Just as frequently, illegal contact with xenos
+    cultures is sufficiently commonplace that the Inquisition and the Adeptus
+    Arbites keep a constant watch for potential contamination through contact
+    with xenos; in spite of such vigilance, the “Cold Trade” of xenos goods on
+    the black market still exists. A number of xenos species hire themselves out
+    as mercenaries to a number of other species, for reasons all their own, and
+    there are more than a few unscrupulous Imperial Commanders willing to hire
+    such creatures to bolster their forces, seeing them as the ultimate
+    expendable mercenaries and caring little for their fate.</p><p>Rogue
+    Traders, Inquisitors, and a few other individuals, have the power to do
+    more, and do so legitimately. These men and women, freed from the normal
+    strictures and feudal requirements of the Imperium, have the influence and
+    authority to make peaceful contact with xenos species for trade, temporary
+    alliance or even to hire them as mercenaries. In some cases, an allied xenos
+    may almost become a trusted companion, highly valued for its skills.
+    Individuals with trusted xenos allies may find that the normal laws and
+    doctrines against consorting with xenos hamper their operations, and in
+    regions on the fringes of the Imperium, a method of sanctioning xenos allies
+    has come about to ease these difficulties.</p>
+  requirements: >-
+    You must be of a Xenos species: Aeldari, Drukhari, Kin, Kroot, Ork, or one
+    of the T’au species.
+  keywords: IMPERIUM
+  influence: 1
+  benefits: >-
+    <p><strong>INFLUENCE BONUS</strong>: +1 per Tier
+    ascended</p><p><strong>STORY ELEMENT:</strong> You have been vouched for and
+    deemed sufficiently valuable to the works and cause of the Imperium that you
+    may live within Imperial space for as long as you remain in the service of
+    your patron and the Imperium of Man. You are permitted to set foot upon
+    Imperial worlds, so long as your mark is clearly shown and your patron can
+    be contacted to vouch for your Sanctioning. Because of this, and because you
+    have acquired greater familiarity with the Imperium in your travels than
+    most of your kind, you do not suffer the normal species interaction
+    penalties described on page 29 of the Wrath & Glory Core Rulebook.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710794390157
+  modifiedTime: 1710794449013
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!7xe1Zg1yaJcaeY5S'

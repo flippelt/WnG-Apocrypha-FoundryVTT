@@ -1,0 +1,82 @@
+name: Volkanite Disintegrator
+type: weapon
+img: modules/wng-core/assets/icons/weapons/volkite-blaster.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.d3aK4TDZ24Q6Mt3I
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Volkanite Disintegrator is an advanced form
+    of a man-portable Volkite weapon, a class of powerful thermal ray weapons
+    whose technology is pre-Imperial in origin and dates back to the Age of
+    Technology. These weapons possessed considerable killing power, surpassing
+    most other man-portable armaments of their size.</span></p><p></p><p><span
+    class="fontstyle0">Blasts from Volkite Weapons were known to be able to burn
+    through armour and turn flesh to ash. However, where the Imperium has almost
+    lost the secrets of Volkite technology, the Leagues of Votann have
+    maintained and refined the design over millennia.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: VOLKANITE, LEAGUES OFVOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: inflict
+      rating: On Fire
+    - name: huntr
+      custom: true
+      display: HunTR
+      description: >-
+        HunTR weapons contain auto-calibration and gravstabilisation systems
+        which make them precise at any range. HunTR weapons do not suffer any
+        penalty for being fired at Long Range.
+  upgrades: []
+_id: d3aK4TDZ24Q6Mt3I
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976171
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!d3aK4TDZ24Q6Mt3I'

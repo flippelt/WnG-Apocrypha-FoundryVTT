@@ -1,0 +1,87 @@
+name: Psychic Blade
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.6znY54ITHktTB6Do
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>A complex and delicate power to use, you conjure a perfectly thin cutting
+    edge of psychic force, capable of slicing through almost any known matter.
+    The power conjures a melee weapon which inflicts (S)+6 +3ED damage, an AP of
+    -3, and the Force and Warp Weapon qualities. When attacking with the weapon,
+    you may use your Psychic Mastery skill instead of your Weapon
+    Skill.</p><p>Use
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ubG0LaaX2fIfcGiI]{Psychic
+    Blade} and adjust for Potency</p><p></p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: KINETIC, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The weapon inflicts +1ED.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: The weapon gains Rending (3)
+      cost: 3
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: The weapon gains a range of 2m.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: 6znY54ITHktTB6Do
+folder: 4l2ZECZopcUcauCc
+sort: 106250
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247423
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!6znY54ITHktTB6Do'

@@ -1,0 +1,100 @@
+name: Vindictor (Ranged)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/flamer.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A long-barrelled flamer fitted with a heavy chainblade, the Vindictor is
+    an unusual weapon, but one well-suited to preachers and their battlefield
+    sermons.</p>
+
+    <p>Melee: A Vindictor&rsquo;s chainblade can be used as a melee weapon,
+    using the following profile:</p>
+
+    <table style="width: 60.7774%;" border="1"><colgroup><col style="width:
+    20.9677%;"><col style="width: 7.41935%;"><col style="width: 7.41935%;"><col
+    style="width: 64.1935%;"></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td>Damage</td>
+
+    <td>ED</td>
+
+    <td>AP</td>
+
+    <td>Traits</td>
+
+    </tr>
+
+    <tr>
+
+    <td>(S)+6</td>
+
+    <td>5</td>
+
+    <td>-2</td>
+
+    <td>Brutal, Inflict (On Fire)</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+  value: 7
+  keywords: FIRE, ADEPTUS MINISTORUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: flamer
+    - name: blessed
+      rating: 2
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665494612351
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: LOBB1JvXThQYsXF2
+_id: j2a0qXVGlz8D4gAe
+sort: 400000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!j2a0qXVGlz8D4gAe'

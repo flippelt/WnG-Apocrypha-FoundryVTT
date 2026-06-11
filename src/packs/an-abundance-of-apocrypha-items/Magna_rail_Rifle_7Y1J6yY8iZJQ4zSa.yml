@@ -1,0 +1,86 @@
+name: Magna-rail Rifle
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.7Y1J6yY8iZJQ4zSa
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Similar to the railguns used by the T’au Empire,
+    the magna-rail weapons used by the Leagues of Votann are powerful, highly
+    precise, hypervelocity projectile weapons which propel a tiny dart along
+    magnetic accelerator rails. The speed of the projectiles is such that even a
+    tiny object can deliver colossal impact forces, penetrating even the hardest
+    armour and obliterating any other material it passes through.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: MAGNA-RAIL, LEAGUES OFVOTANN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 18
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: heavy
+      rating: 4
+    - name: huntr
+      custom: true
+      display: HunTR
+      description: >-
+        HunTR weapons contain auto-calibration and gravstabilisation systems
+        which make them precise at any range. HunTR weapons do not suffer any
+        penalty for being fired at Long Range.
+    - name: mortal-(1)
+      custom: true
+      display: Mortal (1)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+_id: 7Y1J6yY8iZJQ4zSa
+folder: HLUeMGJsUWOsKH0M
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932976161
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!7Y1J6yY8iZJQ4zSa'

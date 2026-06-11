@@ -1,0 +1,82 @@
+folder: fgtFfRbmshJ8KM1n
+name: Litany of Purity
+type: ability
+img: modules/wng-core/assets/icons/abilities/adeptus-ministorum.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You have +1 Faith Point. When you attempt an Intimidation or Persuasion
+    Interaction Attack against a @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMON}, you may
+    spend one Faith point to invoke the Litany of Purity. If the Interaction
+    Attack succeeds, the @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMON }is Pinned in
+    addition to other effects, and suffers 1d3 Mortal Wounds, +1 per Exalted
+    Icon shifted.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adeptus-ministorum.webp
+    changes:
+      - key: system.resources.faith.total
+        mode: 2
+        value: '1'
+        priority: null
+    name: Litany of Purity
+    _id: aa0BUVJ6LPQbgx7l
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!U3jyFFquO728rt3m.aa0BUVJ6LPQbgx7l'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.U3jyFFquO728rt3m
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699559515213
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: U3jyFFquO728rt3m
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!U3jyFFquO728rt3m'

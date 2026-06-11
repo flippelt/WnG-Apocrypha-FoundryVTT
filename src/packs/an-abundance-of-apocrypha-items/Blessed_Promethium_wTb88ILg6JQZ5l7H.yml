@@ -1,0 +1,81 @@
+name: Blessed Promethium
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+effects:
+  - icon: modules/wng-core/assets/icons/ammo/ammo.webp
+    name: Blessed Promethium
+    _id: KDWVrtAsFSG6KeIo
+    changes:
+      - key: system.damage.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!wTb88ILg6JQZ5l7H.KDWVrtAsFSG6KeIo'
+flags:
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+  core: {}
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">This flame weapon has been carefully sanctified,
+    and its fuel supply has been purified and thrice blessed. No foe of humanity
+    can withstand these holy flames.</span></p><p></p><p><span
+    class="fontstyle0">This modification may be applied to any </span><span
+    class="fontstyle2"><strong>FIRE</strong> </span><span
+    class="fontstyle0">weapon with the </span><span
+    class="fontstyle2"><strong>IMPERIUM</strong> </span><span
+    class="fontstyle0">keyword.</span></p><p></p><p><span class="fontstyle2"
+    style="color:rgb(0,0,0);"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The weapon’s damage is increased by +2 and it gains the
+    Blessed (2) trait.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: IMPERIUM, ADEPTUS MINISTORUM
+  effect: ''
+  traits:
+    - name: blessed
+      rating: 2
+      type: add
+_id: wTb88ILg6JQZ5l7H
+folder: qnM5Rkyt2djZ275h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017422184
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 200000
+_key: '!items!wTb88ILg6JQZ5l7H'

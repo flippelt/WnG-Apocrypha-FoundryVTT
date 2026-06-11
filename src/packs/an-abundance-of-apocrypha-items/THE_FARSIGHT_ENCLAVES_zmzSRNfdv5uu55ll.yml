@@ -1,0 +1,35 @@
+folder: JmXLzf2ge3nwJeU0
+name: THE FARSIGHT ENCLAVES
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+system:
+  description: >-
+    <p>The Farsight Enclaves are a series of heavily fortified T'au colony
+    worlds that are independent and indeed opposed to the rule of the T'au
+    Empire. They are led or ruled by the legendary T'au Fire Caste Commander
+    Farsight and lie on the far side of the Damocles Gulf region of the
+    Segmentum Ultima in the Eastern Fringe of the Milky Way Galaxy.</p><p>•
+    <strong>All</strong> T’au from the Farsight Enclaves are rebels, free from
+    the dogma and deceptions of the Ethereals, and add +2 to their
+    Conviction.</p><p>• <strong>Fire</strong> caste T’au from the Farsight
+    Enclaves are drilled to engage enemies at close range: they add an extra +2
+    to all attacks made against enemies within 9m.</p>
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zmzSRNfdv5uu55ll
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664207638106
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: zmzSRNfdv5uu55ll
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!zmzSRNfdv5uu55ll'

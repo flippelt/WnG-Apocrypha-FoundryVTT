@@ -1,0 +1,147 @@
+folder: kcIfowy1n7OiCCwE
+name: Einhyr Hearthguard (Ironkin)
+type: archetype
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Ironkin
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.m0EXp5KuWV6I2L1b
+  faction:
+    name: Leagues of Votann
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HSaREh8NK25ui3Ou
+  influence: 2
+  cost: 138
+  keywords:
+    - LEAGUES OF VOTANN
+    - '[LEAGUE]'
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: 4
+    intellect: null
+    fellowship: 2
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: 2
+    medicae: null
+    persuasion: 2
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 4
+  ability:
+    name: Close Protection
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fkLeBxIZbmnFS3jc
+  wargear:
+    - - name: ''
+        id: ''
+    - name: EtaCarn Plasma Gun
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HiODHY98hwOcmCwM
+      type: item
+      diff: {}
+      index: 1
+      groupId: WCVik1rPNC3jsRMS
+    - name: Exo-Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.r0czruP5cxZDlxM9
+      type: item
+      diff: {}
+      index: 2
+      groupId: Pe1GQImmTLtBn3dH
+    - name: Exo-Armour Grenade Launcher
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.C7LF14AE9rFI8vjM
+      type: item
+      diff: {}
+      index: 3
+      groupId: uIRNhK6KWyIycXA2
+    - name: Concussion Gauntlet
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.03hI1Ig3h9Dulyne
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: WCVik1rPNC3jsRMS
+      - index: 2
+        type: item
+        groupId: Pe1GQImmTLtBn3dH
+      - index: 3
+        type: item
+        groupId: uIRNhK6KWyIycXA2
+      - index: 4
+        type: item
+        groupId: nNfAY0CuMxR4Ju8B
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 5
+      agility: 3
+      initiative: 3
+      willpower: 5
+      intellect: 2
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 3
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: 2
+      intimidation: 3
+      investigation: null
+      leadership: 3
+      medicae: null
+      persuasion: 3
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: 5
+    talents:
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: HYuKXdU1r5yNyRU1
+        name: Die Hard
+      - id: iiqjZLMe2IxQMth5
+        name: Noble Peer
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710681623136
+  modifiedTime: 1710710947727
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: rYVWJplbAB2KEdi0
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!rYVWJplbAB2KEdi0'

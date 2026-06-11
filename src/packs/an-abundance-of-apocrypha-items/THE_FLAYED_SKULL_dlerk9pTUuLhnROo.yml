@@ -1,0 +1,24 @@
+folder: uVCzkHxBngQT0TMo
+name: THE FLAYED SKULL
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>The Kabal of the Flayed Skull are masters of the skies, bringing death
+    from above to countless worlds. The character adds +Rank to all ranged
+    attacks or melee attacks made when they are above their target.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: dlerk9pTUuLhnROo
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!dlerk9pTUuLhnROo'

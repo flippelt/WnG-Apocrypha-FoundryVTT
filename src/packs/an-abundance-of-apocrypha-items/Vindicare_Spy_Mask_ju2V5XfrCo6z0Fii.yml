@@ -1,0 +1,46 @@
+name: Vindicare Spy Mask
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.ju2V5XfrCo6z0Fii
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A Vindicare’s mask is a vital tool for their
+    missions. It contains hyper-concentrated nutrient and hydration pellets
+    which allow them to serve without support for long periods, and a
+    multi-channel vox-thief for monitoring enemy communications. However, the
+    main feature is the broad-spectrum visor, which allows the wearer to pick
+    out targets at extreme distances.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The mask renders the wearer immune to penalties due to
+    darkness and fog and allows the wearer to ignore any modifiers to the
+    targets’ Defence from being in cover.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 11
+  keywords: TEMPLUM VINDICARE
+  effect: ''
+_id: ju2V5XfrCo6z0Fii
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937612
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!ju2V5XfrCo6z0Fii'

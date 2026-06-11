@@ -1,0 +1,106 @@
+name: The Abyss
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Restrained
+    icon: systems/wrath-and-glory/asset/icons/conditions/restrained.svg
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '-2'
+        priority: null
+      - key: system.combat.speed
+        mode: 5
+        value: '0'
+        priority: null
+    statuses:
+      - restrained
+    _id: vqeZDDSokogqNPkR
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!UHeXDEAS5kKVgnby.vqeZDDSokogqNPkR'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.UHeXDEAS5kKVgnby
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>A shadowy whirlpool opens in the enemy’s midst, snatching away
+    unfortunate warriors as it gathers terrifying momentum. Select a single
+    point you can see within range; the power affects all enemies within 3m of
+    that point. Roll a d6 for each enemy affected; for each Icon rolled, that
+    enemy suffers 1d3 Mortal Wounds. Those who are slain vanish into darkness.
+    Those in the area who suffer wounds but are not slain are Restrained. Those
+    who suffered no wounds must pass a DN 3 Fear test, adding +1 to the DN for
+    each creature they have seen slain. At the start of each of your subsequent
+    turns, while this power is sustained, add +1 metre to the radius of the
+    effect. You suffer 1 Shock each turn you sustain this power.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: RAVEN GUARD
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: 1d3
+    wounds: ''
+    shock: ''
+  potency:
+    - description: ' Enemies suffer +1 Mortal Wound'
+      cost: 3
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: 3
+    type: resolve
+    specification: fear
+_id: UHeXDEAS5kKVgnby
+folder: eJ7mtTuoleAkMUij
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959359
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!UHeXDEAS5kKVgnby'

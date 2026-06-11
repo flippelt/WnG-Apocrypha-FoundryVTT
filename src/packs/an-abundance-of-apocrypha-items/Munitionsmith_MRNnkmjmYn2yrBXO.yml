@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Munitionsmith
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: ADEPTUS MECHANICUS keyword
+  description: >-
+    <p>You are an expert in the science of weaponry, and the most advanced
+    munitions are all the deadlier in your worthy hands.<br>When you use a
+    weapon with the MELTA, PLASMA, ARC, POWER, or ADEPTUS MECHANICUS keywords,
+    you may add +Rank ED to the weapon&rsquo;s damage.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.MRNnkmjmYn2yrBXO
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664023324874
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: MRNnkmjmYn2yrBXO
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 4900000
+_key: '!items!MRNnkmjmYn2yrBXO'

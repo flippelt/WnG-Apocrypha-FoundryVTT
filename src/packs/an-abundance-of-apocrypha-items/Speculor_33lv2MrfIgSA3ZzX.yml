@@ -1,0 +1,158 @@
+folder: ROlAnhrCE5Xnjc9P
+name: Speculor
+type: archetype
+_id: 33lv2MrfIgSA3ZzX
+img: modules/wng-core/assets/icons/abilities/the-inquisition.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: The Inquisition
+    id: Compendium.wng-core.items.Item.ox4kbeKwe9jd5MbL
+  influence: 2
+  cost: 100
+  keywords:
+    - IMPERIUM
+    - INQUISITION
+    - '[ORDO]'
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: 3
+    fellowship: 4
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: 2
+    deception: 4
+    insight: 3
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: 2
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: False Guise
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.dUglqAzIZxkAqqY9
+  wargear:
+    - - name: ''
+        id: ''
+    - type: generic
+      name: >-
+        Up to one weapon with a Value of your Tier +3 or lower, and a rarity of
+        Rare or lower
+      filters: []
+      index: 1
+      groupId: L64MgEvdDtWxvEs4
+    - name: Bodyglove
+      id: Compendium.wng-core.items.Item.alCEdr91k6ttGBw9
+      type: item
+      diff: {}
+      index: 2
+      groupId: JPkThr83wSRn2wb1
+    - name: Disguise (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Disguise (Clothing)
+        system:
+          quantity: 3
+      index: 3
+      groupId: wdioQv6WueQORf3W
+    - name: Disguise (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Disguise (Clothing)
+      index: 4
+      groupId: dvnf7FjSsd7wJ6gp
+    - name: Disguise (Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        name: Disguise (Clothing)
+      index: 5
+      groupId: hl9QzEWImLHlm6e1
+  groups:
+    type: and
+    groupId: root
+    items:
+      - type: item
+        index: 1
+        groupId: L64MgEvdDtWxvEs4
+      - index: 2
+        type: item
+        groupId: JPkThr83wSRn2wb1
+      - index: 3
+        type: item
+        groupId: wdioQv6WueQORf3W
+      - index: 4
+        type: item
+        groupId: dvnf7FjSsd7wJ6gp
+      - index: 5
+        type: item
+        groupId: hl9QzEWImLHlm6e1
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 2
+      agility: 3
+      initiative: 3
+      willpower: 3
+      intellect: 4
+      fellowship: 4
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: null
+      cunning: 4
+      deception: 5
+      insight: 4
+      intimidation: null
+      investigation: 2
+      leadership: null
+      medicae: null
+      persuasion: 3
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: 1
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: AXqKMwrgsKMdohOw
+        name: Acute Sense
+      - id: VcmG1mBiqXlqruCw
+        name: Deductive
+      - id: TW7hB9uxxy76Jiyf
+        name: Paranoid
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710617829988
+  modifiedTime: 1710618081266
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!33lv2MrfIgSA3ZzX'

@@ -1,0 +1,54 @@
+name: T’au Flight Suit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-armour.Item.JjTJIm4qdA9w2DUR
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">These advanced void suits are designed to
+    provide comfort and protection to Air Caste pilots and voidship crew while
+    they carry out their duties.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">2,
+    Void</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: LIGHT, T’AU EMPIRE, AIR CASTE
+  equipped: false
+  rating: 2
+  base: 0
+  traits:
+    - name: void
+      custom: true
+      display: Void
+      description: >-
+        A number of types of armour listed in this section have the Void trait.
+        A character with Void armour reduces the AP of incoming attacks by one
+        step (i.e., from AP -1 to 0, or from AP -3 to -2). Void armour also
+        benefits from the Built-in Tech rule (page 235 of the Wrath & Glory Core
+        Rulebook).
+  invulnerable: false
+_id: JjTJIm4qdA9w2DUR
+folder: 44KqXS6yhkO4uUqv
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090445955
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!JjTJIm4qdA9w2DUR'

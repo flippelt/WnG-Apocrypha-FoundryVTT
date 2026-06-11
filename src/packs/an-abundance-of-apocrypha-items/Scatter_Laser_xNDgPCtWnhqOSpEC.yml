@@ -1,0 +1,71 @@
+name: Scatter Laser
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranger-long-rifle.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.xNDgPCtWnhqOSpEC
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Scatter Laser, called a </span><span
+    class="fontstyle2">sierbahn </span><span class="fontstyle0">in the Eldar
+    language, is a heavy laser weapon commonly used by the Eldar. Originally
+    created for use on War Walkers and Wraithlords, they are also used as a
+    support weapon for Guardian squads, where it is mounted on a Grav Platform.
+    The weapon is comprised of six separate laser chambers which can be fired
+    simultaneously or in bursts, at either the same or different targets, and
+    uses crystalline power cells to store energy. It is similar in some respects
+    to the Imperium's Multi-laser, but far more refined and energy
+    efficient</span>.</p>
+  value: 7
+  keywords: LAS, AELDARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 6
+  traits:
+    - name: heavy
+      rating: 8
+  upgrades: []
+_id: xNDgPCtWnhqOSpEC
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932569
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!xNDgPCtWnhqOSpEC'

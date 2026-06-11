@@ -1,0 +1,83 @@
+folder: fgtFfRbmshJ8KM1n
+name: Innate Cruelty
+type: ability
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Double Rank bonus dice to all Intimidation Interaction attacks
+    you make.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.skills.intimidation.bonus
+        mode: 6
+        value: '@advances.rank*2'
+        priority: null
+    _id: jrnWXcMc1iV5T28o
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Innate Cruelty(Intimidation Interaction Attack)
+    name: Innate Cruelty
+    description: ''
+    statuses: []
+    _key: '!items.effects!zzhEqN7W4Ft58HcN.jrnWXcMc1iV5T28o'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zzhEqN7W4Ft58HcN
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664403504060
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: zzhEqN7W4Ft58HcN
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!zzhEqN7W4Ft58HcN'

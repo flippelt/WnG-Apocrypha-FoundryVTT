@@ -1,0 +1,79 @@
+name: Blinding Flash
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.B2pJ9JSiqoYbPXRb
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You focus blazing mental energy into a single point within your mind
+    before releasing it all in a burst of searing bright light, blinding anyone
+    who sees you and is within Range. All creatures within range and able to see
+    you must pass a DN 3 Agility test or suffer the Blinded condition for a
+    number of rounds equal to your Willpower.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The DN of the Agility test increases by +1
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+    - description: ' +4m range'
+      cost: 2
+      property: range
+      initial: ''
+      value: 4
+      single: false
+  test:
+    dn: 3
+    type: attribute
+    specification: agility
+_id: B2pJ9JSiqoYbPXRb
+folder: jJsPKwdlThlL4b30
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247386
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!B2pJ9JSiqoYbPXRb'

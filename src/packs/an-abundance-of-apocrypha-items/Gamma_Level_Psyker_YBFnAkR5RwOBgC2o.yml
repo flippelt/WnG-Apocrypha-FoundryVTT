@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Gamma-Level Psyker
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 40
+  requirements: >-
+    Human, Adeptus Astartes, or Primaris Astartes species, PSYKER keyword, Tier
+    3+
+  description: >-
+    <p>Your psychic powers are particularly potent, with an intensity that few
+    can match.</p><p>When you attempt to use a psychic power at the Unbound or
+    Transcendent power level, for each Exalted Icon you roll, you may roll one
+    additional die for the Psychic Mastery test. These additional dice may not
+    themselves grant more dice.</p><p>You gain 1d3 Corruption Points when you
+    take this talent. You may not select the Alpha-level Psyker or Beta-level
+    Psyker talents.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699803581683
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: YBFnAkR5RwOBgC2o
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!YBFnAkR5RwOBgC2o'

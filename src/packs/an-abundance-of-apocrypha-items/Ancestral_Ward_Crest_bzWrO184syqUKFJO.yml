@@ -1,0 +1,54 @@
+name: Ancestral Ward Crest
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.kin-armour.Item.bzWrO184syqUKFJO
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Weavefield protectors employ interwoven layers
+    of protective energy fields, similar to the refractor and conversion fields
+    used by the Imperium, along with magnetic repulsion fields and a wide
+    spectrum of other barriers. The Leagues of Votann employ this technology in
+    a variety of ways, but in battle, they are often mounted into decorative
+    armoured crests worn on combat armour, projecting shimmering amber barriers
+    that can intercept a variety of incoming attacks.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">Special,
+    Power Field</span></p><p></p><p><span
+    class="fontstyle2"><strong>Barrier-Tech</strong>: </span><span
+    class="fontstyle0">The Ancestral Ward Crest has an Invulnerable Armour
+    Rating equal to the wearer’s Psychic Mastery skill ranks.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: FORCE FIELD, LEAGUES OF VOTANN
+  equipped: false
+  rating: 0
+  base: 0
+  traits:
+    - name: powerField
+  invulnerable: true
+_id: bzWrO184syqUKFJO
+folder: RAPYMnGpGtheAIly
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090342765
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!bzWrO184syqUKFJO'

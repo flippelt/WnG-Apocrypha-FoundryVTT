@@ -1,0 +1,116 @@
+name: Precognitive Strike
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Precognitive Strike
+    changes:
+      - key: system.skills.ballisticSkill.bonus
+        mode: 2
+        value: '@advances.rank'
+      - key: system.skills.weaponSkill.bonus
+        mode: 2
+        value: '@advances.rank'
+      - key: system.skills.ballisticSkill.bonus
+        mode: 2
+        value: '@test.result.bsws'
+      - key: system.skills.weaponSkill.bonus
+        mode: 2
+        value: '@test.result.bsws'
+    _id: 8qzJOweO0kLsN0cC
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+          '2':
+            script: ''
+            description: ''
+            hide: ''
+          '3':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!lqnNLQ2ePCZAb0l2.8qzJOweO0kLsN0cC'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.lqnNLQ2ePCZAb0l2
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You can sense disturbances to the path of your immediate future, allowing
+    you to read the movements of your enemies. Until the end of your turn, you
+    add +Rank bonus dice to all Ballistic Skill and Weapon Skill tests.</p>
+  effect: ''
+  cost: 20
+  activation: simple
+  duration: 1 Round
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: You add an extra +1 bonus die to Ballistic Skill and Weapon Skill tests.
+      cost: 2
+      property: bsws
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: lqnNLQ2ePCZAb0l2
+folder: cadR4fAXVAvR66ps
+sort: 106250
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247378
+  modifiedTime: 1711982442380
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!lqnNLQ2ePCZAb0l2'

@@ -1,0 +1,59 @@
+folder: RjR50Xwp2nsZW0E5
+name: Power Snappa
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Resembling a smaller, light-weight version of a Power Klaw, a Power
+    Snappa is a pair of scissoring blades wreathed in a disruptive field, used
+    to rip enemies apart without the bulk and awkwardness of a full-sized
+    Klaw.</p>
+  value: 7
+  keywords: POWER FIELD, ORK
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+    - name: waaagh!
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709860039201
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: JAoehJcQonvteRmw
+_key: '!items!JAoehJcQonvteRmw'

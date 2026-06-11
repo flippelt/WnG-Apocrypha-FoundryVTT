@@ -1,0 +1,32 @@
+name: Order of the Holy Seal
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects: []
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OGV253AzKrgjqRQi
+system:
+  description: >-
+    <p>While their duties are much the same as any Sisters Famulous, the Order
+    of the Holy Seal secretly monitor their charges for deviancy and heresy,
+    ensuring that the highest positions of power do not fall to
+    corruption<strong>.</strong></p><p><strong>Inescapable Scrutiny:</strong>
+    When you succeed at an Insight test, you may spend 1 Faith point to discern
+    some inner truth or secret shame of the target. Ask the GM one question
+    about the target.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: OGV253AzKrgjqRQi
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!OGV253AzKrgjqRQi'

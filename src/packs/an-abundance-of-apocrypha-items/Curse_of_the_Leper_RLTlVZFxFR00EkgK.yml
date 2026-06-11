@@ -1,0 +1,103 @@
+name: Curse of the Leper
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Staggered
+    icon: systems/wrath-and-glory/asset/icons/conditions/staggered.svg
+    changes:
+      - key: system.combat.speed
+        mode: 1
+        value: '0.5'
+        priority: null
+    statuses:
+      - staggered
+    _id: F6IplFD5fMsjfEDo
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!RLTlVZFxFR00EkgK.F6IplFD5fMsjfEDo'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.RLTlVZFxFR00EkgK
+system:
+  dn: '@attributes.toughness.total'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The victims touched by this enervating curse find themselves weakened and
+    drained of life within moments. This targets the nearest enemy within range
+    and line of sight. Roll seven d6: for each Icon, the target suffers 1 Shock
+    and is Staggered.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: true
+  keywords: CHAOS, NURGLE, PSYCHIC
+  prerequisites: HERETIC ASTARTES, NURGLE
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The target suffers +1 Shock per Icon rolled.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: >-
+        If a target becomes Exhausted, they suffer 1d3 Mortal Wounds
+        immediately.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: RLTlVZFxFR00EkgK
+folder: i8b0La8fz53gTHrf
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519032
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!RLTlVZFxFR00EkgK'

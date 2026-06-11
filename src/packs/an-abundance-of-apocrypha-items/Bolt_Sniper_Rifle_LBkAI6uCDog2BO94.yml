@@ -1,0 +1,156 @@
+name: Bolt Sniper Rifle
+type: weapon
+img: modules/wng-core/assets/icons/weapons/astartes-sniper-rifle.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A sophisticated and potent variant of bolt weapon, the Mark III
+    Shrike-pattern Bolt Sniper Rifle is versatile and deadly. It uses advanced
+    targeting augurs to lock in on a target before the wielder fires and can
+    support a range of specialised ammunition suited to a variety of target
+    profiles.</p>
+
+    <p>A Bolt Sniper Rifle includes a @UUID[Item.SWEx4ZoVCxd0oz5O]{Monoscope},
+    @UUID[Item.j1mPgu7Yvx8rsK8a]{Preysense Sight}, and
+    @UUID[Item.jjy1yKkgFCMusIYv]{Silencer} as standard.</p>
+
+    <p>Special: When firing a Bolt Sniper Rifle, choose a single ammo type:
+    @UUID[Item.0pMzaARl6e3AJXpC]{Bolt Sniper Rifle Executioner} (AP -1, +2d to
+    the attack roll and ignore cover), @UUID[Item.OCtUYLP5sIyLQyKZ]{Bolt Sniper
+    Rifle Hyperfrag} (add the Blast [2] trait), or
+    @UUID[Item.WgYUU4DG6tiQ3CIQ]{Bolt Sniper Rifle Mortis} (+1ED, AP -2, add
+    Inflict [Poisoned 5] trait)</p>
+  value: 8
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 18
+    medium: 36
+    long: 54
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: brutal
+    - name: heavy
+      rating: 6
+    - name: sniper
+      rating: 2
+  upgrades:
+    - _id: ZskIqOOTwh3aqy6t
+      name: Preysense Sight
+      type: weaponUpgrade
+      img: modules/wng-core/assets/icons/weaponUpgrade/preysense-sight.webp
+      effects: []
+      folder: JM3j5fSh91u6lb0V
+      sort: 0
+      flags:
+        wng-core:
+          initialization-folder: Upgrades
+          sort: 0
+        core:
+          sourceId: Item.j1mPgu7Yvx8rsK8a
+      system:
+        description: >-
+          <p>Preysense sights utilise precision thermal optics, allowing the
+          wearer to see targets in low light or even total darkness.</p>
+
+          <p><strong>Effect</strong>: This weapon upgrade allows the wielder to
+          detect targets via ambient heat, even in total darkness.</p>
+        effect: ''
+        value: 6
+        rarity: rare
+        keywords: IMPERIUM, SCUM, [ANY]
+        traits: []
+      ownership:
+        default: 0
+        TkdNPfNTgOk5SoMe: 3
+        xygrzIwcKUPawMWs: 3
+        cAphwWMEu7MQQzqi: 3
+      _stats:
+        systemId: null
+        systemVersion: null
+        coreVersion: null
+        createdTime: null
+        modifiedTime: null
+        lastModifiedBy: null
+    - _id: Qrr0qzPKkIr0Lq1v
+      name: Silencer
+      type: weaponUpgrade
+      img: modules/wng-core/assets/icons/weaponUpgrade/silencer.webp
+      effects: []
+      folder: JM3j5fSh91u6lb0V
+      sort: 0
+      flags:
+        wng-core:
+          initialization-folder: Upgrades
+          sort: 0
+      system:
+        description: >-
+          <p>This barrel extension is specifically designed to conceal muzzle
+          flash and muffle the sound of gunfire.</p>
+
+          <p><strong>Effect</strong>: The weapon gains the Silent Trait.</p>
+
+          <p>This upgrade can only be applied to a weapon with the <a
+          class="keyword">BOLT</a> or <a class="keyword">PROJECTILE</a>
+          Keywords.</p>
+        effect: ''
+        value: 3
+        rarity: uncommon
+        keywords: IMPERIUM, SCUM, [ANY]
+        traits:
+          - name: silent
+            type: add
+      ownership:
+        default: 0
+        TkdNPfNTgOk5SoMe: 3
+        xygrzIwcKUPawMWs: 3
+        cAphwWMEu7MQQzqi: 3
+      _stats:
+        systemId: null
+        systemVersion: null
+        coreVersion: null
+        createdTime: null
+        modifiedTime: null
+        lastModifiedBy: null
+effects: []
+flags:
+  scene-packer:
+    hash: 7c70255e6ee281d3e04501312d4e1ee2d54ff2fc
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665423508928
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: LBkAI6uCDog2BO94
+sort: 500000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!LBkAI6uCDog2BO94'

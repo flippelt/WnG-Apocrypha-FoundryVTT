@@ -1,0 +1,86 @@
+name: Psyk-Out Grenade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    world: wng-test
+    system: wrath-and-glory
+    coreVersion: '11.315'
+    systemVersion: 5.0.2
+  core: {}
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Psyk-out grenades are anti-psyker weapons. When
+    they detonate, they release fine dust particles which are heavily
+    impregnated with negative psychic energy. This dust is extremely rare; in
+    all human space it can be obtained only as a by-product of the Emperor's
+    metabolism, or from certain arcane processes rendering the corpses of Nulls.
+    Using the material to create anti-psyker weapons is considered by many to be
+    a great waste, and their issue is strictly controlled. Psyk-out weapons are
+    nigh-useless against non-psychic targets. Against psychic creatures such as
+    daemons and psykers, however, their effects are
+    devastating.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">PSYKERS </span><span class="fontstyle0">and
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">DAEMONS
+    </span><span class="fontstyle0">suffer 1 Mortal Wound for each Exalted Icon
+    rolled on the grenades ED. Further, any psychic powers or effects in the
+    blast radius are immediately ended, and any </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">PSYKER </span><span class="fontstyle0">within
+    the blast will automatically fail any Psychic Mastery test attempted until
+    the end of their next turn.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: EXOTIC, ANATHEMA PSYKANA, GREY KNIGHTS, TEMPLUMCULEXUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 9
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 6
+    - name: blessed
+      rating: 2
+  upgrades: []
+_id: Rs98pBCteVE7y1GS
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430824
+  modifiedTime: 1710688704553
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 100000
+_key: '!items!Rs98pBCteVE7y1GS'

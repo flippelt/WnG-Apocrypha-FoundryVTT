@@ -1,0 +1,104 @@
+name: Shadowstep
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Shadowstep
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '@test.result.def'
+        priority: null
+    _id: fiov33ZVQ2Uc7LYq
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!TgYpKIk3tbpiQ5B8.fiov33ZVQ2Uc7LYq'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.TgYpKIk3tbpiQ5B8
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>The gloom of the battlefield coalesces into a dark passageway that allows
+    those who use it to stalk amongst the shadows and reemerge where the foe
+    least expects them. Select a single ally you can see within range. That ally
+    immediately vanishes into the shadows. At the start of the ally’s next turn,
+    they reappear, emerging from any other patch of shadows or darkness within
+    100m of where they vanished, so long as that location is more than 9m from
+    an enemy.</p>
+  effect: ''
+  cost: 20
+  activation: full
+  duration: Instant
+  range: 18m
+  multiTarget: true
+  keywords: PSYCHIC
+  prerequisites: RAVEN GUARD
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The ally may make a Stealth test when they appear, as a Free Action.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: +1 Defence to the ally until the turn after they appear.
+      cost: 2
+      property: def
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: TgYpKIk3tbpiQ5B8
+folder: eJ7mtTuoleAkMUij
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959357
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TgYpKIk3tbpiQ5B8'

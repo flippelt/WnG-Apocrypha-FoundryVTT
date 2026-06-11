@@ -1,0 +1,30 @@
+folder: uVCzkHxBngQT0TMo
+name: THE OBSIDIAN ROSE
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>The Kabal of the Obsidian Rose are noted for their exquisite artisanship,
+    whose implements of agony and death are crafted with obsessive precision.
+    The short range of any ranged weapon the character possesses is increased by
+    +Rank, the medium range is increased by +Double Rank, and the long range is
+    increased by three times Rank. In addition, the character may re-roll up to
+    Rank ED when determining damage with one of their own weapons.</p>
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bsgzmxrhpuGKkvEt
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 6Bv0ryTX2OEXc6wm
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!6Bv0ryTX2OEXc6wm'

@@ -1,0 +1,78 @@
+name: Voidskin
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects:
+  - icon: modules/wng-core/assets/icons/augmetics/augmetic.webp
+    name: Voidskin
+    _id: FGJQAuArbkR5Q6A0
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '3'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              test to resist the effects of exposure to hard vacuum, extreme
+              cold, and radiation
+            hide: ''
+    tint: null
+    _key: '!items.effects!NKilhjNouiqBzU2l.FGJQAuArbkR5Q6A0'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.NKilhjNouiqBzU2l
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">Subdermal skin tissue is treated with flakweave
+    and chemical toughening agents, such that the recipient can tolerate
+    exposure to the void for longer before illeffects occur. Synthetic
+    chem-glands also help minimise tissue and pressure damage to internal
+    tissues and absorb radiation.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The character gains a +3d bonus on all tests to resist
+    the effects of exposure to hard vacuum, extreme cold, and radiation.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: IMPERIUM, ADEPTUS MECHANICUS, IMPERIAL NAVY
+  requirements: ''
+  effect: ''
+_id: NKilhjNouiqBzU2l
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099834
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!NKilhjNouiqBzU2l'

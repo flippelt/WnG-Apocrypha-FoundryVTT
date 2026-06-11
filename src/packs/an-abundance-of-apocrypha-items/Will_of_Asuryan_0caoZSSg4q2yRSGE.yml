@@ -1,0 +1,105 @@
+name: Will of Asuryan
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Will of Asuryan
+    changes:
+      - key: pool.bonis
+        mode: 6
+        value: '@test.result.bon'
+        priority: null
+    _id: GDbQVrQh15lQwBzl
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!0caoZSSg4q2yRSGE.GDbQVrQh15lQwBzl'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.0caoZSSg4q2yRSGE
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Sensing an approaching crux of destiny, you summon the certainty and
+    confidence of ancient days. Doubt and fear are washed away, and those nearby
+    gain impervious resolve from this indomitable aura. All friendly characters
+    with the AELDARI keyword within range will automatically pass all Resolve
+    tests and are immune to fear, terror, and intimidation-based Interaction
+    attacks until the start of the Farseer’s next turn. In addition, you may
+    Deny the Witch as a Reflexive Action in response to an enemy psychic power
+    used within 25m of you once before their next turn.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: AELDARI, TELEPATHY, PSYCHIC
+  prerequisites: AELDARI, FARSEER
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affected allies also automatically pass Conviction tests.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: You gain +1 bonus dice on Psychic Mastery tests to Deny the Witch.
+      cost: 1
+      property: bon
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 0caoZSSg4q2yRSGE
+folder: SWCK2I9zpJkIWpsv
+sort: 162500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742861
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0caoZSSg4q2yRSGE'

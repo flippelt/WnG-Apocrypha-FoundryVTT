@@ -1,0 +1,72 @@
+folder: jNKQtYmfDibEq8RR
+name: Kin
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  cost: 56
+  speed: 5
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RufWyJRG10oqFnum
+      name: Shrouded Soul
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.UtzDtWoOpsMP9Cx8
+      name: Kin-Bond
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0CcWpHsidZSHFAX3
+      name: Cloneskein
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 1
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: 1
+  attributeMax:
+    strength: 10
+    toughness: 10
+    agility: 6
+    initiative: 8
+    willpower: 10
+    intellect: 9
+    fellowship: 7
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wmzzISFsl3um1SCv
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699475167162
+  modifiedTime: 1710522499614
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: AqMlTyoQxQws1lEK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!AqMlTyoQxQws1lEK'

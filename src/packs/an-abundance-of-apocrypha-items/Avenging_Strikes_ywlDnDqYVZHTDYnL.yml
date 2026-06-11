@@ -1,0 +1,62 @@
+folder: R6DiCyrJrBf1MKBz
+name: Avenging Strikes
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Dire Avenger aspect, Willpower 4+
+  description: >-
+    <p>Little can withstand your cold fury when you avenge the fallen. If your
+    squad has taken any casualties during the current day, then you and any
+    remaining member of your squad add +Rank bonus dice to all melee and ranged
+    attacks you make until your next Respite.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    name: Avenging Strikes
+    _id: E3RYEjqHJi7tCBYw
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Avenging Strikes
+            hide: ''
+    tint: null
+    _key: '!items.effects!ywlDnDqYVZHTDYnL.E3RYEjqHJi7tCBYw'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ywlDnDqYVZHTDYnL
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699810781897
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: ywlDnDqYVZHTDYnL
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!ywlDnDqYVZHTDYnL'

@@ -1,0 +1,254 @@
+name: Anathema Psykana
+type: faction
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: nFRbWozOXnMJVJOz
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Determination
+    description: ''
+    statuses: []
+    _key: '!items.effects!Dg8U7Cj42MdW5DwO.nFRbWozOXnMJVJOz'
+  - _id: btSheAcWGUbYRxMU
+    changes:
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Max Wounds
+    description: ''
+    statuses: []
+    _key: '!items.effects!Dg8U7Cj42MdW5DwO.btSheAcWGUbYRxMU'
+  - _id: 3vqpdL6BGn4eEjGu
+    changes:
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Max Shock
+    description: ''
+    statuses: []
+    _key: '!items.effects!Dg8U7Cj42MdW5DwO.3vqpdL6BGn4eEjGu'
+  - _id: MbSa558yUd8TZOtT
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Conviction
+    description: ''
+    statuses: []
+    _key: '!items.effects!Dg8U7Cj42MdW5DwO.MbSa558yUd8TZOtT'
+  - _id: aen8xGeoAeMpBUAd
+    changes:
+      - key: system.combat.passiveAwareness.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Passive Awareness
+    description: ''
+    statuses: []
+    _key: '!items.effects!Dg8U7Cj42MdW5DwO.aen8xGeoAeMpBUAd'
+  - _id: nbXdfwsjsWKObQrZ
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    origin: null
+    tint: null
+    name: Resolve
+    description: ''
+    statuses: []
+    _key: '!items.effects!Dg8U7Cj42MdW5DwO.nbXdfwsjsWKObQrZ'
+  - _id: DgEHiDpOMxCPafGK
+    changes:
+      - key: system.resources.wealth
+        mode: 2
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: false
+    flags: {}
+    tint: null
+    origin: null
+    name: Wealth
+    description: ''
+    statuses: []
+    _key: '!items.effects!Dg8U7Cj42MdW5DwO.DgEHiDpOMxCPafGK'
+folder: AL59YG508FNku3U7
+flags:
+  cf: null
+  core: {}
+system:
+  journal: ''
+  backgrounds:
+    origin:
+      - name: Persecuted
+        description: >-
+          From a young age, you survived despite being regarded with dread and
+          revulsion by all who met you. When hunting rumours of a witch, the
+          Sisterhood found you instead.
+        effect: nFRbWozOXnMJVJOz
+      - name: Bloodline
+        description: >-
+          It is believed that you came from a bloodline engineered since the
+          dawn of the Imperium to produce Pariahs for the Sisterhood.
+        effect: btSheAcWGUbYRxMU
+      - name: Happenstance
+        description: >-
+          Though frequently alone in life, you made something of yourself, until
+          the extent of your powers were noticed.
+        effect: 3vqpdL6BGn4eEjGu
+    accomplishment:
+      - name: Witch-Bane
+        description: >-
+          Your skills and powers proved instrumental in defeating a coven of
+          witches or a powerful sorcerer
+        effect: MbSa558yUd8TZOtT
+      - name: Hunter
+        description: >-
+          You spent months, even years, tracking your quarry. You eventually
+          triumphed, though it required all of your skill and cunning.
+        effect: aen8xGeoAeMpBUAd
+      - name: Anathema
+        description: >-
+          When all around you were overrun by daemons and the forces of the
+          Ruinous Powers, you stood your ground, unaffected by the warp-spawned
+          horror, and drove it back.
+        effect: nbXdfwsjsWKObQrZ
+    goal:
+      - name: Reclaim
+        description: >-
+          You’ve been charged with retrieving old strongholds or technologies of
+          the Silent Sisterhood, or seeking out new recruits to restore the
+          order’s old numbers.
+        effect: DgEHiDpOMxCPafGK
+      - name: Vigilant
+        description: >-
+          You are part of a newly established Vigil, standing guard over a
+          region of space to secure it from psychic or daemonic threats.
+        effect: nbXdfwsjsWKObQrZ
+      - name: Vigil Indomitus
+        description: >-
+          You were stationed upon one of the ships of the Indomitus Crusade,
+          helping the crusaders return light to the darkness, facing some of the
+          heaviest fighting.
+        effect: btSheAcWGUbYRxMU
+  objectives:
+    - Wield your dread presence and fearsome reputation in a social situation
+    - Demonstrate the superiority of your order’s traditions and techniques
+    - Express gratitude for the Emperor’s wisdom and protection
+    - >-
+      Use your keen skills of observation to pass judgement upon an individual
+      you’ve just met
+    - Be confronted by hostility or fear because of your Pariah nature
+    - Face communications difficulties because of your Vow of Tranquility.
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056000
+  modifiedTime: 1710190657191
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Dg8U7Cj42MdW5DwO
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!Dg8U7Cj42MdW5DwO'

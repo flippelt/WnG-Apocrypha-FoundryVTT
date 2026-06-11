@@ -1,0 +1,111 @@
+name: NIGHT LORDS
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/night-lords-white.png
+effects:
+  - _id: dykprDEeHy4f5GeA
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/night-lords-white.png
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Ave Dominus Nox
+    tint: null
+    origin: null
+    name: Ave Dominus Nox
+    description: ''
+    statuses: []
+    _key: '!items.effects!IepCvvYI8dbrI8Um.dykprDEeHy4f5GeA'
+  - _id: I215cZtNKUEaLJFW
+    changes:
+      - key: system.combat.speed
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/night-lords-white.png
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Ave Dominus Nox
+    tint: null
+    origin: null
+    name: Ave Dominus Nox
+    description: ''
+    statuses: []
+    _key: '!items.effects!IepCvvYI8dbrI8Um.I215cZtNKUEaLJFW'
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IepCvvYI8dbrI8Um
+system:
+  description: >-
+    <p>Always regarded with some wariness and suspicion, the Night Lords were
+    one of the nine Legions that betrayed the Emperor. Focussed on spreading
+    terror, the Night Lords believed that only fear could keep a populace
+    compliant, based on their Primarch&rsquo;s experiences on the Legion&rsquo;s
+    crime-infested homeworld of Nostramo. Their excesses and brutality earned
+    them censure during the Great Crusades, but the Horus Heresy broke out
+    before any punishment could be delivered, and the Night Lords sided with
+    Horus. Since their fall, the Night Lords have become reavers and pirates,
+    taking satisfaction from the terror they spread.</p>
+
+    <h5>Ave Dominus Nox</h5>
+
+    <p>Night Lords revel in the fear of others and are swift to spread it.</p>
+
+    <p>While under cover of darkness, you may add +Rank to your Defence and
+    Speed.</p>
+
+    <p>As a free action at the start of combat, you may spend one Glory to cause
+    Fear for the duration of the fight; enemies who see you must pass a Fear
+    test (DN 2 + Double Rank).</p>
+
+    <h5>Blood of Nostramo (Tradition)</h5>
+
+    <p>Night Lords often recruit from amongst the criminal element and have
+    little love for a fair fight. If you see an ally fail a Resolve or Fear
+    test, you must attempt a Resolve test (DN 3) or become pinned.</p>
+
+    <p>&nbsp;</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056363
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: IepCvvYI8dbrI8Um
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!IepCvvYI8dbrI8Um'

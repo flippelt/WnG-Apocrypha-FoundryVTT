@@ -1,0 +1,64 @@
+name: Psychic Blade
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: ''
+  description: >-
+    <p>A complex and delicate power to use, you conjure a perfectly thin cutting
+    edge of psychic force, capable of slicing through almost any known matter.
+    The power conjures a melee weapon which inflicts (S)+6 +3ED damage, an AP of
+    -3, and the Force and Warp Weapon qualities. When attacking with the weapon,
+    you may use your Psychic Mastery skill instead of your Weapon
+    Skill.</p><p></p><p><strong>Potency:</strong></p><ul><li><p>[1] The weapon
+    inflicts +1ED. </p></li><li><p>[3] The weapon gains Rending (3)
+    </p></li><li><p>*[2] The weapon gains a range of 2m.</p></li></ul>
+  value: null
+  keywords: ''
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: force
+    - name: warpWeapons
+  upgrades: []
+effects: []
+folder: Jr1XUs92ggb9r4uN
+flags:
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711743753265
+  modifiedTime: 1711747977098
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: ubG0LaaX2fIfcGiI
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_key: '!items!ubG0LaaX2fIfcGiI'

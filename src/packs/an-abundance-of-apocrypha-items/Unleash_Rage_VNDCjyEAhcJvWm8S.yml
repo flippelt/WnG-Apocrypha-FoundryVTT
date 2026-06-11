@@ -1,0 +1,136 @@
+name: Unleash Rage
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Frenzied
+    icon: systems/wrath-and-glory/asset/icons/conditions/frenzied.svg
+    changes:
+      - key: system.attributes.strength.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    statuses:
+      - frenzied
+    _id: lLDMuP8smGgPs90C
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!VNDCjyEAhcJvWm8S.lLDMuP8smGgPs90C'
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Unleash Rage
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.ws'
+        priority: null
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.extra'
+        priority: null
+    _id: zhrpCeX6elFBLiMq
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!VNDCjyEAhcJvWm8S.zhrpCeX6elFBLiMq'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.VNDCjyEAhcJvWm8S
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You reach into the minds of your fellows and stoke the fires of anger
+    lurking in their psyches, pushing them into a frenzied rage. If successful,
+    select an Adeptus Astartes ally who has the BLOOD ANGELS keyword (or is of a
+    Chapter with the Blood Angels geneseed). That ally immediately becomes
+    Frenzied.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 25m
+  multiTarget: true
+  keywords: TELEPATHY, PSYCHIC
+  prerequisites: BLOOD ANGELS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The affected ally adds +1d to all Weapon Skill tests while Frenzied.
+      cost: 1
+      property: ws
+      initial: ''
+      value: 1
+      single: false
+    - description: The affected ally adds +1ED to melee attacks while Frenzied.
+      cost: 2
+      property: extra
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: VNDCjyEAhcJvWm8S
+folder: JwusfIy0j2Cyghui
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959300
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!VNDCjyEAhcJvWm8S'

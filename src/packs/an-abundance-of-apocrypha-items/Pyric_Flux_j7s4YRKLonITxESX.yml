@@ -1,0 +1,93 @@
+name: Pyric Flux
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Pyric Flux
+    changes:
+      - key: ed.bonus
+        mode: 6
+        value: '@test.result.extra'
+        priority: null
+    _id: jFXbi3imgOHRKnln
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!j7s4YRKLonITxESX.jFXbi3imgOHRKnln'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.j7s4YRKLonITxESX
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You make yourself a bounteous font of unholy warpflame. Until the start
+    of your next turn, all TZEENTCH FIRE weapons within range gain +2ED.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: HERETIC ASTARTES, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affected weapons gain an additional +1ED.
+      cost: 1
+      property: extra
+      initial: 2
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: j7s4YRKLonITxESX
+folder: Etpcm2KGN6kx7ODw
+sort: 225000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519061
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!j7s4YRKLonITxESX'

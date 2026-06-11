@@ -1,0 +1,79 @@
+name: Poison Globe
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.grenades-and-missiles.Item.MdQwe2fDNnZconrR
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Poison Globes are weapons that have been wielded
+    by the Venenum Assassins of the Officio Assassinorum since the Great
+    Crusade. Each is a sphere of crystalline explosive, which hurls a shower of
+    crystal shards imbued with a potent and debilitating neuro-toxin within a
+    small area when thrown.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: EXOTIC, TEMPLUM VENENUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 4
+    - name: inflict
+      rating: Poisoned 4
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+  upgrades: []
+_id: MdQwe2fDNnZconrR
+folder: MUcxS2zfLHtXJlox
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709925430818
+  modifiedTime: 1710790215490
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 0
+_key: '!items!MdQwe2fDNnZconrR'

@@ -1,0 +1,883 @@
+folder: lnrG2DjbuTHjiVwx
+name: E-COG
+type: threat
+img: modules/wng-core/assets/tokens/generic.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 5
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 1
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 0
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 1
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 7
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: null
+      bonus: 0
+      max: null
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 5
+    fly: 5
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: T
+      second: T
+      third: T
+      fourth: T
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 3 Uncommon</p><p>These floating drones are
+    commonly found assisting BrôkhyrIron-Masters both at their Hold’s forges and
+    on the battlefield. Within a given group, each E-COG will be equipped
+    differently, fulfilling a different function or a different set of
+    tasks.</p>
+prototypeToken:
+  name: E-COG
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: icons/svg/mystery-man.svg
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - folder: jNKQtYmfDibEq8RR
+    name: LEAGUES OF VOTANN
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    system:
+      description: ''
+    effects: []
+    flags:
+      core:
+        sourceId: >-
+          Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wpkWPNKyvh8vv7PC
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1699475830035
+      modifiedTime: 1710437630577
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _id: 86tcCKcisu1hj0s1
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    sort: 0
+    _key: '!actors.items!OIKEjGiK01KAfDoz.86tcCKcisu1hj0s1'
+  - folder: jNKQtYmfDibEq8RR
+    name: ROBOT
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    system:
+      description: ''
+    effects: []
+    flags:
+      core:
+        sourceId: >-
+          Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6cCDAkh4x1DSOt5f
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1699475846325
+      modifiedTime: 1710437640404
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _id: NJWFNra3MZncrEAN
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    sort: 0
+    _key: '!actors.items!OIKEjGiK01KAfDoz.NJWFNra3MZncrEAN'
+  - name: Armoured Shell
+    type: armour
+    _id: rlCxgciv7PiQ3bW3
+    img: modules/wng-core/assets/icons/armour/armour.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710437961282
+      modifiedTime: 1710437972858
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.rlCxgciv7PiQ3bW3'
+  - name: Autoch-pattern Bolter
+    type: weapon
+    img: modules/wng-core/assets/icons/weapons/boltgun.webp
+    effects: []
+    flags:
+      exportSource:
+        system: wrath-and-glory
+        coreVersion: '9.269'
+        systemVersion: 3.5.0
+      core:
+        sourceId: Compendium.world.tau-ranged.Item.8pwrnTTa2FbtmD1s
+    system:
+      quantity: 1
+      rarity: rare
+      description: >-
+        <p><span class="fontstyle0">Derived from the same principles, and even
+        the same STC designs as Imperial bolt weaponry, the Leagues of Votann
+        have a distinct pattern of boltguns, bolt pistols, and combi-bolters.
+        Autoch-pattern weapons are comparable to Imperial bolt weapons in most
+        regards, but better made, constructed of superior materials, and have
+        been refined over countless millennia of careful innovation. The
+        greatest improvement is the fitting of a HunTR module, an advanced
+        targeting system applied to most Leagues of Votann weaponry, providing
+        haptic feedback and grav-pulse adjustments on every shot, ensuring that
+        the weapon is stable and steady for every shot.</span> <br style="
+        font-style: normal; font-variant: normal; font-weight: normal;
+        letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+        -webkit-auto; text-indent: 0px; text-transform: none; white-space:
+        normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+        -webkit-text-stroke-width: 0px; "></p>
+      value: 5
+      keywords: BOLT, LEAGUES OFVOTANN
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 1
+        thrown: 0
+      ammo: ''
+      salvo: 2
+      traits:
+        - name: brutal
+        - name: huntr
+          custom: true
+          display: HunTR
+          description: >-
+            HunTR weapons contain auto-calibration and gravstabilisation systems
+            which make them precise at any range. HunTR weapons do not suffer
+            any penalty for being fired at Long Range.
+      upgrades: []
+    _id: ycjZqXseBuxamP1P
+    folder: HLUeMGJsUWOsKH0M
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1709932976103
+      modifiedTime: 1710437994673
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    sort: 0
+    _key: '!actors.items!OIKEjGiK01KAfDoz.ycjZqXseBuxamP1P'
+  - name: Automata
+    type: talent
+    _id: W6DrBzOgeAPP6q76
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>This Follower is unaffected by abilities that target the mind, and
+        never needs to make a Resolve test to continue fighting.</p>
+      display: true
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 200000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.8O7OfESDO1thpEae
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359147151
+      modifiedTime: 1710438036002
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.W6DrBzOgeAPP6q76'
+  - name: A.N-VYL Work
+    type: talent
+    _id: 1a5LL5OpmSCjvrFc
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>While one or more E-COGs are within 6m of its owner, whenever its
+        owner attempts a Tech test, they gain +1 Exalted Icon for each E-COG
+        within 6m.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710438037212
+      modifiedTime: 1710438318809
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.1a5LL5OpmSCjvrFc'
+  - name: Determination
+    type: ability
+    _id: XjgjOe8HpHiKSNlz
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Glory to roll 6d6</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: EryJmmZVGTh72K8P
+    sort: 100000
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.NyytzXiTWO84CSRs
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710359735702
+      modifiedTime: 1710438066485
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.XjgjOe8HpHiKSNlz'
+  - folder: jNKQtYmfDibEq8RR
+    name: COG
+    type: keyword
+    _id: dKitlRGxD1cmyLyg
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.0BMuyb2tN1h2CqWp
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710437647038
+      modifiedTime: 1710438197185
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.dKitlRGxD1cmyLyg'
+  - folder: jNKQtYmfDibEq8RR
+    name: BRÔKHYR
+    type: keyword
+    _id: lbppVAN4VxnW8Xvo
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.4prR0lE44q525Bse
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710438185819
+      modifiedTime: 1710438202993
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.lbppVAN4VxnW8Xvo'
+  - name: Follower Options
+    type: ability
+    _id: kfgquLILC8CbWgH9
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>An E-COG may exchange its Autoch-pattern Bolter with one of the
+        following: </p><p><strong>Manipulator Arms:</strong> 7 + 1 ED, +2d on
+        Tech tests. </p><p><strong>Plasma Torch</strong>: 10 + 2 ED / AP -4 /
+        Careful, Unwieldy (2)</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710438238024
+      modifiedTime: 1710438273847
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.kfgquLILC8CbWgH9'
+  - folder: EryJmmZVGTh72K8P
+    name: Manipulator Arms
+    type: weapon
+    _id: GCjRLEKbOHRRwAxS
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: <p>+2d on Tech tests</p>
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 7
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits: []
+      upgrades: []
+    effects:
+      - icon: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+        name: Manipulator Arms
+        changes:
+          - key: pool.bonus
+            mode: 6
+            value: '2'
+            priority: null
+        _id: Fvu4FC85hN0veSUB
+        disabled: false
+        duration:
+          startTime: null
+          seconds: null
+          combat: null
+          rounds: null
+          turns: null
+          startRound: null
+          startTurn: null
+        description: ''
+        origin: null
+        transfer: true
+        statuses: []
+        flags:
+          wrath-and-glory:
+            changeCondition:
+              '0':
+                script: ''
+                description: Manipulator Arms, Tech test
+                hide: ''
+        tint: null
+        _key: >-
+          !actors.items.effects!OIKEjGiK01KAfDoz.GCjRLEKbOHRRwAxS.Fvu4FC85hN0veSUB
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.v8wM3iD9kcTXvXjR
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710438445053
+      modifiedTime: 1710438621239
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.GCjRLEKbOHRRwAxS'
+  - name: Plasma Torch
+    type: weapon
+    _id: QdDD6ML5LCxtwR20
+    img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    system:
+      quantity: 1
+      rarity: common
+      description: ''
+      value: 0
+      keywords: ''
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 2
+        bonus: 0
+        rank: none
+      ap:
+        base: -4
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: unwieldy
+          rating: 4
+        - name: careful
+          custom: true
+          display: Careful
+          description: >-
+            A Careful Weapon requires precision and care to wield and cannot
+            easily be used to make multiple rapid attacks. A Careful Weapon
+            cannot be used to make a MultiAttack.
+      upgrades: []
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710438553450
+      modifiedTime: 1710438607156
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!OIKEjGiK01KAfDoz.QdDD6ML5LCxtwR20'
+effects:
+  - icon: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+    name: Manipulator Arms
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: 7sDhaFc4Q93Ty3f9
+    disabled: false
+    duration:
+      startTime: 0
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: Actor.OIKEjGiK01KAfDoz.Item.GCjRLEKbOHRRwAxS
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Manipulator Arms, Tech test
+            hide: ''
+    tint: null
+    _key: '!actors.effects!OIKEjGiK01KAfDoz.7sDhaFc4Q93Ty3f9'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710437504615
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: OIKEjGiK01KAfDoz
+_key: '!actors!OIKEjGiK01KAfDoz'

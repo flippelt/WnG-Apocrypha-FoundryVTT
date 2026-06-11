@@ -1,0 +1,84 @@
+folder: fgtFfRbmshJ8KM1n
+name: Acrobatic
+type: ability
+_id: nNf6xWmjqI1SyuUt
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Increase your Defence by +Rank and add +1 to your Speed. </p><p>In
+    addition, you may use Agility instead of Strength for your Athletics skill
+    tests.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    name: Acrobatic
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '@advances.rank'
+      - key: system.combat.speed
+        mode: 2
+        value: '1'
+    _id: xNbwheNWjNPA3eax
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!nNf6xWmjqI1SyuUt.xNbwheNWjNPA3eax'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710683645956
+  modifiedTime: 1710683699971
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!nNf6xWmjqI1SyuUt'

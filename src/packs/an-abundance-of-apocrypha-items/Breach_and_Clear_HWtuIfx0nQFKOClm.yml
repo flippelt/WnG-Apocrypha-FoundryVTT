@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Breach and Clear
+type: ability
+_id: HWtuIfx0nQFKOClm
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you take your turn, you may use a Simple Action to prepare for an
+    ally within 6m of you. If you do so, you may Keep the Initiative to allow
+    that ally to take a turn, without needing to spend Glory. This ability does
+    not function if the chosen ally has already taken a turn, and it does not
+    allow you to Keep the Initiative if you normally couldn’t. You may use this
+    a number of times each scene equal to your Rank.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710610568266
+  modifiedTime: 1710610581447
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!HWtuIfx0nQFKOClm'

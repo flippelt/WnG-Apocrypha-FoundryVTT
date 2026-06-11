@@ -1,0 +1,169 @@
+folder: j5mcT1m1I7srvO3E
+name: Primaris Chaplain
+type: archetype
+_id: bicKkLBPZJNY1v0u
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: Compendium.wng-core.items.Item.cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: Compendium.wng-core.items.Item.CN5E9Z5GqfiR1MDn
+  influence: 3
+  cost: 384
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+    - PRIMARIS
+    - PRIEST
+  attributes:
+    strength: 6
+    toughness: 6
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: 3
+    fellowship: 3
+  skills:
+    athletics: 3
+    awareness: 4
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: 2
+    medicae: null
+    persuasion: 2
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 5
+  ability:
+    name: Spiritual Leader
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fK8sd404ST5UmcAO
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Tacticus Mk X
+      id: Compendium.wng-core.items.Item.5KNMzZhCTuvCfRHf
+      type: item
+      diff: {}
+      index: 1
+      groupId: VgBgFgXDM6Fg9U7c
+    - name: Crozius Arcanum
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.61bitSrtHLdkg1nv
+      type: item
+      diff: {}
+      index: 2
+      groupId: 4yi1Q0rT1u0RMSZJ
+    - name: Rosarius
+      id: Compendium.wng-core.items.Item.hTdCHo9SWzaZPxXh
+      type: item
+      diff: {}
+      index: 3
+      groupId: CQLdiaDJFX4mgp9u
+    - name: Absolvor Bolt Pistol
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.PotzqRzTj0yHNrTm
+      type: item
+      diff: {}
+      index: 4
+      groupId: SSP2noQtRiIXuKzy
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: ywW9f0vH7d8NO21G
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 6
+      groupId: 8NLvlVKp3WUnTrrZ
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: VgBgFgXDM6Fg9U7c
+      - index: 2
+        type: item
+        groupId: 4yi1Q0rT1u0RMSZJ
+      - index: 3
+        type: item
+        groupId: CQLdiaDJFX4mgp9u
+      - index: 4
+        type: item
+        groupId: SSP2noQtRiIXuKzy
+      - index: 5
+        type: item
+        groupId: ywW9f0vH7d8NO21G
+      - index: 6
+        type: item
+        groupId: 8NLvlVKp3WUnTrrZ
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: 5HchXpu60DlodyV8
+        name: Disturbing Voice
+      - id: JhtS9OxkxWcjILbK
+        name: In His Name
+      - id: CivcwNmEfMtYgsU5
+        name: Righteous Wrath
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710719752235
+  modifiedTime: 1710719995690
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!bicKkLBPZJNY1v0u'

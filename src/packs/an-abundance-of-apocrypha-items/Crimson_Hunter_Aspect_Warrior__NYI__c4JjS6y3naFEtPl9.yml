@@ -1,0 +1,151 @@
+folder: GHP0SxnnlNKFusRJ
+name: Crimson Hunter Aspect Warrior (NYI)
+type: archetype
+_id: c4JjS6y3naFEtPl9
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 160
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - ASPECT WARRIOR
+  attributes:
+    strength: null
+    toughness: null
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 3
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 5
+    psychicMastery: 2
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 1
+    weaponSkill: null
+  ability:
+    name: Skyhunter
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.nt9zd1trj3ise2ZS
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Aspect Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4CN52w3DuI2X6OwJ
+      type: item
+      diff: {}
+      index: 1
+      groupId: SlvA8Se89Kywcoum
+    - type: generic
+      name: Nightshade Interceptor (NYI)
+      filters: []
+      index: 2
+      groupId: v8VGwlgDhnELN9bv
+    - name: Shuriken Pistol
+      id: Compendium.wng-core.items.Item.ueTuXr4xkzevIL4X
+      type: item
+      diff: {}
+      index: 3
+      groupId: JSJqE4tGXrpAToIU
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 4
+      groupId: 4YyjYOPW2Kzhkn6t
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: SlvA8Se89Kywcoum
+      - type: item
+        index: 2
+        groupId: v8VGwlgDhnELN9bv
+      - index: 3
+        type: item
+        groupId: JSJqE4tGXrpAToIU
+      - index: 4
+        type: item
+        groupId: 4YyjYOPW2Kzhkn6t
+      - index: 5
+        type: item
+        groupId: Qyp9plV4jtreHSqw
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 6
+      initiative: 6
+      willpower: 3
+      intellect: 3
+      fellowship: 2
+    skills:
+      athletics: null
+      awareness: 4
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 6
+      psychicMastery: 4
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: 2
+      weaponSkill: null
+    talents:
+      - id: qyMPDR7eiJDJzMfW
+        name: Gunnery Crew
+      - id: i2iaIBRjeULHMMHD
+        name: Combat Driving
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710621541542
+  modifiedTime: 1710624556930
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!c4JjS6y3naFEtPl9'

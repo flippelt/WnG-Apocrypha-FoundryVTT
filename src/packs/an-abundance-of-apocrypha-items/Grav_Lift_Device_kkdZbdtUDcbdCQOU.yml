@@ -1,0 +1,46 @@
+name: Grav-Lift Device
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.leagues-of-votann-equipment.Item.kkdZbdtUDcbdCQOU
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">These flat devices are commonly used during
+    salvage and mining expeditions to make it easier to traverse difficult
+    environments. They are capable of generating a brief antigravity field,
+    allowing the user to manoeuvre more easily.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">You may deploy this device as an action. Any </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">LEAGUES OF VOTANN
+    </span><span class="fontstyle0">character who begins their turn within 1m of
+    the grav-lift device may choose to gain a Fly speed equal to their normal
+    Speed until the end of their turn.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: LEAGUES OF VOTANN
+  effect: ''
+_id: kkdZbdtUDcbdCQOU
+folder: OBM5CJDK3tWaYAVA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257385280
+  modifiedTime: 1710625204854
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 1300000
+_key: '!items!kkdZbdtUDcbdCQOU'

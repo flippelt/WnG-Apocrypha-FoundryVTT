@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Blood for the Blood God!
+type: ability
+_id: n9AHVsRr2a3eKI9N
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you make an All-Out Attack, you may add up to +Rank additional Wrath
+    dice to your dice pool, in addition to the normal Wrath die. If any of these
+    Wrath dice are 6s, then you score a Critical hit. That Critical Hit
+    increases in effect as if a Glory point had been spent, for each Wrath die
+    after the first which rolls a 6. </p><p>In addition, you gain 1d3x4
+    Corruption when you select this Archetype.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710704810396
+  modifiedTime: 1710714527240
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!n9AHVsRr2a3eKI9N'

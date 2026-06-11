@@ -1,0 +1,81 @@
+name: EMPEROR'S CHILDREN
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/emperors-children-white.png
+effects:
+  - _id: gC96UT9ZbGBiAEgw
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-apocrypha/assets/images/factions/emperors-children-white.png
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: In Pursuit of Perfection
+    tint: null
+    origin: null
+    name: In Pursuit of Perfection
+    description: ''
+    statuses: []
+    _key: '!items.effects!zO44i898ToYrBKqt.gC96UT9ZbGBiAEgw'
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zO44i898ToYrBKqt
+system:
+  description: >-
+    <p>One of the nine Legions that betrayed the Emperor during the Horus
+    Heresy, the Emperor&rsquo;s Children were once a shining example of what the
+    Legiones Astartes could be. Driven to the pursuit of perfection in all of
+    their endeavours, the Emperor&rsquo;s Children pushed themselves to the very
+    limits of their abilities in the performance of their duties. During and
+    after the Heresy, the Emperor&rsquo;s Children and their Primarch became
+    creatures of excess and sensation, twisting their pursuit of perfection into
+    a desire to experience ever-greater sensations, and no debauchery is beneath
+    their appetites.</p>
+
+    <p>Characters with the @Item[zO44i898ToYrBKqt]{EMPEROR'S CHILDREN} keyword
+    must take @Item[SQEgHsRqEIlQqU6b]{SLAANESH} as their
+    @Item[TXRdb9GJ55fjSODX]{[MARK OF CHAOS]} keyword.</p>
+
+    <h5>In Pursuit of Perfection</h5>
+
+    <p>Each Emperor&rsquo;s Children Space Marine seeks to perfect a single
+    aspect of the arts of warfare. Select one of the following skills:
+    Awareness, Ballistic Skill, Leadership, Pilot, Weapon Skill. You gain +Rank
+    dice as a bonus to all uses of that skill.</p>
+
+    <h5>Fear of Imperfection (Tradition)</h5>
+
+    <p>The Emperor&rsquo;s Children cannot abide the imperfect and fear the
+    notion that a flaw may mean perfection is unattainable. Whenever you suffer
+    a complication on the skill chosen for Pursuit of Perfection, above, the GM
+    gains 1 Ruin, in addition to any other results.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056332
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: zO44i898ToYrBKqt
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!zO44i898ToYrBKqt'

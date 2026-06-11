@@ -1,0 +1,215 @@
+folder: yFKwNivJm2h6RQHw
+name: Vanus Assassin
+type: archetype
+_id: ctMw3D0LjOtbzw51
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Officio Assassinorum
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GgJupC58AywMDFq9
+  influence: 0
+  cost: 390
+  keywords:
+    - IMPERIUM
+    - OFFICIO ASSASSINORUM
+    - TEMPLUM VANUS
+  attributes:
+    strength: 4
+    toughness: 4
+    agility: 5
+    initiative: 5
+    willpower: 5
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 4
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 5
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 5
+    stealth: 4
+    survival: null
+    tech: 5
+    weaponSkill: 4
+  ability:
+    name: Noospheric Interloper
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rWDZeJaWm4gRDrwJ
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Master-Crafted Laspistol
+      id: Compendium.wng-core.items.Item.cgAJlyCsjH6xdX66
+      type: item
+      diff: {}
+      index: 1
+      groupId: E1usP8sFu2OPGgj0
+    - name: Assassinorum Bodyglove
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.50gYnTefq7FohjIH
+      type: item
+      diff: {}
+      index: 2
+      groupId: I4MrjPJ29fajI3Nt
+    - type: generic
+      name: Two Servo-Skulls
+      filters: []
+      index: 3
+      groupId: 5Q7TSlZ0ocHCx6ZZ
+    - name: Augmetic Eye
+      id: Compendium.wng-core.items.Item.sEZkmLW7A5DyWqEY
+      type: item
+      diff: {}
+      index: 4
+      groupId: P0wxKkGk6W4C2LXP
+    - name: Augmetic Legs
+      id: Compendium.wng-core.items.Item.U768rngg15fmZYNA
+      type: item
+      diff: {}
+      index: 5
+      groupId: 5ODyOiFDWkgrLGQO
+    - name: Auger Array
+      id: Compendium.wng-core.items.Item.JZQ0eEkQf7hWxaD5
+      type: item
+      diff: {}
+      index: 6
+      groupId: o2VJefPQanDc6g85
+    - name: Cortex Implant
+      id: Compendium.wng-core.items.Item.Ob9MSU52rFLhP7ft
+      type: item
+      diff: {}
+      index: 7
+      groupId: vp9zgdas1ThxR3lW
+    - name: Mechadendrite
+      id: Compendium.wng-core.items.Item.oCFca0vTYRuxndzP
+      type: item
+      diff: {}
+      index: 8
+      groupId: WhtAKkwo5wYOjK1I
+    - name: Mind Impulse Unit
+      id: Compendium.wng-core.items.Item.PDQKFWNXfOkCETDt
+      type: item
+      diff: {}
+      index: 9
+      groupId: Cz8Jbif9TXFONs3O
+    - name: Sympatic Dataspikes
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.UNBK7AIOB6DjM35a
+      type: item
+      diff: {}
+      index: 10
+      groupId: 2TpR13TOXcvIb3oQ
+    - name: Vox-Disruptor Array
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HU5eD95NCrVvHFkj
+      type: item
+      diff: {}
+      index: 11
+      groupId: vCFzvL1AyxH77JSb
+    - name: Auspectre
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.PFm1FHjTVio0vo9A
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: E1usP8sFu2OPGgj0
+      - index: 2
+        type: item
+        groupId: I4MrjPJ29fajI3Nt
+      - type: item
+        index: 3
+        groupId: 5Q7TSlZ0ocHCx6ZZ
+      - index: 4
+        type: item
+        groupId: P0wxKkGk6W4C2LXP
+      - index: 5
+        type: item
+        groupId: 5ODyOiFDWkgrLGQO
+      - index: 6
+        type: item
+        groupId: o2VJefPQanDc6g85
+      - index: 7
+        type: item
+        groupId: vp9zgdas1ThxR3lW
+      - index: 8
+        type: item
+        groupId: WhtAKkwo5wYOjK1I
+      - index: 9
+        type: item
+        groupId: Cz8Jbif9TXFONs3O
+      - index: 10
+        type: item
+        groupId: 2TpR13TOXcvIb3oQ
+      - index: 11
+        type: item
+        groupId: vCFzvL1AyxH77JSb
+      - index: 12
+        type: item
+        groupId: CK5lmjdwbFEt4cZw
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 4
+      agility: 5
+      initiative: 6
+      willpower: 5
+      intellect: 6
+      fellowship: 3
+    skills:
+      athletics: null
+      awareness: 5
+      ballisticSkill: 5
+      cunning: 3
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 4
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: 2
+      psychicMastery: null
+      scholar: 5
+      stealth: 4
+      survival: null
+      tech: 6
+      weaponSkill: 4
+    talents:
+      - id: AXqKMwrgsKMdohOw
+        name: Acute Sense
+      - id: Mjor56Aijl63tHLs
+        name: Identify Weakness
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710789644069
+  modifiedTime: 1710789976653
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ctMw3D0LjOtbzw51'

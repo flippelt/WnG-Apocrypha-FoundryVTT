@@ -1,0 +1,60 @@
+folder: ZMoR03HW5eXVf9E1
+name: Codex Discipline
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: ULTRAMARINES keyword
+  description: >-
+    <p>The tenets of the Codex Astartes are sacrosanct to you, and you lean upon
+    their guidance to see you through the worst of times.<br>You increase your
+    Conviction and Resolve by +Rank.</p>
+  display: true
+effects:
+  - icon: modules/wng-core/assets/icons/talents/talent.webp
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    _id: QQj9ut9HYEYyy7rP
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags: {}
+    name: Codex Discipline
+    description: ''
+    statuses: []
+    _key: '!items.effects!SLjtQG76nMGSooIg.QQj9ut9HYEYyy7rP'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.SLjtQG76nMGSooIg
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663878987654
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: SLjtQG76nMGSooIg
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6700000
+_key: '!items!SLjtQG76nMGSooIg'

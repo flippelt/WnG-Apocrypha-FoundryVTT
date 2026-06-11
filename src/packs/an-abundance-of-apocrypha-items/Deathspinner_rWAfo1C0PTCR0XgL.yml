@@ -1,0 +1,80 @@
+name: Deathspinner
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.rWAfo1C0PTCR0XgL
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">The Death Spinner is an Eldar Monofilament gun
+    and the ritual weapon of the Warp Spider Aspect Warriors. Often just
+    referred to as a 'Spinner', it uses the same basic technology as weapons
+    such as the Harlequin's Kiss and the Shadow Weaver, projecting a long thread
+    of single-molecule chain, or monofilament wire. The weapon uses a magnetic
+    containment field to spool the wire together and discharge it as rapidly
+    expanding mist-like mass called a "spinner cloud". Targets within the cloud
+    are sliced apart as the wires' own tension causes it to writhe and lash,
+    slicing through not only exposed flesh but also seeking out gaps in their
+    armour, where it uncoils within and liquefies their innards.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: MONOFILAMENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: blast
+      rating: 6
+    - name: brutal
+    - name: inflict
+      rating: Restrained
+  upgrades: []
+_id: rWAfo1C0PTCR0XgL
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932521
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!rWAfo1C0PTCR0XgL'

@@ -1,0 +1,115 @@
+folder: fgtFfRbmshJ8KM1n
+name: Bestial Zealotry
+type: ability
+img: modules/wng-core/assets/icons/abilities/astra-militarum.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you can see an enemy (either an obvious foe, or a creature
+    identified as an enemy by an ally or superior), you add +Rank to your
+    Resolve, and add +Rank bonus dice to any melee attacks you make when you
+    charge</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: USuJ525gnCNbrcko
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Bestial Zealotry
+    name: Bestial Zealotry
+    description: ''
+    statuses: []
+    _key: '!items.effects!wZ8PlkX2iAKG44kF.USuJ525gnCNbrcko'
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    changes:
+      - key: system.skills.weaponSkill.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    _id: T92vhCVFhGXA8bjl
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Bestial Zealotry(Charge)
+    name: Bestial Zealotry
+    description: ''
+    statuses: []
+    _key: '!items.effects!wZ8PlkX2iAKG44kF.T92vhCVFhGXA8bjl'
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.gTa5Q9wmN1k4TOZJ
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664205457409
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: wZ8PlkX2iAKG44kF
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!wZ8PlkX2iAKG44kF'

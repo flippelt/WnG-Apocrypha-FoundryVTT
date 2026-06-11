@@ -1,0 +1,45 @@
+name: Adrenaline Shot
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.5HSTllUXHrQ38uff
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">An additional dose of adrenaline—supplementing
+    that which the body produces naturally—can help hardened soldiers push past
+    their limits and keep fighting when hurt or tired.</span></p><p></p><p><span
+    class="fontstyle2">Effect: </span><span class="fontstyle0">When you take an
+    Adrenaline Shot, you immediately regain </span>[[/r 1d3+2]]<span
+    class="fontstyle0"> Shock, and ignore the penalties for being Wounded until
+    the end of your next turn. Once you have taken an Adrenaline Shot, you
+    cannot benefit from another until your next Regroup.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: COMBAT DRUGS, IMPERIUM, SCUM, ASTRA MILITARUM
+  effect: ''
+_id: 5HSTllUXHrQ38uff
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099161
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 600000
+_key: '!items!5HSTllUXHrQ38uff'

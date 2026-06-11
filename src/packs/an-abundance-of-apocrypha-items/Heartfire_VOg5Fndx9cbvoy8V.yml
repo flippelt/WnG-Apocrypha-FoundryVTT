@@ -1,0 +1,42 @@
+name: Heartfire
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.VOg5Fndx9cbvoy8V
+system:
+  description: >-
+    <p>Heartfire is a substance produced by the razor-spined fungi that inhabit
+    certain parts of the Dark City. This poison self-replicates within a
+    victim’s body, polluting his blood with a kinetically unstable chemical that
+    may ignite at any moment. Vigorous motion is often sufficient to set the
+    poisoned blood off, consuming the victim with a fire within his own veins
+    and arteries, burning up the oxygen in his
+    blood.</p><p><strong>Effect</strong>: The target’s blood becomes volatile
+    while Poisoned; whenever the character suffers damage, is knocked prone,
+    runs, or sprints, they suffer 1d3 Mortal Wounds.</p>
+  effect: ''
+  value: 6
+  rarity: uncommon
+  keywords: DRUKHARI, TOXIN
+  traits: []
+_id: VOg5Fndx9cbvoy8V
+folder: 6ntRjpS1Ry0pU1f7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483267
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 106250
+_key: '!items!VOg5Fndx9cbvoy8V'

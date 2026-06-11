@@ -1,0 +1,29 @@
+folder: R6DiCyrJrBf1MKBz
+name: Evade
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Swooping Hawk or Shining Spear or Crimson Hunter aspect, Agility 7+
+  description: >-
+    <p>Your airborne movement is difficult for the eye to follow or predict,
+    making you and exceptionally difficult target. When you fly—yourself, or
+    while operating a vehicle with the Flyer or Hover trait—add +2 to your
+    Defence or that of your vehicle until the start of your next turn.</p>
+  display: true
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.1
+  coreVersion: '11.315'
+  createdTime: 1699835273267
+  modifiedTime: 1702676319529
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: qawJx61Sm0n91RwQ
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!qawJx61Sm0n91RwQ'

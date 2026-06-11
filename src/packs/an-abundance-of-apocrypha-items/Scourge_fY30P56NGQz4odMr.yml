@@ -1,0 +1,159 @@
+folder: lEqVRehKQvTYGEoK
+name: Scourge
+type: archetype
+_id: fY30P56NGQz4odMr
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 0
+  cost: 68
+  keywords:
+    - AELDARI
+    - DRUKHARI
+  attributes:
+    strength: 2
+    toughness: null
+    agility: 4
+    initiative: 4
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: null
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Contempt for the Dirt
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.u2niDuqn9KjSp8NR
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Ghostplate
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qdWGYOOwCutU6bY8
+      type: item
+      diff: {}
+      index: 1
+      groupId: XmTqRC8qsuGv38B0
+    - name: Shardcarbine
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.dU6YZeFbZu5JyNsH
+      type: item
+      diff: {}
+      index: 2
+      groupId: wA8maehtet6tUQg5
+    - name: Plasma Grenade
+      id: Compendium.wng-core.items.Item.IKeDfOaiJOeHPpK7
+      type: item
+      diff:
+        system:
+          quantity: 2
+      index: 3
+      groupId: H2eCuhSCm7QKpzR5
+    - name: Haywire Grenade
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1AQhk8NadZAOrscO
+      type: item
+      diff: {}
+      index: 4
+      groupId: cfLuh8rekaMlCQ1E
+    - name: Wings
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ZM3pWVsUuIDhmAmd
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: XmTqRC8qsuGv38B0
+      - index: 2
+        type: item
+        groupId: wA8maehtet6tUQg5
+      - index: 3
+        type: item
+        groupId: H2eCuhSCm7QKpzR5
+      - index: 4
+        type: item
+        groupId: cfLuh8rekaMlCQ1E
+      - index: 5
+        type: item
+        groupId: upoVm2gPFVxIFvNV
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 2
+      agility: 5
+      initiative: 5
+      willpower: 2
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 3
+      awareness: 3
+      ballisticSkill: 3
+      cunning: 3
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: 2
+      persuasion: 2
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: AXqKMwrgsKMdohOw
+        name: Acute Sense
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: TW7hB9uxxy76Jiyf
+        name: Paranoid
+      - id: iivqTi24Np7A3lYz
+        name: Death From Above
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710616584986
+  modifiedTime: 1710616818476
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!fY30P56NGQz4odMr'

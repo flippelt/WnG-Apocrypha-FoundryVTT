@@ -1,0 +1,73 @@
+name: Telekinesis
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.I8AdEfEhK9dHaeh5
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>A basic form of telekinesis, you can use your will to move inanimate
+    objects around. You may lift and move any object you can see within range
+    which weighs no more than your Willpower x5 kg. Lifted objects may be moved
+    anywhere within range, but you cannot move an object fast enough to make an
+    attack. Any objects still suspended when the power ends drop to the
+    ground.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: 10m
+  multiTarget: false
+  keywords: KINETIC, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: ''
+      cost: 1
+      property: range
+      initial: ''
+      value: 5
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: I8AdEfEhK9dHaeh5
+folder: 4l2ZECZopcUcauCc
+sort: 101563
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247431
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!I8AdEfEhK9dHaeh5'

@@ -1,0 +1,61 @@
+name: Harlequin’s Embrace
+type: weapon
+_id: Du9TlchPSSzL4TWy
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A Harlequin's Embrace is a wrist-mounted close combat weapon utilised
+    exclusively by the mysterious Eldar Harlequins. This weapon boasts similar
+    technology to that found in the other Aeldari monofilament weapons. They are
+    triggered a second before the wearer charges into close combat and project a
+    cloud of monofilament wire that quickly contracts around the foe, slicing
+    them to bloody chunks in mere seconds.</p>
+  value: 6
+  keywords: MONOFILAMENT, HARLEQUIN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: inflict
+      rating: Restrained
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 1000000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709856028163
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!Du9TlchPSSzL4TWy'

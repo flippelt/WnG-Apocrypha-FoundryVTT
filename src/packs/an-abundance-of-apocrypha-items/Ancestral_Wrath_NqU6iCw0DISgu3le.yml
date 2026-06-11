@@ -1,0 +1,80 @@
+name: Ancestral Wrath
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.NqU6iCw0DISgu3le
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Channelling the grim hatred that all Kin believe their Ancestors hold for
+    their foes, you transmute it into furious destructive energies. White fire
+    leaps from your eyes, your fingertips, and your open mouth, blasting the foe
+    to scattered ashes. This targets all enemies in a Blast (6) within range and
+    line of sight. Enemies affected suffer 12+ 3ED damage with the Force trait.
+    If any of the enemies affected have killed a LEAGUE OF VOTANN character in
+    the current scene, the damage gains the Brutal trait.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: LEAGUES OF VOTANN, PSYCHIC, FIRE
+  prerequisites: LEAGUES OF VOTANN
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1ED
+      cost: 1
+      property: damage.ed.number
+      initial: ''
+      value: 1
+      single: false
+    - description: Increase Blast size by +2.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: NqU6iCw0DISgu3le
+folder: zhAbc5nO8ReutmpV
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742923
+  modifiedTime: 1712707814632
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!NqU6iCw0DISgu3le'

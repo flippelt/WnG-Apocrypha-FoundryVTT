@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Slick Crew
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Tech 2+
+  description: >-
+    <p>You&rsquo;ve got quick hands and work well with a gunner.<br>You may work
+    as a loader for a character operating a Heavy or Mounted weapon. While you
+    are within Rank metres of them, they may fire the weapon twice, as two
+    actions within a Multi-Action. If the weapon needs to be reloaded due to
+    firing, you may reload it as a Reflexive Action.&nbsp;</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9Pxjgyknw90zYDID
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127621831
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 9Pxjgyknw90zYDID
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 2500000
+_key: '!items!9Pxjgyknw90zYDID'

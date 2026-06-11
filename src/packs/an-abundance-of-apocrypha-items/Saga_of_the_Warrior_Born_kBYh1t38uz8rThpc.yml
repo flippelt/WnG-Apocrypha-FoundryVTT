@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Saga of the Warrior Born
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: SPACE WOLVES keyword, Weapon Skill rating 6+
+  description: >-
+    <p>You are as deadly as you are savage, and few can stand before your
+    blade.<br>When you spend one or more Glory to add extra dice to a melee
+    attack, each Glory you spend adds two dice rather than one.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.hu6ADQveGXUeEtGg
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127547904
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: kBYh1t38uz8rThpc
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 8700000
+_key: '!items!kBYh1t38uz8rThpc'

@@ -1,0 +1,72 @@
+name: Maglev Coils
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects:
+  - icon: modules/wng-core/assets/icons/augmetics/augmetic.webp
+    name: Maglev Coils
+    changes:
+      - key: system.combat.fly
+        mode: 5
+        value: '@attributes.willpower.base'
+        priority: null
+    _id: 9YtJ1RAyWxXyfl8B
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!Avyt4dLvgrxbS43n.9YtJ1RAyWxXyfl8B'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.Avyt4dLvgrxbS43n
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Archaeotech systems of powerful gravimetric and
+    magnetodynamic coils are implanted within the recipient’s lower body,
+    allowing them to become unshackled from gravity’s grasp for short
+    periods.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">When activated, the character gains a fly speed equal to
+    their Willpower, but they may not Run or Sprint while flying. Each turn the
+    character remains aloft, they suffer 1 Shock. The character may also use
+    this implant to slow themselves when falling, suffering [[/r 1d3]] Shock, +1
+    for every 10 meters fallen, instead of the normal falling damage.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: CULT MECHANICUS
+  requirements: ''
+  effect: ''
+_id: Avyt4dLvgrxbS43n
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099809
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!Avyt4dLvgrxbS43n'

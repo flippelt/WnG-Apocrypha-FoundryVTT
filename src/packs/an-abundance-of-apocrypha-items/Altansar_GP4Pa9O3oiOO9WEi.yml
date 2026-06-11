@@ -1,0 +1,57 @@
+name: Altansar
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+effects:
+  - icon: modules/wng-core/assets/factions/aeldari.svg
+    name: Grim Survivors
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: lIUOuPjoYSHNk6F8
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!GP4Pa9O3oiOO9WEi.lIUOuPjoYSHNk6F8'
+folder: 16S9xUIVnroLJhc3
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 2000000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GP4Pa9O3oiOO9WEi
+system:
+  description: >-
+    <p>Altansar was caught in the Eye of Terror, and it was thought lost for
+    millennia. Its symbol is a Broken Chain, referencing the escape of Kurnous
+    and Isha from the dungeons of Khaine but also the shattering of the links
+    that bound Vaul to his anvil. It has since returned but is now held in great
+    suspicion by other Eldar, for how could any Eldar remain untouched by the
+    predations of Chaos for so many millennia?</p><p><strong>GRIM
+    SURVIVORS:</strong> Your Determination is increased by +Rank.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699479568268
+  modifiedTime: 1710530487125
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: GP4Pa9O3oiOO9WEi
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!GP4Pa9O3oiOO9WEi'

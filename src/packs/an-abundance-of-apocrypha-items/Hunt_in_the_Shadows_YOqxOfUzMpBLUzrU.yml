@@ -1,0 +1,80 @@
+folder: fgtFfRbmshJ8KM1n
+name: Hunt in the Shadows
+type: ability
+_id: YOqxOfUzMpBLUzrU
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You may reroll up to Double Rank dice when making a Stealth test. In
+    addition, you add +Rank bonus dice when you make a Surprise Attack.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    name: Hunt in the Shadows
+    _id: Fr0Zdwhaj1DoGkL8
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Surprise attack
+            hide: ''
+    tint: null
+    _key: '!items.effects!YOqxOfUzMpBLUzrU.Fr0Zdwhaj1DoGkL8'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710700446079
+  modifiedTime: 1710700494994
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!YOqxOfUzMpBLUzrU'

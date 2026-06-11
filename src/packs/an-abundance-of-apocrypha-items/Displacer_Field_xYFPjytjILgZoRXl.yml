@@ -1,0 +1,72 @@
+name: Displacer Field
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.force-shields.Item.xYFPjytjILgZoRXl
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A Displacer Field is a teleportation device used
+    as a form of personal defence by important Imperial agents such as
+    Inquisitors and their chosen Acolytes. Unlike other forms of personal
+    protection, a Displacer Field emitter is something of an unreliable
+    technology since it relies on the manipulation of the Warp for its function.
+    When an individual wearing a Displacer Field emitter is struck by a blow
+    from a melee weapon or fire from a ranged weapon that carries sufficient
+    force, the Displacer Field will activate and teleport the user through the
+    Warp to another position in the local realspace that is out of harm's
+    way.</span></p><p></p><p><span class="fontstyle0">However, the use of this
+    device carries several risks. All teleportation technology is inherently
+    dangerous since it moves an individual through the Warp. Even the brief
+    exposure of a few solar milliseconds can be dangerous. Second, for the
+    Displacer Field to function properly, it must be set to automatically
+    teleport its user, and that user will not be able to control the moment of
+    teleportation or exactly where the device will teleport them. Finally, the
+    user returns to realspace moving the same speed and direction as when the
+    field was activated. Depending upon where the user ends up, this can be
+    extremely dangerous.</span></p><p></p><p><span class="fontstyle2">Armour
+    Rating: </span><span class="fontstyle0">0; Power
+    Field</span></p><p></p><p><span
+    class="fontstyle2"><strong>Displacement</strong>: </span><span
+    class="fontstyle0">When hit by an attack while protected by a displacer
+    field, roll a number of dice equal to the number of ED used on the damage
+    roll. If any of them roll Icons, then the field activates, moving the
+    character a number of metres equal to the number of Icons rolled in a random
+    direction instantly. If the field activates, the attack misses, unless it
+    was a blast or area effect (in which case, it still affects the area, which
+    the character may still be within). If this effect would place you within a
+    solid object, reduce the distance teleported until you are no longer in a
+    solid object.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 10
+  keywords: FORCE FIELD, IMPERIUM
+  equipped: false
+  rating: 0
+  base: 0
+  traits:
+    - name: powerField
+  invulnerable: true
+_id: xYFPjytjILgZoRXl
+folder: tfjVFu4f5w54iLmI
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089903090
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!xYFPjytjILgZoRXl'

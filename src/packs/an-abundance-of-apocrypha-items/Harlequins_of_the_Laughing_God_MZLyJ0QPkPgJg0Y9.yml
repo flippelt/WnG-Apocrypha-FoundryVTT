@@ -1,0 +1,224 @@
+folder: AL59YG508FNku3U7
+name: Harlequins of the Laughing God
+type: faction
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  journal: ''
+  backgrounds:
+    origin:
+      - name: Asuryani
+        description: >-
+          You once walked the Paths of the Craftworlds, living a life of strict
+          discipline.
+        effect: xwpTm4W2Td4gyP0m
+      - name: Drukhari
+        description: >-
+          Though no longer, you once preyed upon dread and pain to sustain
+          yourself.
+        effect: LNglOI16joMEA94l
+      - name: Exodite
+        description: You once sought salvation through hard labour and a return to nature.
+        effect: PWhVppNjUxgqXdii
+    accomplishment:
+      - name: The Dance Withouth End
+        description: >-
+          You played a role within the tale of the Fall of the Aeldari and the
+          birth of She Who Thirsts.
+        effect: FeaOEvFM866OzdKF
+      - name: The Black Library
+        description: >-
+          You waylaid those who would seek to exploit or defile the most sacred
+          repository of knowledge.
+        effect: 01LUsg65RqcRwwDW
+      - name: The War in Heaven
+        description: >-
+          You have performed within the dance of the ancient birth of the
+          Aeldari people, and their conflict with the Bloody-Handed God of War
+        effect: qazyenblsBBJqp73
+    goal:
+      - name: Defy She Who Thirsts
+        description: >-
+          Your eventual purpose is to thwart the machinations of The Great Enemy
+          at some pivotal moment.
+        effect: FeaOEvFM866OzdKF
+      - name: Enlightenment
+        description: >-
+          You are fated to bring vital knowledge to a specific being at a vital
+          time.
+        effect: PWhVppNjUxgqXdii
+      - name: Reversal
+        description: >-
+          An ally falls, an enemy is triumphant, and you had a part in it… but
+          everyone knows that such ill-fortune presages a resurgent victory.
+        effect: xwpTm4W2Td4gyP0m
+  objectives:
+    - Speak about your purpose or agenda in a cryptic or poetic fashion
+    - >-
+      Compare your current situation to some event in the mythology or history
+      of the Aeldari
+    - >-
+      Challenge a foe to battle with theatrical flourish, including addressing
+      them by the name of a villain from Aeldari legend.
+    - >-
+      Pursue a course of action which seems strange or bizarre to others, purely
+      because your role demands it
+    - >-
+      Show mercy to a foe, or act ruthlessly to an ally, because it is your role
+      to do so.
+    - Enter battle with laughter on your lips
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Resolve
+    _id: xwpTm4W2Td4gyP0m
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!MZLyJ0QPkPgJg0Y9.xwpTm4W2Td4gyP0m'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Max Shock
+    _id: LNglOI16joMEA94l
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!MZLyJ0QPkPgJg0Y9.LNglOI16joMEA94l'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Determination
+    _id: PWhVppNjUxgqXdii
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!MZLyJ0QPkPgJg0Y9.PWhVppNjUxgqXdii'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Conviction
+    _id: FeaOEvFM866OzdKF
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!MZLyJ0QPkPgJg0Y9.FeaOEvFM866OzdKF'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.passiveAwareness.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Passive Awareness
+    _id: 01LUsg65RqcRwwDW
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!MZLyJ0QPkPgJg0Y9.01LUsg65RqcRwwDW'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    name: Max Wounds
+    _id: qazyenblsBBJqp73
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!MZLyJ0QPkPgJg0Y9.qazyenblsBBJqp73'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0TjSCDeU9JfdRB3f
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699479854625
+  modifiedTime: 1710451663449
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: MZLyJ0QPkPgJg0Y9
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!MZLyJ0QPkPgJg0Y9'

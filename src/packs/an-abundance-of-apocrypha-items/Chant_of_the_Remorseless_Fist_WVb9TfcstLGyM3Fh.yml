@@ -1,0 +1,49 @@
+folder: vuawU3ZTYYG7PWXm
+name: Chant of the Remorseless Fist
+type: ability
+_id: WVb9TfcstLGyM3Fh
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: <p>Affected characters add +Rank bonus dice to melee attacks.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710711452584
+  modifiedTime: 1710711691972
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!WVb9TfcstLGyM3Fh'

@@ -1,0 +1,82 @@
+name: Baleful Devolution
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.yXEOLsT3vrFyvQj2
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Transmogrifying energies erupt from your eyes, playing across the enemy’s
+    ranks and reducing their proud warriors to mewling beasts. This power
+    affects all enemies within a Blast (6) within range and line of sight.
+    Affected enemies must pass a Toughness test with a DN of 5; if they fail,
+    they are transformed into twisted, but harmless beasts while this power
+    remains in effect. Transformed enemies retain their normal Defence,
+    Resilience, Wounds, and Shock, but cannot take any actions of any kind, and
+    they will transform back if they suffer any damage.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: CHAOS, TZEENTCH, PSYCHIC
+  prerequisites: HERETIC ASTARTES, TZEENTCH
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Transformed enemies suffer 1 Mortal Wound when they first transform.
+      cost: 3
+      property: damage.other.mortalWounds.bonus
+      initial: ''
+      value: 1
+      single: false
+    - description: Increase the size of the Blast by +2.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: 5
+    type: attribute
+    specification: toughness
+_id: yXEOLsT3vrFyvQj2
+folder: Etpcm2KGN6kx7ODw
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686519046
+  modifiedTime: 1712690683219
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!yXEOLsT3vrFyvQj2'

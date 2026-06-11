@@ -1,0 +1,256 @@
+name: Pariah
+folder: zy9aJZUOooZEiNXj
+flags:
+  cf: null
+  core: {}
+pages:
+  - name: Pariah
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p>Pariahs, also known as untouchables, nulls, and blanks, are a rare
+        form of human mutant that possess no presence in the Warp. Indeed, their
+        souls actively blot it out, disrupting psychic phenomena in their
+        proximity and rendering them utterly impervious to psychic effects.</p>
+
+        <p>Most sentient beings have an innate connection to the Warp, and their
+        conscious minds and emotions are reflected within it. This echo, this
+        signature presence, is commonly thought of as the soul by humans and
+        Aeldari alike. Psykers—and Aeldari—have especially strong connections to
+        the Warp, and thus their souls are bright flames in the Immaterium
+        compared to the flickering sparks of the average human. Pariahs,
+        however, have no connection to the Warp at all; indeed, their spirits
+        somehow repel the Warp, like an oppressive shadow that swallows the
+        lights nearby.</p>
+
+        <p>In practice, this means that a pariah dampens the effects of psychic
+        and warp-spawned powers occurring nearby. A psyker standing in the area
+        will find their powers weakened or nullified entirely. The pariah
+        themselves is immune to all direct psychic effects (though not indirect
+        ones, such as having a boulder telekinetically dropped or hurled at
+        them). They are entirely immune to daemonic possession and corruption by
+        the powers of Chaos. They cannot be detected by most psychic means,
+        though especially perceptive psykers may infer a pariah’s presence by
+        the absence they produce.</p>
+
+        <p>Ensouled beings perceive the universe as much through their
+        immaterial spirit as through their physical senses. Many humans think of
+        this as instinct, intuition, gut feeling, or as an ability to judge
+        character. To such perceptions, a pariah creates a feeling of deep
+        unease and foreboding, and even revulsion or hostility. To psykers these
+        feelings are amplified a hundredfold, creating an instinctive disgust
+        that borders on pain.</p>
+
+        <p>Some pariahs feel the absence of human contact and socialisation
+        keenly, while others are utterly without emotion. In either case, they
+        are often driven to the fringes of society, leading short, unhappy
+        lives: ironically, many are persecuted as witches, when nothing could be
+        further from the truth.</p>
+
+        <p>In particular, the Ecclesiarchy teaches that the soulless being is
+        incapable of faith, often leading to added persecution of Pariahs as
+        vile nonbelievers.</p>
+
+        <h3>Pariah Roles</h3>
+
+        <p>Though extremely rare, the Imperium seeks out pariahs to serve the
+        Imperium. Most who are discovered are found in orphanages and similar,
+        abandoned by parents who found themselves instinctively disgusted by
+        their child.</p>
+
+        <p>Those who are discovered are a rare and valuable tool in the war for
+        humanity’s survival. The Silent Sisterhood served in this capacity
+        during the Great Crusade and Horus Heresy, and have recently returned in
+        a time of dire need, and both the Inquisition and the Officio
+        Assassinorum employ them to hunt and slay witches and sorcerers.</p>
+
+        <p>However, not all pariahs are so fortunate, and tend to live lives of
+        isolation on the edges of society, often eking out an existence by doing
+        solitary work, or work where the revulsion they inspire is little
+        impediment. A few discover that the extent of their abilities and hire
+        themselves out as freelance witch-hunters and wyrdbanes, or as
+        bodyguards to the paranoid.</p>
+
+        <h3>Playing a Pariah</h3>
+
+        <p>Any Human character may be chosen to be a Pariah during character
+        creation. This has an additional XP cost, and applies additional special
+        abilities to the character, but it also comes with some penalties and
+        restrictions too.</p>
+
+        <p>This additional cost must be paid if you choose any Human archetype.
+        It is already included in the cost of all Pariah archetypes.</p>
+
+        <p><strong>XP Cost:</strong> 30</p>
+
+        <p><strong>Abhorrent Presence:</strong> +2DN to all interaction tests
+        with non-pariah characters. +4DN to interaction tests with
+        @Item[JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce their Influence by
+        1.</p>
+
+        <p><strong>Psychic Abomination:</strong> A pariah cannot be directly
+        affected by psychic powers or other warp phenomena, whether positive or
+        negative. A pariah can never gain the @Item[JVz6FoVEc7p1DJUj]{PSYKER}
+        keyword, nor can they ever gain Faith points or any other ability that
+        requires drawing upon the Warp for power. Any psychic powers attempted
+        or targeted within a number of metres of the Pariah equal to their
+        Willpower increase their DN by twice the Pariah’s Rank.</p>
+
+        <p><strong>Untouchable:</strong> A pariah cannot gain Corruption from
+        warp phenomena, and they automatically succeed at Resolve tests caused
+        by @Item[eeSvJvzZBjQvtZq0]{DAEMONS}.</p>
+    _id: TgId5n8v6aobrm24
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!HFt7MZo3AQWl8d18.TgId5n8v6aobrm24'
+  - name: Pariah
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p>Pariahs, also known as untouchables, nulls, and blanks, are a rare
+        form of human mutant that possess no presence in the Warp. Indeed, their
+        souls actively blot it out, disrupting psychic phenomena in their
+        proximity and rendering them utterly impervious to psychic effects.</p>
+
+        <p>Most sentient beings have an innate connection to the Warp, and their
+        conscious minds and emotions are reflected within it. This echo, this
+        signature presence, is commonly thought of as the soul by humans and
+        Aeldari alike. Psykers—and Aeldari—have especially strong connections to
+        the Warp, and thus their souls are bright flames in the Immaterium
+        compared to the flickering sparks of the average human. Pariahs,
+        however, have no connection to the Warp at all; indeed, their spirits
+        somehow repel the Warp, like an oppressive shadow that swallows the
+        lights nearby.</p>
+
+        <p>In practice, this means that a pariah dampens the effects of psychic
+        and warp-spawned powers occurring nearby. A psyker standing in the area
+        will find their powers weakened or nullified entirely. The pariah
+        themselves is immune to all direct psychic effects (though not indirect
+        ones, such as having a boulder telekinetically dropped or hurled at
+        them). They are entirely immune to daemonic possession and corruption by
+        the powers of Chaos. They cannot be detected by most psychic means,
+        though especially perceptive psykers may infer a pariah’s presence by
+        the absence they produce.</p>
+
+        <p>Ensouled beings perceive the universe as much through their
+        immaterial spirit as through their physical senses. Many humans think of
+        this as instinct, intuition, gut feeling, or as an ability to judge
+        character. To such perceptions, a pariah creates a feeling of deep
+        unease and foreboding, and even revulsion or hostility. To psykers these
+        feelings are amplified a hundredfold, creating an instinctive disgust
+        that borders on pain.</p>
+
+        <p>Some pariahs feel the absence of human contact and socialisation
+        keenly, while others are utterly without emotion. In either case, they
+        are often driven to the fringes of society, leading short, unhappy
+        lives: ironically, many are persecuted as witches, when nothing could be
+        further from the truth.</p>
+
+        <p>In particular, the Ecclesiarchy teaches that the soulless being is
+        incapable of faith, often leading to added persecution of Pariahs as
+        vile nonbelievers.</p>
+
+        <h3>Pariah Roles</h3>
+
+        <p>Though extremely rare, the Imperium seeks out pariahs to serve the
+        Imperium. Most who are discovered are found in orphanages and similar,
+        abandoned by parents who found themselves instinctively disgusted by
+        their child.</p>
+
+        <p>Those who are discovered are a rare and valuable tool in the war for
+        humanity’s survival. The Silent Sisterhood served in this capacity
+        during the Great Crusade and Horus Heresy, and have recently returned in
+        a time of dire need, and both the Inquisition and the Officio
+        Assassinorum employ them to hunt and slay witches and sorcerers.</p>
+
+        <p>However, not all pariahs are so fortunate, and tend to live lives of
+        isolation on the edges of society, often eking out an existence by doing
+        solitary work, or work where the revulsion they inspire is little
+        impediment. A few discover that the extent of their abilities and hire
+        themselves out as freelance witch-hunters and wyrdbanes, or as
+        bodyguards to the paranoid.</p>
+
+        <h3>Playing a Pariah</h3>
+
+        <p>Any Human character may be chosen to be a Pariah during character
+        creation. This has an additional XP cost, and applies additional special
+        abilities to the character, but it also comes with some penalties and
+        restrictions too.</p>
+
+        <p>This additional cost must be paid if you choose any Human archetype.
+        It is already included in the cost of all Pariah archetypes.</p>
+
+        <p><strong>XP Cost:</strong> 30</p>
+
+        <p><strong>Abhorrent Presence:</strong> +2DN to all interaction tests
+        with non-pariah characters. +4DN to interaction tests with
+        @Item[JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce their Influence by
+        1.</p>
+
+        <p><strong>Psychic Abomination:</strong> A pariah cannot be directly
+        affected by psychic powers or other warp phenomena, whether positive or
+        negative. A pariah can never gain the @Item[JVz6FoVEc7p1DJUj]{PSYKER}
+        keyword, nor can they ever gain Faith points or any other ability that
+        requires drawing upon the Warp for power. Any psychic powers attempted
+        or targeted within a number of metres of the Pariah equal to their
+        Willpower increase their DN by twice the Pariah’s Rank.</p>
+
+        <p><strong>Untouchable:</strong> A pariah cannot gain Corruption from
+        warp phenomena, and they automatically succeed at Resolve tests caused
+        by @Item[eeSvJvzZBjQvtZq0]{DAEMONS}.</p>
+    _id: E7t4I3XVSxoH4I0J
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!HFt7MZo3AQWl8d18.E7t4I3XVSxoH4I0J'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1699294434961
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: HFt7MZo3AQWl8d18
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!HFt7MZo3AQWl8d18'
+categories: []

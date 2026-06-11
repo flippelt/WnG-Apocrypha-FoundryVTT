@@ -1,0 +1,135 @@
+name: XV88 Broadside Battlesuit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Reinforced Nanocrystalline Structure
+    changes:
+      - key: system.attributes.toughness.bonus
+        mode: 2
+        value: '4'
+        priority: null
+      - key: system.combat.size
+        mode: 5
+        value: large
+        priority: null
+    _id: FbZrVzsD9XQuQaEn
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!Oytyo3odoP4bqfsb.FbZrVzsD9XQuQaEn'
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Stabilisers
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: nE8lUd7xfYwY35gt
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Firing Mounted (Large) Weapons after moving
+            hide: ''
+    tint: null
+    _key: '!items.effects!Oytyo3odoP4bqfsb.nE8lUd7xfYwY35gt'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-armour.Item.Oytyo3odoP4bqfsb
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">An XV88 Broadside Battlesuit is one of the most
+    heavily armoured T'au Battlesuit units that can be fielded by the T'au Fire
+    Caste, and as such are only worn by the most experienced of T'au
+    veterans.</span></p><p></p><p><span class="fontstyle0">Whilst similar in
+    design to the more common XV8 Crisis Battlesuit, the Broadside sacrifices
+    mobility and manoeuvrability to be armed with some of the most devastating
+    weapons in the T'au arsenal.</span></p><p></p><p><span class="fontstyle0">In
+    this way, they can engage and destroy the heaviest of enemy targets. Each
+    Broadside Battlesuit carries firepower comparable to that of a battle tank,
+    and these incredibly resilient battlesuits are deployed to provide punishing
+    long-ranged fire support to T'au infantry in
+    battle.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">7, Bulk (1), Powered
+    (6)</span></p><p></p><p><span class="fontstyle2"><strong>Reinforced
+    Nanocrystalline Structure</strong>: </span><span class="fontstyle0">The
+    wearer’s Toughness is increased by +4 while they wear this suit. This
+    increases the wearer’s Wounds and Determination accordingly. While within
+    the suit, the wearer’s size is Large.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Stabilisers</strong>: </span><span
+    class="fontstyle0">The armour may carry weapons with the Mounted (Large)
+    Trait, but if it attempts to fire them in a turn in which it moved, the DN
+    of the attack increases by +2.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Armament</strong>: </span><span
+    class="fontstyle0">This battlesuit is fitted with a Heavy Rail Rifle, which
+    may be replaced by twin High Yield Missile Pods. It may also be fitted with
+    two items from the following list: Twin Plasma Rifles, Twin Smart Missile
+    Systems, or a </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">SUPPORT SYSTEM</span><span class="fontstyle0">.
+    A warrior using a Broadside Battlesuit may obtain and use items with the
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">XV88
+    </span><span class="fontstyle0">keyword.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: BATTLESUIT, HEAVY, T’AU EMPIRE,FIRE CASTE
+  equipped: false
+  rating: 7
+  base: 0
+  traits: []
+  invulnerable: false
+_id: Oytyo3odoP4bqfsb
+folder: 44KqXS6yhkO4uUqv
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090445973
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 300000
+_key: '!items!Oytyo3odoP4bqfsb'

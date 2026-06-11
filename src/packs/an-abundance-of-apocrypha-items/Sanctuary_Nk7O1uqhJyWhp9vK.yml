@@ -1,0 +1,104 @@
+name: Sanctuary
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Sanctuary
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@test.result.det'
+        priority: null
+    _id: fqDwdPkZQocPjdZq
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!Nk7O1uqhJyWhp9vK.fqDwdPkZQocPjdZq'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.Nk7O1uqhJyWhp9vK
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Chanting words of warding, you create a zone of light around you that can
+    protect you from harm and repel daemonic creatures. You, and all allies
+    within range, add +1 to your Determination, may roll Determination against
+    Mortal Wounds, and do not suffer Shock when rolling Determination, until the
+    start of your next turn. Further, creatures with the DAEMON keyword treat
+    the area within range of you as difficult terrain until the start of your
+    next turn.</p>
+  effect: ''
+  cost: 25
+  activation: action
+  duration: 1 Round
+  range: 5m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: GREY KNIGHTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Determination
+      cost: 2
+      property: det
+      initial: 1
+      value: 1
+      single: false
+    - description: +5m range.
+      cost: 3
+      property: range
+      initial: ''
+      value: 5
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: Nk7O1uqhJyWhp9vK
+folder: KxBz8XrM98q2ZcAs
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959191
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Nk7O1uqhJyWhp9vK'

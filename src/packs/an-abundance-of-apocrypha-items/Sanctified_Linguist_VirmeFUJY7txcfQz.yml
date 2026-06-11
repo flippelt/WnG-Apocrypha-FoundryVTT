@@ -1,0 +1,108 @@
+folder: fgtFfRbmshJ8KM1n
+name: Sanctified Linguist
+type: ability
+img: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank bonus dice on Scholar tests relating to language, and you
+    know Double Rank additional languages. You also gain +Rank Conviction.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: Conviction
+    _id: eZTriOHOhHGG7KXG
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!VirmeFUJY7txcfQz.eZTriOHOhHGG7KXG'
+  - icon: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank*2'
+        priority: null
+    name: Sanctified Linguist
+    _id: cqmdaNUSVT987SVv
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Sanctified Linguist
+            hide: ''
+    tint: null
+    _key: '!items.effects!VirmeFUJY7txcfQz.cqmdaNUSVT987SVv'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VirmeFUJY7txcfQz
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699538996353
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: VirmeFUJY7txcfQz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!VirmeFUJY7txcfQz'

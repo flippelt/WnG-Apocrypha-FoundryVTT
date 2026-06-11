@@ -1,0 +1,89 @@
+name: Cyberstimms
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Cyberstimms
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+      - key: system.combat.passiveAwareness.bonus
+        mode: 1
+        value: '0.5'
+        priority: null
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    _id: UgAgUoxRnsqtgpjJ
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+          '2':
+            script: ''
+            description: Intellect or Fellowship based test
+            hide: ''
+    tint: null
+    _key: '!items.effects!oacjwfN8D3ilUdtQ.UgAgUoxRnsqtgpjJ'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.leagues-of-votann-equipment.Item.oacjwfN8D3ilUdtQ
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">This device interfaces with the neural augmetics
+    of the user, allowing them to generate specialised stimulants that banish
+    fatigue, enhance muscle performance, and dull
+    pain.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">You may activate or deactivate the
+    Cyberstimms as a simple action, though they will immediately deactivate when
+    you take a Respite or Regroup. While active, you add +Rank to your Speed
+    when you Run or Charge, you increase your Determination by +Rank, and you
+    recover [[/r 1d3]] Shock at the start of each turn. However, while they are
+    active, you halve your Passive Awareness (round up) and add +2 DN to all
+    Intellect and Fellowship based tests.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: LEAGUES OF VOTANN, CTHONIAN
+  effect: ''
+_id: oacjwfN8D3ilUdtQ
+folder: OBM5CJDK3tWaYAVA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257385278
+  modifiedTime: 1710625204854
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 900000
+_key: '!items!oacjwfN8D3ilUdtQ'

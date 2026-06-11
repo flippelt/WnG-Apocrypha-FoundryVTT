@@ -1,0 +1,250 @@
+name: Beastman
+folder: zy9aJZUOooZEiNXj
+flags:
+  cf: null
+  core: {}
+pages:
+  - name: Beastman
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p>Often regarded as mutants, rather than Abhumans, Beastmen possess
+        numerous bestial features. However, unlike mutants, Beastmen are
+        relatively stable in form, and tend to possess similar features. The
+        average Beastman has a thick hide covered in patches of wiry fur, the
+        head of a ruminant mammal, with sturdy horns, and digitigrade legs
+        ending in cloven hooves. They stand slightly taller and broader than the
+        average human, and are generally stronger, faster, and more resilient,
+        but their intellect is as close to the beasts they resemble as it is to
+        that of humans.</p>
+
+        <p>What they lack in intelligence, they make up for in ferocity and
+        determination, however. They are quicktempered, and despite their
+        resemblance to herbivores, they are decidedly carnivorous beings, and
+        bloodthirsty ones. Many are easily swayed to the worship of Chaos, often
+        mutating further and becoming even more monstrous. Some, however, are
+        taught devotion to the God-Emperor, and instructed in a crude form of
+        the Creed; these devout Beastmen believe the sin of their twisted
+        existence and seek to atone for their shameful nature by spilling the
+        blood of the Emperor’s enemies.</p>
+
+        <h3>Beastman Roles</h3>
+
+        <p>Before the Cicatrix Maledictum opened, nearly a third of the Imperium
+        regarded Beastmen as mutants, rather than Abhumans. On most of the
+        others, Beastmen populations were considered to be a source of itinerant
+        labour at best. Today, their numbers are greater than ever – perhaps as
+        some consequence of the rift’s opening – and desperate times have called
+        for desperate measures.</p>
+
+        <p>On those worlds which see a use for the Beastmen, they’re often used
+        as auxiliary troops for PDF and Astra Militarum forces, driven into a
+        zealous, flagellating frenzy and herded towards the enemy as expendable
+        shock troops.</p>
+
+        <p>On any other world, they’re driven to the edges and depths of
+        society. In these places, they may find work as mercenaries and hired
+        guns, or they may find their ways to cults devoted to the Dark Gods,
+        where they revel in their bestial degeneracy.</p>
+
+        <h5>Beastman Names</h5>
+
+        <p>Beastmen tend to have either simple, descriptive Low Gothic names, or
+        whatever guttural combinations of syllables their mouths can pronounce.
+        The former is more common amongst “Imperial” Beastmen, while the latter
+        is prevalent amongst those who fall outside of normal society.</p>
+
+        <h3>Playing a Beastman</h3>
+
+        <p><strong>XP Cost:</strong> 20</p>
+
+        <p><strong>Attributes:</strong> Strength 3, Toughness 3</p>
+
+        <p><strong>Speed:</strong> 7</p>
+
+        <p><strong>Reviled Abhuman:</strong> +2DN to all Interaction tests with
+        characters who do not possess the CHAOS keyword.</p>
+
+        <p><strong>Horns:</strong> You may make melee attacks with your horns
+        ([S]+5+2ED; AP 0). Thus, you are always armed. Bestial</p>
+
+        <p><strong>Savagery:</strong> +1d to all Intimidation tests.</p>
+
+        <p><strong>Child of Chaos:</strong> You begin play with +3
+        corruption.</p>
+
+        <h5>Additional Details</h5>
+
+        <p><strong>Age:</strong> Beastmen tend not to live out their natural
+        lifespan, as most are killed or die off far younger than that, whether
+        through battle or mishap. Beastmen reach maturity relatively quickly,
+        and they are forced to either learn how to survive quickly or be denied
+        the opportunity. If determining a Beastman character’s age randomly,
+        roll 3d6 + 10 and multiply the total by the game’s Tier.</p>
+
+        <p><strong>Colouration:</strong> Beastmen tend to have fur in the same
+        range of colours as human hair, though darker colours are more common
+        (roll twice for hair colour and choose the lowest). Their eyes vary
+        between human colourations and more savage-appearing crimson or amber
+        eyes.</p>
+
+        <p><strong>Height:</strong> Beastmen tend to stand a similar height to
+        baseline humans, though their gait (having hooves) and their horns often
+        make them appear taller.</p>
+
+        <p><strong>Languages:</strong> Beastmen are barely equipped to speak Low
+        Gothic, though they can manage a mangled rendition of it through mouths
+        not well-suited to speech. They do not possess a distinct language of
+        their own.</p>
+    _id: ajnkhWGPmtipA3aR
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!KNhh3XXdglP58qfs.ajnkhWGPmtipA3aR'
+  - name: Beastman
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p>Often regarded as mutants, rather than Abhumans, Beastmen possess
+        numerous bestial features. However, unlike mutants, Beastmen are
+        relatively stable in form, and tend to possess similar features. The
+        average Beastman has a thick hide covered in patches of wiry fur, the
+        head of a ruminant mammal, with sturdy horns, and digitigrade legs
+        ending in cloven hooves. They stand slightly taller and broader than the
+        average human, and are generally stronger, faster, and more resilient,
+        but their intellect is as close to the beasts they resemble as it is to
+        that of humans.</p>
+
+        <p>What they lack in intelligence, they make up for in ferocity and
+        determination, however. They are quicktempered, and despite their
+        resemblance to herbivores, they are decidedly carnivorous beings, and
+        bloodthirsty ones. Many are easily swayed to the worship of Chaos, often
+        mutating further and becoming even more monstrous. Some, however, are
+        taught devotion to the God-Emperor, and instructed in a crude form of
+        the Creed; these devout Beastmen believe the sin of their twisted
+        existence and seek to atone for their shameful nature by spilling the
+        blood of the Emperor’s enemies.</p>
+
+        <h3>Beastman Roles</h3>
+
+        <p>Before the Cicatrix Maledictum opened, nearly a third of the Imperium
+        regarded Beastmen as mutants, rather than Abhumans. On most of the
+        others, Beastmen populations were considered to be a source of itinerant
+        labour at best. Today, their numbers are greater than ever – perhaps as
+        some consequence of the rift’s opening – and desperate times have called
+        for desperate measures.</p>
+
+        <p>On those worlds which see a use for the Beastmen, they’re often used
+        as auxiliary troops for PDF and Astra Militarum forces, driven into a
+        zealous, flagellating frenzy and herded towards the enemy as expendable
+        shock troops.</p>
+
+        <p>On any other world, they’re driven to the edges and depths of
+        society. In these places, they may find work as mercenaries and hired
+        guns, or they may find their ways to cults devoted to the Dark Gods,
+        where they revel in their bestial degeneracy.</p>
+
+        <h5>Beastman Names</h5>
+
+        <p>Beastmen tend to have either simple, descriptive Low Gothic names, or
+        whatever guttural combinations of syllables their mouths can pronounce.
+        The former is more common amongst “Imperial” Beastmen, while the latter
+        is prevalent amongst those who fall outside of normal society.</p>
+
+        <h3>Playing a Beastman</h3>
+
+        <p><strong>XP Cost:</strong> 20</p>
+
+        <p><strong>Attributes:</strong> Strength 3, Toughness 3</p>
+
+        <p><strong>Speed:</strong> 7</p>
+
+        <p><strong>Reviled Abhuman:</strong> +2DN to all Interaction tests with
+        characters who do not possess the CHAOS keyword.</p>
+
+        <p><strong>Horns:</strong> You may make melee attacks with your horns
+        ([S]+5+2ED; AP 0). Thus, you are always armed. Bestial</p>
+
+        <p><strong>Savagery:</strong> +1d to all Intimidation tests.</p>
+
+        <p><strong>Child of Chaos:</strong> You begin play with +3
+        corruption.</p>
+
+        <h5>Additional Details</h5>
+
+        <p><strong>Age:</strong> Beastmen tend not to live out their natural
+        lifespan, as most are killed or die off far younger than that, whether
+        through battle or mishap. Beastmen reach maturity relatively quickly,
+        and they are forced to either learn how to survive quickly or be denied
+        the opportunity. If determining a Beastman character’s age randomly,
+        roll 3d6 + 10 and multiply the total by the game’s Tier.</p>
+
+        <p><strong>Colouration:</strong> Beastmen tend to have fur in the same
+        range of colours as human hair, though darker colours are more common
+        (roll twice for hair colour and choose the lowest). Their eyes vary
+        between human colourations and more savage-appearing crimson or amber
+        eyes.</p>
+
+        <p><strong>Height:</strong> Beastmen tend to stand a similar height to
+        baseline humans, though their gait (having hooves) and their horns often
+        make them appear taller.</p>
+
+        <p><strong>Languages:</strong> Beastmen are barely equipped to speak Low
+        Gothic, though they can manage a mangled rendition of it through mouths
+        not well-suited to speech. They do not possess a distinct language of
+        their own.</p>
+    _id: H9JytK0bNzjlCOFQ
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!KNhh3XXdglP58qfs.H9JytK0bNzjlCOFQ'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1699294434961
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: KNhh3XXdglP58qfs
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!KNhh3XXdglP58qfs'
+categories: []

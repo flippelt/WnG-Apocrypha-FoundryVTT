@@ -1,0 +1,50 @@
+name: Nurgling Infestation
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-equipment.Item.GGo75bX268OdmEga
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Champions of Nurgle are frequently accompanied
+    by gaggles of chattering Nurglings eager to frolic within the death and
+    decay the Champion spreads. Some of these Nurglings seem to appear from the
+    dank corners of the world, while others squeeze themselves loose from the
+    Champion’s filth-ridden flesh, growing to fullsize in moments after falling
+    to the ground… but they just as easily get lost, or are crushed
+    underfoot.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">You are constantly accompanied by a mob of Nurglings.
+    This mob consists of [[/r 2d6]] Nurglings: the number is rolled at the start
+    of your turn. These Nurglings will take an action on your turn, and will
+    attempt to remain as close to you as possible, and they will attack anyone
+    who attacks you, but they will not listen to your commands.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: DARK GIFT, CHAOS, NURGLE, DAEMON
+  effect: ''
+_id: GGo75bX268OdmEga
+folder: UZO0XBlvHEumtcSK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257172286
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!GGo75bX268OdmEga'

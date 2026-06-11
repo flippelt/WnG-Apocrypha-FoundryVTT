@@ -1,0 +1,54 @@
+folder: fgtFfRbmshJ8KM1n
+name: Sorcery
+type: ability
+_id: eK2vmrCQwFC6xpd8
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are a psyker; you have all the Universal psyker abilities, you know
+    the Smite psychic power. You know the Dark Hereticus discipline, and receive
+    one power from that Discipline, and you may select one other Psychic
+    Discipline of your choice to learn powers from.</p><p>In addition, you gain
+    1d3x4 Corruption when you select this Archetype.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710702188014
+  modifiedTime: 1710702202857
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!eK2vmrCQwFC6xpd8'

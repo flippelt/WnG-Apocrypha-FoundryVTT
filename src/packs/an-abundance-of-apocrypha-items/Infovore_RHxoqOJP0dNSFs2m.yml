@@ -1,0 +1,57 @@
+folder: fgtFfRbmshJ8KM1n
+name: Infovore
+type: ability
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Whenever you succeed at an Investigation or Scholar test, and shift an
+    Exalted Icon to gain additional information, you may ask a number of
+    additional questions equal to your Rank. In addition, at the start of a
+    scene, you may spend 1 Glory to ask the GM to give you a number of facts
+    about the location or situation equal to your Rank.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RHxoqOJP0dNSFs2m
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699735111879
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: RHxoqOJP0dNSFs2m
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!RHxoqOJP0dNSFs2m'

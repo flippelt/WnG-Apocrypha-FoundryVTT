@@ -1,0 +1,63 @@
+name: Lasgun (Kantrael)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/lasgun.webp
+system:
+  quantity: 1
+  rarity: common
+  description: >-
+    <p>A weapon made famous for its use by Cadian infantry regiments, and thus
+    found on battlefields across the Imperium. Kantrael-pattern weapons are
+    notorious for their accuracy and use a larger charge that gives it slightly
+    greater stopping power.</p>
+  value: 4
+  keywords: LAS, IMPERIUM
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 14
+    medium: 28
+    long: 42
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: rapidFire
+      rating: 1
+    - name: reliable
+  upgrades: []
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665493004664
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: KtMQP20MTYUwmoWw
+_id: Mar9BmgvUY5H5d4E
+sort: 300000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!Mar9BmgvUY5H5d4E'

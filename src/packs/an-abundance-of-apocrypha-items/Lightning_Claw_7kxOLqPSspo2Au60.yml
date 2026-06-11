@@ -1,0 +1,75 @@
+name: Lightning Claw
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: M81y3pnOdLuRP51r
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Lightning Claws consist of a power gauntlet and three or four blades that
+    crackle with matter-disruptive energy. Lightning Claws are most often
+    wielded in pairs.</p>
+  value: 7
+  keywords: POWER FIELD, ADEPTUS ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: paired
+      custom: true
+      display: Paired
+      description: >-
+        The weapon is designed to be used in a pair—two weapons of that type,
+        one in each hand. When a character makes an attack while wielding both
+        weapons in a pair, either count it as a Simultaneous Strike (as per the
+        talent), or reduce the DN of a multiattack by 2. If you have the
+        Signature Weapon talent, you may apply it to both weapons in a pair.
+    - name: tearing
+      custom: true
+      display: Tearing
+      description: >-
+        The weapon rips and tears at their enemies, inflicting horrific wounds.
+        When you roll for damage with this weapon, you may re-roll any number of
+        ED.
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 7kxOLqPSspo2Au60
+sort: 1100000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!7kxOLqPSspo2Au60'

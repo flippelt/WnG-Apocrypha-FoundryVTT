@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Unparalleled Mastery
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Aeldari species, PSYKER keyword, Psychic Mastery 5+
+  description: >-
+    <p>The incredible discipline of the Aeldari makes them amongst the most
+    formidable psykers in the galaxy.<br>You may attempt to use multiple psychic
+    powers in a single turn, as part of a Multi-Action. You may use no more than
+    1+Rank psychic powers in one turn.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9tIQgOAAFzShe8D1
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664128394213
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 9tIQgOAAFzShe8D1
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 2700000
+_key: '!items!9tIQgOAAFzShe8D1'

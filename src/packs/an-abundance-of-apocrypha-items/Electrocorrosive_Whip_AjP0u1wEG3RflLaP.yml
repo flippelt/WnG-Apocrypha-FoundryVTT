@@ -1,0 +1,64 @@
+name: Electrocorrosive Whip
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Electrocorrosive Whips are similar to agonisers, though not as deadly.
+    Instead, these venom-soaked whips steal the fighting will of enemies by
+    causing pain of extreme kind.</p>
+  value: 7
+  keywords: EXOTIC, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 1
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 4
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: agonising
+    - name: fleshbane
+      custom: true
+      display: Fleshbane
+      description: >-
+        The weapon is deadly to flesh and blood with even the slightest scratch.
+        The weapon’s base damage is increased by the target’s Toughness. This
+        has no effect against Vehicles.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 125000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: AjP0u1wEG3RflLaP
+_key: '!items!AjP0u1wEG3RflLaP'

@@ -1,0 +1,55 @@
+folder: fgtFfRbmshJ8KM1n
+name: Skyleap
+type: ability
+_id: a4BAzsVIYe2iIwoP
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>So long as you are able to Fly, you may Fall Back as a Simple action,
+    rather than a Combat Action. In addition, when you take the Full Defence
+    action, you immediately move twice your Flying Speed (instead of halving
+    your Speed) away from the enemy and add +Rank bonus dice to the Initiative
+    test to increase your Defence. Naturally, these abilities require that you
+    be able to fly, and have room to do so.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710700735535
+  modifiedTime: 1710700742292
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!a4BAzsVIYe2iIwoP'

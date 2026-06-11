@@ -1,0 +1,33 @@
+folder: ZMoR03HW5eXVf9E1
+name: Precision Shot
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: Ballistic Skill Rating 4+
+  description: >-
+    <p>Your shots are lethally precise, able to hit a target&rsquo;s weak points
+    with terrifying ease.<br>When you aim and make a successful ranged attack
+    with the Called Shot option, the weapon gains the
+    @UUID[JournalEntry.ZFKuifc3mGn2RgTb.JournalEntryPage.anBLJX16REDKapOs#mortal-(x)]{Mortal
+    (1)} trait.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664024333612
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: fnL2bPhIO9VqJzQV
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!fnL2bPhIO9VqJzQV'

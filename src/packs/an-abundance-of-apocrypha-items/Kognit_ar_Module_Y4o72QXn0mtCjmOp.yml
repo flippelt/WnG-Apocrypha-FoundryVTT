@@ -1,0 +1,56 @@
+name: Kognitâar Module
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.leagues-of-votann-equipment.Item.Y4o72QXn0mtCjmOp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Designed to interface with the cerebral unit of
+    an Ironkin, this module processes tactical information at an astonishing
+    rate, giving their comrades a tactical edge in
+    battle.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">As a simple action on your turn, you may spend 1 Glory to
+    perform tactical analysis. Mark a single location on the battlefield that
+    you can see, and then choose either </span><span class="fontstyle2">attack
+    </span><span class="fontstyle0">or </span><span
+    class="fontstyle2">defend</span><span class="fontstyle0">. This mark lasts
+    until the start of your next turn. When a </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">LEAGUES OF VOTANN </span><span
+    class="fontstyle0">character is within 3m of a location marked </span><span
+    class="fontstyle2">attack</span><span class="fontstyle0">, they may re-roll
+    Rank dice on any attack they make. When a </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">LEAGUES OF VOTANN </span><span
+    class="fontstyle0">character is within 3m of a location marked </span><span
+    class="fontstyle2">defend</span><span class="fontstyle0">, they add +Rank to
+    their Defence and may re-roll Rank dice when rolling Determination.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: LEAGUES OF VOTANN
+  effect: ''
+_id: Y4o72QXn0mtCjmOp
+folder: OBM5CJDK3tWaYAVA
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257385287
+  modifiedTime: 1710625204854
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 1100000
+_key: '!items!Y4o72QXn0mtCjmOp'

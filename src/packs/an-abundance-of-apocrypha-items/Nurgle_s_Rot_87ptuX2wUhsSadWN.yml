@@ -1,0 +1,51 @@
+name: Nurgle’s Rot
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos-equipment.Item.87ptuX2wUhsSadWN
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Plague Lord's most infamous accomplishment
+    sets the benchmark for all his other creations. Despite millennia of effort,
+    he has never bettered that disease which bears his name: Nurgle's Rot. You
+    are a vector for this blessed malady, a carrier for this most virulent of
+    pathogens.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Any living creature without the </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">NURGLE </span><span
+    class="fontstyle0">keyword within 7m of you at the start of their turn must
+    roll [[/r 1d6]]. If an Exalted Icon is rolled, they immediately suffer the
+    </span><span class="fontstyle3">Poisoned (7) </span><span
+    class="fontstyle0">condition. While </span><span class="fontstyle3">Poisoned
+    </span><span class="fontstyle0">from Nurgle’s Rot, a creature suffers [[/r
+    1d3]] Mortal Wounds at the start of each of their turns.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: DARK GIFT, CHAOS, NURGLE, PLAGUE
+  effect: ''
+_id: 87ptuX2wUhsSadWN
+folder: UZO0XBlvHEumtcSK
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257172283
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!87ptuX2wUhsSadWN'

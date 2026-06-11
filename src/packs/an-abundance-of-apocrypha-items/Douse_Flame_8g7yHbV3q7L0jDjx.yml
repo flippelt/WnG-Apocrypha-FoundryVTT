@@ -1,0 +1,71 @@
+name: Douse Flame
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.8g7yHbV3q7L0jDjx
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>It takes a potent mind to deny the natural tendency of flames to run out
+    of control. While this power remains in effect, all flames within range are
+    extinguished and will not reignite, and weapons and powers with the FIRE
+    keyword will not function.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Sustained
+  range: Willpower x5 metres
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Increase range by +5m
+      cost: 1
+      property: range
+      initial: ''
+      value: 5
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 8g7yHbV3q7L0jDjx
+folder: jJsPKwdlThlL4b30
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247395
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!8g7yHbV3q7L0jDjx'

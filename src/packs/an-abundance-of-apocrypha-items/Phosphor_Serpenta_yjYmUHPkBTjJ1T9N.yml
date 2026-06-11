@@ -1,0 +1,74 @@
+name: Phosphor Serpenta
+type: weapon
+img: modules/wng-core/assets/icons/weapons/radium-pistol.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.yjYmUHPkBTjJ1T9N
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Firing the same kinds of burning blasts as the
+    smaller pistol, the Serpenta resembles something between long-barrelled
+    pistol and a carbine. They’re favoured by Skitarii cavalry units—those
+    mounted upon dragoonwalkers—and Tech-Priests seeking to defend
+    themselves</span>.</p>
+  value: 7
+  keywords: PHOSPHEX, ADEPTUS MECHANICUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: inflict
+      rating: On Fire
+    - name: luminagen
+      custom: true
+      display: Luminagen
+      description: >-
+        Phosphor weapons illuminate their targets with a searing light. A
+        character hit by a Luminagen weapon cannot benefit from being in cover
+        until the start of their next turn.
+  upgrades: []
+_id: yjYmUHPkBTjJ1T9N
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711916
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!yjYmUHPkBTjJ1T9N'

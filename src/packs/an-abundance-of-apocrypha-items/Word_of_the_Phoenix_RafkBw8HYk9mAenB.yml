@@ -1,0 +1,72 @@
+name: Word of the Phoenix
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.RafkBw8HYk9mAenB
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You call upon the rebirthing energies of the mythical phoenix. The power
+    affects one ally within range; that ally regains 1d3 wounds, or 1d3+2 if
+    they have the YNNARI keyword. If you target an ally who has died since the
+    end f your last turn, they are immediately restored to life. A character
+    resurrected in this way has wounds and shock equal to their maximums</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Wound healed.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: RafkBw8HYk9mAenB
+folder: ARcOsKVs8T8FOgzM
+sort: 400000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742889
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!RafkBw8HYk9mAenB'

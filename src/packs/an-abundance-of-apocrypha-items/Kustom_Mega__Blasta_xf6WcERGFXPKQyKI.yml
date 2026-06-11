@@ -1,0 +1,71 @@
+name: Kustom Mega- Blasta
+type: weapon
+img: modules/wng-core/assets/icons/weapons/big-shoota.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ork-ranged.Item.xf6WcERGFXPKQyKI
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Ork Mekboys sometimes build a weapon that is far
+    greater than the sum of its parts, a marvel of Ork technology that fires a
+    focused blast of pure energy at its targets. Known as Kustom Mega-Blasta, it
+    instantly vaporises targets even if they wear terminator armour. It is also
+    highly effective against vehicles. However, like many Ork weapons, a Kustom
+    Mega-Blasta is very unreliable and prone to overheating. It can even kill
+    the greenskin after a particularly unlucky shot</span>.</p>
+  value: 7
+  keywords: MEK, PLASMA, ORK
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 16
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: assault
+    - name: blast
+      rating: 4
+    - name: supercharge
+    - name: waaagh!
+  upgrades: []
+_id: xf6WcERGFXPKQyKI
+folder: TbTipy6D5qTeDCZc
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927681202
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!xf6WcERGFXPKQyKI'

@@ -1,0 +1,37 @@
+name: Eversor Combat Drugs (Terminus)
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.1HdUYd8P3yCGg54q
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0"><strong>Terminus</strong>: </span><span
+    class="fontstyle2">If the Eversor starts Dying before the start of their
+    next turn, they may continue to act normally for a number of rounds equal to
+    their Toughness. If the Eversor is still Dying after this time, they die
+    immediately, and explode.</span></p>
+  value: null
+  keywords: TEMPLUM EVERSOR
+  effect: ''
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099173
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 200000
+_id: 6hN8iCuReOEki61b
+_key: '!items!6hN8iCuReOEki61b'

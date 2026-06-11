@@ -1,0 +1,94 @@
+name: Smart Missile System
+type: weapon
+img: modules/wng-core/assets/icons/weapons/missile-launcher.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-ranged.Item.CW849K0YxypoQxwo
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A Smart Missile System is an advanced T'au
+    weapon system that fires clusters of small missiles, each guided by a drone
+    processor unit built into its warhead, intended for use against masses of
+    enemy infantry, particularly those hiding in
+    cover.</span></p><p></p><p><span class="fontstyle0">Upon their launch, the
+    "Smart Missiles" will search for targets within sensor range before
+    selecting and engaging one based on criteria previously detailed by the
+    weapon's operator.</span></p><p></p><p><span class="fontstyle0">These
+    targets do not have to be within line of sight of the operator, as once the
+    target has been acquired, the missiles are able to effectively home in on
+    it, manoeuvring their thrusters to propel them around any intervening
+    terrain as they hunt the enemy down to an explosive conclusion.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: EXPLOSIVE, T’AU EMPIRE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 4
+  traits:
+    - name: blast
+      rating: 2
+    - name: heavy
+      rating: 6
+    - name: barrage
+      custom: true
+      display: Barrage
+      description: >-
+        The weapon fires salvoes of explosive ammunition that scatter over a
+        wide area. When this weapon makes a Salvo attack, increase the weapon’s
+        Blast rating by the weapon’s Salvo value.
+    - name: indirect
+      custom: true
+      display: Indirect
+      description: >-
+        The weapon can be fired at enemies which are not visible to the bearer,
+        adding +2 to the DN. Enemies attacked indirectly do not receive any
+        bonus to Defence for being in cover.
+  upgrades: []
+_id: CW849K0YxypoQxwo
+folder: KCVqHx1PYrcqXhMV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709932681311
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!CW849K0YxypoQxwo'

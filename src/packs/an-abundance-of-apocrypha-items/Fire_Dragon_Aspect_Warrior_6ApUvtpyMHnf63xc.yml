@@ -1,0 +1,156 @@
+folder: GHP0SxnnlNKFusRJ
+name: Fire Dragon Aspect Warrior
+type: archetype
+_id: 6ApUvtpyMHnf63xc
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 108
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - ASPECT WARRIOR
+  attributes:
+    strength: null
+    toughness: 3
+    agility: 4
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 2
+    awareness: null
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 3
+    weaponSkill: null
+  ability:
+    name: Fiery Destruction
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Rhf5NhHKXeygORmm
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Heavy Aspect Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KXn7FgD0ly6vLiOK
+      type: item
+      diff: {}
+      index: 1
+      groupId: H7JjESptc5fLtYQG
+    - name: Dragon Fusion Gun
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.f5AZcBo73t94as1X
+      type: item
+      diff: {}
+      index: 2
+      groupId: KFrTaVmWqOaRWTQ2
+    - name: Melta Bomb
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymCGa2JdK8qvqwhr
+      type: item
+      diff: {}
+      index: 3
+      groupId: Xh09p061ytD2JPoU
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 4
+      groupId: wx44CQD8PgQnUNav
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: H7JjESptc5fLtYQG
+      - index: 2
+        type: item
+        groupId: KFrTaVmWqOaRWTQ2
+      - index: 3
+        type: item
+        groupId: Xh09p061ytD2JPoU
+      - index: 4
+        type: item
+        groupId: wx44CQD8PgQnUNav
+      - index: 5
+        type: item
+        groupId: 1MSPIPmHaE4Zusxj
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 5
+      initiative: 5
+      willpower: 4
+      intellect: 3
+      fellowship: 2
+    skills:
+      athletics: 3
+      awareness: 3
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: null
+      survival: 3
+      tech: 4
+      weaponSkill: 4
+    talents:
+      - id: 84j8hJHJSpH31Gon
+        name: Absolute Incineration
+      - id: HYuKXdU1r5yNyRU1
+        name: Die Hard
+      - id: zrCkrWGkMDPK1kOg
+        name: Battle Focus
+      - id: 1OzEfrtLvMDY3XgW
+        name: Strike and Fade
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710682486794
+  modifiedTime: 1710683101409
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!6ApUvtpyMHnf63xc'

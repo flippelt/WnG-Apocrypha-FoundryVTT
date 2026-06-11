@@ -1,0 +1,102 @@
+name: Ancestor’s Grace
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Ancestor’s Grace
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@test.result.ski'
+        priority: null
+    _id: tuwMRxu5Ycr0TBmR
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!0r5mE6IR3a2W12ii.tuwMRxu5Ycr0TBmR'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.0r5mE6IR3a2W12ii
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Drawing upon the greatness that is the genetic and spiritual legacy of
+    all Aeldari, you bolster your fellows. Select a number of allies with the
+    AELDARI keyword equal to your Willpower within range. Until the start of
+    your next turn, the affected Aeldari may re-roll all 1s on any skill tests
+    they attempt.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affect a number of allies up to twice the psyker’s Willpower.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: Affected allies gain +1d on all skill tests
+      cost: 2
+      property: ski
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 0r5mE6IR3a2W12ii
+folder: ARcOsKVs8T8FOgzM
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742878
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0r5mE6IR3a2W12ii'

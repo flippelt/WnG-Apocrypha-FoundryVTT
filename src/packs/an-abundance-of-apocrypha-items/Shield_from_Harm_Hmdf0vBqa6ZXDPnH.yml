@@ -1,0 +1,54 @@
+folder: LIn5nQ6d7ozuoIpO
+name: Shield from Harm
+type: ability
+_id: Hmdf0vBqa6ZXDPnH
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>HARLEQUIN allies within 6 metres of you add +Rank to their
+    Resilience.</p><p></p><p><strong>Psyker</strong>: You are a Psyker, and you
+    know the Smite psychic power, and one power from the Phantasmancy
+    discipline. You may learn additional psychic powers from the Divination,
+    Telepathy, and Phantasmancy disciplines</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710782124117
+  modifiedTime: 1710782151735
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!Hmdf0vBqa6ZXDPnH'

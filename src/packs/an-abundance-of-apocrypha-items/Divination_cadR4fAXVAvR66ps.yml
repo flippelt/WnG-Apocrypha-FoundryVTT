@@ -1,0 +1,16 @@
+name: Divination
+sorting: a
+folder: X0h1gWPdEEuZvgOD
+type: Item
+_id: cadR4fAXVAvR66ps
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729390289
+  modifiedTime: 1711748025696
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!cadR4fAXVAvR66ps'

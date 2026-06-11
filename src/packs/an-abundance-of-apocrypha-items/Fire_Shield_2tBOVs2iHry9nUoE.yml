@@ -1,0 +1,117 @@
+name: Fire Shield
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Fire Shield
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '2'
+        priority: null
+    _id: JEMrBoPyMF9idp5p
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    _key: '!items.effects!2tBOVs2iHry9nUoE.JEMrBoPyMF9idp5p'
+  - name: On Fire
+    icon: systems/wrath-and-glory/asset/icons/conditions/onfire.svg
+    statuses:
+      - onfire
+    _id: ToHYNQBUOUzszW9y
+    changes: []
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!2tBOVs2iHry9nUoE.ToHYNQBUOUzszW9y'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.2tBOVs2iHry9nUoE
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Extending your hand, a great sheet of flame bursts from your palm. With a
+    sweep of your arms, you create a towering wall of flame to protect your
+    comrades. The power affects all allies in a Blast (6) within range. While
+    the power remains in effect, all affected allies gain Heavy Cover (+2
+    Defence), and enemies who charge those allies must pass an Agility test (DN
+    4) or be set On Fire.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: Sustained
+  range: 18m
+  multiTarget: false
+  keywords: FIRE, PSYCHIC
+  prerequisites: SALAMANDERS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Increase the area effected to a Blast (10).
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: 4
+    type: attribute
+    specification: agility
+_id: 2tBOVs2iHry9nUoE
+folder: 2jEPrFTYa93W4edw
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959275
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!2tBOVs2iHry9nUoE'

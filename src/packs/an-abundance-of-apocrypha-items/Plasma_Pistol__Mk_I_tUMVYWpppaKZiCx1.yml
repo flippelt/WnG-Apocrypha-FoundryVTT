@@ -1,0 +1,78 @@
+folder: e9EXVo6L2qnEFMDP
+name: Plasma Pistol, Mk I
+type: weapon
+_id: tUMVYWpppaKZiCx1
+img: modules/wng-core/assets/icons/weapons/plasma-pistol.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>These archaic models of plasma weapon were in common use by the Legiones
+    Astartes during the Great Crusade and the early Horus Heresy. One a number
+    of experimental forms of plasma weapon, this design emphasised lethality and
+    destructive power at the expense of the user’s safety, with the weapon
+    frequently overheating or losing magnetic containment during sustained use.
+    As the Heresy wore on, these weapons fell out of use amongst the Loyalist
+    forces, and the loyalist Mechanicum declared them Fabrus Excommunicata, and
+    no longer blessed by the Machine God. However, the Traitor Legions continued
+    to use these potent weapons, finding kinship with the savage and malevolent
+    weapons’ spirits. In the 41st Millennium, these weapons are no longer
+    produced by the Imperium, but they can still be found in the hands of
+    Traitor Legionaries.</p>
+  value: 8
+  keywords: PLASMA, CHAOS, HERETIC ASTARTES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 13
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: pistol
+    - name: rapidFire
+      rating: 1
+    - name: volatile-(d3)
+      custom: true
+      display: Volatile (d3)
+      description: >-
+        The weapon’s power is barely-contained, and it can be harmful to an
+        unwary wielder. If you suffer a Complication when wielding this weapon,
+        you immediately suffer X Mortal Wounds. X may either be a static value,
+        or it may be a die roll, such as d3 or d6. If a Volatile weapon has the
+        Blast trait, then a Complication inflicts X Mortal Wounds to all
+        creatures within the weapon’s Blast rating, centred on the wielder.
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709902744836
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!tUMVYWpppaKZiCx1'

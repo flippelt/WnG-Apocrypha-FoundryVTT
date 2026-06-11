@@ -1,0 +1,79 @@
+name: Da Jump
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.kBmLF6JgH3BxRUM8
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You close your eyes tight and, in a storm of flashing green light, you
+    teleport a mass of confused greenskins to another part of the battlefield.
+    Select a number of allies with the ORK keyword equal to your Willpower
+    within range. Those allies vanish, and then reappear moments later anywhere
+    within 100m. They must reappear more than 9m from an enemy, and they forfeit
+    their move in their following turn.</p>
+  effect: ''
+  cost: 15
+  activation: full
+  duration: Instant
+  range: 12m
+  multiTarget: false
+  keywords: ORK, PSYCHIC
+  prerequisites: ORK
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: ' Affect an additional number of allies equal to your Willpower.'
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+    - description: Activation reduced to an Action
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: true
+  test:
+    dn: null
+    type: ''
+_id: kBmLF6JgH3BxRUM8
+folder: Vt31I1SOn32VDAY2
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742894
+  modifiedTime: 1712707816516
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!kBmLF6JgH3BxRUM8'

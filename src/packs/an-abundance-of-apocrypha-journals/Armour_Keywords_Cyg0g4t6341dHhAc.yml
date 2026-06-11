@@ -1,0 +1,103 @@
+folder: nDYleZkn0ESlN5hn
+name: Armour Keywords
+_id: Cyg0g4t6341dHhAc
+pages:
+  - sort: 100000
+    name: Armour Keywords
+    type: text
+    _id: 6SCDLPM9AJwTEI0J
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><span class="fontstyle0">Agile Armour</span></h4><p><span
+        class="fontstyle2">A few types of armour listed in this section have the
+        </span><span class="fontstyle3">Agile </span><span
+        class="fontstyle2">trait. A character wearing </span><span
+        class="fontstyle3">Agile </span><span class="fontstyle2">armour may use
+        their Agility to calculate their Determination instead of their
+        Toughness.</span> <br
+        style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px"
+        /></p><h4><span class="fontstyle0">Void Armour</span></h4><p><span
+        class="fontstyle2">A number of types of armour listed in this section
+        have the </span><span class="fontstyle3">Void </span><span
+        class="fontstyle2">trait. A character with </span><span
+        class="fontstyle3">Void </span><span class="fontstyle2">armour reduces
+        the AP of incoming attacks by one step (i.e., from AP -1 to 0, or from
+        AP -3 to -2).</span></p><p><span class="fontstyle3">Void </span><span
+        class="fontstyle2">armour also benefits from the Built-in Tech rule
+        (page 235 of the </span><span class="fontstyle4">Wrath &amp; Glory Core
+        Rulebook</span><span class="fontstyle2">).</span> <br
+        style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px"
+        /></p><h4>T'au Empire Armour</h4><p><span class="fontstyle0">T’au Empire
+        armour uses a couple of unique Keywords to govern how their technology
+        interacts.</span></p><p></p><p><span class="fontstyle0">Armour with the
+        </span><span class="fontstyle2">BATTLESUIT </span><span
+        class="fontstyle0">keyword are the armoured battlesuits used by elite
+        T’au warriors. Due to advanced stabilisation systems, a warrior wearing
+        </span><span class="fontstyle2">BATTLESUIT </span><span
+        class="fontstyle0">armour may make ranged attacks while in engagement
+        range, as if their weapons had the Pistol trait. Weapons with the Blast
+        trait may not be fired in engagement range,
+        however.</span></p><p></p><p><span class="fontstyle2">BATTLESUIT
+        </span><span class="fontstyle0">armour is designed to be fitted with an
+        assortment of modular systems to improve effectiveness. These items have
+        the </span><span class="fontstyle2">SUPPORT SYSTEM </span><span
+        class="fontstyle0">keyword. A character cannot use a </span><span
+        class="fontstyle2">SUPPORT SYSTEM </span><span class="fontstyle0">item
+        unless it is mounted on a </span><span
+        class="fontstyle2">BATTLESUIT</span><span class="fontstyle0">, and each
+        </span><span class="fontstyle2">BATTLESUIT </span><span
+        class="fontstyle0">can only mount a limited number of </span><span
+        class="fontstyle2">SUPPORT SYSTEMS</span><span
+        class="fontstyle0">.</span></p><p></p><p><span class="fontstyle0">Many
+        T’au </span><span class="fontstyle2">BATTLESUIT</span><span
+        class="fontstyle0">s are equipped with </span><span
+        class="fontstyle2">JUMP JETS</span><span class="fontstyle0">. In
+        addition to providing the wearer with a flight speed, a character
+        wearing armour with </span><span class="fontstyle2">JUMP JETS
+        </span><span class="fontstyle0">may Fall Back from engagement range as a
+        Simple Action, rather than as a Combat Action.</span></p><p></p><p><span
+        class="fontstyle0">If you’re using the Built-in Tech optional rule
+        (sidebar, p. 234 of the </span><span class="fontstyle3">Wrath &amp;
+        Glory </span><span class="fontstyle0">core rulebook), T’au Empire armour
+        is considered to contain the following items: Mag Boots, Preysense
+        Goggles, Respirator, Vox-Bead, and Void Suit. The T’au have their own
+        names for these items—a Blacksun Filter instead of Preysense Goggles,
+        for example—but the function remains the same.</span> <br
+        style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px"
+        /></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    ownership:
+      default: -1
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710090664244
+      modifiedTime: 1710095893884
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!journal.pages!Cyg0g4t6341dHhAc.6SCDLPM9AJwTEI0J'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090659236
+  modifiedTime: 1710095893884
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!journal!Cyg0g4t6341dHhAc'
+categories: []

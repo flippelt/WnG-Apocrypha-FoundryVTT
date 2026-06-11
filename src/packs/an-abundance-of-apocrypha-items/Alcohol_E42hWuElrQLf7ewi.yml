@@ -1,0 +1,112 @@
+name: Alcohol
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Alcohol
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: M3hhJ3ktz9pn5TY9
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!E42hWuElrQLf7ewi.M3hhJ3ktz9pn5TY9'
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Alcohol Exceeding Toughness
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+      - key: difficulty.base
+        mode: 6
+        value: '1'
+        priority: null
+    _id: wN6q1g4utrMrigSE
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!E42hWuElrQLf7ewi.wN6q1g4utrMrigSE'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.E42hWuElrQLf7ewi
+system:
+  quantity: 6
+  rarity: common
+  description: >-
+    <p><span class="fontstyle0">Most intelligent species have developed some
+    form or other of alcoholic drink, and most cultures have devised countless
+    methods of creating beverages that include alcohol in some form, from crude
+    rotgut distilled in engine machinery (itself an offence to the Machine
+    Spirit), to carefully aged and precisely flavoured concoctions reserved for
+    only the most powerful and most deserving. Consuming alcohol tends to loosen
+    inhibitions and provide “liquid courage”, but overconsumption can lead to
+    other problems. From human amasec, to Aeldari dreamwine, to Ork fungus brew,
+    and the Bru of the Leagues of Votann, alcoholic beverages are found across
+    the galaxy.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">A single purchase contains 6 doses. A character gains +1
+    Resolve for the next hour after drinking. A character who takes a number of
+    doses exceeding their Toughness within one day gains +2 Resolve instead, but
+    also suffers +1DN on all other activities, and will suffer [[/r 1d3]] Shock
+    when they awaken after their next sleep. Excessive drinking may lead to
+    other sideeffects, such as nausea, poor decision-making, and/or
+    unconsciousness.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 2
+  keywords: '[ANY]'
+  effect: ''
+_id: E42hWuElrQLf7ewi
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099164
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 400000
+_key: '!items!E42hWuElrQLf7ewi'

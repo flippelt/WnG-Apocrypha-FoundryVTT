@@ -1,0 +1,38 @@
+folder: ZMoR03HW5eXVf9E1
+name: Beta-Level Psyker
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 50
+  requirements: >-
+    Human, Adeptus Astartes, or Primaris Astartes species, PSYKER keyword, Tier
+    4+
+  description: >-
+    <p>You are an exceptionally potent psyker and can draw deeply from the Warp
+    if you’re willing to risk the consequences.</p><p>When you attempt to use a
+    psychic power at the Transcendent power level, you may set any of the Wrath
+    dice to a 6 rather than rolling it. If you set any Wrath die in this way,
+    you must roll on the Perils of the Warp table and add +10 to the Perils of
+    the Warp roll for each Wrath die set to a 6.</p><p>You gain 2d3 Corruption
+    points when you take this talent. You may not select the Alpha-level Psyker
+    or Gamma-level Psyker talents.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6p22ZOMhwUJRA0S1
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699802135755
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 6p22ZOMhwUJRA0S1
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1600000
+_key: '!items!6p22ZOMhwUJRA0S1'

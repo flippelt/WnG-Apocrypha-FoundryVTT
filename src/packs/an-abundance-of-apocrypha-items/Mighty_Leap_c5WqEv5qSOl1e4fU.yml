@@ -1,0 +1,31 @@
+folder: ZMoR03HW5eXVf9E1
+name: Mighty Leap
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: 'Strength 2+, Agility 2+ '
+  description: >-
+    <p>You&rsquo;re capable of leaping considerable distances.<br>When you make
+    a Long Jump or High Jump, add +Rank to your Strength to determine how far or
+    how high you can jump.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664023061725
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: c5WqEv5qSOl1e4fU
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!c5WqEv5qSOl1e4fU'

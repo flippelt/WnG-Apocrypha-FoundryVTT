@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Prosanguine
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ADEPTUS MECHANICUS keyword, Autosanguine augmetic
+  description: >-
+    <p>Between your iron will and your devotion to the Omnissiah, you are able
+    to accelerate the effects of your Autosanguinator systems. You may attempt a
+    Tech test (DN 3) to do this, and if successful, you regain 1d3+1 Wounds
+    immediately, +1 per Exalted Icon you shift. Once you have attempted this,
+    you cannot attempt it again until you have received a Respite.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.vX0U8AqmyCmps9RF
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664124889062
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: ApCsQ3F7nN7ntsYu
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 2900000
+_key: '!items!ApCsQ3F7nN7ntsYu'

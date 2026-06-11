@@ -1,0 +1,186 @@
+name: Primaris Techmarine
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects: []
+folder: j5mcT1m1I7srvO3E
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9LUuVWPetYxqcwzk
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Primaris Astartes
+    id: cGQqLL4ojvtZpzAF
+  faction:
+    name: Adeptus Astartes
+    id: CN5E9Z5GqfiR1MDn
+  influence: 2
+  cost: 403
+  keywords:
+    - IMPERIUM
+    - ADEPTUS ASTARTES
+    - '[CHAPTER]'
+    - ADEPTUS MECHANICUS
+    - PRIMARIS
+    - CULT MECHANICUS
+  attributes:
+    strength: 6
+    toughness: 6
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 5
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: 2
+    psychicMastery: null
+    scholar: 3
+    stealth: 3
+    survival: null
+    tech: 4
+    weaponSkill: 4
+  ability:
+    name: Hymn of Reforging
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rjmmcEJ6Q63W2Xxh
+  wargear:
+    - name: Artificer Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.v7KbIU7uRDRMkdUM
+      type: item
+      diff: {}
+      index: 0
+      groupId: DG0OYKeyN0ELIeli
+    - name: Heavy Bolt Pistol
+      id: Compendium.wng-core.items.Item.piwPtkisOSeJ47HV
+      type: item
+      diff: {}
+      index: 1
+      groupId: AprCKPoNcQdwvfEw
+    - name: Omnissian Axe
+      id: Compendium.wng-core.items.Item.gp881IiZhvjfvLfF
+      type: item
+      diff: {}
+      index: 2
+      groupId: WwzbrFayttAmYEmI
+    - name: Heavy Bolter
+      id: Compendium.wng-core.items.Item.ut6nsTPR0xL4mfET
+      type: item
+      diff: {}
+      index: 3
+      groupId: KUlVHrJfwxkSNqEf
+    - name: Frag Grenade
+      id: Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 4
+      groupId: M4aiMfHxEeEz9T7K
+    - name: Krak Grenade
+      id: Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 5
+      groupId: EBN2bK7u6oNx5EAt
+    - name: Servo Arm
+      id: Compendium.wng-core.items.Item.MYkAkn0Dye79EdmW
+      type: item
+      diff: {}
+      index: 6
+      groupId: xiW3ajmozbt7ethW
+    - type: generic
+      name: any 2 augmetics.
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: DG0OYKeyN0ELIeli
+      - index: 1
+        type: item
+        groupId: AprCKPoNcQdwvfEw
+      - index: 2
+        type: item
+        groupId: WwzbrFayttAmYEmI
+      - index: 3
+        type: item
+        groupId: KUlVHrJfwxkSNqEf
+      - index: 4
+        type: item
+        groupId: M4aiMfHxEeEz9T7K
+      - index: 5
+        type: item
+        groupId: EBN2bK7u6oNx5EAt
+      - index: 6
+        type: item
+        groupId: xiW3ajmozbt7ethW
+      - type: item
+        index: 7
+        groupId: Xbw16Z4f3ncunhRL
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents:
+      - id: qnFSOCg0b29eWJBz
+        name: Armourbane
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: 7f6YZ8n6oolZxXup
+        name: Binary Chatter
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055010
+  modifiedTime: 1710720693215
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 9LUuVWPetYxqcwzk
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!9LUuVWPetYxqcwzk'

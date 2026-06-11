@@ -1,0 +1,30 @@
+folder: 44KqXS6yhkO4uUqv
+name: Armoured Robes
+type: armour
+_id: ez1IOM9Q8BIHqHco
+img: modules/wng-core/assets/icons/armour/armour.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: ''
+  value: 5
+  keywords: ''
+  equipped: false
+  rating: 3
+  base: 0
+  traits: []
+  invulnerable: false
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710682357518
+  modifiedTime: 1710682370144
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ez1IOM9Q8BIHqHco'

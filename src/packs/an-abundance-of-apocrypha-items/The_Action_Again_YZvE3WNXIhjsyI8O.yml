@@ -1,0 +1,71 @@
+name: The Action Again
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.YZvE3WNXIhjsyI8O
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>With this power, you snatch a glimpse of the future and briefly see the
+    outcome of your actions. Through this flash of insight. If the power is
+    successful, you may re-roll any test you attempt until the end of your next
+    turn.</p>
+  effect: ''
+  cost: 15
+  activation: simple
+  duration: 1 Round
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: The power’s duration increases by +1 Round.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: YZvE3WNXIhjsyI8O
+folder: cadR4fAXVAvR66ps
+sort: 101563
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247383
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!YZvE3WNXIhjsyI8O'

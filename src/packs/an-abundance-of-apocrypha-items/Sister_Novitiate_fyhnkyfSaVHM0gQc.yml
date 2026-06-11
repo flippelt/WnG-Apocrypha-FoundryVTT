@@ -1,0 +1,207 @@
+folder: MhFWvdL9JDBJQXdr
+name: Sister Novitiate
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adepta-sororitas.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Human
+    id: Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adepta Sororitas
+    id: Item.oVPeTKFG3XJG7bKv
+  influence: 0
+  cost: 22
+  keywords:
+    - IMPERIUM
+    - ADEPTA SORORITAS
+    - '[ORDER]'
+    - ADEPTUS MINISTORUM
+  attributes:
+    strength: 2
+    toughness: 2
+    agility: 2
+    initiative: null
+    willpower: 2
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: 1
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 1
+  ability:
+    name: Impetuous Fervour
+    id: Item.xPZv5ZtIOug5Vg8h
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Clothing
+      id: Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff: {}
+      index: 1
+      groupId: nsgX0nGFB7IUGPgz
+    - name: Carapace Armour
+      id: Item.yvO2qu3FjYOs368z
+      type: item
+      diff: {}
+      index: 2
+      groupId: uK9s7mCX7ArvYfFF
+    - name: Autopistol
+      id: Item.JbTzZSQ0FZ4PIjdp
+      type: item
+      diff: {}
+      index: 3
+      groupId: gtiUiBTllFExyI0n
+    - name: Chaplet Ecclesiasticus
+      id: Item.W028UmFNKkQrUBl6
+      type: item
+      diff: {}
+      index: 4
+      groupId: jScyEDOATxVFcV7E
+    - name: Rule of the Sororitas
+      id: Item.YXTc35poOQsWeSgD
+      type: item
+      diff: {}
+      index: 5
+      groupId: RT8wYDn7svQ5dxQI
+    - name: Frag Grenade
+      id: Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff: {}
+      index: 6
+      groupId: pSYn1tkyJg0ZMvi6
+    - name: Frag Grenade
+      id: Item.oDG9YpSKSiSUFLIY
+      type: item
+      diff: {}
+      index: 7
+      groupId: 1fPndhGcTNpjADmT
+    - name: Krak Grenade
+      id: Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff: {}
+      index: 8
+      groupId: 2F5iWbhH48yXfzlD
+    - name: Krak Grenade
+      id: Item.SJ8UaYHEMtF71W1M
+      type: item
+      diff: {}
+      index: 9
+      groupId: c3gjhQv4TyN8hq2t
+    - name: Autogun
+      id: Item.fQCOj3mVrhnIEOty
+      type: item
+      diff: {}
+      index: 10
+      groupId: ihi5Nyp1fSM338Jz
+    - name: Sword
+      id: Item.JlXH8xNwZcDgtfcn
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: nsgX0nGFB7IUGPgz
+      - index: 2
+        type: item
+        groupId: uK9s7mCX7ArvYfFF
+      - index: 3
+        type: item
+        groupId: gtiUiBTllFExyI0n
+      - index: 4
+        type: item
+        groupId: jScyEDOATxVFcV7E
+      - index: 5
+        type: item
+        groupId: RT8wYDn7svQ5dxQI
+      - index: 6
+        type: item
+        groupId: pSYn1tkyJg0ZMvi6
+      - index: 7
+        type: item
+        groupId: 1fPndhGcTNpjADmT
+      - index: 8
+        type: item
+        groupId: 2F5iWbhH48yXfzlD
+      - index: 9
+        type: item
+        groupId: c3gjhQv4TyN8hq2t
+      - type: or
+        items:
+          - index: 10
+            type: item
+            groupId: ihi5Nyp1fSM338Jz
+          - index: 11
+            type: item
+            groupId: u6MNcdzpoDCMdarz
+        groupId: 151AmC3uDgfezdbI
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 3
+      initiative: 3
+      willpower: 3
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 1
+      awareness: 1
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 1
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: jlrOP1uvd0x0VRiK
+        name: Death Or Glory!
+      - id: ndXKRj7tRorEKRzk
+        name: Orthopraxy
+      - id: 5w6YjUogrXbNjgR6
+        name: By His Will
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1665766522488
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: fyhnkyfSaVHM0gQc
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!fyhnkyfSaVHM0gQc'

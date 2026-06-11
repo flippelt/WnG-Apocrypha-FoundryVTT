@@ -1,0 +1,107 @@
+name: Shrieker Bio-Explosive Discs
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+effects:
+  - icon: modules/wng-core/assets/icons/ammo/ammo.webp
+    name: Shrieker Bio-Explosive Discs
+    _id: fwvy0ZzLIDHKhll4
+    changes:
+      - key: system,salvo
+        mode: 5
+        value: '0'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!rhOlx8wC7HqoL7RA.fwvy0ZzLIDHKhll4'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ammo.Item.rhOlx8wC7HqoL7RA
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">Named </span><span class="fontstyle2">Margrech
+    </span><span class="fontstyle0">by the Eldar, these discs are laden with a
+    potent bioweapon. The centripetal force of the shell’s spinning is
+    sufficient to inject the serum into the victim through the barbs of the
+    disc, after which it wreaks havoc upon the victim’s biology, causing their
+    organs to react violently with one another. Those who succumb fully to the
+    serum are slain in an explosion of viscera. It is commonly loaded into
+    Shuriken Cannons by Harlequin Death Jesters.</span></p><p></p><p><span
+    class="fontstyle0">This ammo may only be used in </span><span
+    class="fontstyle3"><strong>SHURIKEN</strong> </span><span
+    class="fontstyle0">weapons.</span></p><p></p><p><span class="fontstyle3"
+    style="color:rgb(0,0,0);"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The weapon gains the Careful and Inflict (Poisoned 7)
+    trait, but its Salvo rating is reduced to – for this
+    shot.</span></p><p></p><p><span class="fontstyle3"
+    style="color:rgb(0,0,0);"><strong>Bio-Explosive</strong>: </span><span
+    class="fontstyle0">A character who is </span><span
+    class="fontstyle2">Poisoned </span><span class="fontstyle0">by Shrieker ammo
+    is also </span><span class="fontstyle2">Staggered </span><span
+    class="fontstyle0">and suffers 1d3 Mortal Wounds at the start of each of
+    their turns. If they are slain by this damage, they explode with a Blast
+    (6), inflicting 10 +6ED damage to anyone within the explosion. Any of the
+    victim’s allies within 15 metres must attempt a </span><span
+    class="fontstyle2">Terror </span><span class="fontstyle0">test (DN
+    7).</span></p><p></p><p><span class="fontstyle3"
+    style="color:rgb(0,0,0);"><strong>Single Shot</strong>: </span><span
+    class="fontstyle0">A reload of Shrieker ammo consists of a single round.
+    Using this ammunition expends that round, and grants none of the normal
+    benefits a Salvo action.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: HARLEQUIN
+  effect: ''
+  traits:
+    - name: inflict
+      rating: Poisoned 7
+      type: add
+    - name: careful
+      custom: true
+      display: Careful
+      description: >-
+        A Careful Weapon requires precision and care to wield and cannot easily
+        be used to make multiple rapid attacks. A Careful Weapon cannot be used
+        to make a MultiAttack.
+      type: add
+_id: rhOlx8wC7HqoL7RA
+folder: qnM5Rkyt2djZ275h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017422220
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1800000
+_key: '!items!rhOlx8wC7HqoL7RA'

@@ -1,0 +1,72 @@
+name: Deffgun
+type: weapon
+img: modules/wng-core/assets/icons/weapons/big-shoota.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ork-ranged.Item.BkCaVU8BW6mJJs4D
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><strong>Salvo 1d3</strong></p><p></p><p><span class="fontstyle0">Deffguns
+    are heavy Ork weapons, fine examples of the Mek's craft that are made from
+    all kinds of materials, scavenged heavy weaponry of other races. Deffguns
+    are so large they must be mounted on a special firing rig strapped to an
+    Ork's broad shoulders. This cumbersome rig is needed to absorb bone-breaking
+    recoil each time the Deffgun is fired.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: 'ORK, plus one of: LAS, PLASMA, PROJECTILE,EXPLOSIVE'
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 24
+    medium: 48
+    long: 72
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: null
+  traits:
+    - name: heavy
+      rating: 6
+    - name: waaagh!
+  upgrades: []
+_id: BkCaVU8BW6mJJs4D
+folder: TbTipy6D5qTeDCZc
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927681200
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!BkCaVU8BW6mJJs4D'

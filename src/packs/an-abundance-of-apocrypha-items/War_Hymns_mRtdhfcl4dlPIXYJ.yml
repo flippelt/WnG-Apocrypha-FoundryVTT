@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: War Hymns
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ADEPTUS MINISTORUM keyword
+  description: >-
+    <p>Your voice is heard above the clamour and clangour of battle, rallying
+    the servants of the Emperor to greater heights of piety and
+    fury.&nbsp;<br>You may sing war hymns as a simple action, and all allies
+    with the @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM}keyword within 15+Rank metres
+    gain +Rank bonus dice on all melee attacks until the start of your next
+    turn.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.mRtdhfcl4dlPIXYJ
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664128577814
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: mRtdhfcl4dlPIXYJ
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 9100000
+_key: '!items!mRtdhfcl4dlPIXYJ'

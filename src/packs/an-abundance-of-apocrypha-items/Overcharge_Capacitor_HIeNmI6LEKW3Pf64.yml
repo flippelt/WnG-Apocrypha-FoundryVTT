@@ -1,0 +1,87 @@
+name: Overcharge Capacitor
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects:
+  - icon: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+    name: Overcharge Capacitor
+    _id: 38rIlOywoPBzQTbE
+    changes:
+      - key: system.ed.bonus
+        mode: 2
+        value: '2'
+        priority: null
+      - key: system.salvo
+        mode: 2
+        value: '-1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!HIeNmI6LEKW3Pf64.38rIlOywoPBzQTbE'
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.HIeNmI6LEKW3Pf64
+system:
+  description: >-
+    <p><span class="fontstyle0">This modification to a las weapon increases the
+    energy of each shot, though at the cost of reduced reliability and a lowered
+    refire rate. While sanctioned patterns of high output lasgun exist, most
+    instances of overcharged las weapon are illegal modifications, which the
+    Adeptus Mechanicus does not look kindly upon.</span></p><p></p><p><span
+    class="fontstyle0">This modification may be applied to any
+    <strong>las</strong> weapon which lacks the <strong>Heavy</strong>
+    trait.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">+2 ED, weapon loses the Reliable trait and
+    reduces Salvo by 1.</span> <br style=" font-style: normal; font-variant:
+    normal; font-weight: normal; letter-spacing: normal; line-height: normal;
+    orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform:
+    none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  value: 5
+  rarity: uncommon
+  keywords: IMPERIUM, ASTRA MILITARUM, SCUM
+  traits:
+    - name: reliable
+      type: remove
+_id: HIeNmI6LEKW3Pf64
+folder: 7CS5GsLu157itFOz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483242
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!HIeNmI6LEKW3Pf64'

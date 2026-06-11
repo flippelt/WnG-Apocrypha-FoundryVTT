@@ -1,0 +1,180 @@
+folder: ZwymwDgK0NxGIPGH
+name: Custodian Guard
+type: archetype
+_id: TTJYJOzlhNZtSCek
+img: modules/wng-apocrypha/assets/images/factions/adeptus-custodes-icon.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Custodian
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.tgLxdMNE10WeiVPv
+  faction:
+    name: Adeptus Custodes
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rxaCGID4I3gHAdqO
+  influence: 5
+  cost: 370
+  keywords:
+    - IMPERIUM
+    - '[SHIELD HOST]'
+    - ADEPTUS CUSTODES
+    - TALONS OF THE EMPEROR
+  attributes:
+    strength: 6
+    toughness: 6
+    agility: 5
+    initiative: 5
+    willpower: 3
+    intellect: 3
+    fellowship: 3
+  skills:
+    athletics: 4
+    awareness: 5
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: 3
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 2
+    stealth: 3
+    survival: null
+    tech: null
+    weaponSkill: 4
+  ability:
+    name: Magisterium Lex Ultima
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.L1d8MQmaG73Dj4VI
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Auramite Custodian Power Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kxNIfEtnqCM9ISrM
+      type: item
+      diff: {}
+      index: 1
+      groupId: 0AcsJXp8e9I0xbDA
+    - name: Guardian Spear (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.a8ageNCSiRn1ot1j
+      type: item
+      diff: {}
+      index: 2
+      groupId: yUEeCdt0YChmEZ4l
+    - name: Guardian Spear (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ZmhCfUFUD9xT6QjX
+      type: item
+      diff: {}
+      index: 3
+      groupId: ndTnnUnYqmbUMw2e
+    - name: Misericordia
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6dmhcwhqBSC3rKbl
+      type: item
+      diff: {}
+      index: 4
+      groupId: z7v4JPPyhTN7d2Nq
+    - name: Sentinel Blade (Melee)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.cTR8ZiYC8DLg6IQn
+      type: item
+      diff: {}
+      index: 5
+      groupId: Pv2x7gzRDgkVPU1H
+    - name: Sentinel Blade (Ranged)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iwFYg8ISVrtVAXF7
+      type: item
+      diff: {}
+      index: 6
+      groupId: L3RfQDQXYDcway25
+    - name: Storm Shield
+      id: Compendium.wng-core.items.Item.jMdKyjjt8ov5LDNB
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: 0AcsJXp8e9I0xbDA
+      - index: 4
+        type: item
+        groupId: z7v4JPPyhTN7d2Nq
+      - type: or
+        items:
+          - type: and
+            items:
+              - index: 7
+                type: item
+                groupId: KK0SFV9BZPFxXRdk
+              - index: 5
+                type: item
+                groupId: Pv2x7gzRDgkVPU1H
+              - index: 6
+                type: item
+                groupId: L3RfQDQXYDcway25
+            groupId: cN8AmIazxKSPTbWZ
+          - type: and
+            items:
+              - index: 3
+                type: item
+                groupId: ndTnnUnYqmbUMw2e
+              - index: 2
+                type: item
+                groupId: yUEeCdt0YChmEZ4l
+            groupId: O251uWU30ekFj9Hz
+        groupId: kVjZmAJi6cYDiljM
+  suggested:
+    attributes:
+      strength: 7
+      toughness: 7
+      agility: 6
+      initiative: 6
+      willpower: 3
+      intellect: 3
+      fellowship: 3
+    skills:
+      athletics: 4
+      awareness: 5
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: 4
+      intimidation: 2
+      investigation: 2
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: 3
+      survival: null
+      tech: null
+      weaponSkill: 5
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710779898621
+  modifiedTime: 1710780352304
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TTJYJOzlhNZtSCek'

@@ -1,0 +1,16 @@
+name: Wargear
+sorting: a
+folder: null
+type: Item
+_id: RCmWVrLDFIwxdSe9
+sort: 600000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710071760139
+  modifiedTime: 1710524073651
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!RCmWVrLDFIwxdSe9'

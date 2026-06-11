@@ -1,0 +1,152 @@
+name: Tectonic Purge
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - name: Prone
+    icon: systems/wrath-and-glory/asset/icons/conditions/prone.svg
+    statuses:
+      - prone
+    _id: h3ogHFJY9CtOearZ
+    changes: []
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!lbQET4E5CgNtj6Qo.h3ogHFJY9CtOearZ'
+  - name: Hindered
+    icon: systems/wrath-and-glory/asset/icons/conditions/hindered.svg
+    changes:
+      - key: difficulty.base
+        mode: 6
+        value: '1'
+        priority: null
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            description: +DN to all Tests
+            script: return true
+    statuses:
+      - hindered
+    _id: WdK4iehy3xAfU9Xx
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    _key: '!items.effects!lbQET4E5CgNtj6Qo.WdK4iehy3xAfU9Xx'
+  - name: Vulnerable
+    icon: systems/wrath-and-glory/asset/icons/conditions/vulnerable.svg
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '-1'
+        priority: null
+    statuses:
+      - vulnerable
+    _id: dYYDUbucG4QPSRGe
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    flags: {}
+    _key: '!items.effects!lbQET4E5CgNtj6Qo.dYYDUbucG4QPSRGe'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.lbQET4E5CgNtj6Qo
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You interlock your fingers, raise your hands high, and slam them down
+    with a clubbing blow upon the ground. Psychic energy ripples from the impact
+    site, causing the ground to convulse and shudder violently and enemies to be
+    flung from their feet. If this power is successful, all enemies within range
+    are knocked Prone. Further, the area within range is treated as Difficult
+    Terrain by all enemies until the start of your next turn.</p>
+  effect: ''
+  cost: 8
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: IMPERIAL FISTS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Enemies within the area are Hindered.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Enemies within the area are Vulnerable.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: lbQET4E5CgNtj6Qo
+folder: FBWgnducTeuqGBkw
+sort: 250000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959234
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!lbQET4E5CgNtj6Qo'

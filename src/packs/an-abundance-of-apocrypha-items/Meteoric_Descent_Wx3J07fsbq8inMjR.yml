@@ -1,0 +1,55 @@
+name: Meteoric Descent
+type: ability
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+effects: []
+folder: fgtFfRbmshJ8KM1n
+flags:
+  cf: null
+  core: {}
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You run, sprint or charge using your @Item[fYcfZQb8Um0jf6mK]{Jump Pack},
+    any enemy within 2m of the point where you landed must pass an Agility teste
+    (DN 2+Rank) or be knocked @JournalEntry[NfKA9l7FwPrlEWX1]{Prone} and suffer
+    a Mortal Wound</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664219055857
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: Wx3J07fsbq8inMjR
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!Wx3J07fsbq8inMjR'

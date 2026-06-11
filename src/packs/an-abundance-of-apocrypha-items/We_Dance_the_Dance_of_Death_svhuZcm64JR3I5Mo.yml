@@ -1,0 +1,51 @@
+folder: fgtFfRbmshJ8KM1n
+name: We Dance the Dance of Death
+type: ability
+_id: svhuZcm64JR3I5Mo
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Once per round, when you are missed by an attack, you may spend 1 Glory
+    to move up to half your Speed (round up) in any direction.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710704019569
+  modifiedTime: 1710704031074
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!svhuZcm64JR3I5Mo'

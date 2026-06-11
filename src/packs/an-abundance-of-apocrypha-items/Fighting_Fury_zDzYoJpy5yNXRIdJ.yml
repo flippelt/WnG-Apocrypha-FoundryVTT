@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Fighting Fury
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 40
+  requirements: Weapon Skill 7+ rating
+  description: >-
+    <p>You remain in perpetual motion in melee, never missing an opportunity to
+    strike. When you make a melee attack, you may spend 2 Glory to make a second
+    melee attack. In addition, when the Exarch makes a multi-attack with a melee
+    attack, the penalty is reduced by Double Rank.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ayiIB6NuDDnmiiaH
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700052689423
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: zDzYoJpy5yNXRIdJ
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!zDzYoJpy5yNXRIdJ'

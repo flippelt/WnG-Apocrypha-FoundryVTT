@@ -1,0 +1,148 @@
+folder: GHP0SxnnlNKFusRJ
+name: Warp Spider Aspect Warrior
+type: archetype
+_id: 83hW96fvlaDlDokK
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 3
+  journal: ''
+  species:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.Ryyi27i160YZJWeP
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 108
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - ASPECT WARRIOR
+  attributes:
+    strength: null
+    toughness: null
+    agility: 4
+    initiative: 3
+    willpower: 4
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: null
+  ability:
+    name: Flickerjump
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Kf9piUA335eEwiXU
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Heavy Aspect Armour
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KXn7FgD0ly6vLiOK
+      type: item
+      diff: {}
+      index: 1
+      groupId: d1UBkItSA8H7dSoN
+    - name: Deathspinner
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.rWAfo1C0PTCR0XgL
+      type: item
+      diff: {}
+      index: 2
+      groupId: WHlkzfOpOuOlg2kz
+    - name: Warp Spider Jump Generator
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.DvIoHpvBEvAJwUhm
+      type: item
+      diff: {}
+      index: 3
+      groupId: SFLJHJhPNntkQBh5
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 4
+      groupId: 8ISIt03rbAxJyh04
+    - name: Spirit Stone
+      id: Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: d1UBkItSA8H7dSoN
+      - index: 2
+        type: item
+        groupId: WHlkzfOpOuOlg2kz
+      - index: 3
+        type: item
+        groupId: SFLJHJhPNntkQBh5
+      - index: 4
+        type: item
+        groupId: 8ISIt03rbAxJyh04
+      - index: 5
+        type: item
+        groupId: UYTEMthA3Qjk3f88
+  suggested:
+    attributes:
+      strength: null
+      toughness: null
+      agility: null
+      initiative: null
+      willpower: null
+      intellect: null
+      fellowship: null
+    skills:
+      athletics: null
+      awareness: null
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710701107154
+  modifiedTime: 1710701349943
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!83hW96fvlaDlDokK'

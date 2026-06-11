@@ -1,0 +1,75 @@
+name: Laser Lance (Melee)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranger-long-rifle.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.Gt00PqgOKOeilIxS
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">The Laser Lance is an Eldar laser weapon, the
+    signature weapon of the Shining Spears Aspect Warriors as well as the
+    Exodite Dragon Knights. The laser lance fires a highly focused laser beam to
+    deliver an intense blast of energy, discharged either at short range or upon
+    physical contact with the enemy. This makes the weapon ideal for the
+    devastating charges employed by Shining Spears and Dragon Knights, but the
+    weapon is far less potent after the charge has concluded.</span></p><p><span
+    class="fontstyle0"><strong>Special</strong>: </span><span
+    class="fontstyle2">When a character wielding a laser lance attacks while
+    mounted (upon a moving vehicle or charging creature), the weapon’s damage
+    rating becomes 14, though it is not modified by the user’s Strength.</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: LAS, AELDARI, ASURYANI, EXODITE
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -4
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 3
+    medium: 6
+    long: 9
+    melee: 2
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits: []
+  upgrades: []
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932553
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_id: s62o2qaBS0mhQ8Lf
+_key: '!items!s62o2qaBS0mhQ8Lf'

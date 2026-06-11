@@ -1,0 +1,64 @@
+name: Sentinel Blade (Ranged)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: M81y3pnOdLuRP51r
+flags:
+  core: {}
+  cf: null
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>The Sentinel Blade is a Power Weapon shaped as a broadsword of daunting
+    size, so large its hilt is flanked with the double barrels of a Bolt Caster
+    that can lay down a hail of short-range fire. It is a common melee weapon
+    used by the Custodians of the Adeptus Custodes, the praetorians of the
+    Emperor of Mankind. It is a testament to the strength of the Custodians that
+    they can wield these powered blades one-handed.</p>
+  value: 9
+  keywords: POWER FIELD, ADEPTUS CUSTODES
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: brutal
+    - name: pistol
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: iwFYg8ISVrtVAXF7
+sort: 1500000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!iwFYg8ISVrtVAXF7'

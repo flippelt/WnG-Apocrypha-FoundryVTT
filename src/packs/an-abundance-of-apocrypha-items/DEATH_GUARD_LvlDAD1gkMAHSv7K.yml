@@ -1,0 +1,55 @@
+name: DEATH GUARD
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/death-guard-white.png
+effects: []
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.LvlDAD1gkMAHSv7K
+system:
+  description: >-
+    <p>One of the Legions that betrayed the Emperor during the Horus Heresy, the
+    Death Guard were a grim, stoic, and implacable force, consisting primarily
+    of rank after rank of remorseless infantry. They believed that oppression
+    could be overcome with an iron will and stern resolve, a reflection of their
+    Primarch&rsquo;s struggle for freedom on the world of Barbarus. During the
+    Heresy, after purging their ranks of any lingering loyalist presence, this
+    was twisted into a belief that any who were too weak to fight for themselves
+    were not deserving of freedom, and this shift was accompanied by unleashing
+    armouries of proscribed toxic and radioactive weaponry.</p>
+
+    <p>Characters with the @Item[LvlDAD1gkMAHSv7K]{DEATH GUARD} keyword must
+    take @Item[BSkZI5bwVrdTEUGP]{NURGLE} as their @Item[TXRdb9GJ55fjSODX]{[MARK
+    OF CHAOS]} keyword.</p>
+
+    <h5>Inexorable Advance</h5>
+
+    <p>The brutal, relentless stride of the Death Guard is accompanied by a
+    constant barrage of fire.</p>
+
+    <p>You suffer no penalty for operating a Heavy weapon without bracing it,
+    nor do you suffer the +2 DN for firing an Assault weapon when Sprinting.</p>
+
+    <h5>Intractable (Tradition)</h5>
+
+    <p>Death Guard are slow and purposeful, never given to needless haste when
+    they could instead grind their foes down with inexorable force.</p>
+
+    <p>You must spend a point of Glory to take the Sprint action.</p>
+
+    <h5>&nbsp;</h5>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056319
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: LvlDAD1gkMAHSv7K
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!LvlDAD1gkMAHSv7K'

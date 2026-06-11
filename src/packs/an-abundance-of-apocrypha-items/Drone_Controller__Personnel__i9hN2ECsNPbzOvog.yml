@@ -1,0 +1,53 @@
+name: Drone Controller (Personnel)
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-equipment.Item.i9hN2ECsNPbzOvog
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A Drone Controller is an electronic device that
+    is used by the T'au to control their robotic T'au Drones, as it acts as a
+    hub of digital communications between the operator and any Drones that are
+    nearby the user, allowing them to operate more efficiently. A Drone
+    Controller is a T'au technology employed by a variety of T'au
+    personnel.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">Friendly </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">DRONE </span><span class="fontstyle0">characters
+    within 12m of you at the start of your turn may add your Tech skill ranks to
+    any of their own skill ranks. Drones within that distance are not affected
+    by the </span><span class="fontstyle2">Threat Identification Protocol
+    </span><span class="fontstyle0">rule.</span></p><p></p><p><span
+    class="fontstyle0">A version of this item which does not have the
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">SUPPORT SYSTEM
+    </span><span class="fontstyle0">keyword can be obtained, but the Value is
+    increased by +1 and the Rarity is Rare.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: T’AU EMPIRE
+  effect: ''
+_id: i9hN2ECsNPbzOvog
+folder: G6w5YJj7QygkEzDX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710258892575
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!i9hN2ECsNPbzOvog'

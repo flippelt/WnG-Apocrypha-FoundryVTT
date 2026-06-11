@@ -1,0 +1,55 @@
+folder: j9tQJM6VB7YLJ7SX
+name: Undead
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are immune to effects which would stun or knock out other foes. You
+    can never suffer Shock damage. However, you are distant and disconnected
+    from mortal existence, and thus can never generate Glory.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Ht77PNKyF7cWPnTg
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699292862393
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Ht77PNKyF7cWPnTg
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Ht77PNKyF7cWPnTg'

@@ -1,0 +1,43 @@
+name: Essence of Perfect Vitriol
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.H3nSwpY1J42mhMeu
+system:
+  description: >-
+    <p>Perfect Vitriol is the universal solvent, a corrosive agent capable of
+    dissolving absolutely everything. No substance is proof against this
+    liquid’s fury, and it must be stored in magnetic suspension because no
+    material container exists that can hold it. Not to be stymied in their quest
+    to weaponise everything in their grasp, the Drukhari cleverly use fields and
+    other exotic distribution systems to imbue their blades and projectiles with
+    the vapours produced by this substance without degrading their own equipment
+    too quickly for it to be of use.</p><p>Effect: The target is left enfeebled
+    and vulnerable. While poisoned, the target halves their Resilience, rounding
+    up.</p>
+  effect: ''
+  value: 7
+  rarity: rare
+  keywords: DRUKHARI, TOXIN
+  traits: []
+_id: H3nSwpY1J42mhMeu
+folder: 6ntRjpS1Ry0pU1f7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483256
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 150000
+_key: '!items!H3nSwpY1J42mhMeu'

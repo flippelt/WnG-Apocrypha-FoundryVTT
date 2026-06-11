@@ -1,0 +1,102 @@
+name: Auto Bolt Rifle
+type: weapon
+img: modules/wng-core/assets/icons/weapons/bolt-rifle.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A variant of the Primaris&rsquo; Bolt Rifles, the Auto Bolt Rifle
+    emphasises rate of fire and mobility over penetration or range.</p>
+
+    <p>An Auto Bolt Rifle is fitted with an @UUID[Item.zyVQUsE3ZI9PJ4pD]{Ammo
+    Drum} as standard.</p>
+  value: 7
+  keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 1
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: assault
+    - name: brutal
+    - name: rapidFire
+      rating: 3
+  upgrades:
+    - _id: OTnefPhwST2cYyZ5
+      name: Ammo Drum
+      type: weaponUpgrade
+      img: modules/wng-core/assets/icons/weaponUpgrade/ammo-drum.webp
+      effects: []
+      folder: JM3j5fSh91u6lb0V
+      sort: 0
+      flags:
+        wng-core:
+          initialization-folder: Upgrades
+          sort: 0
+      system:
+        description: >-
+          <p>A large drum of ammunition replacing the typical&nbsp;
+          magazine.</p>
+
+          <p><strong>Effect</strong>: You can carry one additional
+          Ammo.&nbsp;</p>
+        effect: ''
+        value: 3
+        rarity: common
+        keywords: IMPERIUM, SCUM
+        traits: []
+      ownership:
+        default: 0
+        TkdNPfNTgOk5SoMe: 3
+        xygrzIwcKUPawMWs: 3
+        cAphwWMEu7MQQzqi: 3
+      _stats:
+        systemId: null
+        systemVersion: null
+        coreVersion: null
+        createdTime: null
+        modifiedTime: null
+        lastModifiedBy: null
+effects: []
+flags:
+  scene-packer:
+    hash: 38aba8b8d04a9fd534e8feb7be4729a8bae8e1e6
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665423312184
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: nVbQOW7x51LDoXiW
+sort: 200000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!nVbQOW7x51LDoXiW'

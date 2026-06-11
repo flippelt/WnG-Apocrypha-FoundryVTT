@@ -1,0 +1,88 @@
+name: Hivebound
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: R4V4rVfbLsMxOxYN
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              +1DN on all Survival tests made when not in an urban or
+              manufactured environment.
+    tint: null
+    origin: null
+    name: Hivebound
+    description: ''
+    statuses: []
+    _key: '!items.effects!HVpNguKdwBlvIqL6.R4V4rVfbLsMxOxYN'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.eO0wA6CPhvenjoaO
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Hivers are unaccustomed to the ways of wild, untamed places. Even the
+    wilderness of underhive levels and abandoned habs is still built around
+    artificial structures. Hiveworlders suffer +1DN on all Survival tests made
+    when not in an urban or manufactured environment.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057053
+  modifiedTime: 1710451656529
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: HVpNguKdwBlvIqL6
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!HVpNguKdwBlvIqL6'

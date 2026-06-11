@@ -1,0 +1,58 @@
+name: Chorus of Spiritual Fortitude
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + IMPERIUM/ADEPTUS MINISTORUM, not CHAOS
+  description: >-
+    <p>The Emperor protects the faithful from the corruption that lurks in the
+    darkness.</p><p></p><p><strong>Effect</strong>: If this Prayer is
+    successful, end the effect of any psychic power or warp phenomenon on
+    yourself and allies with the IMPERIUM keyword. In addition, while the Prayer
+    remains in effect, you and the affected allies cannot be targeted by psychic
+    powers. <br></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects: []
+folder: AUFZA6KODKn4d1ad
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags:
+  core:
+    sourceId: Item.AJMskXQD81UT7c1M
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: f4qNl55OLmHpg53E
+_key: '!items!f4qNl55OLmHpg53E'

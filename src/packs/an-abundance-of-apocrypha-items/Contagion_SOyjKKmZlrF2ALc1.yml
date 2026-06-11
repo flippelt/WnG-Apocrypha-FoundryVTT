@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Contagion
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: CHAOS keyword, NURGLE keyword
+  description: >-
+    <p>You carry scores of virulent diseases, and when you march to war, these
+    diseases spread. Flesh rots and metal rusts in your presence.</p><p>Enemies
+    within 1+ Double Rank metres of you reduce their Resilience by 1 and roll 1
+    fewer dice when they roll Determination.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.x8dsBfMFBC8SgJG0
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699802685224
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: SOyjKKmZlrF2ALc1
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 6800000
+_key: '!items!SOyjKKmZlrF2ALc1'

@@ -1,0 +1,58 @@
+name: Scorpion’s Claw (Melee)
+type: weapon
+_id: 0FnBfYP1bubDvCIV
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Resembling the claw of a scorpion, this weapon is, an Aeldari version of
+    a Power Fist, giving the bearer vastly increased strength and armour
+    penetration with no sacrifice to speed, unlike the weapons of the younger
+    races.</p>
+  value: 9
+  keywords: POWER FIELD, ANCIENT, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 7
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: brutal
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 2000000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709857502691
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!0FnBfYP1bubDvCIV'

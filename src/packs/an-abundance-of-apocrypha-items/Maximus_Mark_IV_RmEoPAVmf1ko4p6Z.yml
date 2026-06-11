@@ -1,0 +1,94 @@
+name: Maximus Mark IV
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Maximus Mark IV
+    _id: eVij1omnUxYQEv4u
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              Interaction tests made with other characters with the ADEPTUS
+              ASTARTES keyword
+            hide: ''
+    tint: null
+    _key: '!items.effects!RmEoPAVmf1ko4p6Z.eVij1omnUxYQEv4u'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes-armour.Item.RmEoPAVmf1ko4p6Z
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">As the Great Crusade expanded across the galaxy,
+    and the size of the Imperium reached what was to be its zenith, a new
+    variant of armour was produced by the Mechanicus of Mars. The main
+    development of the “Maximus” suit was to abandon the use of abutting plates
+    in favour of larger, inflexible armoured casings. These were easier to
+    produce and maintain, with only a slight reduction in mobility, and thanks
+    to technology uncovered as the Crusade progressed, were lighter as well as
+    being more efficient protection. The helmet was a new design that allowed
+    easier movement, while retaining an environmental
+    seal.</span></p><p></p><p><span class="fontstyle0">Many legions maintained
+    their own distinctive variants of this armour, such as the Ultramarines’
+    </span><span class="fontstyle2">Praetor</span><span
+    class="fontstyle0">pattern armour, but these distinctions are superficial at
+    best.</span></p><p></p><p><span class="fontstyle3">Armour Rating:
+    </span><span class="fontstyle0">5; Powered (3)</span></p><p></p><p><span
+    class="fontstyle3"><strong>Revered</strong>: </span><span
+    class="fontstyle0">The wearer of this armour gains +2d on all interaction
+    tests made with other characters with the </span><span class="fontstyle3"
+    style="color:rgb(112,0,0);">ADEPTUS ASTARTES </span><span
+    class="fontstyle0">keyword.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: POWERED, IMPERIUM, ADEPTUSASTARTES
+  equipped: false
+  rating: 5
+  base: 0
+  traits:
+    - name: powered
+      rating: 3
+  invulnerable: false
+_id: RmEoPAVmf1ko4p6Z
+folder: 9qcY1oNgsxJI58Au
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710089763009
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1000000
+_key: '!items!RmEoPAVmf1ko4p6Z'

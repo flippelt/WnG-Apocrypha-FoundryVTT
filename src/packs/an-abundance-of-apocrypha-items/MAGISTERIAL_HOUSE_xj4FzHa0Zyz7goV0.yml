@@ -1,0 +1,60 @@
+folder: mVwsA2RNYLWHNaKe
+name: MAGISTERIAL HOUSE
+type: keyword
+img: modules/wng-core/assets/ui/aquila-white.webp
+system:
+  description: >-
+    <p>Magisterial Houses are exalted and influential. They add +Rank to their
+    Influence and Wealth.</p>
+effects:
+  - icon: modules/wng-core/assets/ui/aquila-white.webp
+    changes:
+      - key: system.resources.influence.bonus
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+      - key: system.resources.wealth
+        mode: 2
+        value: '@advances.rank'
+        priority: null
+    name: MAGISTERIAL HOUSE
+    _id: ybZQmK5D3SAYiAHc
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!xj4FzHa0Zyz7goV0.ybZQmK5D3SAYiAHc'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.BxlFdJvhSDnnmTqa
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699503217849
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: xj4FzHa0Zyz7goV0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!xj4FzHa0Zyz7goV0'

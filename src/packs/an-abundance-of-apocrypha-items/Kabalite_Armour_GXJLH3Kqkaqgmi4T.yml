@@ -1,0 +1,51 @@
+name: Kabalite Armour
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-armour.Item.GXJLH3Kqkaqgmi4T
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">When going to war, each Warrior girds himself
+    with a sophisticated bodysuit of segmented armour. These suits are donned
+    during lengthy and unnecessarily painful pre-battle rituals, the better to
+    ensure the wearer's psyche is honed to a single point of murderous intent.
+    Much of the bodysuit is held in place with long metal barbs and hooks that
+    penetrate deep into the wearer's nerve bundles, sharpening his senses with
+    the constant sting of pain.</span></p><p></p><p><span
+    class="fontstyle0">Kabalite Armour contains a vox and a rebreather, or Dark
+    Eldar equivalents of these items.</span></p><p></p><p><span
+    class="fontstyle2">Armour Rating: </span><span class="fontstyle0">4</span>
+    <br style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 4
+  keywords: LIGHT, DRUKHARI
+  equipped: false
+  rating: 4
+  base: 0
+  traits: []
+  invulnerable: false
+_id: GXJLH3Kqkaqgmi4T
+folder: 2ql45FnLafOhbldn
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090215643
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!GXJLH3Kqkaqgmi4T'

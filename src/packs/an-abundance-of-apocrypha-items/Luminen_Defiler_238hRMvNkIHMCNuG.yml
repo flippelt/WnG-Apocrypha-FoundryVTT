@@ -1,0 +1,38 @@
+folder: ZMoR03HW5eXVf9E1
+name: Luminen Defiler
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: DARK MECHANICUS keyword, Luminen Capacitor augmetic
+  description: >-
+    <p>You have found ways to alter and twist the energies of your Luminen
+    Capacitor, imbuing it with the hellish light of Chaos and your own twisted
+    spirit.<br>You gain +1 Corruption. When you use a charge from your Luminen
+    Capacitor, you may suffer a Mortal Wound to corrupt the energy you unleash.
+    If you are using this to power a machine, then the machine is also tainted
+    and corrupted, and the GM will work with you to determine the effect. If you
+    are using that corrupted power to make an attack (using the Luminen Blast or
+    Luminen Shock talents, or any weapons which use your Luminen Capacitor),
+    then the attack gains the Rad (2) trait.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lhoILVPtSIO3YmN6
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664022690860
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 238hRMvNkIHMCNuG
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 200000
+_key: '!items!238hRMvNkIHMCNuG'

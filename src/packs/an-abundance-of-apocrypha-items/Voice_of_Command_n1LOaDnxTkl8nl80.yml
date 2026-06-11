@@ -1,0 +1,121 @@
+name: Voice of Command
+type: ability
+img: modules/wng-core/assets/icons/abilities/astra-militarum.webp
+effects: []
+folder: fgtFfRbmshJ8KM1n
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.n1LOaDnxTkl8nl80
+  cf: null
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>As a Combat Action, you may issue an order to allies with the
+    @Item[xmheh9BsPxK1eYk3]{ASTRA MILITARUM} keyword who are able to hear you.
+    Issuing orders requires a DN 1 Leadership test to order a single ally,
+    adding +2 DN for each additional ally. Orders can be found on the table
+    below.</p>
+
+    <table style="width: 89.9293%; height: 193px;" border="1">
+
+    <tbody>
+
+    <tr style="height: 17px;">
+
+    <th style="background-color: #892e29; width: 99.6839%; height: 17px;
+    text-align: center; vertical-align: middle;"><span style="color:
+    #ecf0f1;"><strong>Astra Militarum Officer Orders</strong></span></th>
+
+    </tr>
+
+    <tr style="height: 48px;">
+
+    <td style="width: 99.6839%; height: 48px;">All references to Rank in the
+    orders below refer to the Rank of the character giving the order. A
+    character may only benefit from one order at a time, and an order&rsquo;s
+    effects last only until the start of the officer&rsquo;s next turn.</td>
+
+    </tr>
+
+    <tr style="height: 16px;">
+
+    <td style="width: 99.6839%; height: 16px;"><strong>TAKE AIM! </strong>The
+    ally may re-roll Double Rank dice on their next aimed ranged attack.</td>
+
+    </tr>
+
+    <tr style="height: 32px;">
+
+    <td style="width: 99.6839%; height: 32px;"><strong>BRING IT DOWN!
+    </strong>The officer chooses a single enemy, and the ally adds +Rank ED to
+    their next ranged attack against that target.</td>
+
+    </tr>
+
+    <tr style="height: 32px;">
+
+    <td style="width: 99.6839%; height: 32px;"><strong>FORWARDS, FOR THE
+    EMPEROR! </strong>The ally may shoot as part of a run action as if their
+    weapon had the Assault trait.</td>
+
+    </tr>
+
+    <tr style="height: 32px;">
+
+    <td style="width: 99.6839%; height: 32px;"><strong>MOVE! MOVE! MOVE!
+    </strong>The ally adds +Rank to their Speed if they Run or Sprint in their
+    next turn.</td>
+
+    </tr>
+
+    <tr style="height: 16px;">
+
+    <td style="width: 99.6839%; height: 16px;"><strong>FIX BAYONETS!
+    </strong>The ally adds +Rank bonus dice to their next melee attack.</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219055887
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: n1LOaDnxTkl8nl80
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!n1LOaDnxTkl8nl80'

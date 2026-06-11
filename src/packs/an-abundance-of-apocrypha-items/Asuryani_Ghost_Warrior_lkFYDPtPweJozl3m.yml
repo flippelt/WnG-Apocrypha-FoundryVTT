@@ -1,0 +1,72 @@
+folder: ct8TKkELuAnX5bLq
+name: Asuryani Ghost Warrior
+type: species
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  cost: 228
+  speed: 5
+  size: average
+  journal: ''
+  abilities:
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.yRNh4jt7vICpT68q
+      name: Wraithbone Form
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bcgMX9sfxFILOKZV
+      name: Wraithsight
+    - id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Ht77PNKyF7cWPnTg
+      name: Undead
+  attributes:
+    strength: 7
+    toughness: 6
+    agility: 4
+    initiative: 4
+    willpower: 5
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 2
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: 16
+    toughness: 16
+    agility: 8
+    initiative: 8
+    willpower: 8
+    intellect: 8
+    fellowship: 6
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Wzbl5K4HCvLUdNB0
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699292644874
+  modifiedTime: 1710522252751
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: lkFYDPtPweJozl3m
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!lkFYDPtPweJozl3m'

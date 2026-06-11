@@ -1,0 +1,94 @@
+name: Recitation of Focus
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 20
+  requirements: PRIEST + IMPERIUM/ADEPTUS ASTARTES, not CHAOS
+  description: >-
+    <p><span class="fontstyle0">You recite creeds that focus the minds of the
+    faithful to ensure their shots strike true.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">If this Prayer is successful, you and all allies with the
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">IMPERIUM
+    </span><span class="fontstyle0">keyword within 12m add +Rank bonus dice to
+    ranged attacks while the Prayer remains in effect.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: 3
+    type: skill
+    specification: persuasion
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Recitation of Focus
+    _id: Ns17mwPR9nNizzcr
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Ranged attack
+            hide: ''
+    tint: null
+    _key: '!items.effects!MkfP8NHNvVjjajXE.Ns17mwPR9nNizzcr'
+folder: 2QU5OElCoQtte5Vj
+sort: 112500
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags:
+  core:
+    sourceId: Item.AJMskXQD81UT7c1M
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710963186349
+  modifiedTime: 1711748031338
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: MkfP8NHNvVjjajXE
+_key: '!items!MkfP8NHNvVjjajXE'

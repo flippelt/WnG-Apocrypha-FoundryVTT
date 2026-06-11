@@ -1,0 +1,75 @@
+name: Auto-Boltstorm Gauntlet (Melee)
+type: weapon
+img: modules/wng-core/assets/icons/weapons/storm-bolter.webp
+effects: []
+flags:
+  cf: null
+  core: {}
+  scene-packer:
+    sourceId: Item.Klrac2OhIHumakD9
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>Larger, and more stable than the conventional Boltstorm Gauntlet, the
+    bolter componente of these weapons allows them to sustain a higher rate of
+    fire whie on the move, compare to the close quarters burst fire of the
+    smaller version. Auto-Boltstorm Gauntlets are normally wielded in pair by
+    Primaris Aggressors</p>
+  value: 8
+  keywords: BOLT, POWER FIELD, ADEPTUS ASTARTES, PRIMARIS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: null
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 9
+    medium: 18
+    long: 27
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 3
+  traits:
+    - name: brutal
+    - name: unwieldy
+      rating: 2
+    - name: paired
+      custom: true
+      display: Paired
+      description: >-
+        The weapon is designed to be used in a pair—two weapons of that type,
+        one in each hand. When a character makes an attack while wielding both
+        weapons in a pair, either count it as a Simultaneous Strike (as per the
+        talent), or reduce the DN of a multiattack by 2. If you have the
+        Signature Weapon talent, you may apply it to both weapons in a pair.
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: P8agXeeQy9nV43IS
+_id: uKOmopvbPBHioG98
+sort: 400000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!uKOmopvbPBHioG98'

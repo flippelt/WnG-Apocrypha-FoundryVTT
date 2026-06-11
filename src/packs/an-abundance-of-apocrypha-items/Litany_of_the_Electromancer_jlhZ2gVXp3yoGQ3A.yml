@@ -1,0 +1,51 @@
+folder: vuawU3ZTYYG7PWXm
+name: Litany of the Electromancer
+type: ability
+_id: jlhZ2gVXp3yoGQ3A
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>Roll 1d6 for each enemy Engaged with an affected character; on a 6, that
+    enemy suffers 1d3 Mortal Wounds.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710711401355
+  modifiedTime: 1710711407517
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!jlhZ2gVXp3yoGQ3A'

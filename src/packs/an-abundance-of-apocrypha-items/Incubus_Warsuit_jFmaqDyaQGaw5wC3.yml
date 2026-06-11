@@ -1,0 +1,51 @@
+name: Incubus Warsuit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-armour.Item.jFmaqDyaQGaw5wC3
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">All Incubi are equipped with an extremely
+    resilient suit of armor, called an Incubus Warsuit. The Incubi jealously
+    keep the procedures to manufacture and repair such armour to themselves. The
+    helmet of the suit incorporates the signature Tormentor weapon of the
+    Incubi, which sends out pulses of agony and dread to debilitate foes before
+    battle is joined.</span></p><p></p><p><span class="fontstyle2">Armour
+    Rating: </span><span class="fontstyle0">5</span></p><p></p><p><span
+    class="fontstyle2"><strong>Tormentor</strong>: </span><span
+    class="fontstyle0">The nearest enemy within 2 metres of this armour’s wearer
+    cannot take a turn until after everyone else has taken a turn this
+    round.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: HEAVY, DRUKHARI
+  equipped: false
+  rating: 5
+  base: 0
+  traits: []
+  invulnerable: false
+_id: jFmaqDyaQGaw5wC3
+folder: 2ql45FnLafOhbldn
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090215641
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!jFmaqDyaQGaw5wC3'

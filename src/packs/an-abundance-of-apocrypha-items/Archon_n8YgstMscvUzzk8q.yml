@@ -1,0 +1,141 @@
+folder: lEqVRehKQvTYGEoK
+name: Archon
+type: archetype
+_id: n8YgstMscvUzzk8q
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0gnnZaNz977bq3Xs
+  faction:
+    name: Drukhari
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+  influence: 3
+  cost: 330
+  keywords:
+    - AELDARI
+    - DRUKHARI
+    - KABALITE
+    - '[KABAL]'
+  attributes:
+    strength: 4
+    toughness: null
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: 4
+    fellowship: 4
+  skills:
+    athletics: null
+    awareness: 3
+    ballisticSkill: 2
+    cunning: 4
+    deception: null
+    insight: null
+    intimidation: 4
+    investigation: null
+    leadership: 5
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 6
+  ability:
+    name: Overlord
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.UfHFFmCW7BwIoCIw
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Ghostplate
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qdWGYOOwCutU6bY8
+      type: item
+      diff: {}
+      index: 1
+      groupId: gZk8oOS75q4DQeEa
+    - name: Shadowfield
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.jCBhl52J1Xu62AGO
+      type: item
+      diff: {}
+      index: 2
+      groupId: mutRnkJlwlvHQ2FH
+    - type: generic
+      name: any two weapons of any rarity with a Value of up to 8
+      filters:
+        - test: le
+          property: Value
+          value: '8'
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: gZk8oOS75q4DQeEa
+      - index: 2
+        type: item
+        groupId: mutRnkJlwlvHQ2FH
+      - type: item
+        index: 3
+        groupId: O3fXwvrPSpdZFq6g
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 6
+      initiative: 6
+      willpower: 4
+      intellect: 4
+      fellowship: 4
+    skills:
+      athletics: 3
+      awareness: 3
+      ballisticSkill: 3
+      cunning: 5
+      deception: 3
+      insight: 3
+      intimidation: 5
+      investigation: null
+      leadership: 5
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 2
+      stealth: 3
+      survival: null
+      tech: null
+      weaponSkill: 6
+    talents:
+      - id: CVEfjd9hx4XWLuPM
+        name: Dirty Fighter
+      - id: YOJXISADzQlwp1Lc
+        name: Fear
+      - id: 6RTgC3gWnsqYdLm5
+        name: Power Through Pain
+      - id: bFBAoDYHeegNgDIQ
+        name: Deceptive Retreat
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710778049727
+  modifiedTime: 1710778282336
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!n8YgstMscvUzzk8q'

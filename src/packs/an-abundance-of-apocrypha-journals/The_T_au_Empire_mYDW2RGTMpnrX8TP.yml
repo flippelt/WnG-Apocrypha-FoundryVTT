@@ -1,0 +1,20 @@
+name: The T'au Empire
+folder: 2xAD0ATkgmu0RqM7
+flags:
+  cf: null
+  core: {}
+pages: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.314'
+  createdTime: 1699294434961
+  modifiedTime: 1699294434961
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: mYDW2RGTMpnrX8TP
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!journal!mYDW2RGTMpnrX8TP'
+categories: []

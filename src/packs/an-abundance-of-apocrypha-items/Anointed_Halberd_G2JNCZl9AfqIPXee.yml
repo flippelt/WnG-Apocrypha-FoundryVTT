@@ -1,0 +1,61 @@
+name: Anointed Halberd
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+effects: []
+folder: M81y3pnOdLuRP51r
+flags:
+  cf: null
+  core: {}
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>These blessed weapons of the Adepta Sororitas are entrusted to the hands
+    of elite Celestiansm who use them to hold back the legions of the
+    unholy.</p>
+  value: 7
+  keywords: POWER FIELD, ADEPTA SORORITAS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 2
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blessed
+      rating: 2
+  upgrades: []
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710069562672
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: G2JNCZl9AfqIPXee
+sort: 600000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!G2JNCZl9AfqIPXee'

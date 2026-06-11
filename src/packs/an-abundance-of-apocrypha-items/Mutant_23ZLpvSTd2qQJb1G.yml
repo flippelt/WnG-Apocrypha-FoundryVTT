@@ -1,0 +1,81 @@
+folder: j9tQJM6VB7YLJ7SX
+name: Mutant
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: <p>+2DN to all Interaction tests with IMPERIAL characters.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Mutant
+    _id: x5mxXtdMcsUaZtMT
+    changes:
+      - key: difficulty.bonus
+        mode: 6
+        value: '2'
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Interaction test with IMPERIAL character
+            hide: ''
+    tint: null
+    _key: '!items.effects!23ZLpvSTd2qQJb1G.x5mxXtdMcsUaZtMT'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.CRI4fVXlQ4Oh8xbK
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699477204139
+  modifiedTime: 1710522762862
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 23ZLpvSTd2qQJb1G
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!23ZLpvSTd2qQJb1G'

@@ -1,0 +1,121 @@
+folder: GHP0SxnnlNKFusRJ
+name: Wraithguard
+type: archetype
+_id: 0JnWLjIUYoDPCl9b
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Asuryani Ghost Warrior
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.lkFYDPtPweJozl3m
+  faction:
+    name: Aeldari
+    id: Compendium.wng-core.items.Item.15adBmv177CaW1UF
+  influence: 1
+  cost: 358
+  keywords:
+    - AELDARI
+    - ASURYANI
+    - '[CRAFTWORLD]'
+    - WRAITH CONSTRUCT
+  attributes:
+    strength: 9
+    toughness: 6
+    agility: 5
+    initiative: 4
+    willpower: 5
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 3
+    ballisticSkill: 4
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: 2
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Cutting of the Crone's Cord
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.S0UwFtSPGOFUking
+  wargear:
+    - - name: ''
+        id: ''
+    - name: D-Scythe
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.IS94YJ3Qy0XOki0c
+      type: item
+      diff: {}
+      index: 1
+      groupId: yL8p3bmP3YlVxluF
+    - name: Wraithcannon
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.C8tdHUyIWOSvZ2PK
+      type: item
+      diff: {}
+  groups:
+    type: or
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: yL8p3bmP3YlVxluF
+      - index: 2
+        type: item
+        groupId: eqfmOFhtfiod3wOp
+  suggested:
+    attributes:
+      strength: 9
+      toughness: 7
+      agility: 6
+      initiative: 4
+      willpower: 6
+      intellect: 4
+      fellowship: 1
+    skills:
+      athletics: 3
+      awareness: 5
+      ballisticSkill: 6
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: 2
+      scholar: 3
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: null
+    talents: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710790843650
+  modifiedTime: 1710791015590
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0JnWLjIUYoDPCl9b'

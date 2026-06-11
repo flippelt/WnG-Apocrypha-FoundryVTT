@@ -1,0 +1,32 @@
+folder: ZMoR03HW5eXVf9E1
+name: Spring Up
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 10
+  requirements: Agility 3+
+  description: >-
+    <p>You can quickly regain your feet.<br>When you stand up from
+    @UUID[JournalEntry.NfKA9l7FwPrlEWX1]{Prone}you are not restricted in the
+    actions or combat options you use during your turn.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.TklygWrzR4U4Zybv
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127759550
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: TklygWrzR4U4Zybv
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 7100000
+_key: '!items!TklygWrzR4U4Zybv'

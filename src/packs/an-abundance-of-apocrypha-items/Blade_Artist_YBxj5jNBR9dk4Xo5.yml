@@ -1,0 +1,55 @@
+name: Blade Artist
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core: {}
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you make an attack with a melee weapon, increase the weapon&rsquo;s
+    AP by 1 (i.e., from -1 to -2) if you shift one or more Icons on the attack.
+    This stacks with effects such as the Rending weapon trait.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056919
+  modifiedTime: 1710190653641
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: YBxj5jNBR9dk4Xo5
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!YBxj5jNBR9dk4Xo5'

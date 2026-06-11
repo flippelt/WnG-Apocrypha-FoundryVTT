@@ -1,0 +1,50 @@
+name: Thief’s Light
+type: augmentic
+img: modules/wng-core/assets/icons/augmetics/augmetic.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.augmetics.Item.oKXKd8AqW1GmoBzs
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p><span class="fontstyle0">A simple skinplant with many unsavoury uses, the
+    thief’s light is a simple luminescent patch on the palm of the hand, which
+    is nearly imperceptible until activated. When triggered—usually by squeezing
+    the hand shut for a few seconds—the patch glows with a soft yellow light,
+    enough to illuminate objects within a few centimetres clearly enough to
+    perform intricate tasks without producing large amounts of light that would
+    give the user’s presence away. Like all skinplants, it draws power from the
+    user’s own bioelectricity and body heat, and the design is simple, reliable,
+    and common amongst ne’er-do-wells on countless
+    worlds.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">At will, the user can generate a small amount of light
+    from the palm of one hand.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 2
+  keywords: IMPERIUM, SCUM
+  requirements: ''
+  effect: ''
+_id: oKXKd8AqW1GmoBzs
+folder: 9zRH02PK1QK2qr38
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710281099829
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!oKXKd8AqW1GmoBzs'

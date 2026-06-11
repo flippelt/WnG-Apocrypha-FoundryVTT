@@ -1,0 +1,40 @@
+folder: 0e4JnvdZPT2mvK1p
+name: Agent of the Inquisition
+type: ascension
+_id: TCC3QGFwFqqrh0Q5
+img: modules/wng-core/assets/icons/ascension/ascension.webp
+system:
+  cost: 10
+  description: >-
+    <p>You have been recruited by an Inquisitor to continue the ongoing fight
+    against the Enemies of the Imperium. You’re not merely an informant or
+    minion bearing the Inquisition’s mark, but a trusted associate and
+    confidante of an Inquisitor, with valued skills, experience, and insights,
+    and the ability to wield some measure of their authority.</p>
+  requirements: Willpower 3, Insight 2+ or Awareness 2+
+  keywords: INQUISITION, [ORDO]
+  influence: 1
+  benefits: >-
+    <p><strong>INFLUENCE BONUS</strong>: +1 per Tier ascended.
+    </p><p><strong>STORY ELEMENT</strong>: Your new status as an Agent of the
+    Inquisition means that they may invoke the name of your Inquisitor to gain
+    +Rank to an Influence or social Skill test involving a character with the
+    IMPERIUM keyword, once per scene. </p><p>Because of the circumstances of
+    your recruitment to the Inquisition, you gain 3 Corruption points and a
+    Memorable Injury. </p><p><strong>WARGEAR</strong>: Inquisitorial Rosette
+    (symbol of authority), plus up to two items of Rare Wargear, or one item of
+    Very Rare Wargear, with a Value up to 3 + the new Tier.</p>
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710791805339
+  modifiedTime: 1710793080448
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!TCC3QGFwFqqrh0Q5'

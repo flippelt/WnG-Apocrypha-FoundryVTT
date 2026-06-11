@@ -1,0 +1,52 @@
+name: Agaith
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-equipment.Item.zhhjpbUPHqKFBBVW
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">All Harlequins wear a highly ornamented mask
+    called an </span><span class="fontstyle2">Agaith </span><span
+    class="fontstyle0">(“false face”, in one Aeldari language), which present a
+    gruesome visage. During a performance, these masks display patterns,
+    colours, and features to support the Harlequin's role, but in battle, they
+    take on a darker purpose. Each mask is highly psychoreactive, responding not
+    only to the thoughts of the wearer, but showing a different visage to all
+    who look upon it, and in battle, this always displays some aspect of the
+    viewer’s worst fears. Some players within a masque have stranger masks
+    still, such as the skull visage of the Death Jester, the mirrored face of
+    the Shadowseer, or the death-masks of Troupe Leaders, which depict the dying
+    moments of the wearer’s past victims.</span></p><p></p><p><span
+    class="fontstyle3"><strong>Effect</strong>: </span><span
+    class="fontstyle0">The wearer of an </span><span class="fontstyle2">Agaith
+    </span><span class="fontstyle0">causes </span><span class="fontstyle2">Fear
+    </span><span class="fontstyle0">(DN 3 +Rank).</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: HARLEQUIN
+  effect: ''
+_id: zhhjpbUPHqKFBBVW
+folder: MyTr7JwLWxMloDua
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257240215
+  modifiedTime: 1710683839869
+  lastModifiedBy: CkX1zlse2zyKIjlv
+sort: 2000000
+_key: '!items!zhhjpbUPHqKFBBVW'

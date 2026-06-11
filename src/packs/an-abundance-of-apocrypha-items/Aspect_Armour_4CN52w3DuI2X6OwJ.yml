@@ -1,0 +1,66 @@
+name: Aspect Armour
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-armour.Item.4CN52w3DuI2X6OwJ
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Aspect Armour is manufactured by the Eldar for
+    use by their specialist Aspect Warriors. They use psychic engineering to
+    construct a psycho-sensitive material which reacts instantly to movement by
+    the wearer and moulds and reshapes itself to provide a tight fit, making it
+    ideal for combat. It stiffens on impact much like Mesh Armour although it
+    also includes further rigid plating, and force field generators to reinforce
+    it further.</span></p><p></p><p><span class="fontstyle0">Several Aspect
+    Shrines use a heavier version, but even this is lightweight and flexible
+    compared to similar armour worn by other species. Aspect Armour contains
+    technology equivalent to a vox-bead and a
+    rebreather.</span></p><p></p><p><span class="fontstyle2">Armour Rating:
+    </span><span class="fontstyle0">4, Agile, Power
+    Field</span></p><p></p><p><span
+    class="fontstyle2"><strong>Variants</strong>: </span><span
+    class="fontstyle0">Heavy Aspect Armour has an Armour Rating of 5, the Bulk
+    (1) trait, and the </span><span class="fontstyle2"
+    style="color:rgb(112,0,0);">HEAVY </span><span
+    class="fontstyle0">keyword.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: ASURYANI, ASPECT WARRIOR
+  equipped: false
+  rating: 4
+  base: 0
+  traits:
+    - name: powerField
+    - name: agile
+      custom: true
+      display: Agile
+      description: >-
+        A few types of armour listed in this section have the Agile trait. A
+        character wearing Agile armour may use their Agility to calculate their
+        Determination instead of their Toughness.
+  invulnerable: false
+_id: 4CN52w3DuI2X6OwJ
+folder: q6mjTmVYbvOQ2Qek
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090138918
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!4CN52w3DuI2X6OwJ'

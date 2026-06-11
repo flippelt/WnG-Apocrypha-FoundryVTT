@@ -1,0 +1,83 @@
+name: Dark Gate
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.drukhari-ranged.Item.y8HteRfpwsoKqo7t
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">A dark gate is a rune-etched tetrahedron that
+    opens a portal to one of the forbidden zones of the Webway. Many impossible
+    entities make their lairs in these sealed-off fragments, and an open portal
+    is an irresistible lure. Moments after the dark gate is cast into the fray,
+    a grasping tentacle, flickering pseudopod, or tendril of purest shadow
+    flicks out to grab anyone it can catch within its
+    grasp.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Special</strong>: </span><span
+    class="fontstyle0">Once a Dark Gate has been used, it cannot be used again
+    until after your next Respite</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 9
+  keywords: EXOTIC, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 10
+    bonus: 0
+    rank: none
+  ed:
+    base: 6
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 4
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: blast
+      rating: 10
+    - name: warpWeapons
+    - name: mortal-(1)
+      custom: true
+      display: Mortal (1)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+_id: y8HteRfpwsoKqo7t
+folder: hvQbqAxjU9zt0gWD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709927211812
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!y8HteRfpwsoKqo7t'

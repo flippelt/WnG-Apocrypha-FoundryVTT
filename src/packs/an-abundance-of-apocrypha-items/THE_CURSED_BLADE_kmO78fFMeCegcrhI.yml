@@ -1,0 +1,25 @@
+folder: ewmeGmrcXn6sa90B
+name: THE CURSED BLADE
+type: keyword
+img: modules/wng-core/assets/factions/aeldari.svg
+system:
+  description: >-
+    <p>The Cult of the Cursed Blade are paragons of betrayal, seeing it as the
+    pinnacle of their craft. When the character rolls Determination against
+    damage inflicted in melee, each Exalted Icon rolled inflicts a single Mortal
+    Wound upon the attacker.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1664402128408
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: kmO78fFMeCegcrhI
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!kmO78fFMeCegcrhI'

@@ -1,0 +1,67 @@
+name: Eversor Combat Drugs
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.combat-drugsconsumables.Item.1HdUYd8P3yCGg54q
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p><span class="fontstyle0">In addition to their extensive biomechanical
+    augmentation, Eversor assassins employ an assortment of potent combat
+    stimulants and augmentative serums which massively heighten their
+    prowess.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">At the start of an Eversor’s turn, they may use a single
+    dose of one of the following combat drugs as a Free Action. A single dose of
+    any of these combat drugs taken by anyone other than an Eversor Assassin
+    inflicts 1d6 mortal wounds instead of their normal effect.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p><ul><li><p><span
+    class="fontstyle0"><strong>Fury</strong>: </span><span
+    class="fontstyle2">The Eversor’s Speed is doubled for the duration of this
+    turn.</span> </p></li><li><p><span
+    class="fontstyle0"><strong>Terminus</strong>: </span><span
+    class="fontstyle2">If the Eversor starts Dying before the start of their
+    next turn, they may continue to act normally for a number of rounds equal to
+    their Toughness. If the Eversor is still Dying after this time, they die
+    immediately, and explode.</span></p></li><li><p><span
+    class="fontstyle0"><strong>Destroyer</strong>: </span><span
+    class="fontstyle2">During this turn, if the Eversor scores a critical hit or
+    kills an enemy, they may immediately move up to half their Speed and make
+    one additional melee attack if they are within reach. If this or any
+    subsequent attack this turn also scores a critical hit or reduces an enemy
+    to 0 Wounds, roll a d6: on a 4 or more, the Eversor may make another
+    half-Speed move and another attack.</span></p></li></ul><p></p><p><span
+    class="fontstyle0">One combat drug dispenser has three doses each of Fury
+    and Destroyer, and a single dose of Terminus.</span> <br style=" font-style:
+    normal; font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 11
+  keywords: TEMPLUM EVERSOR
+  effect: ''
+_id: 1HdUYd8P3yCGg54q
+folder: KWUAQMjZN5oEaNAX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710257099173
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 200000
+_key: '!items!1HdUYd8P3yCGg54q'

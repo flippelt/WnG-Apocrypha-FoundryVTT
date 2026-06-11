@@ -1,0 +1,33 @@
+name: Order of the Cleansing Water
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects: []
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.yZUyPnWgIjVEgOFp
+system:
+  description: >-
+    <p>Pestilence and corruption are as deadly to the Imperium as the blades and
+    bullets of mankind’s enemies. The Order of the Cleansing Water seeks to
+    combat these insidious, creeping dangers.</p><p><strong>Indomitable
+    Purity:</strong> Allies with the @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM
+    }keyword within 6m of you reduce the rating of any
+    @UUID[JournalEntry.BPgzsg94UgmFsrTK]{Poisoned }condition, or the DN of any
+    test to resist disease, by 1+ double your Rank. If this would reduce the
+    rating or DN to 0, then the poison or disease has no effect.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: yZUyPnWgIjVEgOFp
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!yZUyPnWgIjVEgOFp'

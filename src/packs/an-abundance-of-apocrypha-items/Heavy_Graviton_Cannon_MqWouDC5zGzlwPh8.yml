@@ -1,0 +1,70 @@
+folder: UzODMAaTgnvKsHE4
+name: Heavy Graviton Cannon
+type: weapon
+_id: MqWouDC5zGzlwPh8
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">This larger, more potent version of the
+    Grav-cannon is normally encountered upon Adeptus Mechanicus Kataphron battle
+    servitors.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 8
+  keywords: GRAV, ADEPTUS MECHANICUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 8
+    bonus: 0
+    rank: none
+  ed:
+    base: 3
+    bonus: 0
+    rank: none
+  ap:
+    base: -3
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 15
+    medium: 30
+    long: 45
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 5
+  traits:
+    - name: heavy
+      rating: 8
+    - name: grav
+      custom: true
+      display: Grav
+      description: >-
+        Grav weaponry turn their targets’ own mass against them. The weapon
+        gains additional ED equal to half the target’s Resilience, and the
+        target is Staggered until the end of its next turn if they suffer any
+        wounds or shock from the attack.
+  upgrades: []
+effects: []
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709901624692
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!MqWouDC5zGzlwPh8'

@@ -1,0 +1,38 @@
+folder: ZMoR03HW5eXVf9E1
+name: Protector Imperative
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: SKITARII keyword
+  description: >-
+    <p>Though doctrina imperatives are normally initiated by a Tech-Priest
+    overseeing the Skitarii in action, you have been equipped with protocols for
+    independent action. You can engage an imperative which heightens visual
+    acuity, fine motor control, and reflexes.<br>At the start of any of your
+    turns, you may activate the Protector Imperative. This adds +Double Rank
+    bonus dice to any ranged attacks you attempt during that turn but increases
+    the DN of any melee attacks you attempt that turn by +3. At the end of a
+    turn in which you activate the Protector Imperative, you suffer 1d3+2
+    Shock.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.burUyp3a8qkZZNU5
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127044124
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: xIQ6vW1k0kJoVdJ9
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 10800000
+_key: '!items!xIQ6vW1k0kJoVdJ9'

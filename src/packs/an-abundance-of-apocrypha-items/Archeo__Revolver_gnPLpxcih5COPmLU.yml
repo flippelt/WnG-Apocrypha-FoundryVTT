@@ -1,0 +1,66 @@
+name: Archeo- Revolver
+type: weapon
+img: modules/wng-core/assets/icons/weapons/ranged-weapon.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.exotic-ranged-weapons.Item.gnPLpxcih5COPmLU
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Ancient and prized sidearms of the Adeptus
+    Mechanicus, these seemingly simple pistols pack a surprisingly heavy punch
+    due to arcane secrets used in the manufacture of the ammunition. They are
+    entrusted to skilled Skitarii Alphas who have proven that they will not
+    waste these precious shots</span>.</p>
+  value: 7
+  keywords: PROJECTILE, ADEPTUSMECHANICUS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 12
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 6
+    medium: 12
+    long: 18
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 1
+  traits:
+    - name: pistol
+    - name: reliable
+  upgrades: []
+_id: gnPLpxcih5COPmLU
+folder: hr6DHRhQu5yyLCTD
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709923711878
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!gnPLpxcih5COPmLU'

@@ -1,0 +1,47 @@
+name: Envenomed Blade
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.iTQphKddy8hmp5Kj
+system:
+  description: >-
+    <p><span class="fontstyle0">In the darker, crueller parts of the galaxy, a
+    venomcoated blade can be just the edge needed to
+    survive.</span></p><p></p><p><span class="fontstyle0">Any melee weapon with
+    the </span><span class="fontstyle2"><strong>BLADE</strong> </span><span
+    class="fontstyle0">keyword may take this upgrade.</span></p><p></p><p><span
+    class="fontstyle2" style="color:rgb(0,0,0);"><strong>Effect</strong>:
+    </span><span class="fontstyle0">The wielder of the weapon may spend a Simple
+    Action during combat applying venom to the blade from a hidden reservoir.
+    The weapon gains the Inflict (Poisoned 3) trait until the end of the current
+    scene.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  effect: ''
+  value: 4
+  rarity: uncommon
+  keywords: '[ANY]'
+  traits: []
+_id: iTQphKddy8hmp5Kj
+folder: 7CS5GsLu157itFOz
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483224
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!iTQphKddy8hmp5Kj'

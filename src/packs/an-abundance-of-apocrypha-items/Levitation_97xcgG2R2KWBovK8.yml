@@ -1,0 +1,70 @@
+name: Levitation
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.discipline.Item.97xcgG2R2KWBovK8
+system:
+  dn: '4'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You call upon your telekinetic abilities to lift yourself into the air.
+    While this power remains in effect, you can lift yourself up to Willpower
+    metres in the air. This is not true flight, only vertical movement.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Sustained
+  range: Self
+  multiTarget: false
+  keywords: KINETIC, PSYCHIC
+  prerequisites: ''
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: You lift yourself +1 metre.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 97xcgG2R2KWBovK8
+folder: 4l2ZECZopcUcauCc
+sort: 125000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711729247414
+  modifiedTime: 1711748025794
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!97xcgG2R2KWBovK8'

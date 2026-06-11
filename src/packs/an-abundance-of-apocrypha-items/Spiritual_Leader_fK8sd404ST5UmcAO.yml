@@ -1,0 +1,99 @@
+folder: fgtFfRbmshJ8KM1n
+name: Spiritual Leader
+type: ability
+_id: fK8sd404ST5UmcAO
+img: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You, and all allies with the IMPERIUM keyword within 15+Rank metres add
+    +Rank to Resolve. This increases to +Double Rank if they share your
+    [CHAPTER] keyword.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+    name: Spiritual Leader (NOT Share [CHAPTER])
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank'
+    _id: 5guMP0kTnYOxpSKh
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!fK8sd404ST5UmcAO.5guMP0kTnYOxpSKh'
+  - icon: modules/wng-core/assets/icons/abilities/adeptus-astartes.webp
+    name: Spiritual Leader (Share [CHAPTER])
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '@advances.rank * 2'
+        priority: null
+    _id: FazaFrmoGZydAZVY
+    disabled: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!fK8sd404ST5UmcAO.FazaFrmoGZydAZVY'
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710719443571
+  modifiedTime: 1710719551462
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!fK8sd404ST5UmcAO'

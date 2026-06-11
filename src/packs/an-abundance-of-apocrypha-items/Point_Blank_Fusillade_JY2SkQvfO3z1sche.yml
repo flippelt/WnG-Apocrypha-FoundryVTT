@@ -1,0 +1,34 @@
+folder: ZMoR03HW5eXVf9E1
+name: Point-Blank Fusillade
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: LEAGUES OF VOTANN keyword, Ballistic Skill rating 2+
+  description: >-
+    <p>You are resolute and steadfast, able to maintain a punishing rate of fire
+    even when the enemy is at your throat.</p><p>Any
+    @UUID[Item.wpkWPNKyvh8vv7PC]{LEAGUES OF VOTANN} ranged weapon you wield may
+    be fired when you are engaged in melee, as if it had the Pistol trait. If
+    the weapon also has the Heavy trait, then the DN of attacks made when
+    engaged are increased by +2.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.08o4BqeUYr2ofLtw
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699804096248
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: JY2SkQvfO3z1sche
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 3500000
+_key: '!items!JY2SkQvfO3z1sche'

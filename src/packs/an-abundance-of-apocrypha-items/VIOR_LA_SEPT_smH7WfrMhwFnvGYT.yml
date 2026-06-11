@@ -1,0 +1,40 @@
+folder: JmXLzf2ge3nwJeU0
+name: VIOR'LA SEPT
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+system:
+  description: >-
+    <p>Vior’la means “hot-blooded” in the T’au language, and its people live up
+    to that moniker, for they are passionate, quick to anger, and even
+    aggressive.</p><p>• <strong>Air</strong> caste T’au from Vior’la have a
+    knack for high-speed manoeuvres that other T’au might balk at: they ignore
+    the additional Wrath Dice that comes piloting a vehicle at Breakneck
+    speed.</p><p>• <strong>Earth</strong> caste T’au from Vior’la are quick to
+    experiment and jury-rig the devices they use: they may add a second Wrath
+    die to any Tech test they attempt, and thus have the potential for two
+    criticals, two complications, or one of each.</p><p>• <strong>Fire</strong>
+    caste T’au advance and redeploy quickly, adding +1 to their Speed during the
+    first round of each combat, and +1 Speed when they Run or Sprint.</p><p>•
+    <strong>Water</strong> caste T’au from Vior’la are fast-talking and
+    effusive: they may add a second Wrath die to any Persuasion test they
+    attempt, and thus have the potential for two criticals, two complications,
+    or one of each.</p>
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iYp6dB5WrQVMAUpe
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664207638106
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: smH7WfrMhwFnvGYT
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!smH7WfrMhwFnvGYT'

@@ -1,0 +1,74 @@
+name: Counterfire Defence System
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects:
+  - icon: modules/wng-core/assets/icons/gear/gear.webp
+    name: Counterfire Defence System
+    _id: 2WBdzrbL6USaqNKI
+    changes:
+      - key: ed.base
+        mode: 7
+        value: (@ed.base*0) + 1
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: reflexive counterfire defence system
+            hide: ''
+    tint: null
+    _key: '!items.effects!hs03ulC1ZmvPY53J.2WBdzrbL6USaqNKI'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tau-equipment.Item.hs03ulC1ZmvPY53J
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Point defence systems blunt incoming attacks
+    with bursts of shrapnel and pulses of energy. A Counterfire Defence System
+    is a Support System available to most forms of T'au
+    Battlesuit.</span></p><p></p><p><span
+    class="fontstyle2"><strong>Effect</strong>: </span><span
+    class="fontstyle0">When you are attacked, you may spend 1 Glory as a
+    Reflexive Action to activate this system. The attack’s number of ED is
+    reduced to 1.</span> <br style=" font-style: normal; font-variant: normal;
+    font-weight: normal; letter-spacing: normal; line-height: normal; orphans:
+    2; text-align: -webkit-auto; text-indent: 0px; text-transform: none;
+    white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust:
+    auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: T’AU EMPIRE, SUPPORT SYSTEM
+  effect: ''
+_id: hs03ulC1ZmvPY53J
+folder: G6w5YJj7QygkEzDX
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710258892571
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!hs03ulC1ZmvPY53J'

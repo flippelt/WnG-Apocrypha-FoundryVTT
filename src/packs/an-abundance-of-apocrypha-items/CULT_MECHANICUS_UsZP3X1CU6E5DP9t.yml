@@ -1,0 +1,24 @@
+folder: EOubWyxMDb5RRb88
+name: CULT MECHANICUS
+type: keyword
+img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+system:
+  description: ''
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.YeNILEptJzmAJox6
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699735031050
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: UsZP3X1CU6E5DP9t
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!UsZP3X1CU6E5DP9t'

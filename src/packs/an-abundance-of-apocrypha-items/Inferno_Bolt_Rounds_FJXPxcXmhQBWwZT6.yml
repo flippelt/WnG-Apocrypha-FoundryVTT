@@ -1,0 +1,76 @@
+name: Inferno Bolt Rounds
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+effects:
+  - icon: modules/wng-core/assets/icons/ammo/ammo.webp
+    name: Inferno Bolt Rounds
+    _id: Z0CuzoZIn1KmEMqG
+    changes:
+      - key: system.ap.base
+        mode: 5
+        value: '-2'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!FJXPxcXmhQBWwZT6.Z0CuzoZIn1KmEMqG'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.ammo.Item.FJXPxcXmhQBWwZT6
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">Imbued with the sorcerous power of Tzeentch,
+    Inferno bolts are a weapon favoured by warriors of the Thousand Sons Legion,
+    but the secrets of their manufacture have spread to other servants of the
+    Changer of Ways as well. A bolter loaded with Inferno bolts can blast
+    through all but the toughest armour with a burst of iridescent blue
+    flame.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">AP -2, and the </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">FIRE </span><span
+    class="fontstyle0">keyword.</span> <br style=" font-style: normal;
+    font-variant: normal; font-weight: normal; letter-spacing: normal;
+    line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px;
+    text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;
+    -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: CHAOS, HERETIC ASTARTES, TZEENTCH
+  effect: ''
+  traits: []
+_id: FJXPxcXmhQBWwZT6
+folder: qnM5Rkyt2djZ275h
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017422214
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 1500000
+_key: '!items!FJXPxcXmhQBWwZT6'

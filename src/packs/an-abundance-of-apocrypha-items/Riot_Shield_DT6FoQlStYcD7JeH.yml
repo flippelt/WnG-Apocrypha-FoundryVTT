@@ -1,0 +1,38 @@
+name: Riot Shield
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+system:
+  quantity: 1
+  rarity: uncommon
+  description: >-
+    <p>These lightweight shields are favoured by planetary law enforcement
+    during riot suppression and similar conflict. Normally a simple piece of
+    tempered armourplas fitted with a handle or wristlock, these shields are
+    found in a variety of forms across the Imperium.</p>
+  value: 4
+  keywords: LIGHT, IMPERIUM
+  equipped: false
+  rating: 1
+  base: 0
+  traits:
+    - name: shield
+  invulnerable: false
+effects: []
+flags:
+  cf: null
+  core: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663861778538
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: eLb57h7zaMzBK94e
+_id: DT6FoQlStYcD7JeH
+sort: 1300000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!DT6FoQlStYcD7JeH'

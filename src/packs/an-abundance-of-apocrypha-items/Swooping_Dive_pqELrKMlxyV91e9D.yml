@@ -1,0 +1,33 @@
+folder: R6DiCyrJrBf1MKBz
+name: Swooping Dive
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 25
+  requirements: Shining Spear aspect
+  description: >-
+    <p>You descend from the skies upon your shining steed, to tremendous effect.
+    When you, or a member of your squad, moves with their jetbike with the
+    intention of charging into melee, you increase the normal charge bonus to
+    your melee attack to +3d, and ignore the penalty for moving at breakneck
+    speed.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.pqELrKMlxyV91e9D
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700068029569
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: pqELrKMlxyV91e9D
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!pqELrKMlxyV91e9D'

@@ -1,0 +1,35 @@
+folder: ZMoR03HW5eXVf9E1
+name: Saga of Majesty
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: SPACE WOLVES keyword, Fellowship rating 4+
+  description: >-
+    <p>You are like the warrior-kings of Fenris, wise and mighty, inspiring
+    others to acts of valour and greatness.<br>You may spend a point of Wrath to
+    immediately pass a Resolve test. In addition, when you pass a Resolve test,
+    you may spend one or more Glory to rally and inspire others: all characters
+    with the @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM}keyword within 15m heal Shock
+    equal to twice the amount of Glory spent.<br><br></p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.C77Tj1ST4eN0U7nR
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664127361255
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 2ukyVcNtL4Dgzbw9
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 400000
+_key: '!items!2ukyVcNtL4Dgzbw9'

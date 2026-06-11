@@ -1,0 +1,81 @@
+name: Voidwise
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects:
+  - _id: Ouip3PhlPFFcPoNF
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    icon: modules/wng-core/assets/icons/abilities/ability.webp
+    transfer: true
+    flags: {}
+    tint: null
+    origin: null
+    name: Voidwise
+    description: ''
+    statuses: []
+    _key: '!items.effects!l64NpVAYFVAsKZFg.Ouip3PhlPFFcPoNF'
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  cf: null
+  core: {}
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>The character is&nbsp;accustomed to the vagaries of life&nbsp;aboard ship
+    or station and is well-versed in protective rites
+    and&nbsp;emergency&nbsp;doctrines.&nbsp;The&nbsp;character gains +1d on all
+    tests to&nbsp;resist radiation and ignores all&nbsp;penalties to action
+    caused by low or zero-gravity environments.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057287
+  modifiedTime: 1710190653641
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: l64NpVAYFVAsKZFg
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!l64NpVAYFVAsKZFg'

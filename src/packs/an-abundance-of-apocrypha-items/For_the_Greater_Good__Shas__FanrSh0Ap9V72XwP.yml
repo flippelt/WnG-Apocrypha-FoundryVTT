@@ -1,0 +1,55 @@
+name: For the Greater Good (Shas)
+type: ability
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: j9tQJM6VB7YLJ7SX
+flags:
+  core: {}
+  cf: null
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>When you assist an ally using Awareness, Ballistic Skill, or Stealth, you
+    may halve the number of dice you would add and add that many Icons to the
+    test you are assisting.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219057012
+  modifiedTime: 1710190653641
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: FanrSh0Ap9V72XwP
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!FanrSh0Ap9V72XwP'

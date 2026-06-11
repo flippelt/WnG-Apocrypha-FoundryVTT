@@ -1,0 +1,67 @@
+name: Paragon Grenade Launcher
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade-launcher.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>These launchers propel a hail of implosive Krak grenades onto the
+    enemy.</p>
+  value: 10
+  keywords: POWERED, WARSUIT, ADEPTA SORORITAS
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 14
+    bonus: 0
+    rank: none
+  ed:
+    base: 5
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: ranged
+  range:
+    short: 12
+    medium: 24
+    long: 36
+    melee: 12
+    thrown: null
+  ammo: ''
+  salvo: 2
+  traits:
+    - name: blast
+      rating: 4
+    - name: barrage
+      custom: true
+      display: Barrage
+      description: >-
+        The weapon fires salvoes of explosive ammunition that scatter over a
+        wide area. When this weapon makes a Salvo attack, increase the weapon’s
+        Blast rating by the weapon’s Salvo value.
+  upgrades: []
+effects: []
+flags:
+  core: {}
+  cf: null
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663852819441
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: Jr1XUs92ggb9r4uN
+_id: a2cyVcXnquxWJi8p
+sort: 1600000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!a2cyVcXnquxWJi8p'

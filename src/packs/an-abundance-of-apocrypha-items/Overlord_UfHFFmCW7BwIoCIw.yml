@@ -1,0 +1,52 @@
+folder: fgtFfRbmshJ8KM1n
+name: Overlord
+type: ability
+_id: UfHFFmCW7BwIoCIw
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are accompanied by a retinue of 4 + Double Rank Kabalite Trueborn
+    Troops. Allied characters with the [KABAL] or INCUBI keywords within 6
+    metres may re-roll any die which rolls a 1 when making an attack.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710778164321
+  modifiedTime: 1710778183381
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!UfHFFmCW7BwIoCIw'

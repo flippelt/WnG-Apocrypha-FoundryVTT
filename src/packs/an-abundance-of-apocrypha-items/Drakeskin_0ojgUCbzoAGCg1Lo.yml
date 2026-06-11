@@ -1,0 +1,111 @@
+name: Drakeskin
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Drakeskin
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@test.result.res'
+        priority: null
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '@test.result.det'
+        priority: null
+    _id: pVUqK7EWP0haDsHW
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!0ojgUCbzoAGCg1Lo.pVUqK7EWP0haDsHW'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.0ojgUCbzoAGCg1Lo
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You summon a shimmering layer of translucent scales around your allies,
+    harder even than the impervious hides of the great Drakes of Nocturne.
+    Select an ally within Range. The ally gains +2 Resilience and +2
+    Determination while the power remains in effect.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: Sustained
+  range: 12m
+  multiTarget: true
+  keywords: PSYCHIC
+  prerequisites: SALAMANDERS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 Resilience.
+      cost: 2
+      property: res
+      initial: 2
+      value: 1
+      single: false
+    - description: +1 Determination.
+      cost: 2
+      property: det
+      initial: 2
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 0ojgUCbzoAGCg1Lo
+folder: 2jEPrFTYa93W4edw
+sort: 300000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959282
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!0ojgUCbzoAGCg1Lo'

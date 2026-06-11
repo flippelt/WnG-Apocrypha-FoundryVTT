@@ -1,0 +1,253 @@
+folder: yFKwNivJm2h6RQHw
+name: Eversor Assassin
+type: archetype
+_id: ANX6JC0nHzGVnJKY
+img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
+system:
+  tier: 5
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Officio Assassinorum
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.GgJupC58AywMDFq9
+  influence: 0
+  cost: 320
+  keywords:
+    - IMPERIUM
+    - OFFICIO ASSASSINORUM
+    - TEMPLUM EVERSOR
+  attributes:
+    strength: 5
+    toughness: 5
+    agility: 5
+    initiative: 5
+    willpower: 4
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: 3
+    awareness: 2
+    ballisticSkill: 5
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 2
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 1
+    stealth: 4
+    survival: 3
+    tech: 1
+    weaponSkill: 5
+  ability:
+    name: Hyper-Metabolism
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bo62XgOUuTpis014
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Augmetic Viscera
+      id: Compendium.wng-core.items.Item.tvECN1cFLZoS6z8O
+      type: item
+      diff: {}
+      index: 1
+      groupId: kEKtu1olIXDmYBr5
+    - name: Cardioproxy
+      id: Compendium.wng-core.items.Item.JqeKArmZ4gqZl8u3
+      type: item
+      diff: {}
+      index: 2
+      groupId: K58jWTh7vV9y1WuW
+    - name: Reflex Catalyst
+      id: Compendium.wng-core.items.Item.sZjriYwtvnDCpeoC
+      type: item
+      diff: {}
+      index: 3
+      groupId: sa0RHtlMyWl4NIPm
+    - name: Sinew Armature
+      id: Compendium.wng-core.items.Item.UEhKDQO8DRg9XvTz
+      type: item
+      diff: {}
+      index: 4
+      groupId: mD8vsBderfgQbTbx
+    - name: Executioner Pistol (Bolt)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.T9NUw7WIfBg7EymX
+      type: item
+      diff: {}
+      index: 5
+      groupId: 0TPI8sRWgPMBzXIp
+    - name: Executioner Pistol (Needler)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9m96XdsDMludIdsb
+      type: item
+      diff: {}
+      index: 6
+      groupId: 7fsXgNAIRc0cRDyL
+    - name: Sentinel Array
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.KtsbWNhngqmwKcDN
+      type: item
+      diff: {}
+      index: 7
+      groupId: JEG3OFBUr1lxhixo
+    - name: Neuro-Gauntlet
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.P3Eo6PH1UsIxuWQT
+      type: item
+      diff: {}
+      index: 8
+      groupId: uDMotSQKyit0Rk3z
+    - name: Power Sword
+      id: Compendium.wng-core.items.Item.yGdYJq6FWVgYE7GA
+      type: item
+      diff: {}
+      index: 9
+      groupId: hdJUaNMJnxafTsbq
+    - name: Melta Bomb
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ymCGa2JdK8qvqwhr
+      type: item
+      diff:
+        system:
+          quantity: 2
+      index: 10
+      groupId: vVmaNYQl2JXEbzgL
+    - name: Eversor Combat Drugs
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1HdUYd8P3yCGg54q
+      type: item
+      diff: {}
+      index: 11
+      groupId: 3iAAzC1WvBTc6EXt
+    - name: Eversor Combat Drugs (Destroyer)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Ajtggkr0puG5wXq1
+      type: item
+      diff: {}
+      index: 12
+      groupId: b9M2Nsl7niG80bCX
+    - name: Eversor Combat Drugs (Fury)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.yiuQNXog64W8ff3x
+      type: item
+      diff: {}
+      index: 13
+      groupId: ra8AFSyA6HUaNR7p
+    - name: Eversor Combat Drugs (Terminus)
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6hN8iCuReOEki61b
+      type: item
+      diff: {}
+      index: 14
+      groupId: cpfS1oeGYce0i0Qh
+    - name: Assassinorum Bodyglove
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.50gYnTefq7FohjIH
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: kEKtu1olIXDmYBr5
+      - index: 2
+        type: item
+        groupId: K58jWTh7vV9y1WuW
+      - index: 3
+        type: item
+        groupId: sa0RHtlMyWl4NIPm
+      - index: 4
+        type: item
+        groupId: mD8vsBderfgQbTbx
+      - index: 5
+        type: item
+        groupId: 0TPI8sRWgPMBzXIp
+      - index: 6
+        type: item
+        groupId: 7fsXgNAIRc0cRDyL
+      - index: 7
+        type: item
+        groupId: JEG3OFBUr1lxhixo
+      - index: 8
+        type: item
+        groupId: uDMotSQKyit0Rk3z
+      - index: 9
+        type: item
+        groupId: hdJUaNMJnxafTsbq
+      - index: 10
+        type: item
+        groupId: vVmaNYQl2JXEbzgL
+      - index: 11
+        type: item
+        groupId: 3iAAzC1WvBTc6EXt
+      - index: 12
+        type: item
+        groupId: b9M2Nsl7niG80bCX
+      - index: 13
+        type: item
+        groupId: ra8AFSyA6HUaNR7p
+      - index: 14
+        type: item
+        groupId: cpfS1oeGYce0i0Qh
+      - index: 15
+        type: item
+        groupId: 0pTxOEfvsWNfnIVk
+  suggested:
+    attributes:
+      strength: 6
+      toughness: 6
+      agility: 6
+      initiative: 5
+      willpower: 4
+      intellect: 3
+      fellowship: 1
+    skills:
+      athletics: 4
+      awareness: 3
+      ballisticSkill: 5
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 4
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 1
+      stealth: 4
+      survival: 3
+      tech: 1
+      weaponSkill: 6
+    talents:
+      - id: 3uI0Gw1jMR7J0GG6
+        name: Brutalist
+      - id: YOJXISADzQlwp1Lc
+        name: Fear
+      - id: 2G1RaWceBpoHoUBb
+        name: Storm of Death
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710780384023
+  modifiedTime: 1710780730986
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ANX6JC0nHzGVnJKY'

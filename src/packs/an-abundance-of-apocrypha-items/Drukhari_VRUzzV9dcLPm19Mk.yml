@@ -1,0 +1,262 @@
+folder: AL59YG508FNku3U7
+name: Drukhari
+type: faction
+img: modules/wng-core/assets/icons/abilities/aeldari.webp
+system:
+  journal: ''
+  backgrounds:
+    origin:
+      - name: Trueborn
+        description: >-
+          You were born naturally, to one of the powerful families of the Dark
+          City whose resources allowed them to raise a child in the traditional
+          manner. You are a scion of the powerful, raised from childhood to
+          dominate and terrorise.
+        effect: TcppR3NUHFRn6T78
+      - name: Halfborn
+        description: >-
+          You were born from an artificial gestation tube, quickly and
+          efficiently, like the majority of Drukhari. To thrive in the slums and
+          lower tiers of the Dark City, you had to be ruthless and ambitious.
+        effect: nFTwXP93XRTHBZY7
+      - name: Wrought
+        description: >-
+          You know not from whence you came, only that you awoke upon a
+          Haemonculus’ table fully formed and thirsting for the agony of others.
+          Your mysterious, possibly unnatural origin may disquiet some, but you
+          are what you have made of yourself.
+        effect: TirWPEBgjyZVEa5v
+    accomplishment:
+      - name: Raider
+        description: >-
+          You were part of a victorious real-space raid, and the souls you
+          dragged back, and the recorded hologhosts of your kills have earned
+          you prestige, glory, and status.
+        effect: RTYOJ5VU0QBGlzxD
+      - name: Triumph
+        description: >-
+          You set foot within the arena, and you emerged victorious. The
+          hard-fought victory came with many scars, the ache of which still
+          reminds you of the fury of the battle.
+        effect: h13ZbGOHdmoF3xBQ
+      - name: Usurper
+        description: >-
+          You attained your status through guile and skill, undermining and then
+          eliminating a former superior and assuming their position. You know
+          that others seek to recreate your ascension and take what you have
+          won, but you will not make it easy for them…
+        effect: nFTwXP93XRTHBZY7
+    goal:
+      - name: Dominion
+        description: >-
+          You seek to rise to the highest levels of Drukhari society, by any
+          means necessary. Nothing short of final death or ultimate dominion
+          will see your ambition sated.
+        effect: JbkF8DQ4eR9s3JbR
+      - name: Terror
+        description: >-
+          Out there, in realspace, there is a place which awaits your malicious
+          attentions, which has not learned to dread your kind. You will find
+          them, and you will feast upon their anguish.
+        effect: nFTwXP93XRTHBZY7
+      - name: Satiety
+        description: >-
+          The thirst that gnaws away at your soul, at once part of you and
+          external to you, is a perpetual weight upon your existence. You will
+          slake that thirst, or escape it.
+        effect: eIgvDuWWVihk9c8h
+  objectives:
+    - Revel in the pain or distress of another creature
+    - >-
+      Be scornful or dismissive of the taboos of other Aeldari, or another
+      species
+    - Coerce or threaten another creature into doing what you want
+    - Apply your cruelty and cunning to trick or ambush a foe
+    - Explain a number of the different ways you could hurt or kill someone
+    - Gain in status or influence through murder or intimidation
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.resources.influence
+        mode: 2
+        value: '1'
+        priority: null
+    _id: TcppR3NUHFRn6T78
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: false
+    flags: {}
+    name: Influence
+    description: ''
+    statuses: []
+    _key: '!items.effects!VRUzzV9dcLPm19Mk.TcppR3NUHFRn6T78'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.determination.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: nFTwXP93XRTHBZY7
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: false
+    flags: {}
+    name: Determination
+    description: ''
+    statuses: []
+    _key: '!items.effects!VRUzzV9dcLPm19Mk.nFTwXP93XRTHBZY7'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.shock.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: TirWPEBgjyZVEa5v
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: false
+    flags: {}
+    name: Max Shock
+    description: ''
+    statuses: []
+    _key: '!items.effects!VRUzzV9dcLPm19Mk.TirWPEBgjyZVEa5v'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.resources.wealth
+        mode: 2
+        value: '1'
+        priority: null
+    _id: RTYOJ5VU0QBGlzxD
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: false
+    flags: {}
+    name: Wealth
+    description: ''
+    statuses: []
+    _key: '!items.effects!VRUzzV9dcLPm19Mk.RTYOJ5VU0QBGlzxD'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.wounds.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: h13ZbGOHdmoF3xBQ
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: false
+    flags: {}
+    name: Max Wounds
+    description: ''
+    statuses: []
+    _key: '!items.effects!VRUzzV9dcLPm19Mk.h13ZbGOHdmoF3xBQ'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.resolve.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: JbkF8DQ4eR9s3JbR
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: false
+    flags: {}
+    name: Resolve
+    description: ''
+    statuses: []
+    _key: '!items.effects!VRUzzV9dcLPm19Mk.JbkF8DQ4eR9s3JbR'
+  - icon: modules/wng-core/assets/icons/abilities/aeldari.webp
+    changes:
+      - key: system.combat.conviction.bonus
+        mode: 2
+        value: '1'
+        priority: null
+    _id: eIgvDuWWVihk9c8h
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: null
+    transfer: false
+    flags: {}
+    name: Convction
+    description: ''
+    statuses: []
+    _key: '!items.effects!VRUzzV9dcLPm19Mk.eIgvDuWWVihk9c8h'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.VRUzzV9dcLPm19Mk
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664402286220
+  modifiedTime: 1710451663449
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: VRUzzV9dcLPm19Mk
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!VRUzzV9dcLPm19Mk'

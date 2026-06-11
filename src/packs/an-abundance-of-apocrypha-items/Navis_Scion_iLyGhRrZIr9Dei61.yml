@@ -1,0 +1,163 @@
+folder: wXE2cq9PrNi3qmiu
+name: Navis Scion
+type: archetype
+_id: iLyGhRrZIr9Dei61
+img: modules/wng-core/assets/icons/abilities/adeptus-astra-telepathica.webp
+system:
+  tier: 4
+  journal: ''
+  species:
+    name: Navigator
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.sct1yeuKvW4tOqGn
+  faction:
+    name: Navis Nobilite
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.5RxAf14CFmfPl7O4
+  influence: 4
+  cost: 170
+  keywords:
+    - IMPERIUM
+    - NAVIS NOBILITE
+    - '[HOUSE]'
+    - PSYKER
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 4
+    intellect: 4
+    fellowship: 4
+  skills:
+    athletics: 4
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: 2
+    intimidation: null
+    investigation: null
+    leadership: 3
+    medicae: null
+    persuasion: 3
+    pilot: 2
+    psychicMastery: 5
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Elite Warp Guide
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.pYFwq5qVPEM0oQw0
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Refractor Field
+      id: Compendium.wng-core.items.Item.2B042fHI5jIAoQv9
+      type: item
+      diff: {}
+      index: 1
+      groupId: IVGw1SK0Z78030R1
+    - name: Master-Crafted Laspistol
+      id: Compendium.wng-core.items.Item.cgAJlyCsjH6xdX66
+      type: item
+      diff: {}
+      index: 2
+      groupId: M1TxqQayd8KBIqsG
+    - name: Force Stave
+      id: Compendium.wng-core.items.Item.9vfkaU0vc61t7hKO
+      type: item
+      diff: {}
+      index: 3
+      groupId: iVmOPxGOZtMdvf8M
+    - name: Finest Nobilite Robes (Very Rare Clothing)
+      id: Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB
+      type: item
+      diff:
+        system:
+          rarity: very-rare
+        name: Finest Nobilite Robes (Very Rare Clothing)
+      index: 4
+      groupId: mvaQ1luE6VifNW7i
+    - name: Emperors Tarot Deck (Psychic Focus)
+      id: Compendium.wng-core.items.Item.hm72b4pxq5EzPYSu
+      type: item
+      diff:
+        name: Emperors Tarot Deck (Psychic Focus)
+      index: 5
+      groupId: 92Sq286C5U3jvwQu
+    - type: generic
+      name: Wealth 4
+      filters: []
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: IVGw1SK0Z78030R1
+      - index: 2
+        type: item
+        groupId: M1TxqQayd8KBIqsG
+      - index: 3
+        type: item
+        groupId: iVmOPxGOZtMdvf8M
+      - index: 4
+        type: item
+        groupId: mvaQ1luE6VifNW7i
+      - index: 5
+        type: item
+        groupId: 92Sq286C5U3jvwQu
+      - type: item
+        index: 6
+        groupId: YS11LAF4oxHOhgim
+  suggested:
+    attributes:
+      strength: 2
+      toughness: 3
+      agility: 4
+      initiative: 4
+      willpower: 5
+      intellect: 4
+      fellowship: 5
+    skills:
+      athletics: null
+      awareness: 5
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: 3
+      intimidation: 2
+      investigation: null
+      leadership: 3
+      medicae: null
+      persuasion: 4
+      pilot: 3
+      psychicMastery: 5
+      scholar: 4
+      stealth: null
+      survival: null
+      tech: 1
+      weaponSkill: 2
+    talents:
+      - id: g9UNr62JibJnRHjk
+        name: Fashionista
+      - id: iiqjZLMe2IxQMth5
+        name: Noble Peer
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710713983733
+  modifiedTime: 1710714431258
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!iLyGhRrZIr9Dei61'

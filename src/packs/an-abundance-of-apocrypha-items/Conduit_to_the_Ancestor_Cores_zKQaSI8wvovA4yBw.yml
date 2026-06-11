@@ -1,0 +1,53 @@
+folder: fgtFfRbmshJ8KM1n
+name: Conduit to the Ancestor Cores
+type: ability
+_id: zKQaSI8wvovA4yBw
+img: modules/wng-core/assets/icons/abilities/ability.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You are a Psyker; you know the Smite psychic power. You know one power
+    from the Skeinwrought discipline and may learn other powers from the
+    Skeinwrought discipline. </p><p>In addition, add +1 Resolve to allies with
+    the LEAGUES OF VOTANN keyword within 6m.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710703783865
+  modifiedTime: 1710703796910
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!zKQaSI8wvovA4yBw'

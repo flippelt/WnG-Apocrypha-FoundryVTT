@@ -1,0 +1,177 @@
+folder: ROlAnhrCE5Xnjc9P
+name: Inquisitorial Storm Trooper
+type: archetype
+_id: G89MZixd7biIVfO0
+img: modules/wng-core/assets/icons/abilities/the-inquisition.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
+  faction:
+    name: The Inquisition
+    id: Compendium.wng-core.items.Item.ox4kbeKwe9jd5MbL
+  influence: 1
+  cost: 62
+  keywords:
+    - IMPERIUM
+    - ASTRA MILITARUM
+    - INQUISITION
+    - '[ORDO]'
+  attributes:
+    strength: 3
+    toughness: 3
+    agility: 3
+    initiative: null
+    willpower: 3
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: 2
+    ballisticSkill: 2
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  ability:
+    name: Priority Target
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0JKKM41iae2ZiVbP
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Tempestus Carapace
+      id: Compendium.wng-core.items.Item.TOeeyDBDTHf8VcgD
+      type: item
+      diff: {}
+      index: 1
+      groupId: dJlA72Eq9Dkm8piD
+    - name: Hot-Shot Lasgun
+      id: Compendium.wng-core.items.Item.PY4IMmjlmcUUG5FK
+      type: item
+      diff: {}
+      index: 2
+      groupId: FeVSmkENLQbj8zEL
+    - name: Mono Knife
+      id: Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4
+      type: item
+      diff: {}
+      index: 3
+      groupId: VPfuzYBOF6isLX1p
+    - name: Munitorum-Issue Mess Kit
+      id: Compendium.wng-core.items.Item.mOWPCO1mNXNKsGNa
+      type: item
+      diff: {}
+      index: 4
+      groupId: Qu6GSoTQva5ftDRB
+    - name: Slate Monitron
+      id: Compendium.wng-core.items.Item.EHirtLQLz77ycSxq
+      type: item
+      diff: {}
+      index: 5
+      groupId: cuRTeHiuW9OpcgIG
+    - name: Monoscope
+      id: Compendium.wng-core.items.Item.SWEx4ZoVCxd0oz5O
+      type: item
+      diff: {}
+      index: 6
+      groupId: kQEHeLfzEUux7EuZ
+    - name: Ration Packs
+      id: Compendium.wng-core.items.Item.vsjZCbjBNivbeUhk
+      type: item
+      diff:
+        system:
+          quantity: 3
+      index: 7
+      groupId: UIODzrxdwQnIuE8s
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: dJlA72Eq9Dkm8piD
+      - index: 2
+        type: item
+        groupId: FeVSmkENLQbj8zEL
+      - index: 3
+        type: item
+        groupId: VPfuzYBOF6isLX1p
+      - index: 4
+        type: item
+        groupId: Qu6GSoTQva5ftDRB
+      - index: 5
+        type: item
+        groupId: cuRTeHiuW9OpcgIG
+      - index: 6
+        type: item
+        groupId: kQEHeLfzEUux7EuZ
+      - index: 7
+        type: item
+        groupId: UIODzrxdwQnIuE8s
+  suggested:
+    attributes:
+      strength: 4
+      toughness: 3
+      agility: 4
+      initiative: 3
+      willpower: 4
+      intellect: 2
+      fellowship: 2
+    skills:
+      athletics: 2
+      awareness: 2
+      ballisticSkill: 4
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: null
+      investigation: 2
+      leadership: 1
+      medicae: null
+      persuasion: null
+      pilot: 2
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: 2
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: s6OMveAvTlOrsUsO
+        name: Deadshot
+      - id: HYuKXdU1r5yNyRU1
+        name: Die Hard
+      - id: cXUP0H7NhFrzytDr
+        name: Bloodhound
+      - id: Mjor56Aijl63tHLs
+        name: Identify Weakness
+      - id: h3cX58IYSA7DiKnI
+        name: Overwatch
+effects: []
+sort: 0
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710609054265
+  modifiedTime: 1710616877482
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!G89MZixd7biIVfO0'

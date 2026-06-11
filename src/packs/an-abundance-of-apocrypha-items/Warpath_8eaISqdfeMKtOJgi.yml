@@ -1,0 +1,110 @@
+name: Warpath
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Warpath
+    changes:
+      - key: pool.bonus
+        mode: 2
+        value: '@test.result.bon'
+        priority: null
+    _id: yuSzeAK5LSr9T32j
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!8eaISqdfeMKtOJgi.yuSzeAK5LSr9T32j'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.8eaISqdfeMKtOJgi
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You disperse the Waaagh energy coursing through your frame into the Ork
+    warriors around you, stoking their already bellicose nature into a roaring
+    fever pitch. Select a number of allies with the ORK keyword equal to your
+    Willpower within range. The affected allies add +2 bonus dice to all melee
+    attacks they attempt until the start of your next turn, and they may ignore
+    up to 2 points of DN increase for taking the Multi-Attack or Multi-Action
+    options</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 18m
+  multiTarget: false
+  keywords: ORK, PSYCHIC
+  prerequisites: ORK
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Increase DN reduction by 1.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: +1 bonus dice to melee attacks.
+      cost: 1
+      property: bon
+      initial: 2
+      value: 1
+      single: false
+    - description: Affect an number of additional allies equal to your Willpower.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: 8eaISqdfeMKtOJgi
+folder: Vt31I1SOn32VDAY2
+sort: 275000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742909
+  modifiedTime: 1712707816516
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!8eaISqdfeMKtOJgi'

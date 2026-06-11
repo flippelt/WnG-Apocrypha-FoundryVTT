@@ -1,0 +1,63 @@
+name: Agripinaa
+type: keyword
+img: modules/wng-core/assets/factions/adepta-mechanicus.svg
+effects:
+  - icon: modules/wng-core/assets/factions/adepta-mechanicus.svg
+    name: Staunch Defenders
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+    _id: 8I8Jz341r6rUC4xt
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: >-
+              STAUNCH DEFENDERS: When you are in cover and did not move during
+              your turn, you add +Rank bonus dice to your ranged attacks.
+            hide: ''
+    tint: null
+    _key: '!items.effects!G8NKH4XJLQQYnLZM.8I8Jz341r6rUC4xt'
+folder: EOubWyxMDb5RRb88
+flags:
+  wng-core:
+    initialization-folder: Keywords
+    sort: 1800000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.G8NKH4XJLQQYnLZM
+system:
+  description: >-
+    <p>Battle-hardened by constant clashes with the horrors that issue out of
+    the Eye of Terror, those from Forge World Agripinaa have learned the lessons
+    of defensive warfare well.</p><p><strong>STAUNCH DEFENDERS:</strong> When
+    you are in cover and did not move during your turn, you add +Rank bonus dice
+    to your ranged attacks.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699478596396
+  modifiedTime: 1710530219665
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: G8NKH4XJLQQYnLZM
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!G8NKH4XJLQQYnLZM'

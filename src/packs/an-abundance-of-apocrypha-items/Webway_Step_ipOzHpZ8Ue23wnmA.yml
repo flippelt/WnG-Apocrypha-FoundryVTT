@@ -1,0 +1,79 @@
+name: Webway Step
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.ipOzHpZ8Ue23wnmA
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You are highly attuned to the Webway, and can slip within its reaches
+    with ease, without the use of a gate. You vanish and reappear a few moments
+    later at any point within range. You must reappear standing on solid ground
+    or another object sturdy enough to support your weight.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 25m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: AELDARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: >-
+        You may bring along +1 ally who is within 3m of you when the power is
+        used.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Increase the range by 25m.
+      cost: 1
+      property: range
+      initial: ''
+      value: 25
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: ipOzHpZ8Ue23wnmA
+folder: SmX3hRCBEh4fNCZL
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742841
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!ipOzHpZ8Ue23wnmA'

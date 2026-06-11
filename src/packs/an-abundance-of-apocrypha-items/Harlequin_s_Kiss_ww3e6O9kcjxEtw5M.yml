@@ -1,0 +1,76 @@
+name: Harlequin’s Kiss
+type: weapon
+_id: ww3e6O9kcjxEtw5M
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p>A Harlequin's Kiss is one of the more horrifying close combat weapons
+    employed by the Aeldari and is used only by Harlequins. The most iconic
+    weapon that the masques carry to war, the Harlequin's Kiss is horrifically
+    lethal. This weapon consists of a sharpened tube containing a tightly coiled
+    retractable monofilament wire. When activated, usually by a forward punching
+    motion, the wire is violently released. If the wire penetrates its victim,
+    it instantly uncoils and lashes around violently, liquefying bones and
+    internal organs, and causing immediate death in a spectacular and bloody
+    fashion. The wire then retracts back into the Kiss for another use.</p>
+  value: 6
+  keywords: MONOFILAMENT, HARLEQUIN
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 6
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -1
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: careful
+      custom: true
+      display: Careful
+      description: >-
+        A Careful Weapon requires precision and care to wield and cannot easily
+        be used to make multiple rapid attacks. A Careful Weapon cannot be used
+        to make a Multi-Attack.
+    - name: mortal-(d3)
+      custom: true
+      display: Mortal (d3)
+      description: >-
+        The weapon deals horrific, deadly wounds that are nigh-impossible to
+        withstand. For each Exalted Icon you roll on the weapon’s ED, you
+        inflict X Mortal Wounds, in addition to any damage the attack inflicts.
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 1100000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709856333780
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!ww3e6O9kcjxEtw5M'

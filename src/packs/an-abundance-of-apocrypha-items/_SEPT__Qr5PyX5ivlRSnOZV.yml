@@ -1,0 +1,25 @@
+folder: JmXLzf2ge3nwJeU0
+name: '[SEPT]'
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/tau-white.png
+system:
+  description: ''
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Qr5PyX5ivlRSnOZV
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664207638106
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Qr5PyX5ivlRSnOZV
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Qr5PyX5ivlRSnOZV'

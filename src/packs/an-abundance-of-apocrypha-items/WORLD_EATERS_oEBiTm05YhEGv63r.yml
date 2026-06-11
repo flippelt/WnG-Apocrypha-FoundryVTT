@@ -1,0 +1,54 @@
+name: WORLD EATERS
+type: keyword
+img: modules/wng-apocrypha/assets/images/factions/world-eaters-white.png
+effects: []
+folder: 2T5G7V5JDuIkc0Om
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.oEBiTm05YhEGv63r
+system:
+  description: >-
+    <p>One of the Legions that betrayed the Emperor during the Horus Heresy, the
+    World Eaters were always known for their ferocity and brutality. The Twelfth
+    Legion always applied maximum force to every conflict, leaving mountains of
+    corpses in their wake, and they were only unleashed against enemies who
+    could not be reasoned with or forced to yield. During the Heresy, their
+    brutality grew, turning them into bloodthirsty berserkers who would struggle
+    to tell friend from foe in the crimson haze of their frenzy.</p>
+
+    <p>Characters with the @Item[oEBiTm05YhEGv63r]{WORLD EATERS} keyword must
+    take @Item[mqwRRs7PGybjDZRj]{KHORNE} as their @Item[TXRdb9GJ55fjSODX]{[MARK
+    OF CHAOS]} keyword.</p>
+
+    <h5>Incarnate Violence</h5>
+
+    <p>You are driven to spill blood and rend flesh, and nothing will stop
+    you.</p>
+
+    <p>You may reroll Double Rank dice on any melee attack test.</p>
+
+    <h5>Butcher&rsquo;s Nails (Gene-Seed)</h5>
+
+    <p>The implants buried in your skull drive you into fits of berserk rage in
+    battle.</p>
+
+    <p>Upon engaging in melee combat, you become Frenzied for the rest of the
+    battle. The Willpower test DN to restrain your frenzy increases by +1 for
+    every enemy you have killed during the battle.</p>
+
+    <h5>&nbsp;</h5>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056400
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: oEBiTm05YhEGv63r
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!oEBiTm05YhEGv63r'

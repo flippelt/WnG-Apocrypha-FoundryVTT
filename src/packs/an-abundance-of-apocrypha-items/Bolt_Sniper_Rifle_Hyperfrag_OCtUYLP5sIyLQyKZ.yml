@@ -1,0 +1,37 @@
+name: Bolt Sniper Rifle Hyperfrag
+type: ammo
+img: modules/wng-core/assets/icons/ammo/ammo.webp
+system:
+  quantity: 1
+  rarity: common
+  description: ''
+  value: 0
+  keywords: ''
+  effect: ''
+  traits:
+    - name: blast
+      rating: 2
+      type: add
+effects: []
+flags:
+  scene-packer:
+    hash: cf0587cec7d7be6205ca9291fc4f45a88992ad2e
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OCtUYLP5sIyLQyKZ
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1665424112541
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+folder: qnM5Rkyt2djZ275h
+_id: OCtUYLP5sIyLQyKZ
+sort: 750000
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+  iqIIJEvwgrLX4V4E: 3
+_key: '!items!OCtUYLP5sIyLQyKZ'

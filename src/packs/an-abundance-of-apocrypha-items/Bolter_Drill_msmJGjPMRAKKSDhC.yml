@@ -1,0 +1,36 @@
+folder: ZMoR03HW5eXVf9E1
+name: Bolter Drill
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 20
+  requirements: ' IMPERIAL FISTS keyword or CRIMSON FISTS keyword'
+  description: >-
+    <p>Your aim is guided by years, even decades, of marksmanship training, and
+    you can unleash a<br>devastating fusillade of bolter fire.<br>When you make
+    a successful attack with a weapon with the Bolt keyword, and you roll a 6 on
+    your Wrath die, instead of inflicting a critical hit you may choose to spend
+    1 ammo and make an additional attack with that weapon immediately, at the
+    same target or another within 2+Rank metres of the initial target. This
+    additional attack may not generate any further attacks.</p>
+  display: true
+effects: []
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.msmJGjPMRAKKSDhC
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1663877864096
+  modifiedTime: 1710611264116
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: msmJGjPMRAKKSDhC
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 9300000
+_key: '!items!msmJGjPMRAKKSDhC'

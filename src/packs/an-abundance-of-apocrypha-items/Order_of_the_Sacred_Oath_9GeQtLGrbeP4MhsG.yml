@@ -1,0 +1,31 @@
+name: Order of the Sacred Oath
+type: keyword
+img: modules/wng-core/assets/factions/adepta-sororitas.svg
+effects: []
+folder: pgzI4vCfuH4hxBQk
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.9GeQtLGrbeP4MhsG
+system:
+  description: >-
+    <p>While they have many other duties, the Order of the Sacred Oath are often
+    called upon to bear witness to other servants of the Imperium swearing oaths
+    of purpose or devotion when elevated to new ranks or preparing new
+    undertakings.</p><p><strong>Voice of Judgement:</strong> When you attempt a
+    Persuasion interaction attack, you may spend 1 Faith Point to target +Rank
+    enemies.</p>
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056110
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 9GeQtLGrbeP4MhsG
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!9GeQtLGrbeP4MhsG'

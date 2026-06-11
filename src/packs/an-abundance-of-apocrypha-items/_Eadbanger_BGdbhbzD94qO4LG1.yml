@@ -1,0 +1,73 @@
+name: ‘Eadbanger
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.BGdbhbzD94qO4LG1
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>A bolt of raw power erupts from your head and rockets across the
+    battlefield, causing the head of the first unfortunate victim caught in its
+    path to explode in a shower of brains and gore. This power targets the
+    closest enemy, who must pass a Toughness test (DN 3) immediately suffer
+    enough wounds to exceed their Max Wounds by 1.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: Instant
+  range: 18m
+  multiTarget: false
+  keywords: ORK, PSYCHIC
+  prerequisites: ORK
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: +1 DN to the target’s Toughness test.
+      cost: 1
+      property: test.dn
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: 3
+    type: attribute
+    specification: toughness
+_id: BGdbhbzD94qO4LG1
+folder: Vt31I1SOn32VDAY2
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742892
+  modifiedTime: 1712707816516
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!BGdbhbzD94qO4LG1'

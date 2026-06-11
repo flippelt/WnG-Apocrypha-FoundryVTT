@@ -1,0 +1,32 @@
+folder: R6DiCyrJrBf1MKBz
+name: Withdraw
+type: talent
+img: modules/wng-core/assets/icons/talents/talent.webp
+system:
+  effect: ''
+  cost: 30
+  requirements: Agility 6+
+  description: >-
+    <p>You are elusive and cannot be held in any battles but the ones they
+    choose to fight. When you or a member of your squad moves out of Engagement
+    with an enemy, you do not provoke Reflexive Attacks from that enemy: you are
+    always considered to have taken the Fall Back action.</p>
+  display: true
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.X2t0BuW7pM3PxHf6
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1700068666751
+  modifiedTime: 1710451665255
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: WKlWjOZsxfBYAzmy
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!WKlWjOZsxfBYAzmy'

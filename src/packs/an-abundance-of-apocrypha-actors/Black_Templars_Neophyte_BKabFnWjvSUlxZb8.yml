@@ -1,0 +1,1258 @@
+folder: 9sw4Sr9YK6UbygF5
+name: Black Templars Neophyte
+type: threat
+_id: BKabFnWjvSUlxZb8
+img: modules/wng-core/assets/tokens/archetype-space-marine-scout.webp
+system:
+  attributes:
+    strength:
+      label: ATTRIBUTE.STRENGTH
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    toughness:
+      label: ATTRIBUTE.TOUGHNESS
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    agility:
+      label: ATTRIBUTE.AGILITY
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    initiative:
+      label: ATTRIBUTE.INITIATIVE
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    willpower:
+      label: ATTRIBUTE.WILLPOWER
+      rating: 0
+      base: 4
+      bonus: 0
+      cost: 0
+      total: 0
+    intellect:
+      label: ATTRIBUTE.INTELLECT
+      rating: 0
+      base: 3
+      bonus: 0
+      cost: 0
+      total: 0
+    fellowship:
+      label: ATTRIBUTE.FELLOWSHIP
+      rating: 0
+      base: 2
+      bonus: 0
+      cost: 0
+      total: 0
+  skills:
+    athletics:
+      label: SKILL.ATHLETICS
+      attribute: strength
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    awareness:
+      label: SKILL.AWARENESS
+      attribute: intellect
+      rating: 5
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    ballisticSkill:
+      label: SKILL.BALLISTIC_SKILL
+      attribute: agility
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    cunning:
+      label: SKILL.CUNNING
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    deception:
+      label: SKILL.DECEPTION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    insight:
+      label: SKILL.INSIGHT
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    intimidation:
+      label: SKILL.INTIMIDATION
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    investigation:
+      label: SKILL.INVESTIGATION
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    leadership:
+      label: SKILL.LEADERSHIP
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    medicae:
+      label: SKILL.MEDICAE
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    persuasion:
+      label: SKILL.PERSUASION
+      attribute: fellowship
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    pilot:
+      label: SKILL.PILOT
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    psychicMastery:
+      label: SKILL.PSYCHIC_MASTERY
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    scholar:
+      label: SKILL.SCHOLAR
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    stealth:
+      label: SKILL.STEALTH
+      attribute: agility
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    survival:
+      label: SKILL.SURVIVAL
+      attribute: willpower
+      rating: 2
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    tech:
+      label: SKILL.TECH
+      attribute: intellect
+      rating: 3
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+    weaponSkill:
+      label: SKILL.WEAPON_SKILL
+      attribute: initiative
+      rating: 4
+      base: 0
+      bonus: 0
+      cost: 0
+      total: 0
+  combat:
+    defense:
+      bonus: 0
+      total: 0
+    defence:
+      bonus: 0
+      total: 0
+    resilience:
+      bonus: 0
+      total: 0
+    wounds:
+      value: 0
+      bonus: 0
+      max: 10
+    determination:
+      bonus: 0
+      total: 0
+    shock:
+      value: 0
+      bonus: 0
+      max: 7
+    resolve:
+      bonus: 0
+      total: 0
+    conviction:
+      bonus: 0
+      total: 0
+    size: average
+    speed: 7
+    fly: 0
+    passiveAwareness:
+      bonus: 0
+      total: 0
+    stealth: 0
+  bio:
+    species: ''
+    faction: ''
+    archetype: ''
+    threat:
+      first: '-'
+      second: '-'
+      third: ''
+      fourth: E
+  resources:
+    ruin: 0
+  corruption:
+    current: 0
+  mob: null
+  notes: >-
+    <p><strong>Value</strong>: 6 Rare</p><p><span class="fontstyle0"><strong>You
+    may only acquire a Black Templars Neophyte if you are an
+    </strong></span><span class="fontstyle2"><strong>ADEPTUS ASTARTES
+    </strong></span><span class="fontstyle0"><strong>character (including
+    </strong></span><span class="fontstyle2"><strong>PRIMARIS
+    </strong></span><span class="fontstyle0"><strong>Astartes) of the
+    </strong></span><span class="fontstyle2"><strong>BLACK TEMPLARS
+    </strong></span><span
+    class="fontstyle0"><strong>Chapter.</strong></span></p><p><br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p><p>Unlike other Space Marine Chapters,
+    the Black Templars have no dedicated Scout Company in which its aspirants
+    are trained. Should a survivor of the trials impress one of the assembled
+    battle-brothers, an Initiate may take it upon himself to personally mentor
+    the neophyte in the art of war.</p><p>From that point on, the Initiate takes
+    sole responsibility for his pupil's training and conduct. He swears an oath
+    to prepare the neophyte for his entry into the brotherhood that is the
+    Chapter, teach him of its history, and guide him through its holy rites of
+    worship to the Emperor.</p><p>In return, the neophyte pledges obedience to
+    his master and vows never to bring dishonour to his name. Neophytes also act
+    as servants to their mentors, waiting on them at the great banquets and
+    seeing to their day-to-day requirements. The crusade's Chaplains oversee
+    this training and make sure the neophyte learns the history of the Chapter
+    and watch for any signs of weakness in the neophyte's faith.</p><p>The
+    neophyte will also accompany his Initiate into combat, and should his master
+    fall, another brother will take up his training. The bond between the
+    Initiate and his neophyte pupil is strong, and if the neophyte meets his
+    end, the Initiate will swear a death oath to avenge his apprentice or die
+    trying.</p><p>It is the Initiate's prerogative to say when his apprentice's
+    training is complete. Once he has proven his valour and skill, a Black
+    Templars neophyte submits to the Chapter's Chaplains to undergo the final
+    trials of purity before, in a ceremony of great reverence, he is elevated
+    into the ranks of a full battle-brother of Initiate status and honoured with
+    a suit of Power Armour. He is now truly a Black Templar, possessed of great
+    power, and sworn to use it in the Emperor's service unto death.<br></p>
+prototypeToken:
+  name: Black Templars Neophyte
+  displayName: 20
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  texture:
+    src: modules/wng-core/assets/tokens/archetype-space-marine-scout.webp
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: 0
+  displayBars: 20
+  bar1:
+    attribute: combat.wounds
+  bar2:
+    attribute: combat.shock
+  light:
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  flags: {}
+  randomImg: false
+items:
+  - _id: IReycb0HfR06jy3c
+    name: IMPERIUM
+    type: keyword
+    img: modules/wng-core/assets/ui/aquila-white.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 3500000
+      core:
+        sourceId: Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ
+    system:
+      description: >-
+        <p>The vast interstellar empire of Humanity that spans over a million
+        worlds, led by the Emperor from Holy Terra. </p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656027
+      modifiedTime: 1710357144486
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!BKabFnWjvSUlxZb8.IReycb0HfR06jy3c'
+  - _id: T2S8NgCkfkoyeKay
+    name: ADEPTUS ASTARTES
+    type: keyword
+    img: modules/wng-core/assets/factions/adeptus-astartes.svg
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Keywords
+        sort: 150000
+      core:
+        sourceId: Compendium.wng-core.items.Item.KiNbJ09wqnmccwb0
+    system:
+      description: >-
+        <p>The Space Marines: genetically enhanced transhuman super soldiers who
+        know no fear.&nbsp;</p>
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497656023
+      modifiedTime: 1710357154606
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: SXjZUgQ1pROPVE9j
+    sort: 0
+    _key: '!actors.items!BKabFnWjvSUlxZb8.T2S8NgCkfkoyeKay'
+  - name: BLACK TEMPLARS
+    type: keyword
+    img: modules/wng-core/assets/factions/adeptus-astartes.svg
+    effects: []
+    folder: MYPvcOwyYBKhGpby
+    flags:
+      cf: null
+      core:
+        sourceId: >-
+          Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.d3vDOtbmIhagzSuf
+    system:
+      description: >-
+        <p>Following the example set by First Captain Sigismund of the Imperial
+        Fists Legion, the Black Templars are eternal crusaders, having devoted
+        themselves utterly to the continued war against the enemies of the
+        Emperor. The Black Templars&rsquo; crusades have lasted the hundred
+        centuries since their formation, making it the longest Astartes crusade
+        ever carried out, and the Black Templars&rsquo; fanaticism and righteous
+        fury is legendary. Because of the far-ranging nature of their eternal
+        crusades, groups of Black Templars can be found across the Imperium and
+        beyond, from crusades consisting of several fighting companies of
+        marines, to individual squads or lone warriors on detached duty or
+        penitent mission. Characters with the Black Templars keyword may not,
+        under any circumstances, take the @Item[JVz6FoVEc7p1DJUj]{PSYKER}
+        keyword: The Black Templars accept no psykers within their ranks.</p>
+
+        <h4>Righteous Zeal</h4>
+
+        <p>&nbsp;Your hatred permits you to show no mercy, nor does it permit
+        you to yield while the enemy draws breath. When you charge, you may
+        re-roll up to Rank dice on your Weapon Skill test. In addition, you may
+        reroll Rank dice when you roll Determination.</p>
+
+        <h4>Gene-Seed Flaw (Gene-Seed)&nbsp;</h4>
+
+        <p>Though proven resistant to mutation and deviance, the Imperial Fists
+        gene-seed inhibits two of the Space Marine implants.&nbsp;</p>
+
+        <p>You are missing implant 12: Sus-an Membrane, and implant 17:
+        Bletcher&rsquo;s Gland. See @JournalEntry[LxNQ4A1Tp09MxkVb]{Adeptus
+        Astartes} for more information on Space Marine implants.&nbsp;&nbsp;</p>
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664219056215
+      modifiedTime: 1710357329198
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _id: KqWqCRdEyxG0lWGK
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    sort: 0
+    _key: '!actors.items!BKabFnWjvSUlxZb8.KqWqCRdEyxG0lWGK'
+  - _id: 0mtj7zRTtCCIDeZo
+    name: Scout Armour
+    type: armour
+    img: modules/wng-core/assets/icons/armour/scout-armour.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Armour
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.Pfn2CzxV09pA1B2i
+    system:
+      quantity: 1
+      rarity: rare
+      description: >-
+        <p>Thick ceramite plates combine with exceptionally tough carbon-weave
+        fatigues to provide unparalleled protection on the battlefield without
+        sacrificing mobility. </p>
+      value: 5
+      keywords: IMPERIUM, ADEPTUS ASTARTES
+      equipped: true
+      rating: 4
+      base: 0
+      traits: []
+      invulnerable: false
+      invelnerable: false
+      bonus:
+        attributes:
+          strength: 0
+          toughness: 0
+          agility: 0
+          initiative: 0
+          willpower: 0
+          intellect: 0
+          fellowship: 0
+        skills:
+          athletics: 0
+          awareness: 0
+          ballisticSkill: 0
+          cunning: 0
+          deception: 0
+          insight: 0
+          intimidation: 0
+          investigation: 0
+          leadership: 0
+          medicae: 0
+          persusasion: 0
+          pilot: 0
+          psychicMastery: 0
+          scholar: 0
+          stealth: 0
+          survival: 0
+          tech: 0
+          weaponSkill: 0
+        combat:
+          defence: 0
+          resilience: 0
+          wounds: 0
+          determination: 0
+          shock: 0
+          resolve: 0
+          passiveAwareness: 0
+          conviction: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654721
+      modifiedTime: 1710357426615
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: K59Lb8PvaCmIrviu
+    sort: 0
+    _key: '!actors.items!BKabFnWjvSUlxZb8.0mtj7zRTtCCIDeZo'
+  - name: Know No Fear
+    type: talent
+    _id: t1z58WnqGIfvud7y
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Reroll any failed dice on a Resolve test.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710357475960
+      modifiedTime: 1710357503992
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!BKabFnWjvSUlxZb8.t1z58WnqGIfvud7y'
+  - name: Masters Vow
+    type: talent
+    _id: T4ieGbg0P4IFck3P
+    img: modules/wng-core/assets/icons/talents/talent.webp
+    system:
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>If this follower’s owner has taken any <strong>Vow</strong> talents,
+        this Follower also benefits from them while within 6m of their
+        owner.</p>
+      display: true
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710358252172
+      modifiedTime: 1710358306694
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!BKabFnWjvSUlxZb8.T4ieGbg0P4IFck3P'
+  - _id: 4KBdmLwqYBn5HT9n
+    name: Boltgun
+    type: weapon
+    img: modules/wng-core/assets/icons/weapons/boltgun.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Weapons
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.I7yC0O7DawbOznUf
+    system:
+      quantity: 1
+      rarity: uncommon
+      description: >-
+        Though cumbersome in the hands of lesser mortals, Boltguns — sometimes
+        simply called ‘Bolters’ — were built for Astartes. These all-purpose
+        rifles are extensions of a Space Marine’s body. 
+      value: 6
+      keywords: BOLT, IMPERIUM
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 12
+        medium: 24
+        long: 36
+        melee: 1
+        thrown: null
+        salvo: 2
+      ammo: ''
+      salvo: 2
+      traits:
+        - name: brutal
+        - rating: 2
+          name: rapidFire
+      upgrades: []
+      bonus:
+        attributes:
+          strength: 0
+          toughness: 0
+          agility: 0
+          initiative: 0
+          willpower: 0
+          intellect: 0
+          fellowship: 0
+        skills:
+          athletics: 0
+          awareness: 0
+          ballisticSkill: 0
+          cunning: 0
+          deception: 0
+          insight: 0
+          intimidation: 0
+          investigation: 0
+          leadership: 0
+          medicae: 0
+          persusasion: 0
+          pilot: 0
+          psychicMastery: 0
+          scholar: 0
+          stealth: 0
+          survival: 0
+          tech: 0
+          weaponSkill: 0
+        combat:
+          defence: 0
+          resilience: 0
+          wounds: 0
+          determination: 0
+          shock: 0
+          resolve: 0
+          passiveAwareness: 0
+          conviction: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654715
+      modifiedTime: 1710358509205
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: 85dkcvhBYli5TJrZ
+    sort: 0
+    _key: '!actors.items!BKabFnWjvSUlxZb8.4KBdmLwqYBn5HT9n'
+  - _id: YuhLzWDKKw1E3IzW
+    name: Bolt Pistol
+    type: weapon
+    img: modules/wng-core/assets/icons/weapons/bolt-pistol.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Weapons
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.7b2xcPWBB7up65PM
+    system:
+      quantity: 1
+      rarity: uncommon
+      description: >-
+        All the shock and awe of a fully fledged bolt weapon within a compact
+        casing. Assault specialists facing off against dangerous foes or
+        officers looking to make a fearsome statement favour these powerful and
+        compact weapons.
+      value: 4
+      keywords: BOLT, IMPERIUM
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 1
+        thrown: null
+        salvo: 1
+      ammo: ''
+      salvo: 1
+      traits:
+        - name: brutal
+        - name: pistol
+      upgrades: []
+      bonus:
+        attributes:
+          strength: 0
+          toughness: 0
+          agility: 0
+          initiative: 0
+          willpower: 0
+          intellect: 0
+          fellowship: 0
+        skills:
+          athletics: 0
+          awareness: 0
+          ballisticSkill: 0
+          cunning: 0
+          deception: 0
+          insight: 0
+          intimidation: 0
+          investigation: 0
+          leadership: 0
+          medicae: 0
+          persusasion: 0
+          pilot: 0
+          psychicMastery: 0
+          scholar: 0
+          stealth: 0
+          survival: 0
+          tech: 0
+          weaponSkill: 0
+        combat:
+          defence: 0
+          resilience: 0
+          wounds: 0
+          determination: 0
+          shock: 0
+          resolve: 0
+          passiveAwareness: 0
+          conviction: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654705
+      modifiedTime: 1710358507273
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: 85dkcvhBYli5TJrZ
+    sort: 0
+    _key: '!actors.items!BKabFnWjvSUlxZb8.YuhLzWDKKw1E3IzW'
+  - _id: 5gI2XSynOB69KT7O
+    name: Astartes Combat Knife
+    type: weapon
+    img: modules/wng-core/assets/icons/weapons/astartes-combat-knife.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Weapons
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.4QVBQYWXXLyvFWkj
+    system:
+      quantity: 1
+      rarity: uncommon
+      description: >-
+        This large, exceptionally sharp blade is carried by many Space Marines
+        as part of their standard issue armament. Similar in size to a regular
+        Human’s short sword, this knife has a monomolecular edge that never
+        dulls and always cuts true.
+      value: 3
+      keywords: BLADE, ADEPTUS ASTARTES
+      equipped: true
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 7
+        bonus: 0
+        rank: none
+      ed:
+        base: 3
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      ap:
+        base: -1
+        bonus: 0
+        rank: none
+      category: melee
+      range:
+        short: 0
+        medium: 0
+        long: 0
+        melee: 1
+        thrown: null
+      ammo: ''
+      salvo: 0
+      traits:
+        - name: reliable
+      upgrades: []
+      bonus:
+        attributes:
+          strength: 0
+          toughness: 0
+          agility: 0
+          initiative: 0
+          willpower: 0
+          intellect: 0
+          fellowship: 0
+        skills:
+          athletics: 0
+          awareness: 0
+          ballisticSkill: 0
+          cunning: 0
+          deception: 0
+          insight: 0
+          intimidation: 0
+          investigation: 0
+          leadership: 0
+          medicae: 0
+          persusasion: 0
+          pilot: 0
+          psychicMastery: 0
+          scholar: 0
+          stealth: 0
+          survival: 0
+          tech: 0
+          weaponSkill: 0
+        combat:
+          defence: 0
+          resilience: 0
+          wounds: 0
+          determination: 0
+          shock: 0
+          resolve: 0
+          passiveAwareness: 0
+          conviction: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654704
+      modifiedTime: 1710359860460
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: 85dkcvhBYli5TJrZ
+    sort: 0
+    _key: '!actors.items!BKabFnWjvSUlxZb8.5gI2XSynOB69KT7O'
+  - name: Follower Options
+    type: ability
+    _id: 3sMixXl5uFES2V5H
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>The follower's Boltgun may be exchanged for an Astartes Combat
+        Shotgun.</p><p></p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710358525229
+      modifiedTime: 1710358676525
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!BKabFnWjvSUlxZb8.3sMixXl5uFES2V5H'
+  - _id: fBllrgNTp32BHiLe
+    name: Astartes Combat Shotgun
+    type: weapon
+    img: modules/wng-core/assets/icons/weapons/astartes-shotgun.webp
+    effects: []
+    flags:
+      wng-core:
+        initialization-folder: Weapons
+        sort: 0
+      core:
+        sourceId: Compendium.wng-core.items.Item.AIHdpGZLIL7bo0Xk
+    system:
+      quantity: 1
+      rarity: rare
+      description: >-
+        <p>Clip-fed, multi-action shotguns issued to Astartes Scouts, these
+        weapons fire oversized shotgun shells and are capable of ripping doors
+        from hinges and limbs from foes.</p>
+      value: 6
+      keywords: PROJECTILE, IMPERIUM, ADEPTUS ASTARTES
+      equipped: false
+      attack:
+        base: 0
+        bonus: 0
+        rank: none
+      damage:
+        base: 10
+        bonus: 0
+        rank: none
+      ed:
+        base: 1
+        bonus: 0
+        rank: none
+        die:
+          one: 0
+          two: 0
+          three: 0
+          four: 1
+          five: 1
+          six: 2
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      category: ranged
+      range:
+        short: 6
+        medium: 12
+        long: 18
+        melee: 1
+        thrown: null
+        salvo: 2
+      ammo: ''
+      salvo: 2
+      traits:
+        - name: assault
+        - name: spread
+        - name: reliable
+      upgrades: []
+      bonus:
+        attributes:
+          strength: 0
+          toughness: 0
+          agility: 0
+          initiative: 0
+          willpower: 0
+          intellect: 0
+          fellowship: 0
+        skills:
+          athletics: 0
+          awareness: 0
+          ballisticSkill: 0
+          cunning: 0
+          deception: 0
+          insight: 0
+          intimidation: 0
+          investigation: 0
+          leadership: 0
+          medicae: 0
+          persusasion: 0
+          pilot: 0
+          psychicMastery: 0
+          scholar: 0
+          stealth: 0
+          survival: 0
+          tech: 0
+          weaponSkill: 0
+        combat:
+          defence: 0
+          resilience: 0
+          wounds: 0
+          determination: 0
+          shock: 0
+          resolve: 0
+          passiveAwareness: 0
+          conviction: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1664497654707
+      modifiedTime: 1710359875516
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    folder: 85dkcvhBYli5TJrZ
+    sort: 0
+    _key: '!actors.items!BKabFnWjvSUlxZb8.fBllrgNTp32BHiLe'
+  - name: Determination
+    type: ability
+    _id: mQfsn1jOSJ8NQCFo
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: <p>Spend 1 Glory to roll 3d6</p>
+      display: true
+      abilityType: determination
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags: {}
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710358692655
+      modifiedTime: 1710358725476
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!BKabFnWjvSUlxZb8.mQfsn1jOSJ8NQCFo'
+  - name: Space Marine Implants
+    type: ability
+    _id: sx5HxDtREg9avteA
+    img: modules/wng-core/assets/icons/abilities/ability.webp
+    system:
+      dn: 0
+      type: ''
+      specification: ''
+      effect: ''
+      cost: 0
+      requirements: ''
+      description: >-
+        <p>Gain bonus dice and options for actions from Space Marine Implants,
+        p.75 of the Wrath & Glory Core Rulebook.</p>
+      display: true
+      abilityType: ''
+      traits: []
+      damage:
+        base: 0
+        bonus: 0
+        rank: none
+      ed:
+        base: 0
+        bonus: 0
+        rank: none
+      ap:
+        base: 0
+        bonus: 0
+        rank: none
+      otherDamage:
+        mortalWounds: ''
+        wounds: ''
+        shock: ''
+      test:
+        dn: null
+        type: ''
+    effects:
+      - icon: modules/wng-core/assets/icons/abilities/ability.webp
+        name: Space Marine Implants
+        _id: pQpoViubwtUy9oqH
+        changes:
+          - key: pool.bonus
+            mode: 6
+            value: '1'
+            priority: null
+        disabled: false
+        duration:
+          startTime: null
+          seconds: null
+          combat: null
+          rounds: null
+          turns: null
+          startRound: null
+          startTurn: null
+        description: ''
+        origin: null
+        transfer: true
+        statuses: []
+        flags:
+          wrath-and-glory:
+            changeCondition:
+              '0':
+                script: ''
+                description: Related to Space Marine Implants
+                hide: ''
+        tint: null
+        _key: >-
+          !actors.items.effects!BKabFnWjvSUlxZb8.sx5HxDtREg9avteA.pQpoViubwtUy9oqH
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      iqIIJEvwgrLX4V4E: 3
+    flags:
+      core:
+        sourceId: Item.75h1qayfNCFaOFvw
+    _stats:
+      systemId: wrath-and-glory
+      systemVersion: 5.0.2
+      coreVersion: '11.315'
+      createdTime: 1710358752299
+      modifiedTime: 1710358857007
+      lastModifiedBy: iqIIJEvwgrLX4V4E
+    _key: '!actors.items!BKabFnWjvSUlxZb8.sx5HxDtREg9avteA'
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/ability.webp
+    name: Space Marine Implants
+    _id: ZOLTHrFgtTS0oU8m
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '1'
+        priority: null
+    disabled: false
+    duration:
+      startTime: 0
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: Actor.BKabFnWjvSUlxZb8.Item.sx5HxDtREg9avteA
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Related to Space Marine Implants
+            hide: ''
+    tint: null
+    _key: '!actors.effects!BKabFnWjvSUlxZb8.ZOLTHrFgtTS0oU8m'
+sort: 0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags:
+  wrath-and-glory:
+    autoCalc:
+      defence: true
+      resilience: true
+      shock: true
+      awareness: true
+      resolve: true
+      determination: true
+      wounds: true
+      conviction: true
+    autoWounded: true
+    autoExhausted: true
+    generateMetaCurrencies: true
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710357753264
+  modifiedTime: 1710452071644
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!actors!BKabFnWjvSUlxZb8'

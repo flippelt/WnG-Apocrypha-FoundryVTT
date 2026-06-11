@@ -1,0 +1,136 @@
+folder: cZ7bosRjx1cxapg8
+name: Pestigor
+type: archetype
+img: modules/wng-core/assets/icons/abilities/chaos.webp
+system:
+  tier: 1
+  journal: ''
+  species:
+    name: Beastman
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Pmkvgia9uKxhEOVk
+  faction:
+    name: Chaos
+    id: Compendium.wng-core.items.Item.oNSe7G9pJIHehwhI
+  influence: 1
+  cost: 34
+  keywords:
+    - CHAOS
+    - ABHUMAN
+    - HERETIC
+    - NURGLE
+  attributes:
+    strength: 3
+    toughness: 4
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: 1
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: 1
+  ability:
+    name: Inured to Suffering
+    id: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.75zRb8qkLPKsBhDL
+  wargear:
+    - name: Flak Armour
+      id: Compendium.wng-core.items.Item.fLx8DzWDgWDZIMSK
+      type: item
+      diff: {}
+      index: 0
+      groupId: uON5lbPoSlExJ8eO
+    - name: Autogun
+      id: Compendium.wng-core.items.Item.fQCOj3mVrhnIEOty
+      type: item
+      diff: {}
+      index: 1
+      groupId: C7SvBla4HixdTJld
+    - name: Plague Knife
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RYl5lvSY97e9x82z
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 0
+        type: item
+        groupId: uON5lbPoSlExJ8eO
+      - index: 1
+        type: item
+        groupId: C7SvBla4HixdTJld
+      - index: 2
+        type: item
+        groupId: Ua4sysmIXmh8s8Nu
+  suggested:
+    attributes:
+      strength: 3
+      toughness: 4
+      agility: 2
+      initiative: 2
+      willpower: 2
+      intellect: 1
+      fellowship: 2
+    skills:
+      athletics: 1
+      awareness: null
+      ballisticSkill: 1
+      cunning: null
+      deception: null
+      insight: null
+      intimidation: 2
+      investigation: null
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: null
+      stealth: null
+      survival: null
+      tech: null
+      weaponSkill: 2
+    talents:
+      - id: HYuKXdU1r5yNyRU1
+        name: Die Hard
+      - id: kj8Jm2JKxELokK4X
+        name: Let The Galaxy Burn
+      - id: TLV6c8FJhbKFKKUK
+        name: Tenacious
+effects: []
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.7LjUTfch6R21nOJC
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664831740666
+  modifiedTime: 1710717121321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_id: 7LjUTfch6R21nOJC
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 1100000
+_key: '!items!7LjUTfch6R21nOJC'

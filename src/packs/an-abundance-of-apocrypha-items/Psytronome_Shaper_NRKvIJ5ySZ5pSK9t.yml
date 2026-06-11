@@ -1,0 +1,57 @@
+name: Psytronome Shaper
+type: weapon
+_id: NRKvIJ5ySZ5pSK9t
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p>A bizarrely shaped device, more musical instrument than weapon, the
+    psytronome shaper is a tool of Aeldari Bonesingers, used to focus and direct
+    their powers.</p>
+  value: 5
+  keywords: FORCE, AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 3
+    bonus: 0
+    rank: none
+  ed:
+    base: 2
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: force
+  upgrades: []
+effects: []
+folder: 7JxtLZJLkCt2461j
+sort: 1700000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709857288349
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_key: '!items!NRKvIJ5ySZ5pSK9t'

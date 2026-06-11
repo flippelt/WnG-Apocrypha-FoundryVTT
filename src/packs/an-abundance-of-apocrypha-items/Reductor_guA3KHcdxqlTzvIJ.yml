@@ -1,0 +1,54 @@
+name: Reductor
+type: gear
+img: modules/wng-core/assets/icons/gear/gear.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.tools-and-equipment.Item.guA3KHcdxqlTzvIJ
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle0">A Reductor is a special tool used by Adeptus
+    Astartes Apothecaries and Primaris Apothecaries to retrieve the crucial
+    gene-seed of their fallen Battle-Brothers so that new Astartes might be
+    raised from among their Chapter's Aspirants. Retrieval and storage of a
+    fallen Battle-Brother's gene-seed is so critical that Apothecaries carry a
+    special tool for this operation, often included as part of the
+    Narthecium.</span></p><p></p><p><span class="fontstyle0">While a Reductor is
+    not required for Progenoid removal, it significantly reduces the time. This
+    surgical implement fastens under the wrist and is often integrated into the
+    Apothecary’s Narthecium. It includes a monomolecular saw for Rending Power
+    Armour and Ossmodula-enhanced rib cages, and a diamantine-tipped extractor
+    drill.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
+    </span><span class="fontstyle0">As an action, an Apothecary can use a
+    Reductor to remove the gene-seed of a deceased Space Marine. This requires a
+    Medicae test (DN 3). Though a grim task, it is a vital one, and an
+    Apothecary who extracts a fallen brother’s gene-seed gains 1 Wrath
+    immediately, as their duty drives them to press on.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 5
+  keywords: ADEPTUS ASTARTES
+  effect: ''
+_id: guA3KHcdxqlTzvIJ
+folder: ZwPIB4alS3jCA97B
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710256937600
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!guA3KHcdxqlTzvIJ'

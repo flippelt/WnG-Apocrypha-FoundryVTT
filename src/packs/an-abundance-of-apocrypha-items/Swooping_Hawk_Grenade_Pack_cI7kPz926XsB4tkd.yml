@@ -1,0 +1,82 @@
+name: Swooping Hawk Grenade Pack
+type: weapon
+img: modules/wng-core/assets/icons/weapons/grenade.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-ranged.Item.cI7kPz926XsB4tkd
+system:
+  quantity: 1
+  rarity: rare
+  description: >-
+    <p><span class="fontstyle2">The Swooping Hawk Grenade Pack is an Eldar
+    grenade launcher used by Swooping Hawks Aspect Warriors. Each of these basic
+    launchers is strapped to a warrior's leg and allows grenades to be released
+    downwards as the warrior fly’s overhead. Grenade packs can carry a variety
+    of grenade types for attacking different targets. For anti-personnel work,
+    plasma grenades are used.</span></p><p><span
+    class="fontstyle3"><strong>Special</strong>: </span><span
+    class="fontstyle2">A Swooping Hawk Grenade Pack allows grenades to be
+    dropped on enemies as if they had the Bomb trait.</span> <br style="
+    font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 6
+  keywords: EXPLOSIVE,AELDARI, ASURYANI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  category: grenade-missile
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: 0
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: assault
+    - name: bomb
+      custom: true
+      display: Bomb
+      description: >-
+        This weapon is designed to be dropped from above. After moving, as an
+        attack, a flying character or the gunner of a FLYER vehicle, equipped
+        with a bomb can drop it at any point they passed above during their
+        movement. All attacks are made as though at short range.
+  upgrades: []
+_id: cI7kPz926XsB4tkd
+folder: jAoT9LrVGCXlAgh0
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709926932591
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!cI7kPz926XsB4tkd'

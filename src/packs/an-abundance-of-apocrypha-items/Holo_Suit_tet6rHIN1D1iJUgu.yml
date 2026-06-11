@@ -1,0 +1,118 @@
+name: Holo-Suit
+type: armour
+img: modules/wng-core/assets/icons/armour/armour.webp
+effects:
+  - icon: modules/wng-core/assets/icons/armour/armour.webp
+    name: Holo-Suit
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 7
+        value: '1'
+        priority: null
+      - key: system.combat.defence.bonus
+        mode: 7
+        value: '2'
+        priority: null
+      - key: system.combat.defence.bonus
+        mode: 7
+        value: '3'
+        priority: null
+      - key: system.combat.defence.bonus
+        mode: 7
+        value: '4'
+        priority: null
+    _id: l4kyy4AxN2ywLfBd
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '0':
+            script: ''
+            description: Was stationary last turn
+            hide: ''
+          '1':
+            script: ''
+            description: Moved last turn
+            hide: ''
+          '2':
+            script: ''
+            description: Ran last turn
+            hide: ''
+          '3':
+            script: ''
+            description: Sprinted last turn
+            hide: ''
+    tint: null
+    _key: '!items.effects!tet6rHIN1D1iJUgu.l4kyy4AxN2ywLfBd'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.aeldari-armour.Item.tet6rHIN1D1iJUgu
+system:
+  quantity: 1
+  rarity: very-rare
+  description: >-
+    <p><span class="fontstyle0">Holo-suits (</span><span
+    class="fontstyle2">dathedi </span><span class="fontstyle0">in Eldar,
+    translated as "between colours") are used by the Harlequins. Each contains a
+    programmable holo-field which breaks up the outline of the wearer as they
+    move. When the wearer of a holosuit moves, their form appears to shatter
+    into a storm of light and colour, coalescing again when the wearer stops.
+    When the wearer remains still for a few moments, the holosuit instead makes
+    the wearer blend in with their surroundings. Regardless, a skilled wearer is
+    extraordinarily difficult to strike.</span></p><p></p><p><span
+    class="fontstyle3">Armour Rating: </span><span class="fontstyle0">*1, Agile,
+    Power Field</span></p><p></p><p><span class="fontstyle3"><strong>Domino
+    Field</strong>: </span><span class="fontstyle0">A Holo-Suit increases the
+    wearer’s Defence based on how much they have moved. It grants +1 Defence if
+    the wearer was stationary last turn. This increases to +2 if the wearer
+    moved, +3 if the wearer Ran, or +4 if the wearer Sprinted.</span> <br
+    style=" font-style: normal; font-variant: normal; font-weight: normal;
+    letter-spacing: normal; line-height: normal; orphans: 2; text-align:
+    -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal;
+    widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto;
+    -webkit-text-stroke-width: 0px; "></p>
+  value: 7
+  keywords: HOLOGRAM, LIGHT, HARLEQUIN
+  equipped: false
+  rating: 1
+  base: 0
+  traits:
+    - name: powerField
+    - name: agile
+      custom: true
+      display: Agile
+      description: >-
+        A few types of armour listed in this section have the Agile trait. A
+        character wearing Agile armour may use their Agility to calculate their
+        Determination instead of their Toughness.
+  invulnerable: true
+_id: tet6rHIN1D1iJUgu
+folder: q6mjTmVYbvOQ2Qek
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710090138927
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 0
+_key: '!items!tet6rHIN1D1iJUgu'

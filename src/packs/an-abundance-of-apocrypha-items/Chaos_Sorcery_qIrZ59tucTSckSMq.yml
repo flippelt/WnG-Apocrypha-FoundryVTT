@@ -1,0 +1,16 @@
+name: Chaos Sorcery
+sorting: a
+folder: uKGIaDhU4mPMn7pJ
+type: Item
+_id: qIrZ59tucTSckSMq
+sort: 300000
+color: null
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712686548367
+  modifiedTime: 1712690683321
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!folders!qIrZ59tucTSckSMq'

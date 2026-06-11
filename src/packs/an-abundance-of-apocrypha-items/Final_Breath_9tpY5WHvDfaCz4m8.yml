@@ -1,0 +1,43 @@
+name: Final Breath
+type: weaponUpgrade
+img: modules/wng-core/assets/icons/weaponUpgrade/weaponUpgrade.webp
+effects: []
+flags:
+  exportSource:
+    world: warhammer-shadowbreaker
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.weapon-upgrades.Item.9tpY5WHvDfaCz4m8
+system:
+  description: >-
+    <p>A targeted paralytic agent that is derived from a plant native to a
+    distant Death World, Final Breath causes rapid respiratory shutdown. The
+    Drukhari first discovered the effect of the plant when a group of slaves
+    tasked with cleaning the pen of a Clawed Fiend was discovered dying after
+    inhaling its deadly pollen. They were most impressed by the agonising death
+    that this humble plant had inflicted upon their slaves, and so they
+    immediately set about finding a way to turn the plant’s toxic pollen into a
+    weapon.</p><p><strong>Effect</strong>: The target gasps for air while
+    Poisoned, and begins to suffocate, as described on page 201 of the Wrath &
+    Glory rulebook.</p>
+  effect: ''
+  value: 5
+  rarity: uncommon
+  keywords: DRUKHARI, TOXIN
+  traits: []
+_id: 9tpY5WHvDfaCz4m8
+folder: 6ntRjpS1Ry0pU1f7
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1710017483263
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+sort: 112500
+_key: '!items!9tpY5WHvDfaCz4m8'

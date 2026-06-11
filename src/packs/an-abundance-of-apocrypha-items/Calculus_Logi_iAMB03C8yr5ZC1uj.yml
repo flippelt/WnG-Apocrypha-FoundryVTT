@@ -1,0 +1,162 @@
+folder: EOubWyxMDb5RRb88
+name: Calculus Logi
+type: archetype
+img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
+system:
+  tier: 2
+  journal: ''
+  species:
+    name: Human
+    id: Item.JjNQyUPELJb8CvL5
+  faction:
+    name: Adeptus Mechanicus
+    id: Item.NEkaKMEm79MWGo8b
+  influence: 1
+  cost: 44
+  keywords:
+    - IMPERIUM
+    - ADEPTUS MECHANICUS
+    - '[FORGE WORLD]'
+    - CULT MECHANICUS
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: 2
+    intellect: 3
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: 1
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: 3
+    stealth: null
+    survival: null
+    tech: 2
+    weaponSkill: null
+  ability:
+    name: Infovore
+    id: Item.RHxoqOJP0dNSFs2m
+  wargear:
+    - - name: ''
+        id: ''
+    - name: Calculus Logi Implant
+      id: Item.QxzWGAgSlRBLa3L7
+      type: item
+      diff: {}
+      index: 1
+      groupId: tRLMW1M4AjDgd0Kc
+    - name: Mechadendrite
+      id: Item.oCFca0vTYRuxndzP
+      type: item
+      diff: {}
+      index: 2
+      groupId: kxJDZ7TxmMVvZzGE
+    - type: generic
+      name: One Optical
+      filters: []
+      index: 3
+      groupId: Lj2ByPOlgbZhWrEZ
+    - type: generic
+      name: any two Augmetics
+      filters: []
+      index: 4
+      groupId: HJq2ujr0957RUfZ4
+    - name: Mesh Armour
+      id: Item.Gkvz8V1xP8wrBBk8
+      type: item
+      diff: {}
+      index: 5
+      groupId: 6b8S6Nos5JHOEjUw
+    - name: Laspistol
+      id: Item.STrmO2xhRZgClDSR
+      type: item
+      diff: {}
+  groups:
+    type: and
+    groupId: root
+    items:
+      - index: 1
+        type: item
+        groupId: tRLMW1M4AjDgd0Kc
+      - type: or
+        items:
+          - index: 2
+            type: item
+            groupId: kxJDZ7TxmMVvZzGE
+          - type: item
+            index: 3
+            groupId: Lj2ByPOlgbZhWrEZ
+        groupId: 214fZgqJkt9Tq1pr
+      - type: item
+        index: 4
+        groupId: HJq2ujr0957RUfZ4
+      - index: 5
+        type: item
+        groupId: 6b8S6Nos5JHOEjUw
+      - index: 6
+        type: item
+        groupId: 6f77bvbtGXkM79qj
+  suggested:
+    attributes:
+      strength: 1
+      toughness: 2
+      agility: 2
+      initiative: 2
+      willpower: 3
+      intellect: 5
+      fellowship: 1
+    skills:
+      athletics: null
+      awareness: 2
+      ballisticSkill: null
+      cunning: null
+      deception: null
+      insight: 2
+      intimidation: null
+      investigation: 2
+      leadership: null
+      medicae: null
+      persuasion: null
+      pilot: null
+      psychicMastery: null
+      scholar: 5
+      stealth: null
+      survival: null
+      tech: 3
+      weaponSkill: null
+    talents:
+      - id: sOuOMmWohMfOEFJv
+        name: Augmetic
+      - id: VLWzaaUTYv6c3X2A
+        name: Conversational Cogitator
+      - id: l4Fp0OzFPXVY2LdK
+        name: Unremarkable
+      - id: vxsi953ncB48aylK
+        name: Rite of Pure Thought
+effects: []
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1699734841415
+  modifiedTime: 1700074998571
+  lastModifiedBy: QQwHydvBuTROXyXM
+_id: iAMB03C8yr5ZC1uj
+sort: 0
+ownership:
+  default: 0
+  QQwHydvBuTROXyXM: 3
+_key: '!items!iAMB03C8yr5ZC1uj'

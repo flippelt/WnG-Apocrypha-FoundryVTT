@@ -1,0 +1,103 @@
+name: Storm-Wreathed
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Storm-Wreathed (Defence)
+    changes:
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '@test.result.def'
+        priority: null
+    _id: DtDjvbaaoVyjrpMW
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!qdS08ej9kKetgc8l.DtDjvbaaoVyjrpMW'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.qdS08ej9kKetgc8l
+system:
+  dn: '5'
+  type: ''
+  specification: ''
+  description: >-
+    <p>At your behest, the roiling clouds funnel into a furious vortex that
+    swirls down to surround your advancing comrades. Lightning crackles around
+    them, and leaps from their bodies to strike down the foe. If this power is
+    successful, select a number of allies within range equal to your Willpower.
+    If the affected allies Charge before the start of your next turn, their
+    melee attacks gain the Inflict (Staggered) and Agonizing traits.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: 12m
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: WHITE SCARS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affect additional allies equal to your Willpower.
+      cost: 2
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+    - description: Affected allies add +1 to their Defence.
+      cost: 2
+      property: def
+      initial: ''
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: qdS08ej9kKetgc8l
+folder: oNn2KKV41u8YG29i
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959312
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!qdS08ej9kKetgc8l'

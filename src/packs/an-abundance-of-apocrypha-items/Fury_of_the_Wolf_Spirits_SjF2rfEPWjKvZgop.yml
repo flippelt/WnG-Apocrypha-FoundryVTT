@@ -1,0 +1,72 @@
+name: Fury of the Wolf Spirits
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects: []
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.SjF2rfEPWjKvZgop
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>Invoking the spirits of Freki the Fierce and Geri the Cunning, you set
+    charcoal-black phantasms upon their foes. You create a melee weapon with the
+    following profile: Damage 12 +4ED, AP -3, Range 3, Force, Reaping. You do
+    not add your Strength to this weapon’s damage. You then immediately make a
+    melee attack with that weapon as part of this action.</p>
+  effect: ''
+  cost: 10
+  activation: action
+  duration: 1 Round
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: SPACE WOLVES
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Add +1ED to the weapon
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: SjF2rfEPWjKvZgop
+folder: h4kiPhIt6oM6JLum
+sort: 100000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959335
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!SjF2rfEPWjKvZgop'

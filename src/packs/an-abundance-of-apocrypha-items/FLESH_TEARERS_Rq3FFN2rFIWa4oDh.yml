@@ -1,0 +1,25 @@
+name: FLESH TEARERS
+type: keyword
+img: modules/wng-core/assets/factions/adeptus-astartes.svg
+effects: []
+folder: MYPvcOwyYBKhGpby
+flags:
+  cf: null
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.Rq3FFN2rFIWa4oDh
+system:
+  description: "<p>A much-diminished successor of the Blood Angels, the Flesh Tearers are especially afflicted by the curse of the Black Rage, making them particularly brutal in battle. Their savagery is so notorious that few other servants of the Imperium will call upon their aid unless there is no other recourse, for more than once the Flesh Tearers have been gripped with madness and turned on their allies. In the Era Indomitus, an influx of Primaris Marines, less susceptible to the Red Thirst, may help bring redemption to the Chapter, or it may only prolong their slow decline.</p><h4>Fury Within</h4><p>You are possessed of a bloodthirsty recklessness. When properly directed, this murderous ferocity makes you unstoppable.</p><p>You may re-roll Double Rank dice once per melee attack Test. In addition, if you shift one or more Icons on a melee attack, improve the AP of your attack by 1 (i.e., from -1 to -2).</p><h4>The Red Thirst (Gene-Seed)\_</h4><p>Your fury comes from a deep destructive impulse within your body and soul, an insatiable bloodlust that resists all attempts to deny it.</p><p>Whenever you are in melee combat and see blood, you must make a DN 4 Willpower Test. If you fail, you are @UUID[JournalEntry.46nFfrraenk9Z8IE]{Frenzied}.</p>"
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056215
+  modifiedTime: 1710451661910
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: Rq3FFN2rFIWa4oDh
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!Rq3FFN2rFIWa4oDh'

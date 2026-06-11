@@ -1,0 +1,77 @@
+name: Demiklaives
+type: weapon
+img: modules/wng-core/assets/icons/weapons/melee-weapon.webp
+system:
+  quantity: 1
+  rarity: unique
+  description: >-
+    <p>Some Incubi sects—and often the Klaivex champions— favour the Demiklaive
+    over the traditional Klaive. Each Demiklaive is a pair of powered blades
+    which can be wielded separately or fitted together to strike as a single
+    weapon. Masters of the form can switch between the two methods in moments.
+    </p><p><strong>Special</strong>: A pair of Demiklaives use the profile
+    listed above, but can be fitted into a single weapon, using the normal
+    Klaive profile, with a Simple Action.</p>
+  value: 8
+  keywords: POWER FIELD, 2- HANDED, DRUKHARI
+  equipped: false
+  attack:
+    base: 0
+    bonus: 0
+    rank: none
+  damage:
+    base: 5
+    bonus: 0
+    rank: none
+  ed:
+    base: 4
+    bonus: 0
+    rank: none
+  ap:
+    base: -2
+    bonus: 0
+    rank: none
+  category: melee
+  range:
+    short: 0
+    medium: 0
+    long: 0
+    melee: 1
+    thrown: null
+  ammo: ''
+  salvo: 0
+  traits:
+    - name: parry
+    - name: reaping
+      custom: true
+      display: Reaping
+      description: >-
+        The weapon is intended to scythe through groups of foes. When you make a
+        Multi-Attack with this weapon, the DN increases by +1 per additional
+        target, rather than +2.
+    - name: paired
+      custom: true
+      display: Paired
+      description: >-
+        The weapon is designed to be used in a pair—two weapons of that type,
+        one in each hand. When a character makes an attack while wielding both
+        weapons in a pair, either count it as a Simultaneous Strike (as per the
+        talent) or reduce the DN of a multi-attack by 2. If you have the
+        Signature Weapon talent, you may apply it to both weapons in a pair.
+  upgrades: []
+effects: []
+folder: jJ48QZuiHQIFQOyL
+sort: 150000
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+flags: {}
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1709858585720
+  modifiedTime: 1710451653533
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: CKBoDFCXWosrXMqg
+_key: '!items!CKBoDFCXWosrXMqg'

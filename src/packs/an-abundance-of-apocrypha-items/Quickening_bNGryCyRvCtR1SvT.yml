@@ -1,0 +1,101 @@
+name: Quickening
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Quickening
+    changes:
+      - key: system.combat.speed
+        mode: 2
+        value: '@test.result.bonusSpeed'
+        priority: null
+    _id: Qn4yH1ExdvfK0C6H
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!bNGryCyRvCtR1SvT.Qn4yH1ExdvfK0C6H'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.astartes.Item.bNGryCyRvCtR1SvT
+system:
+  dn: '7'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You channel your psychic might and the deadly powers of the immaterium
+    flow through you, heightening your speed and lethality. While this power
+    remains in effect, your Speed is increased by +3, and you ignore up to 2
+    points of DN increase when making a Multi-Attack or Multi-Action.</p>
+  effect: ''
+  cost: 20
+  activation: action
+  duration: 1 Battle
+  range: Self
+  multiTarget: false
+  keywords: PSYCHIC
+  prerequisites: BLOOD ANGELS
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Bonus to Speed increases by +1
+      cost: 1
+      property: bonusSpeed
+      initial: 3
+      value: 1
+      single: false
+    - description: DN reduction for Multi-Attack and Multi-Action increased by 2.
+      cost: 1
+      property: ''
+      initial: ''
+      value: ''
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: bNGryCyRvCtR1SvT
+folder: JwusfIy0j2Cyghui
+sort: 200000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1711979959291
+  modifiedTime: 1711994690374
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!bNGryCyRvCtR1SvT'

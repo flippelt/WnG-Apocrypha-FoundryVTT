@@ -1,0 +1,78 @@
+folder: fgtFfRbmshJ8KM1n
+name: Monster Hunters
+type: ability
+img: modules/wng-core/assets/icons/abilities/orks.webp
+system:
+  dn: 0
+  type: ''
+  specification: ''
+  effect: ''
+  cost: 0
+  requirements: ''
+  description: >-
+    <p>You add +Rank bonus dice to attacks made against enemy Monstrous Creature
+    Threats and Vehicles.</p>
+  display: true
+  abilityType: ''
+  traits: []
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+  ap:
+    base: 0
+    bonus: 0
+    rank: none
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  test:
+    dn: null
+    type: ''
+effects:
+  - icon: modules/wng-core/assets/icons/abilities/orks.webp
+    changes:
+      - key: pool.bonus
+        mode: 6
+        value: '@advances.rank'
+        priority: null
+    name: Monster Hunters
+    _id: bDKda0ezTEDX2WS1
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: true
+    statuses: []
+    flags: {}
+    tint: null
+    _key: '!items.effects!ISmgwQHSD2G4ZR1b.bDKda0ezTEDX2WS1'
+flags:
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ISmgwQHSD2G4ZR1b
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1699567940124
+  modifiedTime: 1710451668519
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: ISmgwQHSD2G4ZR1b
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!ISmgwQHSD2G4ZR1b'

@@ -1,0 +1,110 @@
+name: Shield of Ynnead
+type: psychicPower
+img: modules/wng-core/assets/icons/powers/power.webp
+effects:
+  - icon: modules/wng-core/assets/icons/powers/power.webp
+    name: Shield of Ynnead
+    changes:
+      - key: system.combat.resilience.bonus
+        mode: 2
+        value: '@test.result.res'
+        priority: null
+      - key: system.combat.defence.bonus
+        mode: 2
+        value: '@test.result.def'
+        priority: null
+    _id: g3FUD168wepIgl2w
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    origin: null
+    transfer: false
+    statuses: []
+    flags:
+      wrath-and-glory:
+        changeCondition:
+          '1':
+            script: ''
+            description: ''
+            hide: ''
+    tint: null
+    _key: '!items.effects!BKa4DkHkLOECVfqA.g3FUD168wepIgl2w'
+flags:
+  exportSource:
+    system: wrath-and-glory
+    coreVersion: '9.269'
+    systemVersion: 3.5.0
+  core:
+    sourceId: Compendium.world.chaos.Item.BKa4DkHkLOECVfqA
+system:
+  dn: '6'
+  type: ''
+  specification: ''
+  description: >-
+    <p>You manifest a shield of spiritual energy around your allies. You and all
+    allies within range gain +2 Defence and +2 Resilience until the start of
+    your next turn.</p>
+  effect: ''
+  cost: 15
+  activation: action
+  duration: 1 Round
+  range: 6m
+  multiTarget: false
+  keywords: AELDARI, PSYCHIC
+  prerequisites: YNNARI
+  damage:
+    base: 0
+    bonus: 0
+    rank: none
+  ed:
+    base: 0
+    bonus: 0
+    rank: none
+    die:
+      one: 0
+      two: 0
+      three: 0
+      four: 1
+      five: 1
+      six: 2
+  otherDamage:
+    mortalWounds: ''
+    wounds: ''
+    shock: ''
+  potency:
+    - description: Affected allies gain +1 Resilience.
+      cost: 1
+      property: res
+      initial: 2
+      value: 1
+      single: false
+    - description: Affected allies gain +1 Defence
+      cost: 1
+      property: def
+      initial: 2
+      value: 1
+      single: false
+  test:
+    dn: null
+    type: ''
+_id: BKa4DkHkLOECVfqA
+folder: ARcOsKVs8T8FOgzM
+sort: 150000
+ownership:
+  default: 0
+  CkX1zlse2zyKIjlv: 3
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1712691742882
+  modifiedTime: 1712707811483
+  lastModifiedBy: CkX1zlse2zyKIjlv
+_key: '!items!BKa4DkHkLOECVfqA'

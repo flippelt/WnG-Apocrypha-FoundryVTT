@@ -1,0 +1,71 @@
+name: Human (Forge World)
+type: species
+img: modules/wng-core/assets/icons/abilities/ability.webp
+effects: []
+folder: xkWhtm2Z4Kb4ZoWX
+flags:
+  wng-core:
+    initialization-folder: Species
+    sort: 100000
+  core:
+    sourceId: >-
+      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.76msZ9tROZu0skxd
+  cf: null
+system:
+  cost: 0
+  speed: 6
+  size: average
+  journal: ''
+  abilities:
+    - id: PoZMvjLePNtkZoDe
+      name: Ave Omnissiah
+    - id: VsdcOuwwzFDqcx9G
+      name: Stranger to the Church
+  attributes:
+    strength: null
+    toughness: null
+    agility: null
+    initiative: null
+    willpower: null
+    intellect: null
+    fellowship: null
+  skills:
+    athletics: null
+    awareness: null
+    ballisticSkill: null
+    cunning: null
+    deception: null
+    insight: null
+    intimidation: null
+    investigation: null
+    leadership: null
+    medicae: null
+    persuasion: null
+    pilot: null
+    psychicMastery: null
+    scholar: null
+    stealth: null
+    survival: null
+    tech: null
+    weaponSkill: null
+  attributeMax:
+    strength: 8
+    toughness: 8
+    agility: 8
+    initiative: 8
+    willpower: 8
+    intellect: 8
+    fellowship: 8
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 5.0.2
+  coreVersion: '11.315'
+  createdTime: 1664219056687
+  modifiedTime: 1710451657667
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: 76msZ9tROZu0skxd
+ownership:
+  default: 0
+  iqIIJEvwgrLX4V4E: 3
+sort: 0
+_key: '!items!76msZ9tROZu0skxd'
