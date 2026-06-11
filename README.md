@@ -1,36 +1,68 @@
 # An Abundance of Apocrypha for Foundry VTT
-This is a passion project done in my free time where I'll adapt the content of the incridible An Abudance of Apocrypha and it's expasions made by the incridible Nathan Dowdell to the Wrath & Glory system from Cubicle 7.
 
-## Contributing
+A passion project, done in my free time, adapting the content of the incredible
+**An Abundance of Apocrypha** and its expansions — by Nathan Dowdell — to the
+**Wrath & Glory** system (Cubicle 7) for Foundry VTT.
 
-Contributions are always welcome! Please contact me to ask how you can help.
+> Compatible with Foundry VTT **v11–v12**. Module id: `wng-apocrypha`.
 
-## Roadmap
-The Mekhanical Update
+## Status / Progress
 
-The ork in me urged to give some updates here
+See **[CONVERSION-STATUS.md](CONVERSION-STATUS.md)** for the full, detailed
+checklist (PDF **v9** × compendium): every archetype and ascension package marked
+✅ done / 🟡 stub / ❌ to do, plus a prioritized conversion plan.
+
+**Highlights (vs PDF v9):**
+
+- ✅ **Done:** factions, species & variants, talents, psychic powers, gear,
+  weapons, armour, augmetics, keywords, and many NPC stat blocks.
+- 🟡 **In progress:** archetypes (~16 of 139) and ascension packages (7 of 16) —
+  including started T'au Empire and Leagues of Votann.
+- ❌ **To do:** most archetypes, the remaining ascension packages, and the new
+  v9 sections (Vehicles, Navigators, Imperial Navy, Companions, new Astartes
+  Chapters & Heretic Legions).
+
+## Roadmap — *The Mekhanical Update*
 
 ### Part 1
-- [x] Implementing all the new Factions
-- [x] Implementing all the new Species and Variants
+
+- [x] All the new Factions
+- [x] All the new Species and Variants
 - [x] Update to Foundry V11
 
 ### Part 2
-- [x] Implementing all the new Talents
-- [x] Implementing all the new Psychic Powers
-- [x] Implementing all the new Gear
+
+- [x] All the new Talents
+- [x] All the new Psychic Powers
+- [x] All the new Gear
 
 ### Part 3
-- [ ] Implementing all the new Archetypes [On hold]
-- [ ] Implementing all the new Ascencion Packages
 
+- [ ] All the new Archetypes — *in progress (see CONVERSION-STATUS.md)*
+- [ ] All the new Ascension Packages — *in progress*
+
+## Contributing
+
+Contributions are welcome! Please reach out to ask how you can help.
 
 ## Authors
 
 - [@flippelt](https://www.github.com/flippelt)
-- [Nathan Dowdell](https://twitter.com/n01h3r3)(Original Author of An Abundance of Apocrypha)
+- [Nathan Dowdell](https://twitter.com/n01h3r3) (original author of *An Abundance of Apocrypha*)
 - [Owen May](https://github.com/Vulcan98)
 
 ## Contributors
+
 - [Alexandru "Ashendar" Dracea](https://github.com/adracea)
 - [Michael Mars](https://twitter.com/MichaelMarsRPG)
+
+## License
+
+This module's own packaging/code is released under the **MIT License** — see
+[LICENSE](LICENSE).
+
+The game content it adapts (*An Abundance of Apocrypha*) is the **unofficial
+homebrew of Nathan Dowdell**, and Warhammer 40,000 / Wrath & Glory are the
+intellectual property of **Games Workshop** and **Cubicle 7**. This is an
+unofficial, non-commercial fan conversion, used without permission; the MIT
+license does **not** cover that third-party content.
