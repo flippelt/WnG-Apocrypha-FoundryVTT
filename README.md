@@ -4,7 +4,7 @@ A passion project, done in my free time, adapting the content of the incredible
 **An Abundance of Apocrypha** and its expansions — by Nathan Dowdell — to the
 **Wrath & Glory** system (Cubicle 7) for Foundry VTT.
 
-> Compatible with Foundry VTT **v11–v12**. Module id: `wng-apocrypha`.
+> Compatible with Foundry VTT **v11–v14**. Module id: `wng-apocrypha`.
 
 ## Status / Progress
 
