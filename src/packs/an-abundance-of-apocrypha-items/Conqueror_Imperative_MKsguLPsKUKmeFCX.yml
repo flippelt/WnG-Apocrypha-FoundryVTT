@@ -14,7 +14,7 @@ system:
 
     <p>At the start of any of your turns, you may activate the Aggressor
     Imperative. This adds +Rank to your Speed but reduces your Resilience by 2.
-    At the end of a turn in which you activate the Agressor Imperative, you
+    At the end of a turn in which you activate the Aggressor Imperative, you
     suffer 1d3+2 Shock.</p>
   display: true
 effects: []

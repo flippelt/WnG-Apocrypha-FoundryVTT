@@ -1,5 +1,5 @@
 folder: ZMoR03HW5eXVf9E1
-name: Agressor Imperative
+name: Aggressor Imperative
 type: talent
 img: modules/wng-core/assets/icons/talents/talent.webp
 system:
@@ -14,7 +14,7 @@ system:
 
     <p>At the start of any of your turns, you may activate the Aggressor
     Imperative. This adds +Rank to your Speed but reduces your Resilience by 2.
-    At the end of a turn in which you activate the Agressor Imperative, you
+    At the end of a turn in which you activate the Aggressor Imperative, you
     suffer 1d3+2 Shock.</p>
   display: true
 effects:
@@ -46,29 +46,28 @@ effects:
         changeCondition:
           '0':
             script: ''
-            description: Agressor Imperative (Speed Bonus)
+            description: Aggressor Imperative (Speed Bonus)
           '1':
             script: ''
-            description: Agressor Imperative (Resilience Reduction)
-    name: Agressor Imperative
+            description: Aggressor Imperative (Resilience Reduction)
+    name: Aggressor Imperative
     description: ''
     statuses: []
-    _key: '!items.effects!tIz0Xgp7OjXwFz29.sC2fgtCPPNztDTUQ'
+    _key: '!items.effects!bAMD2wT3AsJgoQ9x.sC2fgtCPPNztDTUQ'
 flags:
   cf: null
-  core:
-    sourceId: >-
-      Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bAMD2wT3AsJgoQ9x
+  core: {}
 _stats:
   systemId: wrath-and-glory
   systemVersion: 5.0.2
   coreVersion: '11.315'
   createdTime: 1663876682762
-  modifiedTime: 1710611264116
-  lastModifiedBy: CkX1zlse2zyKIjlv
-_id: tIz0Xgp7OjXwFz29
+  modifiedTime: 1710190651730
+  lastModifiedBy: iqIIJEvwgrLX4V4E
+_id: bAMD2wT3AsJgoQ9x
+sort: 0
 ownership:
   default: 0
+  QQwHydvBuTROXyXM: 3
   iqIIJEvwgrLX4V4E: 3
-sort: 10500000
-_key: '!items!tIz0Xgp7OjXwFz29'
+_key: '!items!bAMD2wT3AsJgoQ9x'
