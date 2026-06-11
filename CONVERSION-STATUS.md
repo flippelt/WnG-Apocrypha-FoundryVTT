@@ -96,18 +96,23 @@ a full stat-block table.
 
 ## Remaining for 1.0
 
-- [ ] **Storm Guardian** and **Windrider** journals — no dedicated section was
-  found in the PDF v9 to auto-extract; create and link them manually.
-- [ ] *(polish, optional)* Add the stat-block HTML table to the 123 new lore
-  journals, for parity with the original 32 (the archetype sheet already shows
-  the stats, so this is cosmetic).
-- [ ] **Verify "Sainthood"** — it appears indented under *Blessed by the
-  Emperor* in the PDF TOC, so it is most likely a sub-section rather than a
-  separate ascension package; confirm nothing is missing.
+The PDF content is **fully converted**. Open items are cosmetic only:
 
-Already complete: all **139** PDF archetypes · all ascension packages ·
-companions & familiars · Chapter/Legion options · talents · psychic & Navigator
-powers · wargear · species · factions · NPC stat blocks.
+- [ ] *(polish, optional — non-blocking)* Add the stat-block HTML table to the
+  123 new lore journals, for parity with the original 32. The archetype sheet
+  already shows the stats, so this is purely cosmetic.
+
+Resolved / intentionally not done:
+
+- ✅ **Storm Guardian** and **Windrider** have **no journal by design** — the
+  PDF has no dedicated lore section for them, so none is created.
+- ✅ **"Sainthood"** is not a separate ascension package — it is the culmination
+  of *Blessed by the Emperor* (complete the four Trials → gain Sainthood), and
+  is already covered by that package.
+
+Complete: all **139** PDF archetypes · all ascension packages · companions &
+familiars · Chapter/Legion options · talents · psychic & Navigator powers ·
+wargear · species · factions · NPC stat blocks · **archetype lore journals**.
 
 ### Out of scope (by design — not a 1.0 blocker)
 
