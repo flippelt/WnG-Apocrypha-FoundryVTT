@@ -16,6 +16,7 @@ pages:
       caption: ''
     text:
       format: 1
+      content: '<table border="1"><tbody><tr class="table-header"><td colspan="8" style="text-align:center"><strong>BEASTMAN AUXILIARY</strong></td></tr><tr><td colspan="2" style="background-color:#484745;color:white;text-align:center">TIER</td><td style="text-align:center">1</td><td colspan="2" style="background-color:#484745;color:white;text-align:center">SPECIES</td><td style="text-align:center">Beastman</td><td style="background-color:#484745;color:white;text-align:center">XP Cost</td><td style="text-align:center">28</td></tr><tr><td colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">IMPERIUM</a>, <a class="keyword">ASTRA MILITARUM</a>, <a class="keyword">[REGIMENT]</a>, <a class="keyword">ABHUMAN</a>, <a class="keyword">MILITARUM AUXILIA</a></td></tr><tr><td colspan="8"><strong>ATTRIBUTE</strong>: Strength 3, Toughness 3</td></tr><tr><td colspan="8"><strong>SKILLS</strong>: Athletics 1, Weapon Skill 2</td></tr><tr><td colspan="8"><strong>ARCHETYPE ABILITY</strong>: @UUID[Item.gTa5Q9wmN1k4TOZJ]{Bestial Zealotry}</td></tr><tr><td colspan="8"><strong>WARGEAR</strong>: Two melee weapons  each of Value 3 or less and up to Common rairity, Primitive armor</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED ATTRIBUTES</strong></td></tr><tr><td style="background-color:#484745;color:white;text-align:center">ATTRIBUTE</td><td style="background-color:#484745;color:white;text-align:center">S</td><td style="background-color:#484745;color:white;text-align:center">T</td><td style="background-color:#484745;color:white;text-align:center">A</td><td style="background-color:#484745;color:white;text-align:center">I</td><td style="background-color:#484745;color:white;text-align:center">Wil</td><td style="background-color:#484745;color:white;text-align:center">Int</td><td style="background-color:#484745;color:white;text-align:center">Fel</td></tr><tr><td style="background-color:#484745;color:white;text-align:center">RATING</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">2</td><td style="text-align:center">2</td><td style="text-align:center">2</td><td style="text-align:center">1</td><td style="text-align:center">1</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED SKILLS</strong></td></tr><tr><td colspan="8">Athletics 1, Awareness 1, Ballistic Skill 1, Intimidation 1, Survival 1, Weapon Skill 2</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED TALENTS</strong></td></tr><tr><td colspan="8">@UUID[Item.3uI0Gw1jMR7J0GG6]{Brutalist}, @UUID[Item.aX9bq2t854Kb7L0i]{Dual Wield}, @UUID[Item.LoHgYwDbFoZAaOMD]{Flagellant}</td></tr></tbody></table>'
     video:
       controls: true
       volume: 0.5
@@ -39,103 +40,7 @@ pages:
       level: 1
     text:
       format: 1
-      content: >-
-        <blockquote><p>Beastman bad. Bad Beastman. Dirty. Emperor no like.
-        Beastman love Emperor. Give blood to Emperor. Give heads to Emperor. Say
-        sorry.</p><p style="text-align:right"><em>—— Packmaster Grasht, attached
-        to 7 Company, Gratanor 14th
-        Regiment</em></p></blockquote><p></p><p>While uncommon, and illegal in
-        many parts of the Imperium, the Imperial Guard have been known to draft
-        populations of the Homo sapiens variatus breed of abhuman—Beastmen, as
-        they are commonly known—into service to bolster numbers. These auxilia
-        detachments are often used as cannon fodder, herded towards the enemy on
-        the front lines to soak up fire from the enemy guns so that it doesn’t
-        cause casualties in more valuable units.</p><p>The Beastmen are
-        typically indoctrinated with a deep sense of shame for their nature, and
-        taught that death in service, especially when killing the enemies of the
-        Emperor, is a fitting way to atone for the sin of their existence.
-        Lacking little in the way of education, this is normally sufficient to
-        drive them into a fervour, such that they can be herded towards the
-        enemy easily enough.</p><div class="journal-image centered"><img
-        src="modules/wng-apocrypha/assets/images/archetypes/OgrynMinotaur.webp/"
-        width="317" height="421" /></div><table
-        style="width:98.9228%;height:239px" border="1"><tbody><tr
-        class="table-header" style="height:16px"><td
-        style="width:92.7291%;height:16px" colspan="8">BEASTMAN
-        AUXILIARY</td></tr><tr style="height:16px"><td
-        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
-        colspan="2">TIER</td><td
-        style="width:8.3%;height:16px;text-align:center">1</td><td
-        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
-        colspan="2">SPECIES</td><td
-        style="width:11.7268%;height:16px;text-align:center">Beastman</td><td
-        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
-        Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center">28</td></tr><tr
-        style="height:16px"><td style="width:92.7291%;height:16px"
-        colspan="8"><strong>KEYWORDS</strong>:<a class="keyword">IMPERIUM</a>,
-        <a class="keyword">ASTRA MILITARUM</a>, <a
-        class="keyword">[REGIMENT]</a>, <a class="keyword">ABHUMAN</a>, <a
-        class="keyword">MILITARUM AUXILIA</a></td></tr><tr
-        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
-        style="width:92.7291%;height:16px"
-        colspan="8"><strong>ATTRIBUTE</strong>: Strenght 3, Toughness
-        3</td></tr><tr style="height:16px"><td
-        style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>:
-        Athletics 1, Weapon Skill 2</td></tr><tr
-        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
-        style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
-        ABILITY</strong>:@UUID[Item.gTa5Q9wmN1k4TOZJ]{Bestial
-        Zealotry}</td></tr><tr style="height:16px"><td
-        style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
-        Two melee weapons each of Value 3 or less of up to Common rarity,
-        primitive armour</td></tr><tr style="height:16px"><td
-        class="table-header" style="width:51.1291%;height:16px;text-align:left"
-        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
-        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
-        colspan="2">XP Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">12</td></tr><tr
-        style="font-variant:small-caps;height:16px"><td
-        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
-        style="width:12.5%;height:16px;text-align:center">S</td><td
-        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">T</td><td
-        style="width:5.17241%;height:16px;text-align:center">A</td><td
-        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">I</td><td
-        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
-        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">Int</td><td
-        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
-        style="height:16px"><td
-        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
-        style="width:12.5%;height:16px;text-align:center">3</td><td
-        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">3</td><td
-        style="width:5.17241%;height:16px;text-align:center">2</td><td
-        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">2</td><td
-        style="width:11.7268%;height:16px;text-align:center">2</td><td
-        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">1</td><td
-        style="width:18.2509%;height:16px;text-align:center">1</td></tr><tr
-        style="height:16px"><td class="table-header"
-        style="width:51.1291%;height:16px;text-align:left"
-        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
-        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
-        colspan="2">XP Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">8</td></tr><tr style="height:16px"><td
-        style="height:16px;width:92.7291%" colspan="8">Athletics 1, Awareness 1,
-        Ballistic Skill 1, Intimidation 1, Survival 1, Weapon Skill
-        2</td></tr><tr style="height:16px"><td class="table-header"
-        style="width:92.7291%;height:16px" colspan="8">SUGGESTED
-        TALENTS</td></tr><tr style="height:16px"><td
-        style="height:15px;width:92.7291%"
-        colspan="8">@UUID[Item.3uI0Gw1jMR7J0GG6]{Brutalist},
-        @UUID[Item.aX9bq2t854Kb7L0i]{Dual Wield},
-        @UUID[Item.LoHgYwDbFoZAaOMD]{Flagellant}</td></tr></tbody></table>
+      content: '<blockquote><p>Beastman bad. Bad Beastman. Dirty. Emperor no like. Beastman love Emperor. Give blood to Emperor. Give heads to Emperor. Say sorry.</p><p style="text-align:right"><em>—— Packmaster Grasht, attached to 7 Company, Gratanor 14th Regiment</em></p></blockquote><p></p><p>While uncommon, and illegal in many parts of the Imperium, the Imperial Guard have been known to draft populations of the Homo sapiens variatus breed of abhuman—Beastmen, as they are commonly known—into service to bolster numbers. These auxilia detachments are often used as cannon fodder, herded towards the enemy on the front lines to soak up fire from the enemy guns so that it doesn’t cause casualties in more valuable units.</p><p>The Beastmen are typically indoctrinated with a deep sense of shame for their nature, and taught that death in service, especially when killing the enemies of the Emperor, is a fitting way to atone for the sin of their existence. Lacking little in the way of education, this is normally sufficient to drive them into a fervour, such that they can be herded towards the enemy easily enough.</p><div class="journal-image centered"><img src="modules/wng-apocrypha/assets/images/archetypes/OgrynMinotaur.webp/" width="317" height="421" /></div><table style="width:98.9228%;height:239px" border="1"><tbody><tr class="table-header" style="height:16px"><td style="width:92.7291%;height:16px" colspan="8">BEASTMAN AUXILIARY</td></tr><tr style="height:16px"><td style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px" colspan="2">TIER</td><td style="width:8.3%;height:16px;text-align:center">1</td><td style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center" colspan="2">SPECIES</td><td style="width:11.7268%;height:16px;text-align:center">Beastman</td><td style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center">28</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>KEYWORDS</strong>:<a class="keyword">IMPERIUM</a>, <a class="keyword">ASTRA MILITARUM</a>, <a class="keyword">[REGIMENT]</a>, <a class="keyword">ABHUMAN</a>, <a class="keyword">MILITARUM AUXILIA</a></td></tr><tr style="height:16px;background-color:rgba(0, 0, 0, .2)"><td style="width:92.7291%;height:16px" colspan="8"><strong>ATTRIBUTE</strong>: Strenght 3, Toughness 3</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>: Athletics 1, Weapon Skill 2</td></tr><tr style="height:16px;background-color:rgba(0, 0, 0, .2)"><td style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE ABILITY</strong>:@UUID[Item.gTa5Q9wmN1k4TOZJ]{Bestial Zealotry}</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>: Two melee weapons each of Value 3 or less of up to Common rarity, primitive armour</td></tr><tr style="height:16px"><td class="table-header" style="width:51.1291%;height:16px;text-align:left" colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px" colspan="2">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">12</td></tr><tr style="font-variant:small-caps;height:16px"><td style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td style="width:12.5%;height:16px;text-align:center">S</td><td style="width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">T</td><td style="width:5.17241%;height:16px;text-align:center">A</td><td style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">I</td><td style="width:11.7268%;height:16px;text-align:center">Wil</td><td style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">Int</td><td style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr style="height:16px"><td style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td style="width:12.5%;height:16px;text-align:center">3</td><td style="width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">3</td><td style="width:5.17241%;height:16px;text-align:center">2</td><td style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">2</td><td style="width:11.7268%;height:16px;text-align:center">2</td><td style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">1</td><td style="width:18.2509%;height:16px;text-align:center">1</td></tr><tr style="height:16px"><td class="table-header" style="width:51.1291%;height:16px;text-align:left" colspan="5"><strong>SUGGESTED SKILLS</strong></td><td style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px" colspan="2">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">8</td></tr><tr style="height:16px"><td style="height:16px;width:92.7291%" colspan="8">Athletics 1, Awareness 1, Ballistic Skill 1, Intimidation 1, Survival 1, Weapon Skill 2</td></tr><tr style="height:16px"><td class="table-header" style="width:92.7291%;height:16px" colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td style="height:15px;width:92.7291%" colspan="8">@UUID[Item.3uI0Gw1jMR7J0GG6]{Brutalist}, @UUID[Item.aX9bq2t854Kb7L0i]{Dual Wield}, @UUID[Item.LoHgYwDbFoZAaOMD]{Flagellant}</td></tr></tbody></table>'
       markdown: ''
     _id: 6VIdIZs0RFiBmFtW
     image: {}

@@ -16,6 +16,7 @@ pages:
       caption: ''
     text:
       format: 1
+      content: '<table border="1"><tbody><tr class="table-header"><td colspan="8" style="text-align:center"><strong>FRATERIS MILITIA</strong></td></tr><tr><td colspan="2" style="background-color:#484745;color:white;text-align:center">TIER</td><td style="text-align:center">1</td><td colspan="2" style="background-color:#484745;color:white;text-align:center">SPECIES</td><td style="text-align:center">Human</td><td style="background-color:#484745;color:white;text-align:center">XP Cost</td><td style="text-align:center">6</td></tr><tr><td colspan="8"><strong>KEYWORDS</strong>: <a class="keyword">IMPERIUM</a></td></tr><tr><td colspan="8"><strong>ATTRIBUTE</strong>: Willpower 2</td></tr><tr><td colspan="8"><strong>SKILLS</strong>: —</td></tr><tr><td colspan="8"><strong>ARCHETYPE ABILITY</strong>: @UUID[Item.lvOR1IHs7y6ypv20]{Fervour}</td></tr><tr><td colspan="8"><strong>WARGEAR</strong>: One Ranged weapon of Value 3 or Less up to Common rarity, One Melee weapon of Value 3 or Less up to Common rarity, symbol of devotion, @UUID[Item.drUoIw7l4vPyI9Zm]{Knife}</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED ATTRIBUTES</strong></td></tr><tr><td style="background-color:#484745;color:white;text-align:center">ATTRIBUTE</td><td style="background-color:#484745;color:white;text-align:center">S</td><td style="background-color:#484745;color:white;text-align:center">T</td><td style="background-color:#484745;color:white;text-align:center">A</td><td style="background-color:#484745;color:white;text-align:center">I</td><td style="background-color:#484745;color:white;text-align:center">Wil</td><td style="background-color:#484745;color:white;text-align:center">Int</td><td style="background-color:#484745;color:white;text-align:center">Fel</td></tr><tr><td style="background-color:#484745;color:white;text-align:center">RATING</td><td style="text-align:center">2</td><td style="text-align:center">3</td><td style="text-align:center">2</td><td style="text-align:center">2</td><td style="text-align:center">3</td><td style="text-align:center">1</td><td style="text-align:center">2</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED SKILLS</strong></td></tr><tr><td colspan="8">Athletics 1, Awareness 1, Ballistic Skill 1, Intimidation 2, Persuasion 1, Survival 1, Weapon Skill 1</td></tr><tr><td class="table-header" colspan="8" style="text-align:left"><strong>SUGGESTED TALENTS</strong></td></tr><tr><td colspan="8">@UUID[Item.jlrOP1uvd0x0VRiK]{Death Or Glory!}, @UUID[Item.LoHgYwDbFoZAaOMD]{Flagellant}, @UUID[Item.caUknJMvhWAcEDbz]{Hatred [Any]}</td></tr></tbody></table>'
     video:
       controls: true
       volume: 0.5
@@ -39,111 +40,7 @@ pages:
       level: 1
     text:
       format: 1
-      content: >-
-        <blockquote><p>A single man with faith can triumph over a legion of the
-        faithless. Untold billions of the faithful can never be opposed.</p><p
-        style="text-align:right"><em>—— Sebastian Thor, Sermons, Volume XI
-        Chapter IVSebastian Thor, Sermons, Volume XI Chapter
-        IV</em></p></blockquote><p><strong>A common citizen of the Imperium,
-        called to action by the church in times of crisis to fight in the
-        Emperor’s name. Armed only with whatever weapons you can muster
-        yourself, and your devotion to the Lord of Mankind, you give all that
-        you are to protect His Imperium.</strong></p><p>During Wars of Faith,
-        and when temples and shrines are under attack, the priests of the
-        Ministorum have the right to unlock secret arms-vaults and raise a
-        militia from amongst the faithful. Not officially part of the Church—as
-        the Decree Passive bans the Ecclesiarchy from having any ‘men under
-        arms’—these Frateris Militias are often little more than mobs of
-        zealots, especially when drawn from local Redemptionist cults and other
-        fringe sects of the Church.</p><p>A priest only raises a militia when
-        absolutely necessary. Without proper guidance, these groups can turn
-        into violent vigilante mobs. However, when directed by the will and
-        personality of an inspirational figure, they can be stalwart and
-        valorous fighters.</p><p>Since the opening of the Cicatrix Maledictum,
-        worlds across the Dark Imperium have raised Frateris Militias as a
-        last-ditch defence against the darkness that has enveloped them. There
-        are more souls who march beneath the banners of the Ecclesiarchy than
-        have done so since the Age of Apostasy, and few in the clergy are
-        entirely comfortable with the notion.</p><div class="journal-image
-        centered"><img
-        src="modules/wng-apocrypha/assets/images/archetypes/Frateris_Militia.webp"
-        width="270" height="421" /></div><table
-        style="width:98.9228%;height:239px~" border="1"><tbody><tr
-        class="table-header" style="height:16px"><td
-        style="width:92.7291%;height:16px" colspan="8">FRATERIS
-        MILITIA</td></tr><tr style="height:16px"><td
-        style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px"
-        colspan="2">TIER</td><td
-        style="width:8.3%;height:16px;text-align:center">1</td><td
-        style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center"
-        colspan="2">SPECIES</td><td
-        style="width:11.7268%;height:16px;text-align:center">Human</td><td
-        style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP
-        Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center">6</td></tr><tr
-        style="height:16px"><td style="width:92.7291%;height:16px"
-        colspan="8"><strong>KEYWORDS</strong>:
-        @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM}</td></tr><tr
-        style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
-        style="width:92.7291%;height:16px"
-        colspan="8"><strong>ATTRIBUTE</strong>: Willpower 2</td></tr><tr
-        style="height:16px"><td style="width:92.7291%;height:16px"
-        colspan="8"><strong>SKILLS</strong>: Ballistic Skill 1 or Weapon Skill
-        1</td></tr><tr style="height:16px;background-color:rgba(0, 0, 0,
-        .2)"><td style="width:92.7291%;height:16px"
-        colspan="8"><strong>ARCHETYPE ABILITY</strong>:
-        @UUID[Item.lvOR1IHs7y6ypv20]{Fervour}</td></tr><tr
-        style="height:16px"><td style="width:92.7291%;height:16px"
-        colspan="8"><strong>WARGEAR</strong>: One ranged or melee weapon of
-        Value 3 or less of up to Common rarity,
-        @UUID[Item.drUoIw7l4vPyI9Zm]{knife}, symbol of devotion (tin aquila,
-        devotional scroll, etc.).</td></tr><tr style="height:16px"><td
-        class="table-header" style="width:51.1291%;height:16px;text-align:left"
-        colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
-        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
-        colspan="2">XP Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">32</td></tr><tr
-        style="font-variant:small-caps;height:16px"><td
-        style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td
-        style="width:12.5%;height:16px;text-align:center">S</td><td
-        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">T</td><td
-        style="width:5.17241%;height:16px;text-align:center">A</td><td
-        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">I</td><td
-        style="width:11.7268%;height:16px;text-align:center">Wil</td><td
-        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">Int</td><td
-        style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr
-        style="height:16px"><td
-        style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td
-        style="width:12.5%;height:16px;text-align:center">2</td><td
-        style="width:8.3%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">3</td><td
-        style="width:5.17241%;height:16px;text-align:center">2</td><td
-        style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, .2)">2</td><td
-        style="width:11.7268%;height:16px;text-align:center">3</td><td
-        style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">1</td><td
-        style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr
-        style="height:16px"><td class="table-header"
-        style="width:51.1291%;height:16px;text-align:left"
-        colspan="5"><strong>SUGGESTED SKILLS</strong></td><td
-        style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px"
-        colspan="2">XP Cost</td><td
-        style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0,
-        0, 0, 0.2)">16</td></tr><tr style="height:16px"><td
-        style="height:16px;width:92.7291%" colspan="8">Athletics 1, Awareness 1,
-        Ballistic Skill 1, Intimidation 2, Persuasion 1, Survival 1, Weapon
-        Skill 1</td></tr><tr style="height:16px"><td class="table-header"
-        style="width:92.7291%;height:16px" colspan="8">SUGGESTED
-        TALENTS</td></tr><tr style="height:16px"><td
-        style="height:15px;width:92.7291%"
-        colspan="8">@UUID[Item.jlrOP1uvd0x0VRiK]{Death Or Glory!},
-        @UUID[Item.LoHgYwDbFoZAaOMD]{Flagellant},
-        @UUID[Item.caUknJMvhWAcEDbz]{Hatred [Any]}</td></tr></tbody></table>
+      content: '<blockquote><p>A single man with faith can triumph over a legion of the faithless. Untold billions of the faithful can never be opposed.</p><p style="text-align:right"><em>—— Sebastian Thor, Sermons, Volume XI Chapter IVSebastian Thor, Sermons, Volume XI Chapter IV</em></p></blockquote><p><strong>A common citizen of the Imperium, called to action by the church in times of crisis to fight in the Emperor’s name. Armed only with whatever weapons you can muster yourself, and your devotion to the Lord of Mankind, you give all that you are to protect His Imperium.</strong></p><p>During Wars of Faith, and when temples and shrines are under attack, the priests of the Ministorum have the right to unlock secret arms-vaults and raise a militia from amongst the faithful. Not officially part of the Church—as the Decree Passive bans the Ecclesiarchy from having any ‘men under arms’—these Frateris Militias are often little more than mobs of zealots, especially when drawn from local Redemptionist cults and other fringe sects of the Church.</p><p>A priest only raises a militia when absolutely necessary. Without proper guidance, these groups can turn into violent vigilante mobs. However, when directed by the will and personality of an inspirational figure, they can be stalwart and valorous fighters.</p><p>Since the opening of the Cicatrix Maledictum, worlds across the Dark Imperium have raised Frateris Militias as a last-ditch defence against the darkness that has enveloped them. There are more souls who march beneath the banners of the Ecclesiarchy than have done so since the Age of Apostasy, and few in the clergy are entirely comfortable with the notion.</p><div class="journal-image centered"><img src="modules/wng-apocrypha/assets/images/archetypes/Frateris_Militia.webp" width="270" height="421" /></div><table style="width:98.9228%;height:239px~" border="1"><tbody><tr class="table-header" style="height:16px"><td style="width:92.7291%;height:16px" colspan="8">FRATERIS MILITIA</td></tr><tr style="height:16px"><td style="background-color:#484745;color:white;text-align:center;width:26.5674%;height:16px" colspan="2">TIER</td><td style="width:8.3%;height:16px;text-align:center">1</td><td style="background-color:#484745;color:white;width:16.2617%;height:16px;text-align:center" colspan="2">SPECIES</td><td style="width:11.7268%;height:16px;text-align:center">Human</td><td style="background-color:#484745;color:white;width:11.6223%;height:16px;text-align:center">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center">6</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>KEYWORDS</strong>: @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM}</td></tr><tr style="height:16px;background-color:rgba(0, 0, 0, .2)"><td style="width:92.7291%;height:16px" colspan="8"><strong>ATTRIBUTE</strong>: Willpower 2</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>SKILLS</strong>: Ballistic Skill 1 or Weapon Skill 1</td></tr><tr style="height:16px;background-color:rgba(0, 0, 0, .2)"><td style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE ABILITY</strong>: @UUID[Item.lvOR1IHs7y6ypv20]{Fervour}</td></tr><tr style="height:16px"><td style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>: One ranged or melee weapon of Value 3 or less of up to Common rarity, @UUID[Item.drUoIw7l4vPyI9Zm]{knife}, symbol of devotion (tin aquila, devotional scroll, etc.).</td></tr><tr style="height:16px"><td class="table-header" style="width:51.1291%;height:16px;text-align:left" colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px" colspan="2">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">32</td></tr><tr style="font-variant:small-caps;height:16px"><td style="background-color:#484745;color:white;width:14.0674%;height:16px">ATTRITBUTE</td><td style="width:12.5%;height:16px;text-align:center">S</td><td style="width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">T</td><td style="width:5.17241%;height:16px;text-align:center">A</td><td style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">I</td><td style="width:11.7268%;height:16px;text-align:center">Wil</td><td style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">Int</td><td style="width:18.2509%;height:16px;text-align:center">Fel</td></tr><tr style="height:16px"><td style="background-color:#484745;color:white;width:14.0674%;height:16px">RATING</td><td style="width:12.5%;height:16px;text-align:center">2</td><td style="width:8.3%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">3</td><td style="width:5.17241%;height:16px;text-align:center">2</td><td style="width:11.0893%;height:16px;text-align:center;background-color:rgba(0, 0, 0, .2)">2</td><td style="width:11.7268%;height:16px;text-align:center">3</td><td style="width:11.6223%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">1</td><td style="width:18.2509%;height:16px;text-align:center">2</td></tr><tr style="height:16px"><td class="table-header" style="width:51.1291%;height:16px;text-align:left" colspan="5"><strong>SUGGESTED SKILLS</strong></td><td style="background-color:#484745;color:white;text-align:center;width:23.3491%;height:16px" colspan="2">XP Cost</td><td style="width:18.2509%;height:16px;text-align:center;background-color:rgba(0, 0, 0, 0.2)">16</td></tr><tr style="height:16px"><td style="height:16px;width:92.7291%" colspan="8">Athletics 1, Awareness 1, Ballistic Skill 1, Intimidation 2, Persuasion 1, Survival 1, Weapon Skill 1</td></tr><tr style="height:16px"><td class="table-header" style="width:92.7291%;height:16px" colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td style="height:15px;width:92.7291%" colspan="8">@UUID[Item.jlrOP1uvd0x0VRiK]{Death Or Glory!}, @UUID[Item.LoHgYwDbFoZAaOMD]{Flagellant}, @UUID[Item.caUknJMvhWAcEDbz]{Hatred [Any]}</td></tr></tbody></table>'
       markdown: ''
     _id: 6VIdIZs0RFiBmFtW
     image: {}
