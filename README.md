@@ -76,6 +76,22 @@ npm run pack     # YAML sources -> LevelDB packs
 Foundry host, Linux, or WSL). After editing, always reload the module in
 Foundry to confirm the compendium loads — see [src/packs/README.md](src/packs/README.md).
 
+### Releasing
+
+`module.json` keeps a **fixed** `manifest` URL pointing at the moving `latest`
+release (`releases/download/latest/module.json`) — never change it, or Foundry
+installs stop seeing updates. The `download` URL points at a versioned release
+tag.
+
+To cut a release: bump `version` (and the `download` tag) in `module.json`, then
+create a GitHub Release on that tag. The [Release workflow](.github/workflows/release.yml)
+then builds `wng-apocrypha.zip`, attaches it plus `module.json` to the release,
+refreshes the `latest` manifest, and — if the repository secret
+`FVTT_RELEASE_TOKEN` (the Package Release Token from the package's
+[foundryvtt.com](https://foundryvtt.com) page) is set — registers the release
+with the Foundry Package Release API. The workflow can also be run manually
+("Run workflow") against an existing tag, with a dry-run option.
+
 ## License
 
 This module's own packaging/code is released under the **MIT License** — see
