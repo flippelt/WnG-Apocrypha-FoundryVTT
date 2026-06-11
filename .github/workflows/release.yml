@@ -89,6 +89,10 @@ jobs:
           echo "HTTP $http"
           echo "Response:"; cat resp.json; echo
           if [ "$http" -ge 400 ]; then
+            if grep -q "unique_together\|already exists" resp.json; then
+              echo "::warning::This version is already registered on Foundry — nothing to do."
+              exit 0
+            fi
             echo "::error::Foundry Package Release API returned HTTP $http (see response above)."
             exit 1
           fi
