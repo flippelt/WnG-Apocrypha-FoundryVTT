@@ -1,0 +1,48 @@
+name: Fulgurite Electro-Priest
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600156
+pages:
+  - name: Fulgurite Electro-Priest
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>ALL PRAISE THE EBB AND FLOW, ALL FEEL THE NIMBUS RISING, ALL SING THE BODY ELECTRIC, FEEL THE FULL CHARGE CRACKLE! —Excerpt from the Chant of Electro-traction You are a devotee of the Motive Force that flows through the universe, and it surges within your flesh and augmetics. You cannot tolerate the misuse of this divine power, so you siphon it from the flesh and technology of non-believers, ensuring that it can only be used by the faithful. Fulgurite Electro-priests crackle with energies stolen from those they slay in mortal combat. A protective shroud of lightning known as a "voltagheist" field surrounds them, and their rewired veins and subcutaneous Electoo circuits thrum with divine force. The Fulgurites are amongst the most blunt and bellicose of the Omnissiah's disciples—these holy warriors do not slay their foes at range but bludgeon the life from Heretic and foe-machine alike. It is the creed of the Fulgurite to tear the life energy from the galaxy—in particular the bioelectricity that animates living souls. Also known as the "Brotherhood of</p><p>Petrified Lightning," the Fulgurites wish to harness the animus of their foes and bind it to the Omnissiah, reclaiming the Motive Force and solidifying it with the power that dwells in the care of the Tech-priests. The Fulgurites believe that only those found worthy in the eyes of the Machine God should possess the divine grace of His galvanising power. They would willingly render every culture that did not praise the Omnissiah totally inert, plunging the civilisations of the unenlightened into eternal night. This selfish creed is no idle philosophy, but rather a holy crusade, and they fight for it night and day.</p>
+      markdown: ''
+    _id: CmP2qvMS5uaDUMBM
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!dK0nYTWnG96T7BlW.CmP2qvMS5uaDUMBM'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: dK0nYTWnG96T7BlW
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!dK0nYTWnG96T7BlW'
+categories: []

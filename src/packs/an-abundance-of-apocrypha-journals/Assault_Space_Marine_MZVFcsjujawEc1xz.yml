@@ -1,0 +1,48 @@
+name: Assault Space Marine
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600024
+pages:
+  - name: Assault Space Marine
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>“And of the Assault Marine so do I decree: He shall descend upon the perfidious foe as an Angel of Judgment from on high. Let the jump pack be his wings, and the roar of its engines a hymn of retribution. Let the chainsword be his sceptre of decree, its harsh voice singing joyfully with each and every blow. With it shall the Assault Marine bring bloody retribution to the heretic, the traitor, and all alien aggressors who trespass on the Emperor''s domain. So will the Assault Marine be the hunter of warlords and the slayer of kings. His armour shall run slick with the life-blood of the vanquished, and all shall honour his name.” —Roboute Guilliman, quoted in the Apocrypha of Skaros You plunge from the skies upon wings of flame to strike at the heart of the enemy. Your swift, decisive, and brutal strikes can send an enemy line into disarray, creating openings for your brethren as you wet your blade. Assault Marines are those Space Marines equipped with weapons for melee and close quarters combat, fighting as part of an Assault Squad. These warriors excel at close quarters fighting and are equipped with powerful jump packs that allow them to leap forwards across the battlefield, closing the distance quickly and descending upon their foes at high speed and with incredible force. Assault Marines normally form the vanguard of a Space Marine attack, striking hard and fast against weak points in the enemy formation. Infantry are torn apart by blade and pistol, while krak grenades and other demolition devices are used to break open enemy armour and fortifications. Assault Marines are ever in danger of being outflanked and overwhelmed every time they range ahead of their brothers. Thus, even while they butcher their foes in melee, they must remain aware of the situation around them, ready to withdraw and redeploy to avoid being stranded in in a sea of foes. In addition to being melee shock troops, Assault Marines are taught to operate the Chapter’s fast attack vehicles, such as Bikes and Land Speeders. In these roles, they still range ahead of the army to strike at the enemy’s weak points, but the methods are quite different.</p><p>Page 137</p>'
+      markdown: ''
+    _id: 3qQQuNfmDRjBl1yI
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!MZVFcsjujawEc1xz.3qQQuNfmDRjBl1yI'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: MZVFcsjujawEc1xz
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!MZVFcsjujawEc1xz'
+categories: []

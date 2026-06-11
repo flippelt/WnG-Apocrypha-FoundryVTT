@@ -1,0 +1,48 @@
+name: Sicarian Infiltrator
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600368
+pages:
+  - name: Sicarian Infiltrator
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Red in cog and claw"</p><p>–Common Skitarii Exhortation You are an assassin, a blade turned towards those who would blaspheme against the Machine God. Few who cross you can withstand the sensory onslaught you project, allowing you to easily bypass any obstacles or guards in your path. Heavily augmented into more machine than man, the Sicarian Infiltrators are a hideous, frightening strike force - the height of Adeptus Mechanicus posthuman engineering. When hunting, they emit from their domed helmets a white noise that fills all sensory spectra with static, leaving their foe disorientated and helpless. Enemies fall, deafened and blinded by the scree of a brutally disruptive audiovisual assault; battles are often decided before even a single kill is confirmed. Infiltrator squads can bypass enemy defences with ease, though not because of their stealth but rather their disruptive wavelengths they broadcast when on the move. Regular Skitarii warriors sent to fight alongside Infiltrators are given null-codes that can transmute their disorientated wavelength frequencies, allowing for efficient combined-arms assaults. Every Sicarian was once a Skitarii who was grievously injured in battle, such as losing all their limbs or being extensively burned. If these fallen are judged still fit to serve the Omnissiah, they are not incinerated but instead taken back to be augmented into lethal killing machines. This process can take place as long as a TechPriest possesses a head, torso, and some limb-stumps.</p><p>Page 158</p>
+      markdown: ''
+    _id: CLjQx42l3FyQ1bjh
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!qA4mXWsl7x5MrhYj.CLjQx42l3FyQ1bjh'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: qA4mXWsl7x5MrhYj
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!qA4mXWsl7x5MrhYj'
+categories: []

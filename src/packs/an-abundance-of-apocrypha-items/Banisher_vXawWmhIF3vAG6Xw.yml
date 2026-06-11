@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/adeptus-ministorum.webp
 system:
   tier: 2
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.74gQfYmenf3DH5Uw'
   species:
     name: Human
     id: Item.JjNQyUPELJb8CvL5

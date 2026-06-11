@@ -1,0 +1,48 @@
+name: Chaos Cultist
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600072
+pages:
+  - name: Chaos Cultist
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>Don't blame me for what I’ve done. I watched my wife and daughters die before me. It was death or embracing Chaos, and I knew that through Chaos, I might live. Live! It is life that matters and what I have learned is that Chaos IS life, for life is change and destruction and new forms, new mutations ever manifesting. We clung to the Emperor, a dying effigy, because He was all we knew. We feared life. We feared our own potential strength. The Imperium is dying. A slow death, but it’s dying. I did what I had to, that’s all. I opened my eyes and saw what a fool all of us were, bowing to a half-dead failure slumped on a throne. Haha! The blasphemy still sends shivers down my spine. It is the freshness of life. I am given to Chaos now. Now I truly live! — Unknown You have sworn yourself to the Dark Gods, seeking to liberate yourself from the oppression of the Imperium or lured to darkness by promises of power. Those who forswear their loyalty to the Imperium almost invariably soon place their faith in the Dark Gods. Often, this is because those beings—or their agents—drew the unwitting away from the Emperor in the first place. The unholy creatures of the warp have tremendous power, and they use it to reward their faithful. However, their dark blessings all come at a price, and that cost increases with each successive interaction. Cultists must embrace their cause and commit their very beings to service, or they soon discover that the cost can be more than they are capable of repaying. To the unwary, a cultist may appear no different than any other citizen of the Imperium. Most cover their blasphemous brands and tattoos with clothing, revealing them only in the presence of their peers lest they draw undue attention. Only when an appropriate opportunity arises do they throw off their Imperial costumes and reveal their true forms. This may be in response to an astronomical alignment, or the arrival of allies in the form of daemons or even Space Marine renegades. Under these circumstances, the cultists assemble wargear, which may have been carefully scavenged and maintained in preparation for this day. Many don costumes, invariably primitive, which they carefully manufactured in accordance with the</p><p>Page 76</p><p>directions they have received from their heretical masters. Assembling in vast hordes, they prepare to strike against those who remain loyal to the Emperor.</p>
+      markdown: ''
+    _id: Hnoia4BgMWjoF1UF
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!9nQOI9yKfKDNxryt.Hnoia4BgMWjoF1UF'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 9nQOI9yKfKDNxryt
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!9nQOI9yKfKDNxryt'
+categories: []

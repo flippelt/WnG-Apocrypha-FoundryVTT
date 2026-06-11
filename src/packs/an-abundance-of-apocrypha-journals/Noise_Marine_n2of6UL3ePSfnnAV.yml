@@ -1,0 +1,48 @@
+name: Noise Marine
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600268
+pages:
+  - name: Noise Marine
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"The mind-curdling cacophony of the battlefield! Shape it, savour it, add to it until your senses shake and your minds quiver with deafening bliss!" — Anonymous Noise Marine of Slaanesh You have become obsessed with the deadly thrill of intense sound. The battlefield contains unappreciated symphonies that you simply must partake in. Noise Marines, also known as Kakophoni, are Chaos Space Marine foot soldiers deeply dedicated to the Chaos God Slaanesh who are commonly found in the Emperor's Children Traitor Legion, but also in other Slaanesh-devoted Heretic Astartes warbands such as the Flawless Host. Noise Marines are perfect hedonists, completely dedicated to pushing their corrupted minds and bodies to the absolute limits of sensation. All have spent centuries enraptured in the throes of Slaanesh's service, and their ceaseless devotions have corrupted their bodies until only the most extreme sensations hold any satisfaction for their pleasure-addled synapses. Now their every thought is bent wholly towards their own self-gratification, and their imaginations incessantly overflow with insane visions of reckless and loathsome indulgences.</p><p>aural stimulations, causing them to undergo feelings of intense euphoria and emotion that increase in proportion to the volume and frequencies of the sounds they experience. Noise Marines relish these sensations above all others and are entirely obsessed with indulging their unique abilities, often subjecting themselves to the most overwhelming and chaotic noises imaginable at the slightest provocation.</p><p>Along with the fabled transhuman physiology of an Astartes, Noise Marines also possess an extraordinary sense of hearing. This auditory acuteness is a blasphemous mutational gift from Slaanesh himself, extending far beyond that of a normal human, and is sensitive enough to distinguish subtle changes in pitch and tone within even the most cacophonous noises. This foul blessing also warps the way their brains interpret</p><p>Page 178</p>
+      markdown: ''
+    _id: 3eFBhrHmeAsp8sal
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!n2of6UL3ePSfnnAV.3eFBhrHmeAsp8sal'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: n2of6UL3ePSfnnAV
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!n2of6UL3ePSfnnAV'
+categories: []

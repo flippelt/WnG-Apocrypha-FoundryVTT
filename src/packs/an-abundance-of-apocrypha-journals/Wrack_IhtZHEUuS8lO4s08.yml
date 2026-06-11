@@ -1,0 +1,48 @@
+name: Wrack
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600468
+pages:
+  - name: Wrack
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"The creatures of realspace are so possessive of their flesh, hiding it from their peers and betters beneath skin and armour. The same is true of their bones, which they are quick to mend when broken. How tedious an existence they must lead, bound to one form forever. That is, of course, until I find them, and introduce them to a life of ever-changing torment." —Exen Bal'reyn, Wrack of the Coven of Twelve You are a servant of a Haemonculus, a willing subject of your master’s experiments and a gleeful assistant in their craft. You have transcended the limitations you were born with, and you aspire someday to become something far greater. Every ruler needs obedient servants, and Wracks are literally fashioned for the task. Known in some circles as "Haemacolytes," each Wrack's sole duty is to dutifully serve their master, whether at the slab or upon the battlefield. To this end they are physically modified to better perform their gory duties. Within the Wrack's surgically enhanced frame lies a shocking strength, and in combat they lay about themselves with a variety of sickled blades, corrosive whips, stun-rods and silvered hooks. Because Haemonculi tend towards megalomania or even delusions of godhood, they surround themselves with supplicants and minions to enact their orders. In fact, most Haemonculi prefer not to sully themselves with physical labour of any kind and consider themselves somehow polluted if they have to exert themselves in any way. Instead, the dirty work of each Haemonculus is performed by his Wracks. Most Wracks hope to one day transcend their previous lives entirely—a Wrack will endure almost any degradation in the hope that they may eventually ascend to the ranks of the Coven lords. A typical scene in the oubliettes and laboratories of the Haemonculi is a single figure looming over a partially dissected victim whilst hunched Wracks scrabble to enact every disturbing command.</p><p>Page 96</p>
+      markdown: ''
+    _id: tMGle3piXs2RN8z4
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!IhtZHEUuS8lO4s08.tMGle3piXs2RN8z4'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: IhtZHEUuS8lO4s08
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!IhtZHEUuS8lO4s08'
+categories: []

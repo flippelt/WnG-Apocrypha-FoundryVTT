@@ -1,0 +1,48 @@
+name: Succubus
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600420
+pages:
+  - name: Succubus
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Hold steady, troopers. Keep firing. Nothing can move fast enough to close a gap like that before we ki-"” -</p><p>Lieutenant Korgein, final words when facing a Drukhari Succubus</p><p>You are flawless, as deadly as you are beautiful, and you are the envy of all who gaze upon you. If they are lucky, they shall get to look upon your perfection upclose, as you claim their lives with the most sublime of cuts. The Succubi, also sometimes called Archites, are the ruling elite of the Drukhari Wych Cults. Extraordinarily beautiful and possessed of an elegant but deadly grace, they are born to the fury of battle and stride through its chaos surrounded by coteries of their lethal Wyches who seek out worthy alien opponents for their mistresses to kill. Every Succubus is famed across Commorragh for the precision and artistry of her kills. Their every motion is an entrancing sight, their serpentine grace almost hypnotising the viewer as they flow like a lethal work of art towards their victims. The Succubi are the true celebrities in the gladiatorial arenas of the Dark City, and when they are in the heat of combat, they enjoy a jealous envy from their peers that is as close as the inherently selfish Drukhari can ever get to veneration or admiration of another being.</p><p>possess both deadly combat skill and the allure of physical perfection ever join the ranks of the ynnitach. A Succubus will do almost anything to preserve her stunning beauty, including feeding a multitude of lesser warriors to a gruesome death so that she may feed upon their psychic fear and anguish to regenerate herself and present a more youthful, lithe appearance to the arena crowd upon her entrance into the fight. Yet, though each Succubus is a beauty to the eye, their hearts are cold, cruel and dispassionate and a psyker who observed a Succubus with their witch-sight would likely see only a grey and shrivelled hag rather than a lush temptress of the arena. The greatest of the Succubi seek through the art of death to transcend the brute violence of the arenas and become living avatars of the act of death, hoping to follow in the wake of the Dark Muses and become revered as the embodiment of a particular type of murder.</p><p>The Succubi are collectively called the ynnitach in the Aeldari Lexicon, the "brides of death." Every Wych Cult is governed by 3 Succubi who collectively lead it in the form of a triune council. However, only one of the three actually rules the cult, whilst the other two simply try to outdo each other in the gladiatorial arenas in the hopes of increasing their power and popularity with the general populace of the Dark City. Only</p><p>those Drukhari Wyches who</p><p>Page 204</p>
+      markdown: ''
+    _id: YXdwGTjbcQLUZ5VH
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!Z7GQtuspJcZni8Z9.YXdwGTjbcQLUZ5VH'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: Z7GQtuspJcZni8Z9
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!Z7GQtuspJcZni8Z9'
+categories: []

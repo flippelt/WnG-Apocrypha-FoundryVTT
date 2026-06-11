@@ -1,0 +1,48 @@
+name: Hearthkyn Warrior
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600200
+pages:
+  - name: Hearthkyn Warrior
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“You people do well at war because you treat it as a religion. We do well because we treat it as a business. It is just a matter of outlook.” Hargr Brônd, Kahl of the Gruben Kinhost You’re a proud, dependable warrior, trained in martial traditions of Kin and Hold. You do not yield while a fellow warrior continues to fight, and you do not despair when facing the enemy because your kin stand by your side. These clone warriors form the core of the Kinhosts, and unlike Space Marines, they are not bred solely for war. These soldiers are a citizen militia drawn from the populace of the Holds and disregard gender, occupation, or social role. While warriors, they also live fulfilling lives outside of war. However, while they often have side trades outside of war, Hearthkyn are nonetheless well-trained and equipped for war and drill themselves as much as the elite warriors of many other races. They boast excellent discipline and prodigious martial skill, for a Hearthkyn cannot join a band until they are able to pass a rigorous series of tests. Moreover, Hearthkyn Warriors are often engineered with particular cloneskeins that allow them to specialize in combat such heightened senses, improved stamina, and night vision. Others augment their bodies for battle with mechanical limbs and synthetic organs. Despite being technically classified as militia, no Hearthkyn is treated as expendable, and field medics are common amongst their ranks. Strong bonds of loyalty bind the individual Hearthkyn together and ensure comradeship of one squad to the next.</p><p>Page 84</p>
+      markdown: ''
+    _id: rpLsMH8IYS6ZV9z7
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!cqmFWFugWAjSmUp7.rpLsMH8IYS6ZV9z7'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: cqmFWFugWAjSmUp7
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!cqmFWFugWAjSmUp7'
+categories: []

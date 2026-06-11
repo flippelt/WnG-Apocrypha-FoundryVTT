@@ -1,0 +1,48 @@
+name: Burna Boy
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600056
+pages:
+  - name: Burna Boy
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Look! Look, Nashrak! It’z burnin’ good an’ proppa now!" —Gargutz, Ork Burna Boy You love fire. You love it so much, that you want to share it with everyone you meet.</p><p>They serve a vital secondary role in this regard, cutting up battlefield salvage for later use.</p><p>Burna Boyz are those pyromaniacal Greenskins whose desire to burn and destroy grows to consume them entirely. Often, they join forces with Mekboyz who they depend on to keep them supplied with Promethium fuel and the heavy blow torch/flamethrowers known as Burnas that give them their name. These dedicated arsonists take great delight in setting fire to the enemy (and anybody and anything else they can lay their hands on if no enemy is available) and it takes a strong Warboss or the blackmailing powers of the Meks to keep them in line. However, the benefits of these lunatics in any Ork warband just about outweigh the risks of getting anywhere near them.</p>
+      markdown: ''
+    _id: gDQbCKJvtuJHnduO
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!LecLuOn7myI2ufWf.gDQbCKJvtuJHnduO'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: LecLuOn7myI2ufWf
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!LecLuOn7myI2ufWf'
+categories: []

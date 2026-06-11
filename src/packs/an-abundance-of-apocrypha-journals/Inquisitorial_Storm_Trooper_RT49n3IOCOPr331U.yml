@@ -1,0 +1,48 @@
+name: Inquisitorial Storm Trooper
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600220
+pages:
+  - name: Inquisitorial Storm Trooper
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Valkyrie Beta, begin low altitude insertion, fifty metres elevation. Squad Primus, prepare for low level jump. Last one on the dirt carries my pack!” –Sergeant Marcus Blaine, making his 100th assault drop You are an elite soldier in service to the Inquisition, trained by the Holy Ordos to secure their ships, their facilities, and their operations, and to carry out purges and eliminations. The Inquisition maintains a number of fortresses throughout the galaxy, both secret and known to the inhabitants of the Imperium. Inquisitorial Storm Troopers are used by the Inquisition to guard these fortresses and the Black Ships as they make their purity runs across the Imperium's sectors, as well as to augment an individual Inquisitor's personal forces with reliable and effective soldiers. Many Storm Troopers of particular skill are chosen to become an Inquisitor's Throne Agents. They are recruited from the Schola Progenium as well as certain families with a tradition of service to the Inquisition. They are trained and equipped in a manner similar to Tempestus Scions, albeit lacking the rapid insertion and infiltration skills, as they are not expected to undertake such types of missions. However, they undergo far more rigorous purity and incorruptibility tests prior to their induction, making them far more suitable for the needs of the Inquisition in combating the most insidious and corruping threats.</p>
+      markdown: ''
+    _id: XCb0g44Hs0MqERfY
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!RT49n3IOCOPr331U.XCb0g44Hs0MqERfY'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: RT49n3IOCOPr331U
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!RT49n3IOCOPr331U'
+categories: []

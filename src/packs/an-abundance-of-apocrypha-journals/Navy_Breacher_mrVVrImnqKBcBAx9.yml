@@ -1,0 +1,48 @@
+name: Navy Breacher
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600260
+pages:
+  - name: Navy Breacher
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“He who seizes the moment, he is the right man.” –Fleet Admiral Hawke You’re one of the elite Armsmen of the Imperial Navy, trained for close assaults and formidable defence aboard voidships, orbital stations, and other enclosed environments. Armsmen are crewmembers trusted to carry weapons at all times on board the ship and maintain the contents of the weapons lockers. They keep discipline among the lower ranks and protect the crew as needed. Unlike most Ratings, Armsmen get to move around different decks of the warship in the course of their duties and their loyalties are carefully scrutinised. Armsmen are essentially the Imperial Navy's equivalent of marines in the most ancient sense of that term.</p><p>Experienced in hazardous boarding actions, these elite Armsmen are aggressive and blunt instruments of their warship’s commander. They wear fully enclosed void armour and wield robust weapons optimised for closeconfines fighting, while some carry more specialised gear for cracking enemy bulkheads.</p><p>These fighting men and women of the Imperial Navy are called upon for many tasks, from garrisoning void ports to escorting the Navigator elite. The bravest and most daring of their ilk are selected for the Breacher teams – the blunt hammer at the head of a Navy boarding assault. Trained in close-quarters combat and equipped with a range of specialist equipment, these bold boarders smash apart anything in their way under a hail of shotgun fire, grenades, and axe blows.</p><p>IMPERIAL NAVY BREACHER</p>
+      markdown: ''
+    _id: l2ualJ77tvJqSkqR
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!mrVVrImnqKBcBAx9.l2ualJ77tvJqSkqR'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: mrVVrImnqKBcBAx9
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!mrVVrImnqKBcBAx9'
+categories: []

@@ -1,0 +1,48 @@
+name: Plague Marine
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600292
+pages:
+  - name: Plague Marine
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>" Sickness, disease, plague and pox, suffering and the slow, living rot. Such wondrous gifts does Nurgle seek to bestow upon the unworthy human cattle of the Imperium. We are merely the vectors by which his virulent beneficence may be spread to the undeserving masses." — Urgloth Rotheart, Plague Champion of the Death Guard You bear the Plaguefather’s gifts, and you seek to spread them to all those you encounter. And if that generosity is spurned, yours is the fury and wrath that shall be offered instead. Plague Marines are those Chaos Space Marines who have wholly dedicated their lives and souls to the service of the Chaos God Nurgle.</p><p>carcasses, making them all but immune to the pain or discomfort caused by battle wounds. The blessed reek of corruption, the sight of freshly suppurating flesh and the blossoming gore of an infected wound -- these are things to be grateful for.</p><p>Within their corpulent and disgusting Power Armour their bodies are bloated with disease, swollen with corruption and rank with decay even as they no longer are capable of feeling pain, the greatest mutational "gift" given to them by the Plague Lord. The Plague Marines prefer short-ranged firefights, where they can truly appreciate the festering carnage they inflict upon their enemies, even as they laugh off the bolts and las-blasts directed back at them. Their decaying brains are inured to the agony of the bodily corruption that runs rampant in their diseased</p><p>NURGLE PLAGUE MARINE</p>
+      markdown: ''
+    _id: GoVyxqTmYdLQxfFv
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!rDx76Y4uSapGuOm7.GoVyxqTmYdLQxfFv'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: rDx76Y4uSapGuOm7
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!rDx76Y4uSapGuOm7'
+categories: []

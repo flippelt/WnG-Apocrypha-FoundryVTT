@@ -1,0 +1,48 @@
+name: Autarch
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600032
+pages:
+  - name: Autarch
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Only when you have soared through the morning skies on wings of flame can you understand the Hawk. Only when you have fallen screaming upon those who know they are already dead can you understand the Banshee. Only when you have annihilated those who would oppose you can you truly understand the power of the Dragon. And only one who has travelled but ultimately turned away from each of these paths can understand the Autarch.” —Anthrillien Morningchild, Autarch of Yme-Loc You have walked numerous paths, and with each you gained greater insight into how each aspect of your people’s culture serves the whole. With your keen mind, you can bring the disparate talents of your kin together and combine them to achieve victory. An Autarch is one of those few Asuryani who have mastered many Paths over the centuries, including one or more facets of the Path of the Warrior. They possess a consummate understanding of the art of war and serve as the supreme commanders, strategists and generals of an Asuryani craftworld's warhost.</p><p>excels, for they are consummate warriors as well, and often spearhead assaults, fighting an enemy army's leader in personal combat or contemptuously destroying war machines with ease. Autarchs are considered integral parts of Asuryani culture due to their versatility and ability to lead the Asuryani on the myriad paths of life and death.</p><p>This Path, known as the Path of Command or Path of the Leader, is pursued by highly skilled individuals who believe martial excellence can be achieved by gaining a wider perspective of battle that allows the Eldar warhost to achieve victory in the most efficient and lethal way possible. Autarchs do not limit themselves to the single-minded specifications required of a single Path like most Asuryani. The Autarch possesses an unparalleled strategic ability which far outshines an Exarch's obsession with only a singular facet of war. This enables an Autarch to lead a craftworld warhost that operates in perfect unison, with each component of the Asuryani war machine functioning in perfect synchronicity. It is not only at the aspect of command that an Autarch</p>
+      markdown: ''
+    _id: xZazEygtwy85jLwh
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!IkHZdlg3AGv51Jku.xZazEygtwy85jLwh'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: IkHZdlg3AGv51Jku
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!IkHZdlg3AGv51Jku'
+categories: []

@@ -1,0 +1,48 @@
+name: Null-Maiden
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600276
+pages:
+  - name: Null-Maiden
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>"We are mute but not without power, we are silent but not without resolve, we are untouchable but not without courage, we are sisters and have but one father. We are seekers and we shall find our prey; we are warriors and woe to those we oppose, the Emperor''s mark is on our brow, all who deal with the Warp must beware, His Judgement and vengeance is ours to deliver!" — Motto of the Sisters of Silence Your very existence is anathema to the witch, the sorcerer, and the daemon. You guard the Imperium against such things, waging a silent, thankless war for a people who know not that you exist and who would feel revulsion at your nature were they to encounter you.</p><p>as the Oath of Tranquility upon being nominated for Sisterhood. Before this, when they are novices, they can converse normally. Amongst their other duties, novices sometimes act as interpreters between senior Sisters and other agents of the Imperium. Full Sisters converse in their own sign-languages.</p><p>The Sisters of Silence were once the Divisio Investigates of the Divisio Astra Telepathica, tasked with hunting down rogue psykers and other psychic threats across the galaxy. They helped to enforce the Imperium''s rigid laws on the use of psychic powers. The Sisters of Silence''s original purpose was to hunt and kill rogue human psykers whose activities presented a terrible danger to the people of the newborn Imperium of Man and to oversee the tithe of psykers from every Imperial world to Terra.</p><p>The rank-and-file Sisters of Silence are known as NullMaidens, and they are commonly divided into three groups: flamer-armed Seekers, bolter-armed Prosecutors, and the deadly Vigilators with their Executioner Greatblades.</p><p>Along with the Legio Custodes, answered only to the Master of Mankind, and were amongst His most trusted servants. In the millennia following the Heresy, however, the Sisterhood became less prominent, and by the late 41st Millennium they had dwindled almost to extinction. Most of those remaining were occupied aboard the Black Ships, hunting psykers and performing the crucial role of damping the potent and uncontrolled abilities of their cargo. A few other groups were scattered around the Imperium, most reduced to a handful of members. Yet, after thousands of standard years in obscurity, when Roboute Guilliman returned, so too did the Sisters of Silence. Each Sister swears a lifelong oath of silence known</p>'
+      markdown: ''
+    _id: yvhv6QFYnjoLn0Mg
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!BPjUkqJCdYJdZKyV.yvhv6QFYnjoLn0Mg'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: BPjUkqJCdYJdZKyV
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!BPjUkqJCdYJdZKyV'
+categories: []

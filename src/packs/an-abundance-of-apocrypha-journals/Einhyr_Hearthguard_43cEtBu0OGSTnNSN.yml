@@ -1,0 +1,48 @@
+name: Einhyr Hearthguard
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600136
+pages:
+  - name: Einhyr Hearthguard
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“We have always been a race of traders. It is natural to us that we should trade the fighting skills of our Brotherhoods. As well as bringing us a profit, it also allows our youngsters to gain experience and honour, and to keep alive the skills which our strongholds may one day need for their own defence.” —Lord Grumni, Bruggen Stronghold You’re one of the chosen confidants, protectors, and counsellors of your Kâhl, rewarded with the finest wargear and the greatest chances for glory and prestige because of your skill and experience. Selected from the most accomplished Hearthkyn and Theyns in a Hold, the Einhyr Hearthguard have many roles – from bodyguards to first-striking. Each Hearthguard has proved themselves over many years on the frontlines, ascending through the staunch meritocracy that defines the Leagues maintain. Like Hearthkyn, Hearthguard are dependable, but their experience and technology take their kinds natural durability to a whole new level. Squads are led by Hesyrs. Einhyr Hearthguard are clad in Exo-Armour and wield a variety of weapons from. Each is equipped with a Volkanite Disintegrator, EtaCarn Plasma Gun, and a shoulder-mounted grenade launcher as well as Concussion Gauntlets for melee combat, with many more choosing to add a Plasma Blade or Concussion Hammers to further its killing power. The Theyn of a Einhyr Hearthguard squad is seen wielding a massive battle hammer. The exo-armour of the Einhyr Hearthguard is made from ultra-dense materials attached to a complex servo-assisted frame, allowing the wearer to shrug off anti-tank weaponry while retaining full freedom of movement and even auto-stabilising their aim while they return fire. The armor can also be equipped with Teleportation Crests.</p><p>Page 147</p>
+      markdown: ''
+    _id: cbUnd1vRLTwof1ZU
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!43cEtBu0OGSTnNSN.cbUnd1vRLTwof1ZU'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 43cEtBu0OGSTnNSN
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!43cEtBu0OGSTnNSN'
+categories: []

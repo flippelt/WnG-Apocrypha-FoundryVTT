@@ -1,0 +1,48 @@
+name: Historitor-Investigatus
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600208
+pages:
+  - name: Historitor-Investigatus
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“The past decays, no matter how hard you work to preserve it. It is time for the Imperium to look forward again.” — Roboute Guilliman, Lord Commander of the Imperium, to Fabian Guelphrain, Historitor You were selected by the Imperial Regent, by the Emperor’s Avenging Son, to sift through the fragmented history of the Imperium, attempting to piece together some understanding of the truth. Such a grand purpose comes with a measure of the Primarch’s own authority. Chosen by the Primarch Roboute Guilliman himself, Historitors are scholars and researchers charged with cataloguing and preserving the history of the Imperium, as well as investigating and uncovering any historical events or artifacts that may hold significance for the current day. Historitors are highly educated and trained in a variety of disciplines, including archaeology, history, linguistics, and psychology. They often work alongside Imperial Guard units and other Imperial organizations in their missions to uncover lost knowledge and artifacts.</p><p>who view them as impractical and wasteful, or even heretical for the way they challenge long-established orthodoxy. In particular, they are known to run afoul of agents of the Inquisition and the Administratum, whose efforts concealed the history the Historitors seek to uncover. Despite this, they continue to play a crucial role in recovering knowledge of the Imperium’s past, and their work is essential to the Primarch. In their work, Historitors often encounter dangerous and unknown artifacts, relics of long-forgotten civilizations, and other threats to the stability of the Imperium. Despite these dangers, they remain dedicated to their work and the preservation of the Imperium's history and culture. While scholars first and foremost, they are often trained and equipped to face dangerous situations and may often be accompanied by an entourage of assistants and bodyguards.</p><p>Despite their importance to the Imperium, Historitors are not well-regarded by many within the Imperium,</p>
+      markdown: ''
+    _id: OaHV7qFGVTQLzUJ8
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!tKl4UIKfqKAEFmdv.OaHV7qFGVTQLzUJ8'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: tKl4UIKfqKAEFmdv
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!tKl4UIKfqKAEFmdv'
+categories: []

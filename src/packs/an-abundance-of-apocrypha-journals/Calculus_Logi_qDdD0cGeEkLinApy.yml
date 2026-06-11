@@ -1,0 +1,48 @@
+name: Calculus Logi
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600064
+pages:
+  - name: Calculus Logi
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>Intellect is the Understanding of Knowledge —The Fourth Universal Law of the Cult Mechanicus You are a voracious consumer of information, collating and compiling vast quantities of data and processing it within your augmented, highly-trained mind to glean valuable insights from endless facts and figures. There are few things worth knowing that can elude your scrutiny. Calculus Logi are a form of Lexmechanic, a lower order of Tech-Priest devoted to gathering and compiling data so that it can be entered into a central Cogitator repository, noospheric archive, infocrypt, or other store of information. The precise differences between a Lexmechanic and a Calculus Logi are… difficult to describe, at least to any outside the baroque and bewilderingly-complex hierarchies of the Adeptus Mechanicus. Regardless, they work with computer-like speed and accuracy, assembling battle reports, economic statistics, planetary reports, and other masses of necessary if mundane data required to keep the massive bureaucracy of the Imperium functioning from day to day. Outside of the Adeptus Mechanicus, their skills are valued across the Imperium.</p>
+      markdown: ''
+    _id: 36V8RtqUkGAuiFrY
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!qDdD0cGeEkLinApy.36V8RtqUkGAuiFrY'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: qDdD0cGeEkLinApy
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!qDdD0cGeEkLinApy'
+categories: []

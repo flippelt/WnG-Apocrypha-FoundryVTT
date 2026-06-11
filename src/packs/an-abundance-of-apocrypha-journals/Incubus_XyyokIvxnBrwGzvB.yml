@@ -1,0 +1,48 @@
+name: Incubus
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600216
+pages:
+  - name: Incubus
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“The blade that I wield is an extension of myself, as I am an extension of my blade. We both thirst for blood. We both seek only murder. Only in death do we find purpose in life.” —Klaivex Khyrassos, the Brotherhood of the Void You are the killing strike, the decapitating blow. You are the edge of the blade, the momentum of the swing. You do not tarnish your prowess with mercy, nor impair yourself with thoughts of honour. The Incubi are an order of faceless warriors, masters in the use of the long-bladed weapon known as the Klaive. Everything about a fully armoured Incubus conveys menace. His armour is spiked and segmented from top to toe, and his ornate helm is framed by a pair of great razored horns that lend him an almost daemonic aspect. Incubi possess a sinuous and sinister grace, and each of their movements sings with their barely suppressed potential for violence. Their every waking moment is dedicated to the absolute perfection of their craft—that of killing as frequently and as cruelly as possible with their ritual weapon.</p><p>Commorragh. Some believe Arhra to be Drazhar, the Master of Blades, the greatest of the Drukhari Incubi. The Incubi do not swear allegiance to any specific Kabal or Wych Cult, as servants of Khaela Mensha Khaine, their loyalty is first and foremost to their war-shrine, an aspect in which they are eerily similar to the Craftworld Aeldari Aspect Warriors. There are dozens of Incubi shrines dotted throughout the Dark City, from towering pinnacles of black crystal to labyrinthine networks of brazier-lit caverns. While the smallest of these shrines may play host to no more than a handful of Incubi— taking the form of a central shrine surrounded by the trophy-hung cells of the Incubi who train there—the larger shrines are rather more spectacular.</p><p>In this way the Incubi echo the Aspect Warriors of their Craftworld kin, supplanting purity of purpose with twisted obsession, and icy calm with channelled hate. It is believed that the very first Incubus was the first Phoenix Lord of the Striking Scorpions Aspect Warriors, Arhra, the "Father of Scorpions," now usually referred to as the "Fallen Phoenix," who fell to the service of Slaanesh by walking the Path of Damnation and joined the Drukhari. Arhra became the first Hierarch of the Incubi and created the first Incubus Shrine in the Dark City of</p>
+      markdown: ''
+    _id: IYNJl9nqU4fwzuCA
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!XyyokIvxnBrwGzvB.IYNJl9nqU4fwzuCA'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: XyyokIvxnBrwGzvB
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!XyyokIvxnBrwGzvB'
+categories: []

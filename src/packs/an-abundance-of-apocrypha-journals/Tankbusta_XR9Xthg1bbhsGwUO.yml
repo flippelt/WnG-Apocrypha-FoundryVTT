@@ -1,0 +1,48 @@
+name: Tankbusta
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600428
+pages:
+  - name: Tankbusta
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"'Ere ta blow stuff up!" — Anonymous Tankbusta There is nothing in life quite like the joy of making something explode. And the bigger the thing, the better it is to blow up. Tanks are some of the best things to explode, because they’re big and full of fuel and ammunition that makes the explosion even better! A Tankbusta (pl. Tankbustaz) is an Ork Boy who has become completely addicted to the thrill of destroying the armoured fighting vehicles of his foes. A Tankbusta’s desire to hunt down and slay the biggest, most dangerous tanks they can find echoes the primal instinct of the big game hunter. Indeed, as primitive hunters might claim a gruesome trophy from a fallen beast to better brag of its demise, so Tankbustaz will strip the choicest loot from the wreckage of a ruined tank. Colourful hull plates are hammered into crude armour, internal gubbins worn proudly as warrior jewellery, and the flayed skins of crewmen are draped round the Tankbustaz' shoulders like pelts. They equip themselves extensively for dealing death to enemy armour—their whistling volleys of Rokkits, and lethal Tankbusta Bomb assaults can spell annihilation for even the heaviest enemy tanks.</p><p>Page 134</p>
+      markdown: ''
+    _id: 35kpe76kiec71fTh
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!XR9Xthg1bbhsGwUO.35kpe76kiec71fTh'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: XR9Xthg1bbhsGwUO
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!XR9Xthg1bbhsGwUO'
+categories: []

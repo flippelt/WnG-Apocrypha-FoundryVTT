@@ -1,0 +1,48 @@
+name: Primaris Aggressor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600296
+pages:
+  - name: Primaris Aggressor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Burn the heretic from his lair. Put the torch to his foul idols and cast all that he treasures into the flames. Only then, when he realises the true cost of his perfidy, grant unto him the oblivion he deserves." —Zyphan Torl, Aggressor You push relentlessly towards the enemy, unleashing a perpetual storm of fire that few can withstand. Your heavy armour allows you to withstand the heaviest fighting, providing close support where it is needed most. Clad in heavy Gravis power armour, and armed with a fearsome array of weaponry, Primaris Aggressors are warriors armed to unleash overwhelming firepower at close range. They are used to counter-attack against enemy assaults, or to spearhead heavy advances into dense terrain, where the short range of their weaponry is of little detriment. Any who get past the fusillade of shells from the Aggressor’s Boltstorm Gauntlets and grenade launchers are met by the gauntlets themselves – a pair of crackling power fists, that tear through armour and crush flesh and bone with ease.</p><p>as they stride forward, their arms sending sweeping arcs of fire billowing out. Unlike other fire support troops, Aggressors’ armour allows them to fire effectively on the move, making them ideal for battles in confined spaces.</p><p>For especially dense terrain, or when facing foes that cover the ground in great number, Aggressor Squads will instead wear paired Flamestorm Gauntlets. When equipped this way, their armour's raised shoulder guards protect against the inevitable flame backwash</p>
+      markdown: ''
+    _id: xupRCUDc382gGTHN
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!6XYchAv8FUR5QV6n.xupRCUDc382gGTHN'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 6XYchAv8FUR5QV6n
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!6XYchAv8FUR5QV6n'
+categories: []

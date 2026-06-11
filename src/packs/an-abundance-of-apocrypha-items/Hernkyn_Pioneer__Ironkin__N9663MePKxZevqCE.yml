@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/ability.webp
 system:
   tier: 2
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.scbBUUNSxyEUmmEh'
   species:
     name: Ironkin
     id: >-

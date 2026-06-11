@@ -1,0 +1,48 @@
+name: Howling Banshee Aspect Warrior
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600212
+pages:
+  - name: Howling Banshee Aspect Warrior
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“We are harbingers of death.” —Common Mantra of the Howling Banshee Shrines You embody the sudden wrath of Khaine, attacking with such swiftness and certainty that no foe can properly defend itself. Your speed and you war cries confound foes, robbing them of coherent thought moments before their lives are ended. Howling Banshees are one of the types of Aeldari Aspect Warrior who represent a facet of the war god Kaela Mensha Khaine. These lightly equipped warriorwomen are fearsome close combat specialists who draw their inspiration from the unearthly creature with which they share a name. What they may lack in brute strength they more than make up for in precision and efficiency, and their piercing war cry has signalled the doom of countless foes.</p><p>one which is felt rather than heard, and that spirits have been known to disperse unexpectedly during the transference between spirit stones. Legend says that the creation of the Aspect came when the Crone Goddess Morai-Heg desired the knowledge contained within her divine blood and thus sent her daughters to haunt their father, the war god Kaela Mensha Khaine, as he was the only being capable of harming another god. Seeking to end his torment, he decided to grant Morai-Heg her wish and severed her hand which allowed her to drink the knowledge contained within. In exchange for his help, Khaine was granted the Howling Banshee Aspect and thus it came into being. As such, it is only fitting that the Howling Banshees are perhaps the most feared of all of the Aspect Warriors.</p><p>According to Aeldari mythology, banshees are the harbingers of woe and death whose cry it is said heralds’ ill fate, calling forth dead spirits from the Warp and forewarning certain death. A more sinister implication of the banshee's call is that it may even tempt spirits out from their Spirit Stone and thus lure them into the arms of Chaos. What is known is that the release of a spirit is accompanied by a shrieking call,</p>
+      markdown: ''
+    _id: CqtfHWb9traii1AA
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!e4JpUvYgL5L6eQuF.CqtfHWb9traii1AA'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: e4JpUvYgL5L6eQuF
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!e4JpUvYgL5L6eQuF'
+categories: []

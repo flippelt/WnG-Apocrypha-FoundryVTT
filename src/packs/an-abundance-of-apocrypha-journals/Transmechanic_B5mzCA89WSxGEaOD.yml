@@ -1,0 +1,48 @@
+name: Transmechanic
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600432
+pages:
+  - name: Transmechanic
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>The Omnissiah Knows All, Comprehends All —The Eighth Universal Law of the Cult Mechanicus You are attuned to wavelengths and signals that flesh cannot discern. You can hear and speak the transmissions of machines, pulling knowledge from the air on a whim. Transmechanics are those Tech-priests who specialize in the repair, operation, and maintenance of the Imperium''s various forms of communications technology. Their implants and conditioning permit them to perceive and transmit vox signals, tightbeam las-casts, holopulses, and a variety of other electromagnetic transmission media, and they have a deep understanding of the technologies which produce and receive these signals.</p><p>What is less well-known is the degree to which a Transmechanic can interact with these signals: even the least adept Transmechanic is a master of linguistics and ciphers, able to decipher almost any signal, and able to analyse and even manipulate the signals they decipher.</p><p>For this reason, they’re invaluable as communications technicians aboard Imperial Navy vessels and amongst Imperial Guard forces, as well as working alongside the Adeptus Arbites and Inquisition when intercepting seditious or heretical communications is vital.</p>'
+      markdown: ''
+    _id: jr4Qyq00Iv2raHWQ
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!B5mzCA89WSxGEaOD.jr4Qyq00Iv2raHWQ'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: B5mzCA89WSxGEaOD
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!B5mzCA89WSxGEaOD'
+categories: []

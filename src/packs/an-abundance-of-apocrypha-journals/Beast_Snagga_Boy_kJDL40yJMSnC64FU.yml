@@ -1,0 +1,48 @@
+name: Beast Snagga Boy
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600040
+pages:
+  - name: Beast Snagga Boy
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Out da way, runtz! I’z killin’ dat fing!" —Uzgrak, Ork Snagga Boy, upon seeing a Carnifex You’re one of the biggest and hardiest of the Boys, covered in scars, bioniks, and trophies from previous kills against monsters and enemy vehicles. Beast Snaggas are a sub-sect of Orks well-known for hunting and wrangling beasts such as the larger species of squig. Many ride into battle on “tame” mounts as belligerent as their riders, but some delight in bringing their targets down on their own two feet. Banding together into mobs, these ferocious fighters can often be found crashing into the monsters and hacking their tough hides to pieces. A (relatively short) lifetime of hunting huge, dangerous beasts has made these Orks particularly large and strong in comparison with regular Boyz. While they’re not quite as durable as a Nob, they can certainly swing their choppas just as hard, which makes them especially prone to lording it over the Boyz they charge alongside. Although the Beast Snaggas’ adherence to the old ways of Orky culture makes them an ideal fit for the equally traditionalist Snakebites, they can be found across almost every clan. While other greenskins might see them as a bit weird, no one will turn down a few extra bodies in a fight, and it can be a good laugh seeing the Beast Snagga Boyz trying to harpoon giant tanks. As if they weren’t tough enough already, the frequent and plentiful injuries that come as part of any career in squig-wrangling mean frequent trips to the Dok, and by necessity Beast Snagga Doks are some of the most ‘creative’ around.</p><p>Page 105</p>
+      markdown: ''
+    _id: AQBUl4YPZBdt6wg9
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!kJDL40yJMSnC64FU.AQBUl4YPZBdt6wg9'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: kJDL40yJMSnC64FU
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!kJDL40yJMSnC64FU'
+categories: []

@@ -1,0 +1,48 @@
+name: Genetor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600160
+pages:
+  - name: Genetor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Everything organic we know of is simply machinery, in one form or another. Tendons replace pistons; flesh in the place of steel; blood is simply biological coolant. To deny this and shun it is more than just Mechanicus orthodoxy – it is idiocy." –Attributed to an unknown Genetor A devotee of the biological sciences, you are a skilled surgeon, geneticist, and bioengineer, crafting and maintaining machines of flesh no less remarkable than the devices of steel that your kin exalt. Essentially geneticists, a Genetor is a high-ranking Adeptus Mechanicus Tech-priest who studies all matters genetic and biological. Sometimes referred to as a Magos Biologis, a Genetor is a member of the Adeptus Mechanicus’ ruling Priesthood, possessing access to knowledge and resources far beyond that of the lesser members.</p><p>same way. The difference is that they are not so quick to judge flesh and blood as inferior to steel and plasma and view living creatures as extremely complex and adaptable machines. Where some are content to make this observation distantly, others embrace it, seeking to improve their forms not with steel, but with better flesh and better blood.</p><p>A Genetor's obsession with organic life often makes them seem strange to their more mechanically-inclined brethren. For the most part, Genetors differ little from other Tech-priests—they bear the same manner of augmetic implants, venerate information and understanding as the manifestation of divinity, and engage upon the Quest for Knowledge in much the</p>
+      markdown: ''
+    _id: N7v3yQLUc5hmNTu7
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!gynlkN6X9dLVCkUL.N7v3yQLUc5hmNTu7'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: gynlkN6X9dLVCkUL
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!gynlkN6X9dLVCkUL'
+categories: []

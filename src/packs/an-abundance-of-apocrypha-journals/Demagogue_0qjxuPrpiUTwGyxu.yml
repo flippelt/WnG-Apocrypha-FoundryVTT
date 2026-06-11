@@ -1,0 +1,48 @@
+name: Demagogue
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600120
+pages:
+  - name: Demagogue
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"What right have you to preach to us? You who abandoned my people to the night so many long centuries past. You have no such right; it is I who shall preach to you and teach you the error of your faith in your so-called god!" —Last words of Jahoh Faas, Pontifex Maximus of Psili V (executed 798.M41) Your words bring the Dark Gods new servants and bring the power of the Ruinous Powers to your congregation. With such power, you can shake the very foundations of worlds, topple (or subvert) planetary governors, and being billions into the service of the Powers. The forces of the Imperium maintain a stalwart barrier against Chaos intrusions within the worlds and organizations of their monolithic realm. Between the incessant speeches of the Ecclesiarchy and the ruthless enforcement of the Inquisition and the Adeptus Arbites, the Imperial Creed is effectively reinforced. Through the ministrations of the Adeptus Administratum and the legions of Imperial bureaucracy, the rule of Imperial law is brutally maintained. However, every so often one of those within that vast bureaucracy falls from grace. When this happens, the consequences can be disastrous. Those who served within the Imperium’s inner workings can be ideally placed and equipped to destabilise the very structures they spent a lifetime creating and supporting.</p><p>loyalist. These Heretics begin their subterfuge under the pretence of an honest merchant or a loyal servant of the Ministorum. Only once they have established a presence and friendly relationships with the world’s residents can their true work begin. These characters may rely upon subtlety, perhaps calling controversial facets of the Imperial Creed or seemingly pointless bureaucratic procedures into question. As they develop a sense of trust with their targets, they can begin to gradually draw those subjects to the path of the Chaos Gods. Demagogues may purchase Prayers to the Dark Gods, found in Chapter III of this collection.</p><p>Some Demagogues may be newly turned against the Imperium, whether through some personal rebellion against the Imperial Creed, succumbing to the dark lure of power, or any number of other reasons. These may begin their work against the Imperium in the very organizations they serve in. Apostate preachers and cardinals may subtly twist the words they speak, using their finely honed powers of persuasion to change beliefs until their flocks have become unwitting servants of Chaos. Traitorous members of the Administratum may redirect funds and supplies into their own coffers, starving entire planets to feed his own greed. Meanwhile, treasonous Munitorum agents may subtly alter orders so that entire Guard regiments are redirected from critical warzones, or even assault the wrong worlds. Other Demagogues are long-time foes of the Imperium and may even be the first agents of Chaos to begin an incursion upon a target world. They enter the planet under the cover of an Imperial</p><p>Page 112</p>
+      markdown: ''
+    _id: y26SaAqL1ADFHHZP
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!0qjxuPrpiUTwGyxu.y26SaAqL1ADFHHZP'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 0qjxuPrpiUTwGyxu
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!0qjxuPrpiUTwGyxu'
+categories: []

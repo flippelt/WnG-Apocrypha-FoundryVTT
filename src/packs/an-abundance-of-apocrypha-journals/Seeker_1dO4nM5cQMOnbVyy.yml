@@ -1,0 +1,48 @@
+name: Seeker
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600360
+pages:
+  - name: Seeker
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Death is the servant of the righteous”. –Imperial proverb You are employed by the Inquisition to seek out heresy and those who would traffic with aliens and daemons. Little escapes your gaze, and few can elude your pursuit. Inquisitors often require people of decisive skill and keen insight to aid in their investigations. Many recruit such souls from the ranks of the Adeptus Arbites or local law enforcement, or pluck bounty hunters and assassins from lawless frontiers and underhives. Others are feral world hunters, deathworld pathfinders, or the private assassins of noble houses or other powerful institutions. These seekers often go by an assortment of different names—hunters, cult-finders, mortiurges, cult-stalkers, venatores, and manhunters. Over the millennia, some Inquisitorial conclaves have cultivated their own bands of hunters, built upon a combination of the most effective traditions and taught to pursue the deadliest of prey. Other Inquisitors prefer to find their own operatives in the field, trusting the Emperor to deliver the most useful of hunters into Inquisitorial service. A seeker must be both a proficient investigator and a skilled combatant, for there are often relied upon to capture or eliminate the enemies of the Imperium they’ve tracked down. Lacking the formal doctrines of other Imperial institutions, seekers tend to develop proficiency in a variety of weapons and styles of combat, adapting based on their own preferences and the needs of their masters.</p><p>Page 128</p>
+      markdown: ''
+    _id: ElYav6clUNkdNkKm
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!1dO4nM5cQMOnbVyy.ElYav6clUNkdNkKm'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 1dO4nM5cQMOnbVyy
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!1dO4nM5cQMOnbVyy'
+categories: []

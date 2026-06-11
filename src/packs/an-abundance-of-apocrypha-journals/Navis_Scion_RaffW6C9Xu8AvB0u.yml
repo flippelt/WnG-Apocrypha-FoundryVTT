@@ -1,0 +1,48 @@
+name: Navis Scion
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600256
+pages:
+  - name: Navis Scion
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“A pleasure to meet you, sir. Allow me to introduce myself. I am your charioteer, your gatekeeper to the stars. These trade conferences are such a bore, don’t you think? We have all week to discuss the trade routes of the Expanse. Would you care to join me in a glass of amasec? Wonderful! A toast—to our endeavours.” –Navigator Gadevellious Obrex, emissary of House Vor’cle Even amongst your rarefied kind, you are an elite scion of the Navigator Houses, wealthy and privileged beyond the imagining of all but the most powerful of the Imperium’s elite. You speak on behalf of your House, an institution that may date back to before the Imperium. Navigators are a fortunate few born into privilege, their politically affluent clans wellsprings of intrigue as grim and convoluted as their mutating bodies. While some Navigator Houses empower agents to act as intermediaries between themselves and Imperial society, others look within, selecting from among their number cunning Navigators who can wield the political influence of the House to greatest effect. Though the Navis Nobilite are a part of the Imperium, each Navigator House possesses great autonomy, and their influence and power is on par with the Imperium’s great Adepta. Thus, it is only natural that many Houses have diplomats and representatives for dealings with the larger Imperium. These Scions of the Navis Nobilite are the faces of the great Houses, groomed to act as diplomats and power brokers, seeing to it that their family’s interests are protected.</p><p>a great deal of attention on their many public outings. Fated to be the centre of attention in virtually any courtly setting, Scions revel in the gawking of onlookers, using their instant fame to woo potential allies and mock known foes. It is rare to see a Navigator in public, and rarer still to see one surrounded by an admiring (or simply curious) crowd. Whether regaling an audience with tales of travel beyond the reaches of the Imperium or wounding a boor’s pride with a witty remark, Navis Scions are exceptionally socially adroit.</p><p>Equally at home in the estates of the Navigator Houses or the courts of the Imperial elite, Navis Scions are masters of conversation and courtly protocol. Often selected from amongst their fellows based on their relative lack of disfiguring mutations as much as their social skills, these Navigators attract Page 177</p>
+      markdown: ''
+    _id: CQFcCX4I6ANdtNwI
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!RaffW6C9Xu8AvB0u.CQFcCX4I6ANdtNwI'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: RaffW6C9Xu8AvB0u
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!RaffW6C9Xu8AvB0u'
+categories: []

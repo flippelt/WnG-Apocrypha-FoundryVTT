@@ -1,0 +1,48 @@
+name: Hernkyn Pioneer
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600204
+pages:
+  - name: Hernkyn Pioneer
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Do not underestimate these beings, these ‘Squats’. They survived for millennia cut off from the galaxy and assailed from all sides. Their determination and resilience is an example to all." —Attributed to Leman Russ, Wolf-King of Fenris, Primarch of the VI Legiones Astartes You venture out into the reaches of Far-Space, far away from Hold and Kindred, seeking new opportunities and new prospects. This perilous endeavour is not for the faint of heart, but you bear the risks—and rewards—of such adventure proudly. The Hernkyn are rugged survivalists who set out in small, self-reliant bands to adventure and prospect on behalf of their Kin. Hernkyn leave their Kindred for decades at a time, forging out into the dark spaces beyond. In many galactic cultures such explorers are seen as shameful or rebellious, but for the Leagues of Votann it brings a high honor. This is because they serve a great purpose to the Votann, for their discoveries and insights ensures that when the Hernkyn finally returns to their Ancestor Core upon death, it will be benefited with new enriching data and knowledge. Besides this role, the Hernkyn also locate potential trading partners for their Kindreds, mark navigable void-channels, scout viable regions for settlements, and most importantly of all locate new resources to be exploited.</p><p>Kin would prize, using powerful claim-beacons to alert the Cthonian Mining Guilds to their presence. In battle, Hernkyn serve as the armoured cavalry of Votann forces. They are extremely sturdy, highly mobile, and pack a tremendous amount of firepower. Hernkyn Pioneers are equipped with plenty of intelligence-gathering and scanner equipment, allowing them to serve as effective scouts as well. Wearing lighter suits of protection than the rest of their kin, they are true frontiersmen.</p><p>To achieve all this however, the Hernkyn has to make great personal sacrifices. It is not easy for the familyfocused clones to spend such extended periods of times away from their Hold, and the ever-present danger that they may never return to their Ancestor Core. That such souls are still willing to undertake these scouting expedition is yet another reason they are held in high regard in Kin society. To that end, they are equipped with the finest scout ships manned by the finest Voidmasters. They are also given a wide array of vehicles, and gunships, most notably Magna-Coil Bikes. They also make use of PanSpectral Scanners to mark out natural resources the</p><p>Page 114</p>
+      markdown: ''
+    _id: KrxdVp8frmmu4Kcc
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!scbBUUNSxyEUmmEh.KrxdVp8frmmu4Kcc'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: scbBUUNSxyEUmmEh
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!scbBUUNSxyEUmmEh'
+categories: []

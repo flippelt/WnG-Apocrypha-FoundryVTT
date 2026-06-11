@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/the-inquisition.webp
 system:
   tier: 2
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.7XARfk0jU3VNTlc8'
   species:
     name: Human
     id: Item.JjNQyUPELJb8CvL5

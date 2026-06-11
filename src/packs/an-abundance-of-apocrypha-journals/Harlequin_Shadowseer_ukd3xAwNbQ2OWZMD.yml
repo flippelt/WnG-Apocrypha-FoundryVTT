@@ -1,0 +1,48 @@
+name: Harlequin Shadowseer
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600184
+pages:
+  - name: Harlequin Shadowseer
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“As the fate of all creatures is hidden from all but the keenest gaze, so do we cloak eventuality in veils of deception and shrouds of misdirection”. The Gloaming Voice, Shadow Seer of the Masque of Whispered Inquiry You personify Fate, and all who look upon your mirrored face see something different; what was, what might be, what could have been, or what must be.</p>
+      markdown: ''
+    _id: bL36JzUop9wyOaA7
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ukd3xAwNbQ2OWZMD.bL36JzUop9wyOaA7'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: ukd3xAwNbQ2OWZMD
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!ukd3xAwNbQ2OWZMD'
+categories: []

@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/orks.webp
 system:
   tier: 2
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.LecLuOn7myI2ufWf'
   species:
     name: Ork
     id: Item.HkICqcWbRIsDHtMy

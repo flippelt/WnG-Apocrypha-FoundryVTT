@@ -1,0 +1,48 @@
+name: Banisher
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600036
+pages:
+  - name: Banisher
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"To defeat the Daemon, you must hate the Daemon. To hate the Daemon, you must know the Daemon. To know the Daemon is to know madness." — Banisher Proverb Yours is a solemn burden. When most of the Priesthood speak of The Enemy as a figurative, spiritual peril, you know the truth. You have seen the truth of the daemon, and you have learned to combat it as best you can. With the purity of your hate and your scorn, you drive the daemon out, banishing them to the hells from whence they came. In the eternal battle against Chaos, faith and knowledge are weapons. Few servants of the Throne wield these weapons with greater solemnity than the Banisher. Whether stalking the darkest halls of a hive city's Librarium in search of omens or enacting the Rites of Dispossession on the fields of battle, daemonic lore is vitally important to these rare and specialised priests. Banishers, also known as Exorcists and Black Priests, are those who have learned to combine their faith and their zeal with forbidden knowledge in order to combat daemons. Such knowledge is normally a deathsentence to know—if the knowledge itself does not inflict madness and corruption, the Inquisition routinely purges those who know things they should not—but many in the Ordo Malleus find Banishers to be invaluable assets, sponsoring orders of Banishers within the Ecclesiarchy across the Imperium. Though most Banishers are chosen at a young age to be trained by the Ecclesiarchy, not all Banishers are trained by the Ministorum. On many Feudal Worlds or Feral Worlds, the wise steel themselves to study that which dwells in the dark, seeking wisdom to help them vanquish Warp-spawned entities. While these elders are not usually steeped in the doctrines of the Ecclesiarchy, they are no less devout believers in the Imperial Creed and can be quite useful in rooting out long-forgotten omens and ancient secrets in Imperial archives. Many Inquisitors have also been known to train Banishers to combat specific daemons.</p><p>Page 103</p>
+      markdown: ''
+    _id: bp0YdbRD18czf5pF
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!74gQfYmenf3DH5Uw.bp0YdbRD18czf5pF'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 74gQfYmenf3DH5Uw
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!74gQfYmenf3DH5Uw'
+categories: []

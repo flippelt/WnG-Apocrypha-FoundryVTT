@@ -1,0 +1,48 @@
+name: Chaos Sorcerer
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600076
+pages:
+  - name: Chaos Sorcerer
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Those who ignore the blessings of the gods of the Warp are doomed to suffer at their hands.” Musim, Advisor to Am-Ord the Merciless Once a Librarian of the Adeptus Astartes, or perhaps even the Legiones Astartes during the Great Crusades, you have forsaken former loyalties to serve the Dark Gods and your own ambitions, pursuing forbidden power from daemonic pacts and blasphemous lore. A Sorcerer or Chaos Sorcerer is the most powerful type of psyker found among the Chaos Space Marines and the other Forces of Chaos, serving the same role as Librarians do for Loyalist Space Marine Chapters and Sanctioned Psykers do for the Astra Militarum, though many powerful Sorcerers can also be considered psychically-gifted Champions of Chaos. Instead of the subtle psychic manipulation and divination used by the Farseers of the Aeldari or the strength-boosting powers of the Space Marine Librarians, the Sorcerers of Chaos wield death, destruction, and mutation, the mightiest powers of the Warp.</p><p>wyrdflame, and they mould the fabric of the material universe with little more than a hate-filled curse. Because of their constant exposure to the power of Chaos, Sorcerers are inevitably haunted by the prospect of eventually succumbing to crippling mutation or insanity. Though they believe they are above mortal concerns, the truth is that they, too, are only pawns, raised up and then expended by the Dark Gods for their own amusement.</p><p>Sorcerers of Chaos shape destiny itself with arcane rituals and unspeakable pacts with the malefic entities of the Empyrean. They channel the soul-blasting energies of the Warp into potent hexes and blasts of</p>
+      markdown: ''
+    _id: TBeRMMixcoQTZ5Sl
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!pSTpQyb5SSTu4VEL.TBeRMMixcoQTZ5Sl'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: pSTpQyb5SSTu4VEL
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!pSTpQyb5SSTu4VEL'
+categories: []

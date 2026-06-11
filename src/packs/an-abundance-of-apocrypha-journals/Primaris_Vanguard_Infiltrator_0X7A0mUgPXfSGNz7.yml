@@ -1,0 +1,48 @@
+name: Primaris Vanguard Infiltrator
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600336
+pages:
+  - name: Primaris Vanguard Infiltrator
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Objective in sight. I count 13 hostiles. Aevar, prepare to deploy smoke. The rest of you, preysight and mark targets. On my mark…" —Incursor Sergeant Kasovar Septyn, Raven Guard You fight deep behind enemy lines, often for extended periods, undermining enemy infrastructure, sabotaging communications, and attacking other opportune targets.</p><p>Known as Helix Adepts, these warriors receive additional training from the Apothecarion, and stand ready to ascend to the rank of full Primaris Apothecary should a tragic loss occur.</p><p>Clad in Mark X Phobos Armour, Infiltrators are responsible for disrupting enemy communications and sabotaging targets of opportunity. Their back-mounted Omni-Scramblers intercept signals across a broad spectrum, scrambling frequencies and shutting down enemy communications. When the time comes for the Infiltrators to fight directly, they emerge from their hiding places under cover of smoke grenades and cut down their foes with disciplined volleys from their marksman Bolt Carbines.</p><p>PRIMARIS VANGUARD INCURSOR</p><p>Infiltrators are drilled extensively in survival and selfsufficiency techniques due to the long lengths of time they spend behind enemy lines. Some squads have their own medicae specialists to perform the sacred duty of recovering the gene-seed of fallen brothers.</p>
+      markdown: ''
+    _id: 516dYOPo1RKYi7He
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!0X7A0mUgPXfSGNz7.516dYOPo1RKYi7He'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 0X7A0mUgPXfSGNz7
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!0X7A0mUgPXfSGNz7'
+categories: []

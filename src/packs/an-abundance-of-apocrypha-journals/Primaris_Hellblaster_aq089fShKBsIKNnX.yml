@@ -1,0 +1,48 @@
+name: Primaris Hellblaster
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600308
+pages:
+  - name: Primaris Hellblaster
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>“A fortress will not stop Space Marines. But it may slow them down." —Proverb You deliver searing wrath to the enemies of the Imperium, scouring the battlefields of foes to aid your brethren and secure triumph, at any cost. Armed to provide heavy fire support to their brethren, Hellblasters are all armed with sophisticated Plasma Incinerators, functioning similarly to the Tactical Support Squads that once fought in the Legiones Astartes. Witnesses have compared the firepower of a Hellblaster squad to that of a solar flare: those caught in their searing, blinding volley are swiftly annihilated, reduced to ash, molten ruin, and acrid smoke. The only real drawback of their lethal barrage is the relative scarcity and instability of their weapons. Thus, Hellblasters are amongst the finest marksmen available, and they will only overcharge their weapons when absolutely necessary. However, such dire circumstances are not uncommon in these dark times, and more than one squad has martyred itself in battle, turning the tide at the cost of their own immolation. Yet for every warrior to suffer such a fiery death, there is another that obliterates its foes amidst searing tempests of star-born nuclear fury.</p>'
+      markdown: ''
+    _id: vdSMJLAcYsWhwHPL
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!aq089fShKBsIKNnX.vdSMJLAcYsWhwHPL'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: aq089fShKBsIKNnX
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!aq089fShKBsIKNnX'
+categories: []

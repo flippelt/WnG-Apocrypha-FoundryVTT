@@ -1,0 +1,48 @@
+name: Custodian Guard
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600108
+pages:
+  - name: Custodian Guard
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>“"Only in Death does Duty End.” First Maxim of the Legio Custodes You are one of the Ten Thousand, the Emperor’s Custodian Guard, charged with the most sacred of duties: protecting Terra, the Imperial Palace, and the Emperor within. But protection takes many forms, and you may find yourself taking the battle to the enemy in the Emperor’s defence. A Custodian is a member of the Adeptus Custodes, the valiant transhuman bodyguard and praetorians of the Emperor of Mankind, which is based in the Imperial Palace complex on Terra. The Adeptus Custodes are the Emperor''s vengeance made manifest. They defend the Master of Mankind with singular determination and breath-taking skill, and whether their vigil requires them to stand immovable before the gates of the Imperial Palace or storm into battle on a distant alien world, they do their duty without a moment''s hesitation. Custodian Guard are steadfast in defence and unstoppable on the attack. Such squads do not have formal memberships, and Custodians may swap from one squad to another before each new campaign, or even each new battle. With their individualistic fighting styles, the Custodian Guard do not fight as one in the way that a conventional squad of soldiers would -- it is enough for them to know that they fight shoulder to shoulder with respected comrades, and that their fellows will watch their backs when the enemy press close.</p><p>Page 197</p>'
+      markdown: ''
+    _id: nDctEJvbHYAOLjHx
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ksErZukEIP5WX3np.nDctEJvbHYAOLjHx'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: ksErZukEIP5WX3np
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!ksErZukEIP5WX3np'
+categories: []

@@ -1,0 +1,48 @@
+name: Oblivion Knight
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600280
+pages:
+  - name: Oblivion Knight
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Fools may call these women abominations, hags and freaks. Only the wise known the Sisters as the bravest of all Humanity's saviours—they who battle Chaos itself." — Inquisitor D’Maros There is a howling void where your soul should be… and it is your deadliest weapon. Honed and mastered, your presence is anathema to the witch and the daemon, and such abhorrent beings cannot long survive your wrath.</p><p>presence, but also that they are much more effective at countering psychic and daemonic activity. This rare power is such that a situation must be dire for Oblivion Knights to be deployed as a cadre rather than individually.</p><p>Oblivion Knights are senior Sisters who lead other Sisters of different ranks on various missions on behalf of the Emperor and the Sisterhood. During the Great Crusades and the Heresy, Oblivion Knights were usually only deployed on a large-scale to combat the threat of Alpha-level psykers, putting down psyker-instigated uprisings, and population purges. These roles combined with the sinister aura given off by these Pariahs makes them an object of dread and fear among the masses of the greater Imperium.</p>
+      markdown: ''
+    _id: 4e4lOuc8HRYe5cD3
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ocd6b2Fsq3N2bQvD.4e4lOuc8HRYe5cD3'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: ocd6b2Fsq3N2bQvD
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!ocd6b2Fsq3N2bQvD'
+categories: []

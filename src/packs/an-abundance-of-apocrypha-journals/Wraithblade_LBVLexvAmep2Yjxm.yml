@@ -1,0 +1,48 @@
+name: Wraithblade
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600472
+pages:
+  - name: Wraithblade
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>"There are reasons why we fear to raise the dead: the rage of ghosts cannot truly die." — Spiritseer Aen-Tilian of the Craftworld Mengau-Tuis You were a warrior in life and must be once more. Your fury is eternal and cannot die while you are denied your mortal slumber. Only the blood of your enemies upon your blades can quiet your anger, and even then, only for a moment. The Wraithguard of the Craftworld Aeldari are not living warriors; they are artificial robotic constructs called Ghost Warriors created from the complex psycho-plastic material crafted by the Asuryani of the craftworlds known as wraithbone. Each Wraithguard has a Spirit Stone containing the soul of an elite Aeldari warrior that was drawn out of the Infinity Circuit of a craftworld. Amongst the most feared of Wraithguard are usually referred to as Wraithblades. Few Asuryani will speak their true name, Klaivaulch, for fear of inciting the wrath of Khaine. Tradition has it that each craftworld keeps these vengeful constructs apart from other ghost warriors so that the immortal anger that pervades their wraithbone shells does not taint those who might one day still attain peace when they are returned to the Infinity Circuit. When the call to war is heard, these beings are awakened by the most gifted Seers. Their Spirit Stones glow hot as the slow-burning anger of the dead flows through their cores. Once kindled, the wrath that animates their wraithbone bodies becomes an unstoppable fury that can only be quenched in the blood of their foe.</p><p>Page 208</p>'
+      markdown: ''
+    _id: PYk0wU5dc4wuGXdy
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!LBVLexvAmep2Yjxm.PYk0wU5dc4wuGXdy'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: LBVLexvAmep2Yjxm
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!LBVLexvAmep2Yjxm'
+categories: []

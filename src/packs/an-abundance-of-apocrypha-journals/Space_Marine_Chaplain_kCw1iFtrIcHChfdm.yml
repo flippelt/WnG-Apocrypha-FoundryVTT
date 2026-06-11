@@ -1,0 +1,48 @@
+name: Space Marine Chaplain
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600392
+pages:
+  - name: Space Marine Chaplain
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"We fight to protect the spiritual and physical heart of our Chapter. That, surely, is worth shedding blood." Chaplain Braknum, of the Raven Guard, in defence of the Altmorr Massacre You are a priest and spiritual leader for your Chapter’s cult, tending to the spiritual wellbeing of your battlebrothers and urging them to glory. Each Chapter has its own unique cult, which is often thousands of years old. As these cults often predate the rise of the Ecclesiarchy, the Chapter cults are not simply facets of the common Imperial Cult. While the Ecclesiarchy and its followers worship the Emperor of Mankind as a deity, most Chapter cults regard him as merely their master and forebear, though with scarcely less reverence. The chapter's own Primarch is also a major part of the Chapter's specific cult, revered as much as the Emperor.</p><p>A formal sign of entente between the Ecclesiarchy and the Space Marines is the Rosarius, a holy symbol, taking the form of a necklace, amulet or brooch which often displays the Imperial Eagle or the Crux Terminatus, or other shapes to suit the particular devotional qualities of the Chapter concerned. Gifted to Space Marine Chaplains by the Ecclesiarchy, this blessing represents the brotherhood of the Imperial Faith and formally marks the continuance of religious concord between the two groups. In practice, though, the link between the organisations remains rather tenuous. Chaplains may purchase Litanies of Devotion, found later in this manuscript.</p>
+      markdown: ''
+    _id: fdzvefb8yogp87kJ
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!kCw1iFtrIcHChfdm.fdzvefb8yogp87kJ'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: kCw1iFtrIcHChfdm
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!kCw1iFtrIcHChfdm'
+categories: []

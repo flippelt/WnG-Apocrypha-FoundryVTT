@@ -1,0 +1,48 @@
+name: Venenum Assassin
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600440
+pages:
+  - name: Venenum Assassin
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Poison a man and he won’t even know he’s been murdered.” Drakan Vangorich, Grand Master of Assassins, M.32 The death you deliver is carefully cultivated, tailored to your specific quarry and designed so that you can slay them without them ever realising you have struck. Like the other temples of the Officio Assassinorum, the Venenum Temple was originally the Venenum Clade, created some time during the Great Crusade in the late 30th Millennium. The clade was created at the behest of Malcador the Sigillite, the Regent of Terra, who was secretly the Grand Master of Assassins, and the Venenum Clade's first Director Primus, who was known only as Siress Venenum. The Venenum Clade was established in a secret location on Terra at the direction of the Grand Master of Assassins and was tasked like all of the other Assassin clades with killing those who opposed the formation of the Imperium of Man and the will of the Emperor of Mankind. The Venenum Temple is located in a secret complex known as the Orchard, comprised of an ancient house that was thousands of years old. This house was surrounded by a verdant tropical jungle that contained thousands of specimens of flora and fauna used to concoct the various exotic poisons used by Venenum operatives. Venenum Assassins are trained exclusively in the use of exotic poisons and subtlety in carrying out their mission requirements. Through their apprenticeship they learn to manufacture killing philtres from the basest of components, which allowed them to terminate their targets and leave no metabolic trace of the toxin.</p><p>Page 206</p>
+      markdown: ''
+    _id: m1PuSJDyndYpth0K
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!9XDWDWUyqQVFra42.m1PuSJDyndYpth0K'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 9XDWDWUyqQVFra42
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!9XDWDWUyqQVFra42'
+categories: []

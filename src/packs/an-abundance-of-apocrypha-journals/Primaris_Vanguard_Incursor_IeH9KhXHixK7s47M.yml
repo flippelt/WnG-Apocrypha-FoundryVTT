@@ -1,0 +1,48 @@
+name: Primaris Vanguard Incursor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600332
+pages:
+  - name: Primaris Vanguard Incursor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Enemy sighted. Four contacts north, six East, all moving north. Breach in three… two…" —Incursor Sergeant Caius, Ultramarines You hunt through dense terrain, fighting in and around key strategic targets, aided by auspex feeds and autorevelations that guide your movements and your aim. To your foes, you seem to fight in a manner that seems precognitive. Incursor Squads fulfil an aggressive, close-quarters gunfighting role within Astartes forces. Their mission typically sees them storming defended positions, flanking, or spearheading advances to rapidly knock out key enemy assets such as power generators and communication centres. Key to this role are their Occulus Bolt Carbines. and the Divinator-class Auspexes that feed directly into their highly advanced transpectral combat visors. This remarkable combination of visual and multi-spectral observation and analysis technology gathers every scrap of data from the wearer's surroundings. It employs a slaved Machine Spirit to collate the findings at a thousand times the speed of human thought and feed the resultant information to the Incursor's field of vision. Armed with this tightly controlled flood of intelligence, Incursors fight in an almost precognitive fashion. The visors of the Incursors also allow them to see foes through solid walls, smoke, and absolute darkness. They can detect high-altitude drop troops, the signatures of teleporting foes before they materialize, the tectonic tremors that indicate an enemy is about to emerge from a tunnel, and even the predictive models of their opponents' fighting patterns in real time. They coupled this ability with constant training in Combat Knife techniques and heavy duty Haywire Mines to knock out enemy armor.</p><p>Page 185</p>
+      markdown: ''
+    _id: ZUEHs27dUFIfw3yw
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!IeH9KhXHixK7s47M.ZUEHs27dUFIfw3yw'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: IeH9KhXHixK7s47M
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!IeH9KhXHixK7s47M'
+categories: []

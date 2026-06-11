@@ -1,0 +1,48 @@
+name: Aeronautica Pilot
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600004
+pages:
+  - name: Aeronautica Pilot
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“This is Fury Squadron commencing fly-over, don’t worry Colonel, we’ve got you covered.” —Flight Lieutenant Bayde, 104th “Fury” Thunderbolt Squadron Sat in the cockpit of your aircraft, you are a terror for the enemies of the Emperor, descending from the skies to strike down your target. All across the Emperor's vast interstellar realm, desperate aerial combat is fought; wings of fighters and bombers sally forth from ground bases and void ships in relentless waves, adding their meagre strength to that gone before them, hoping against hope to tip the balance in their favour and gain some miniscule measure of supremacy that might lead to a lasting conquest. No amount of training can prepare a rookie pilot for the reality of what is to come. A pilot can fly many sorties and complete numerous missions in hostile skies, but until they are blooded in combat, they have no comprehension of what aerial warfare truly means. The sheer, breakneck speed and dizzying assault on the senses is something that cannot be experienced in test conditions. Legends can be born or lives lost as a result of decisions made and actions taken in the briefest of moments. Consequently, the one staple, the one unifying trait shared by pilots of any intelligent race, is that their first experience of action may well be their last. Not all pilots face a swift, fiery end, however. For every squadron destined to spin into oblivion, one or two pilots will overcome the dangers and quell their fears. Such natural airborne warriors show an almost preternatural skill, quickly mastering the subtle nuances of their craft, able to jink and dive out of fire arcs and target locks with the grace of a dancer. They develop a sixth sense for danger and a rapacious hunger for the thrill of the kill.</p><p>Page 99</p>
+      markdown: ''
+    _id: CwMUjjbSpMzdsgBj
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!PBtkUEJtNTsyuyFE.CwMUjjbSpMzdsgBj'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: PBtkUEJtNTsyuyFE
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!PBtkUEJtNTsyuyFE'
+categories: []

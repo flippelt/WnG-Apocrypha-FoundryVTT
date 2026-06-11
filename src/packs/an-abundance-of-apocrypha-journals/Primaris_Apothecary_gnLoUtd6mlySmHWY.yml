@@ -1,0 +1,48 @@
+name: Primaris Apothecary
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600300
+pages:
+  - name: Primaris Apothecary
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>Pain and death are illusions of the weak mind. While his gene-seed returns to the Chapter, a Marine cannot die. Without death, pain loses its relevance. He that may fight, heal him. He that may fight no more, give him peace. He that is dead, take from him the Chapter's due. —Unknown Where your brothers’ duty to the Emperor is to defeat the foes before them, you have the solemn responsibility of guarding the flesh of your brethren and ensuring that their geneseed is preserved. Without your efforts, your Chapter could not endure. The Apothecary's role is to serve as a field medic and bio-researcher. Along with being highly trained in medicine, they are elite warriors, the better to protect their brothers where the battle is hardest. It is the Apothecary's duty to harvest from the bodies' of fallen Marines the two implanted Progenoid glands,</p><p>allowing for the gene-seed material to be cultivated and re-implanted in a Neophyte. Apothecaries are greatly honoured within the Chapter, as they are responsible for maintaining the purity of its gene-seed. If its gene-seed were to become mutated, it could well bring the Chapter's extinction or its fall to Chaos. Their skills and equipment, when combined with the added organs and resilience of a Space Marine, allow an Apothecary to perform battle surgery with a good chance of success.</p><p>APOTHECARY</p>
+      markdown: ''
+    _id: DRithOJUo29hGKd7
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!gnLoUtd6mlySmHWY.DRithOJUo29hGKd7'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: gnLoUtd6mlySmHWY
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!gnLoUtd6mlySmHWY'
+categories: []

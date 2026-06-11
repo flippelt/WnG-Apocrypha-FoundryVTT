@@ -1,0 +1,48 @@
+name: Space Marine Techmarine
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600400
+pages:
+  - name: Space Marine Techmarine
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Yours is to heed the machine as others heed their kin. Tend to the war spirits all about, but do so in the knowledge that you do the Emperor’s duty. Without your ministrations, no bolt may be fired, and no enemy slain." Extract from the Apocrypha of Eons, Verse III, Chapter CIV You tend to the forms and spirits of the wargear and machines of your Chapter, much as Apothecaries and Chaplains tend to you and your brethren. A Techmarine is an Adeptus Astartes technician and engineer, a fully-initiated member of the Cult Mechanicus, as well as a full Battle-Brother of his Chapter. Space Marine Chapters identify prospective Techmarines from within their own companies, favouring those who show the greatest affinity for machines. These aspirants are then sent to Mars for thirty years of training, where they are taught the lore of the Machine God, how to divine the Runes of Engineering and the Liturgy of Maintenance. The</p><p>rituals, furthermore, have variations to cover every conceivable circumstance in battle. A fully-fledged Techmarine is expected to be able to "feel" the pain of a damaged machine and heal it. Techmarines pledge allegiance to both the Cult Mechanicus and their Chapter, which makes them something of an oddity among their battle-brothers. A Techmarine's armour is modified to accommodate his cybernetic enhancements and his armour's backpack is also upgraded with several servo-arms and mechadendrites. His armour bears the rust-red colours of the Adeptus Mechanicus, but his Chapter badge is retained and displayed on one of the shoulder guards, so as not to disrespect the armour's spirit. PRIMARIS TECHMARINE</p>
+      markdown: ''
+    _id: VD9HrXHw21lP4u3g
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!qU7Jo1i6dfyJp8Z8.VD9HrXHw21lP4u3g'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: qU7Jo1i6dfyJp8Z8
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!qU7Jo1i6dfyJp8Z8'
+categories: []

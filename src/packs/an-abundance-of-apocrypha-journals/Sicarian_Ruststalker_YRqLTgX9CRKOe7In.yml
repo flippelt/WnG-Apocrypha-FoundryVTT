@@ -1,0 +1,48 @@
+name: Sicarian Ruststalker
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600372
+pages:
+  - name: Sicarian Ruststalker
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Red in cog and claw"</p><p>–Common Skitarii Exhortation You have had the weakness of flesh cast away to hone your body into a living weapon in the Omnissiah’s arsenal. Now, little can stop you from cutting a bloody swathe through the enemy ranks.</p><p>Sicarian Ruststalkers also called "shivs", a reference to a way they repeatedly plunge their transonic weapons into their enemies, visible only as a blur of blue and arcing sprays of scarlet blood.</p><p>Initially used to hunt down rogue servitors and dispatch them efficiently, the Sicarian Ruststalkers proved so effective at the art of killing that they were repurposed as front-line, physics-manipulating commandos. Their Transonic Weapons hum and resonate with sickening efficiency, passing through the strongest armour as if it simply didn't exist, though the effect of the damage often takes several seconds to manifest. These highly trained and augmented squads known as Killclades are led by Princeps.</p>
+      markdown: ''
+    _id: ns7FD0zWcexasaFW
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!YRqLTgX9CRKOe7In.ns7FD0zWcexasaFW'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: YRqLTgX9CRKOe7In
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!YRqLTgX9CRKOe7In'
+categories: []

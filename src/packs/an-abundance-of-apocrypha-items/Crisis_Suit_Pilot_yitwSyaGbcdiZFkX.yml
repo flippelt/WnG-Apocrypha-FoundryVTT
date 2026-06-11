@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-apocrypha/assets/images/factions/tau-icon.webp
 system:
   tier: 2
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.f0t0pITjmi42EmLl'
   species:
     name: Shas T'au
     id: >-

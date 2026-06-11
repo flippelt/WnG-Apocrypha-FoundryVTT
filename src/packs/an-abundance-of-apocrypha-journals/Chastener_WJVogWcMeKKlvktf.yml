@@ -1,0 +1,48 @@
+name: Chastener
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600080
+pages:
+  - name: Chastener
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Who can truly return to the grace of the God-Emperor without the searing pain which accompanies having one's sin revealed in His just light? This brand I have here is but a small thing by comparison, but the pain you feel should serve as a sufficient representation. Now, shall we begin?" –Marcus Danturian, Chastener of The Pendulum You are an interrogator, seeking to extract truth from those who transgress. Your methods are invasive, unpleasant, and often painful, and serve as a crucible through which impurity is removed from your subjects. A Chastener is an Arbites specialist who is skilled in psychology and medicine alike, to allow them to subdue and coerce wrongdoers, and to efficiently question them afterwards. Chasteners must be physically adept, skilled in non-lethal methods of combat and restraint, to ensure that they can dominate and control any suspect or prisoner they face, but they must also have keen wits and an iron will, for they must be able to defeat a suspect’s mind as well as their body to ensure that the truth is properly extracted. It would be shameful for a Chastener to cease questioning just because they had received the answers they wanted.</p><p>Beyond merely subduing and questioning suspects, a Chastener must be of a mind to rehabilitate them. While judgement and punishment will inevitably follow any confession, a suspect must come to accept that they have sinned and seek absolution in the judgement they receive. Those who are unrepentant will seek vengeance for their just punishment, but the penitent accepts the punishment as a necessary price to pay.</p>
+      markdown: ''
+    _id: cQTZeBsQUb3S72SY
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!WJVogWcMeKKlvktf.cQTZeBsQUb3S72SY'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: WJVogWcMeKKlvktf
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!WJVogWcMeKKlvktf'
+categories: []

@@ -1,0 +1,48 @@
+name: Cthonian Berserk
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600100
+pages:
+  - name: Cthonian Berserk
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“This is very simple. We don't want your lives, your coin, or that junk you call technology. We want your world. We want the riches you didn't even realise you had, and that you definitely don't deserve. Leave while you have the chance. Or don't. Either way, we're coming to claim what's ours.” —Ultimatum delivered by the Cthonian ‘Gauntlet’ Consortium. Gene-wrought and cyber-augmented to endure the harshest of mines, you are a powerful figure, and equally adept at sundering enemy armour as shattering rock. Fearless in the cause of locating, securing, and harvesting resources for their race, the Cthonian Mining Guild think nothing of braving environments so extreme that even other Kin would balk at the hazard. This bloody-minded approach extends to not only physical hazards such as the fringes of blackholes or Space Hulks but also to living dangers such as predatory alien races and hostile empires. Many Guild surveyors think nothing of assessing assets of other civilizations such as plasma storage plants, Promethium stockpiles, ore barges, and industrial infrastructure. They are viewed no differently than naturally occurring resources. In such instances, trade is often attempted as the first recourse, but if these measures fail, they will promptly turn to war.</p><p>plagued nebulae, explosive asteroids, and fathomless ocean depths. To do this, however, the Beserks eschew the high-tech STC weapons wielded by the rest of the Kin and instead use robust mining equipment, such as Heavy Plasma Axes, Concussion Gauntlets, and Concussion Mauls. However, they can also be sent into battle, and when this occurs, these tools become weapons that can penetrate heavy armor or xenos carapaces just as easily as stubborn rock and stone. In addition, the Beserks' modifications ensure these courageous warriors can keep fighting through life-ordeath situations.</p><p>Not all miners join the Cthonian Guild. There are hundreds of unaffiliated asteroid mines and voidharvesting rigs scattered across League space. However, a large majority of Kin miners do choose to acquire Guild accreditation for firmly pragmatic reasons, for the Cthonians are rich enough to operate their own fleets of ships that allow them to better lay claim to resources. Most Kin who join the Cthonians are already adapted for hardiness, possessing Cloneskeins that imbue them with benefits such as hyper-dense bone structures, extreme radiation, and the ability to perceive esoteric energy spectra. Added to this are willingly submitted surgeries that further reinforce them with benefits for their trade, such as reinforced skull-plates, advantageous bionics, and artificial organs that allow them to survive in the most extreme environments. Indeed, there is a cheerful rivalry amongst the Cthonians as to who is the most heavily adapted, with the hardiest being nicknamed "luggers". The cybernetic upgrades to the Chthonians' bodies and the cyberstimms that flood their systems allow the Beserks to better extract precious minerals from radPage 142</p>
+      markdown: ''
+    _id: fosSnWJirmyQGuxf
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!nByyMG5w26oTwwK9.fosSnWJirmyQGuxf'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: nByyMG5w26oTwwK9
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!nByyMG5w26oTwwK9'
+categories: []

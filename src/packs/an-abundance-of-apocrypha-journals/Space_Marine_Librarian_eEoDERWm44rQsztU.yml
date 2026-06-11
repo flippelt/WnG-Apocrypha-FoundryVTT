@@ -1,0 +1,48 @@
+name: Space Marine Librarian
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600396
+pages:
+  - name: Space Marine Librarian
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"I can pulp your flesh and snap your bones in less than a second and without so much as lifting a finger. What is the power of technology compared to that?" Vel’Cona, Chief Librarian of the Salamanders You are a warrior-sage of the Adeptus Astartes, a student of the art of warfare, the histories of your Chapter, and the mysteries of the Warp. Your mind is as much as weapon as your body, and you wield it in defence of your Brothers and the Imperium. Librarians are the psykers of the Space Marines who survive an Adeptus Astartes Chapter's rigorous</p><p>screening and training to bend the powers of the Warp to their will for the benefit of their fellow BattleBrothers and in service to the Emperor of Mankind. Beyond their psychic duties, the Librarians of the Astartes are also expected to record the great deeds of their Chapter and maintain the Chapter's storehouse of ancient lore, the functions for which they are named.</p>
+      markdown: ''
+    _id: pLLI7J6IaGLyCl31
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!eEoDERWm44rQsztU.pLLI7J6IaGLyCl31'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: eEoDERWm44rQsztU
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!eEoDERWm44rQsztU'
+categories: []

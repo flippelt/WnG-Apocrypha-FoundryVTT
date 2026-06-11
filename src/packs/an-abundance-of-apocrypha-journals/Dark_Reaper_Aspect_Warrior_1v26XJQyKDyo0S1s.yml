@@ -1,0 +1,48 @@
+name: Dark Reaper Aspect Warrior
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600116
+pages:
+  - name: Dark Reaper Aspect Warrior
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Let not the fear of death stay your hand nor defeat your courage. The warrior who will prevail is the one who conquers death, who becomes one with death as we have.” —Phoenix Lord Maugan Ra, the first Dark Reaper You embody Khaine’s aspect of the precise and inescapable nature of death. With unerring aim and bearing a deadly heavy weapon, there is little that can elude the death you bring. The Dark Reapers are descended from Maugan Ra, the Harvester of Souls, a mighty Phoenix Lord and the founder of their Shrines. It was from him that the Dark Reapers learned that even the mightiest of weapons can be wielded with the precision of a scalpel, and so they take pride in the accuracy with which they use their signature weapon, the Reaper Launcher. Spitting forth a hail of armour-piercing missiles capable of taking down even the best-protected foes, these weapons allow the Dark Reapers to exert total control over the battlefield and destroy targets at will. The Dark Reapers pride themselves on their accuracy. To absorb the recoil of firing the Launcher and maintain a steady firing position, the powered limb supports include lower leg armour and boots fitted with stabilisers and clamps to secure the Dark Reaper to the ground. Their helmet incorporates specialised rangefinding sensor vanes which extends out of the helmet of their Aspect Armour and allows a Dark Reaper to achieve target lock on even fast-moving vehicles.</p>
+      markdown: ''
+    _id: 9kl1Qo0XP6eXpgze
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!1v26XJQyKDyo0S1s.9kl1Qo0XP6eXpgze'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 1v26XJQyKDyo0S1s
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!1v26XJQyKDyo0S1s'
+categories: []

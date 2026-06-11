@@ -1,0 +1,48 @@
+name: Flash Git
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600152
+pages:
+  - name: Flash Git
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Bought me a deffblasta off Rotskrag earlier. Nice little killa. Just ask Rotskrag, hur-hur." — Fat Druzka, Flash Git You’ve got the best guns, the best gear, and the shiniest gubbinz! There’s nothing in the universe that can stop you! Flash Gitz are an elite breed of Ork Nobz who are obsessed with their lovingly customised, ostentatiously polished and painted weapons known as Snazzguns that can potentially wipe out entire squads of infantry in a hail of fire. Unlike other Nobz, Flash Gitz prefer "more dakka" to being "stompier," that is to say, they prefer ranged fire over melee combat.</p><p>Many Flash Gitz love to flaunt their powerful weapons to other Orks, and they are often accompanied by welldressed Grots who often boast of their master's achievements. Flash Gitz are sometimes kicked out of Ork tribes for their wealth and general obnoxious behaviour though, which can lead to them going down the path of a Freebooter.</p><p>They are powerful ranged heavy infantry troops for an Ork WAAAGH! Many Flash Gitz are members of the Bad Moons Clan, where they serve as the clan's elite infantry. In addition to their powerful armament, Flash Gitz often wear garish armour, adorned with bionic eyes (usually called Gitfindas) and skull trophies mounted on their weapons or upon their back. Due to their hulking size and powerful musculature, which is typical for Ork Nobz, they are still capable close combatants with their Choppa Bayonets and Sluggas. Flash Gitz consider themselves to be at the top of Ork society, having accumulated large numbers of Ork teeth.</p>
+      markdown: ''
+    _id: IQpPBVtAdhqm2t1A
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!y74lRaNVxnnWKx8H.IQpPBVtAdhqm2t1A'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: y74lRaNVxnnWKx8H
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!y74lRaNVxnnWKx8H'
+categories: []

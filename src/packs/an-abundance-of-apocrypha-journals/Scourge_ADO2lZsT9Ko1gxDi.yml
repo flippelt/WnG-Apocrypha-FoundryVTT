@@ -1,0 +1,48 @@
+name: Scourge
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600356
+pages:
+  - name: Scourge
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“You think that's summer rain falling? Ha! It is the blood of those who crossed the Scourges, boy. You cannot see them, but your foolish kin adorn the spires and crenelations of High Commorragh like grisly fruit upon the bough. Up there they bleed out their last, moaning and helpless, impaled through and through. No! Do not look upward! Catch a Watcher's eye, and it will be your blood that rains down next...” — Edric Shiverhand, Slave-Elder of Gomor Sump You are one of those who rule the skies above the Dark City. No missive passes between Kabals, no secret is told, without you and your kin carrying it. Scourges are an intrinsic part of the society of Commorragh. The omnipresent intrigues of the Dark City thrive on information, without which even the greatest of the Kabals is soon rendered impotent. The most secure forms of Vox transmission can always be intercepted and psychic communication is strictly forbidden to the Drukhari. Instead, the Drukhari aristocracy pays handsomely for the Scourges to take their missives to their destination by hand. Each communique is sealed with tailor-made toxins, the antidotes to which—usually—are only held by the recipient.</p><p>Even if the warrior survives this gruelling procedure, they are still not yet a true Scourge, for they must then fly all the way to the corpse-strewn aeries of their new brethren. Their still raw and bleeding wings carry them from the oubliettes of the Haemonculi to the topmost spires of the Dark City where the Scourges make their home and they must fight through deadly fatigue, warring gangs of Hellions, vicious Reavers, and all the other types of airborne terrors to be found in Upper Commorragh to get there. Those who make this vertical pilgrimage and manage to survive its dangers earn the right to call themselves Scourges, members of a highly exclusive mercenary clique of skyborne warriors that looks with disdain upon those of their kin who remain tied to the ground.</p><p>The Scourges are so vital to the intrigues of the Dark City that to kill one is to invite a very painful death by his or her fellows. Considered the pinnacle of Drukhari body modification, the metamorphosis from warrior to Scourge is a lengthy and painful process, as one might expect of the Drukhari. A rich and daring Drukhari may surrender themselves to the mercies of the Haemonculi and request that their bones be hollowed out by the drills of a Talos, that bands of new, vat-grown muscle be grafted onto their torso, and powerful avian wings and adrenaline dispensers be attached to their shoulders so that they are capable of undertaking true flight.</p><p>Page 127</p>
+      markdown: ''
+    _id: XBmVWViw92rzZB4F
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ADO2lZsT9Ko1gxDi.XBmVWViw92rzZB4F'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: ADO2lZsT9Ko1gxDi
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!ADO2lZsT9Ko1gxDi'
+categories: []

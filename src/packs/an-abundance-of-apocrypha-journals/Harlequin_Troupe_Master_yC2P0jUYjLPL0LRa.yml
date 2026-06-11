@@ -1,0 +1,48 @@
+name: Harlequin Troupe Master
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600192
+pages:
+  - name: Harlequin Troupe Master
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Poor human, so bereft of understanding. You are not the hero of your own story. You are merely a bit player in mine.” Ealion, The Gloaming Prince Your soul is forfeit, for you portray the Great Enemy in the grimmest of performances, and none can do so without cost. But you pay that price willingly, to defend your people from the horror that awaits you.</p>
+      markdown: ''
+    _id: fNhWdXof1FitEGmN
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!yC2P0jUYjLPL0LRa.fNhWdXof1FitEGmN'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: yC2P0jUYjLPL0LRa
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!yC2P0jUYjLPL0LRa'
+categories: []

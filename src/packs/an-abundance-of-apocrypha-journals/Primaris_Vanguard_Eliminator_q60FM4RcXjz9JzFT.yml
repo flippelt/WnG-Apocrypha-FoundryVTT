@@ -1,0 +1,48 @@
+name: Primaris Vanguard Eliminator
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600328
+pages:
+  - name: Primaris Vanguard Eliminator
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“There is no place for traitors to hide from us. Let them go to ground. Let them surround themselves with throngs of baying Warpspawn or high fortress walls. It makes no difference. Our scopes will seek them out and we shall deliver unto them the Emperor's Justice." —Varrus, Ultramarines Eliminator You move silently behind the enemy lines, seeking a vantage from where you can deliver the killing shot to your target. Nothing can get between you and your target. These fire support Primaris Marines haunt the shadows of the battlefield, seeking out high-value targets and bringing them down with pinpoint volleys of bolt rounds. Eliminator Squads utilize a version of the Mark X Phobos Armour, allowing them to operate with maximum stealth. These warriors serve as dedicated marksmen and fire support specialists that haunt the shadows of the battlefield seeking out targets of opportunity and bringing them down from a range. Their primary armament is the Mark III Shrike Pattern Bolt Sniper Rifle, though they sometimes carry the powerful Las Fusils for dealing with harder targets.</p><p>thermoscopic vision to precision auspex scans that can penetrate several feet of solid matter. Once locked on to, there is nowhere for an Eliminator's prey to hide. Each member of the squad carries spare magazines filled with special ammunition, tailored for every eventually. Hyperfrag rounds detonate in a shower of shrapnel, Executioner rounds are sophisticated selfguided missiles slaved to a miniaturized cogitator that can seek their target from behind cover, while mortis rounds spew self-replicating mutagenic toxins into the flesh of a target.</p><p>The optical sights of this weapon can be tailored for any situation, from</p>
+      markdown: ''
+    _id: 4GkNeFxyxQyCaCQo
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!q60FM4RcXjz9JzFT.4GkNeFxyxQyCaCQo'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: q60FM4RcXjz9JzFT
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!q60FM4RcXjz9JzFT'
+categories: []

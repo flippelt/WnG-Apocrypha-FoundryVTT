@@ -1,0 +1,48 @@
+name: Magos
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600244
+pages:
+  - name: Magos
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>“In ancient times, men built wonders, laid claim to the stars and sought to better themselves for the good of all. But we are much wiser now.” –Archmagos Ultima Cryol You are a high priest of the Machine God, your existence utterly devoted to the Quest for Knowledge. You are the lord of one of the many domains of the Adeptus Mechanicus, subordinate only to your Forge World’s Fabricator-General.</p><p>These senior Tech-Priests attend the Machine Altars of the Forge Worlds which contain the sum of knowledge of the Adeptus Mechanicus which in turn represents the will of the Omnissiah.</p><p>A Magos (plural Magi) is a high ranking member of the Adeptus Mechanicus and are devoted disciples of the principles associated with the Machine God. These individuals have perfected as well as refined their field of expertise making them each the master of their chosen discipline. Their dedication has led to them sacrificing great portions of their body in order to emulate the sacred form of the machine. After decades of service, a Magos has replaced many of his organs and limbs with superior cybernetic implants. As is fitting with the Cult Mechanicus, these replacement limbs and organs never tire or grow weak with age, thus highlighting the greatness of the Machine. Many senior Magi barely resemble the humans they once were, having discarded the frailties of their flesh long ago. Canticles of the Omnissiah</p><p>These binaric blessings are as much programming as exhortations to action, and they take effect automatically. Invoking a Canticle requires a DN 1 Tech test, adding +1 to the DN for each affected ADEPTUS MECHANICUS character after the first. Affected characters must be within 15m of the Magos or connected by Data-Tether. All references to Rank in the Canticles below refer to the Rank of the Magos invoking the Canticle. A character may only benefit from one Canticle at a time, and the effects last only until the start of the Magos’ next turn. INCANTATION OF THE IRON SOUL: Affected characters add +Rank to their Resolve. LITANY OF THE ELECTROMANCER: Roll 1d6 for each enemy Engaged with an affected character; on a 6, that enemy suffers 1d3 Mortal Wounds. CHANT OF THE REMORSELESS FIST: Affected characters add +Rank bonus dice to melee attacks. SHROUDPSALM: Affected characters add +Rank to Defence. INVOCATION OF MACHINE MIGHT: Affected characters add +Rank to the damage value of their melee weapons. BENEDICTION OF THE OMNISSIAH: Affected characters add +Rank bonus dice to ranged attacks. ORISON OF SCRUTINY: Affected characters add +Rank bonus dice to Awareness Tests. TECHNOSUPPLICATION: Affected characters add +Rank bonus dice to Tech Tests.</p><p>Page 176</p>'
+      markdown: ''
+    _id: fZQtM202ikWdOA1z
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!9Mw3RoO8b93mSoFn.fZQtM202ikWdOA1z'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 9Mw3RoO8b93mSoFn
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!9Mw3RoO8b93mSoFn'
+categories: []
