@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/astra-militarum.webp
 system:
   tier: 1
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.F3pZitZY2feKlOFG'
   species:
     name: Beastman
     id: >-

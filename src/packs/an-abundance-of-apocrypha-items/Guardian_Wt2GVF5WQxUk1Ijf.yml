@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/aeldari.webp
 system:
   tier: 1
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.HjDsjgb8Bf49M0Os'
   species:
     name: Aeldari
     id: Item.Ryyi27i160YZJWeP

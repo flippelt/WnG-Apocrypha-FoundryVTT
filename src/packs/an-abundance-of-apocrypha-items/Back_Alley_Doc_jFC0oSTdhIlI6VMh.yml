@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/scum.webp
 system:
   tier: 1
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.joe05cYkSuYsyqZD'
   species:
     name: Human
     id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5
