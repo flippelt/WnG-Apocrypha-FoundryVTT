@@ -34,43 +34,43 @@ is narrow and is listed below.
 
 ## Remaining work
 
-### 1. The 9 `(NYI)` archetype stubs — all but one blocked on a vehicle/mount
+### 1. The 9 `(NYI)` archetype stubs — ✅ resolved
 
-These archetypes are fully statted **except** they reference a mount/vehicle
-item that does not exist yet (the wargear entry is a `type: generic` placeholder
-named `… (NYI)`). The module has **no `vehicle` item type**, so closing these
-requires deciding how mounts/vehicles are represented and then authoring them.
+All nine `(NYI)` stubs have been closed (the `(NYI)` marker is removed from
+their names).
 
-| Archetype | Tier | Faction | Missing item |
-| --- | --- | --- | --- |
-| Windrider | 1 | Aeldari | Aeldari Jetbike |
-| Reaver | 2 | Drukhari | Reaver Jetbike |
-| Speed Freek | 2 | Ork | Ork Warbike |
-| Hernkyn Pioneer (Kin) | 2 | Leagues of Votann | Magna-Coil Bike |
-| Hernkyn Pioneer (Ironkin) | 2 | Leagues of Votann | Magna-Coil Bike |
-| Aeronautica Pilot | 2 | Imperial Navy | Thunderbolt Fighter, Lightning Interceptor |
-| Crimson Hunter Aspect Warrior | 3 | Aeldari | Nightshade Interceptor |
-| Shining Spear Aspect Warrior | 3 | Aeldari | Aeldari Jetbike |
-| Wraithblade | 5 | Aeldari | *no generic-wargear placeholder — blocker differs; needs review* |
+**Eight were blocked on a vehicle/mount.** In *An Abundance of Apocrypha* these
+archetypes don't carry homebrew vehicle stats — they **reference vehicles from
+the official *Church of Steel* supplement**. Reproducing those stat blocks would
+redistribute Games Workshop / Cubicle 7 content, which this module does not do.
+So each placeholder is now a **citation**, not a copy:
 
-Distinct vehicles/mounts to create: **Aeldari Jetbike** (Windrider + Shining
-Spear), **Reaver Jetbike**, **Ork Warbike**, **Magna-Coil Bike**, and the
-aircraft **Thunderbolt Fighter**, **Lightning Interceptor**, **Nightshade
-Interceptor**. Stat blocks come from the PDF v9 *Vehicles* section.
+| Archetype | Tier | Vehicle reference |
+| --- | --- | --- |
+| Windrider | 1 | Aeldari Jetbike (Church of Steel, p. 92) |
+| Reaver | 2 | Reaver Jetbike (Church of Steel, p. 100) |
+| Speed Freek | 2 | Ork Warbike (Church of Steel) |
+| Hernkyn Pioneer (Kin) | 2 | Magna-Coil Bike (Church of Steel) |
+| Hernkyn Pioneer (Ironkin) | 2 | Magna-Coil Bike (Church of Steel) |
+| Aeronautica Pilot | 2 | Thunderbolt Fighter / Lightning Interceptor (Church of Steel) |
+| Crimson Hunter Aspect Warrior | 3 | Nightshade Interceptor (Church of Steel, p. 95) |
+| Shining Spear Aspect Warrior | 3 | Aeldari Jetbike (Church of Steel, p. 92) |
 
-### 2. Vehicles subsystem (the real blocker for §1)
+The **Autarch** (T5 Aeldari), which offers an Aeldari Jetbike as optional
+wargear, was updated to the same citation.
 
-There is no vehicle representation in the module. Options, in rough order of
-effort:
+**The ninth, Wraithblade, was a different case** — its primary weapon was simply
+missing. It now grants its **Force Shield** plus a choice of **Ghostsword or
+Ghostaxe** (both already in the compendium), mirroring the Wraithguard's wargear
+structure.
 
-- **Minimal:** model each mount/vehicle as a `gear`/`weapon` item carrying its
-  weapons and the relevant traits, then point each NYI archetype's wargear at
-  it. Unblocks the 9 archetypes with the least machinery.
-- **Full:** model vehicles as Actors (or a dedicated type) with their own
-  Cognis/Lance/Mounted traits. Closer to the PDF but much more work and depends
-  on what `wng-core` supports.
+> Note on vehicles: W&G models vehicles as **Actors** (`type: vehicle`), not
+> Items, and an archetype's `wargear` can only reference Items — so a vehicle
+> cannot be granted directly by an archetype regardless. Citing the source book
+> is both the license-clean and the mechanically-correct approach; anyone who
+> owns *Church of Steel* adds the vehicle Actor themselves.
 
-### 3. Spot fixes found while auditing
+### 2. Remaining spot fixes
 
 - **Primaris Aggressor** has `tier: 41` (typo for `4`) in one of its two
   entries — should be corrected.
@@ -82,13 +82,8 @@ effort:
 
 ## Suggested plan (priority)
 
-1. **Decide the vehicle model** (minimal vs full) — everything in §1 depends on
-   it.
-2. **Author the 7 distinct vehicles/mounts** from the PDF and wire them into the
-   8 vehicle-dependent NYI archetypes.
-3. **Investigate the Wraithblade stub** (different blocker) and close it.
-4. **Apply the spot fixes** in §3.
-5. Optional polish: confirm the variant duplicates, sweep names against the
+1. **Apply the spot fixes** in §2 (quick, self-contained).
+2. Optional polish: confirm the variant duplicates, sweep names against the
    PDF v9 table of contents for anything genuinely absent.
 
 ## Workflow

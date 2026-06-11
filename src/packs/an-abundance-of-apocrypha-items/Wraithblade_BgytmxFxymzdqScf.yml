@@ -1,5 +1,5 @@
 folder: GHP0SxnnlNKFusRJ
-name: Wraithblade (NYI)
+name: Wraithblade
 type: archetype
 _id: BgytmxFxymzdqScf
 img: modules/wng-core/assets/icons/abilities/aeldari.webp
@@ -59,6 +59,22 @@ system:
         Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.ITLQfWGwbXHWLCgq
       type: item
       diff: {}
+      index: 1
+      groupId: lqkP63B6bgU8r6Oa
+    - name: Ghostsword
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.HxU0ooYZKjBz87PA
+      type: item
+      diff: {}
+      index: 2
+      groupId: GhstswrdWBld0001
+    - name: Ghostaxe
+      id: >-
+        Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RIwnpOyP0thFNgaa
+      type: item
+      diff: {}
+      index: 3
+      groupId: GhstaxeWBlde0002
   groups:
     type: and
     groupId: root
@@ -66,6 +82,15 @@ system:
       - index: 1
         type: item
         groupId: lqkP63B6bgU8r6Oa
+      - type: or
+        groupId: WBldWpnChoice001
+        items:
+          - index: 2
+            type: item
+            groupId: GhstswrdWBld0001
+          - index: 3
+            type: item
+            groupId: GhstaxeWBlde0002
   suggested:
     attributes:
       strength: 9

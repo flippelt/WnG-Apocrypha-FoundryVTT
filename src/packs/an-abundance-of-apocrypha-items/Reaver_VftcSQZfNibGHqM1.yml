@@ -1,5 +1,5 @@
 folder: lEqVRehKQvTYGEoK
-name: Reaver (NYI)
+name: Reaver
 type: archetype
 img: modules/wng-core/assets/icons/abilities/aeldari.webp
 system:
@@ -69,7 +69,7 @@ system:
       index: 2
       groupId: Hq6dlffeHGO7ToNa
     - type: generic
-      name: Reaver Jetbike (NYI)
+      name: Reaver Jetbike (Church of Steel, p. 100)
       filters: []
       index: 3
       groupId: 96I6S7VyczuLwi3J
