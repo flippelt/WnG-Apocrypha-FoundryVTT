@@ -1,0 +1,48 @@
+name: Navigator
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600252
+pages:
+  - name: Navigator
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“To gaze into the warp is to look into the abyss. To understand insanity itself is to become insane. Worst of all is the knowledge that while you are gazing upon it, the warp is looking back at you and laughing.” –Kartr Hollis, Nobilite Emissary You are a scion of an ancient family, blessed—or cursed—with an engineered mutation that allows you to gaze upon the Warp and guide vessels through it. Your abilities are invaluable to any who need to travel the stars. Without the Navigator gene and those who bear it, there simply would not be an Imperium of Man. At best, Humanity’s control of the stars would be limited to those planets that could entirely support themselves and a few scattered petty empires. Contact with other worlds would be scant to non-existent, for travel between all but the very closest of star systems would be too ponderous, and too dangerous, to be practicable. Without a Navigator, a vessel is limited to warp jumps of only a few light years at a time, and exact calibration must be undertaken by massive banks of cogitators as even the smallest of errors will have fatal consequences for the vessel and every soul aboard. Without a Navigator, to cross even the smallest of interstellar gulfs without the most detailed and ancient charts is considered a desperate or foolhardy act by most void-farers and suicidal by those who truly understand what horrors lurk beyond the material universe.</p><p>Astronomican, the Emperor-forged and soul-burning beacon that shines across the galaxy from ancient Terra. The life of a Navigator is one of duty and service to his clan, yet many would have it no other way, for they are never truly more alive than when ensconced in their navigation sanctum, gazing into the insane, swirling depths of the Immaterium, pitting their will and their wits against the ravening storm of energy and thought that lurks behind all things that others call real.</p><p>Thanks to their Warp Eye, they are able to pierce the veil between the Materium and the Immaterium, between reality and the nightmarish realms beyond. Able to perceive the warp’s shifting tides and impossible currents, he can guide a vessel by dint of his skill and the immeasurable aid of the light of the</p><p>Page 119</p>
+      markdown: ''
+    _id: ZymcuP2atkS80km1
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!up3CuAiN6R8AfcVt.ZymcuP2atkS80km1'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: up3CuAiN6R8AfcVt
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!up3CuAiN6R8AfcVt'
+categories: []

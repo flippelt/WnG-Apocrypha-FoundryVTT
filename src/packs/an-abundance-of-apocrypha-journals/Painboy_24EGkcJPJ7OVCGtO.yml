@@ -1,0 +1,48 @@
+name: Painboy
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600284
+pages:
+  - name: Painboy
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"It's gonna hurt a lot, but you'll be better! You'll see! Ha Ha HA HA!" — Anonymous Mad Dok You fix other Orks when they’re sick or injured. Of course, you also like to experiment, and have a natural curiosity for how all the squishy bits inside living creatures work… so you sometimes get distracted. Still, your patients are tough, and the ones who don’t survive can’t complain anyway. An Ork Painboy, also known as a Mad Dok or just a Dok, is a member of a special class of Ork Oddboyz who are responsible for fixing injuries even the highly regenerative Ork physiology cannot repair, such as severed limbs and brain damage. An Ork will only go to a Painboy when he has no other choice, as these Oddboyz are infamous for trying out experimental procedures (such as the greatly feared Squig brain transplant) on patients while they are under anaesthesia (known as a "concussion" to other intelligent races). Painboyz are responsible for attaching crude bionics called "bioniks" to Ork patients that have been created by the Mekboyz, although sometimes they are not paying attention and replace the wrong part of the patient's body. This is often distressing to a patient who is the lucky recipient of an exploding leg, especially if it was his arm that needed attention. Yet Orks are surprisingly resilient and have had arms, legs and even heads swapped around and the Ork in question has survived to tell the tale!</p><p>Page 123</p>
+      markdown: ''
+    _id: wDg50gvvtAqmZ3IL
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!24EGkcJPJ7OVCGtO.wDg50gvvtAqmZ3IL'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 24EGkcJPJ7OVCGtO
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!24EGkcJPJ7OVCGtO'
+categories: []

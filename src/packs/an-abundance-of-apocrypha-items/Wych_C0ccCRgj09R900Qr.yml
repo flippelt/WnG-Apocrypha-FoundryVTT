@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/aeldari.webp
 system:
   tier: 1
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.ZPXVjIyuBMujGEO5'
   species:
     name: Drukhari
     id: Item.0cyPTEOhN6wKHMDz

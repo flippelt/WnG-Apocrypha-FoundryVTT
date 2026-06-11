@@ -1,0 +1,48 @@
+name: Mekboy
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600248
+pages:
+  - name: Mekboy
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Da best shoota I eva made, dat iz. Loadza barrulz, so dat it’s ded shooty. ‘Sept dat wun, ‘cos dat’s da skorcha, dat’s burny insted. Yeah, good an’ proppa. An’ da bullitz is ‘splosiv...dey goez boom inna fings wot you’z shootin.’ An’ dat button dere...dat’s da best bit. Wot it duz, see, iz...iz...oh, zog. Nah, its nuffin’ boss. Nah, you’z don’t need ta see wot dat button duz... ‘onist. Don’t push it!" —Last words of Nazdakka Boomsnik, Renowned Mekboy You build things. It’s a compulsion, not just a job. You couldn’t stop if you wanted to. Weapons and vehicles, and you’ve got dreams of even bigger, deadlier contraptions—great Gargant war engines that stomp across battlefields, and massive starships full of Boyz. A Mekboy, (pl. Mekboyz) also known as a Mekaniak or more often simply as a Mek, is a type of Ork Oddboy who build all the weapons, vehicles, and other advanced technology used by the Greenskins. Mekboyz are especially important to Ork Speed Freeks, as they maintain the prodigious number of bikes and vehicles used by Ork warbands. Ork Meks go to war festooned in clanking, smoke-belching contraptions of their own design. These eccentric inventions confound friend and foe alike, as their purpose often remains a mystery until the big red button gets pushed. When triggered, a Mek's latest invention might fire blasts of energy that immolate swathes of the enemy, or project wobbling bubbles of gravitic force to protect nearby Boyz from harm. On the other hand, it might belch showers of sparks before engulfing its operator and everyone nearby in a roiling ball of flame. Yet occasional malfunctions are forgiven by the Orks, for even when a Mekboy's temperamental new wotsit does decide to explode, at least it gives the Boyz a good laugh.</p><p>be it a shiny new Shoota or the Warboss' new ride, they go straight to the Meks. Furthermore, an Ork with teef to spare will take existing kit to the nearest Mek in the hope of having damage repaired, and maybe some kustomising done. It is a rare day that the customer gets what he asked for, but whatever the Mek turns out will normally be fairly flashy all the same.</p>
+      markdown: ''
+    _id: wUWXbOvneCTcEo2V
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!MhlVyDr7fH324Bt3.wUWXbOvneCTcEo2V'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: MhlVyDr7fH324Bt3
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!MhlVyDr7fH324Bt3'
+categories: []

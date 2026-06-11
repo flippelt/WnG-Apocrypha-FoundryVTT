@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-apocrypha/assets/images/factions/adeptus-arbites-icon.webp
 system:
   tier: 2
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.BXQTOsfCnYnk6iFl'
   species:
     name: Human
     id: Item.JjNQyUPELJb8CvL5

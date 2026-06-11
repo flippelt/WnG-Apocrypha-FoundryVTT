@@ -1,0 +1,48 @@
+name: Raptor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600340
+pages:
+  - name: Raptor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“‘Attack’ is the only order worth remembering.” —Common saying amongst the World Eaters Legion You harry and torment your foes, diving from foreboding night skies to spread terror and death amongst the weak and defenceless. Raptors are the dedicated assault infantry of the Traitor Legions. Raptors consider themselves to be elite shock troops and tend to be egotistical and selfcentred. As Raptors are used to strike at the weakest point in an enemy line, this tactical usage has been expanded into an outright philosophy dedicated to the concept of preying on the weak, making them vicious hunters. Their murder squads epitomise what has become of the Assault Marines of the Traitor Legions. Though they were once rare and highly valued troops, the Raptors have fallen to their own pride and lust for violence. They now roam the galaxy as merciless hunters, relishing the fear they cause as they plummet screaming out of the skies. The Raptors' predilection for sadism and psychological warfare is a dark reflection of the Assault Marine's traditional role. Simple killing is no longer enough. The Raptors want not only to tear apart their prey, but to instil terror in them beforehand -- they will go to great lengths to see their grovelling prey's face distorted with fear before the final blow is struck. Wherever the Raptors prowl, ghostly voices and horrific threats are broadcast into enemy communications networks, the skies are haunted by daemonic faces, and evil shrieks echo through the night so that their sleepdeprived quarry is driven to the edge of madness. Needless to say, the Night Lords, a Traitor Legion infamous for their terror tactics, attract a great many Raptors to their banner.</p><p>Page 156</p>
+      markdown: ''
+    _id: 0SgBIgIGXmd3dmuV
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!nxGJy5pHJPkgVZeU.0SgBIgIGXmd3dmuV'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: nxGJy5pHJPkgVZeU
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!nxGJy5pHJPkgVZeU'
+categories: []

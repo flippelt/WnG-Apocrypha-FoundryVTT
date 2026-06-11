@@ -1,0 +1,48 @@
+name: Warpsmith
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600456
+pages:
+  - name: Warpsmith
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“The Machine God is dead. Long live the Machine God.” Warpsmith Arkturian, via station-wide Vox broadcast You seek to subjugate both technology and the malefic power of the Warp, fusing the two into the mighty weapons and other devices that fill your dreams. A Warpsmith is a fallen Chaos Space Marine Techmarine who now serves the Ruinous Powers through the creation of daemonic war engines. As the master of the soul forges to be found within the Eye of Terror, it is by their hands that the Daemon Engines such as the Maulerfiend and the Forgefiend come to life, an unholy union of daemon and machine, ready to fight alongside the armies of Chaos. Though each Warpsmith is an expert in battlefield repair and siege craft, his true calling lies in the soul forges of the Warp, especially those in the Eye of Terror. There, the spirits of captured Imperial machines are driven to madness as their physical forms are rebuilt into bestial and terrifying new shapes. Daemons are thrust into the cogs of giant, mechanoid birthfactories that crank out red-hot engines of destruction from their cabled wombs.</p>
+      markdown: ''
+    _id: YYyEX05PJ9SO0fkc
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!yvGlDnOCskSLODwf.YYyEX05PJ9SO0fkc'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: yvGlDnOCskSLODwf
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!yvGlDnOCskSLODwf'
+categories: []

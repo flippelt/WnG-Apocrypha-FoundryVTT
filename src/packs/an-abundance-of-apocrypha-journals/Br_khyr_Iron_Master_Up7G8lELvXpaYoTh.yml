@@ -1,0 +1,48 @@
+name: Brôkhyr Iron-Master
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600052
+pages:
+  - name: Brôkhyr Iron-Master
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Few things are as useful as a good COG. They don't complain, they do as they're told and they don't make mistakes. They're loyal, and by the Hearthfires they're strong. Not much for conversation, of course, but then, neither am I..." Brôkhyr Iron-master Skâln the Glare You’re a craftsman first and foremost, an artisan who knows the value of building something properly. You’re meticulous, precise, and have just the right mix of creativity and reverence for tradition – enough to make your own mark on your creations, not enough to get yourself blown up by your own experiments. Of course, your skills are expensive; the kind of work you do isn’t cheap. The Brôkhyr are the engineers, craftsmen and artificers of the Leagues of Votann. They are amongst the most highly-skilled techno-artificers in the galaxy. Making full use of the incredible material bounty of the galactic core, coupled with the precious technical lore stored within the Votann, they craft technology and devices of superlative durability, reliability and power. In this way they are major contributors to the continued survival of their species.</p><p>and manufacture. This slow but relentless iterative process of improving upon already understood technologies has helped the Kin develop the contents of the original Standard Template Constructs inherited from the Ancestors' ancient Long March mining fleets even further, leading to true innovations. Yet all Brôkhyr still prioritise certain principles when developing new technologies, including that their devices embody reliability, utility and efficiency over showy decoration or ideas of ritual significance. Kin technology and wargear is as rugged and pragmatic as the beings that wield it and will be battered to destruction before it fails in its duty.</p><p>Every hold's Forge is unique, built and augmented over Terran centuries to specifications determined by Votannic wisdom and the personal preference of its Kindred. Yet in some respects they are uniform. All Forges are sleepless hubs of activity, lit by the molten fires and searing plasma arcs of advanced technological manufacture, and all are filled with mechanisms of artifice ranging from each Brôkhyr's personal A.N-vyl workstations, to colossal auto-foundries. As well as overseeing the work of their COG robotassistants, each Brôkhyr takes pride in constructing their own devices. They follow traditional schematics in deference to the wisdom of the Ancestors, yet there is also general recognition that – to truly honour the Votann -- each Brôkhyr must humbly apply their own ingenuity, coupled with rigorous field tests, to improve upon traditional designs. Through this process, each Brôkhyr develops their own preferences and quirks, which become known as their signature style in the technologies they craft. The most efficacious signatures are adopted by fellow Brôkhyr so that, over time, many Kindreds -- or even entire leagues -- have adopted bespoke methods of crafting</p><p>Page 138</p>
+      markdown: ''
+    _id: yZYYesi50LWWCGLm
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!Up7G8lELvXpaYoTh.yZYYesi50LWWCGLm'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: Up7G8lELvXpaYoTh
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!Up7G8lELvXpaYoTh'
+categories: []

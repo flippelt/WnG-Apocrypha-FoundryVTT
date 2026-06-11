@@ -1,0 +1,48 @@
+name: Crisis Suit Pilot
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600096
+pages:
+  - name: Crisis Suit Pilot
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>It is not our technology that will enable us to prevail in this galaxy. It is our shared sense of honour and commonality of cause that unites us and will give us the power to defeat our enemies. — Shas'el Sa'cea Or'es, Fire caste commander You are an elite warrior of the T’au Empire, a member of the Fire Caste. You have passed your first Trial By Fire and been granted the right to pilot a Crisis Suit into battle, striking at the heart of the enemy. To the T'au, the XV8 Crisis Battlesuit is more than just a powerful weapon of war; it is also a symbol of great achievement. Being allowed to pilot an XV8 Crisis Battlesuit is considered a high honour by the T'au Fire Caste and is only granted to those Fire Warriors who have earned the rank and privilege required to be granted this responsibility.</p><p>Becoming an XV8 Crisis Battlesuit pilot is one of the first steps to becoming a T'au officer, and those who take that step are experienced warriors who have fought the deadliest of foes and triumphed. Once a Fire Warrior has proven himself ready for more responsibility in a second Trial by Fire, he will then be promoted to the rank of Shas’vre and lead his own XV8 Crisis Battlesuit Team. If he succeeds at that demanding role, he will go on to be assigned to a T'au Commander's Battlesuit Bodyguard Team, and eventually will become a T'au Commander himself once he attains the rank of Shas'el.</p><p>Such a privilege can only be attained after several Terran years of progressing through the ranks of the Fire Caste as a Fire Warrior. A Fire Warrior will normally follow a standard rate of progression and advancement in the T'au military that is based around an evaluation of their skills called a "Trial by Fire." It is only once a Fire Warrior has proven himself in battle and completed his first Trial by Fire to earn the Fire Caste rank of Shas’ui that he is then given the honour of piloting an XV8 Crisis Battlesuit and becoming a member of the Fire Caste’s elite. This is the aspiration of every Fire caste warrior -- recognition of a mastery of the Code of Fire and noble service to the Greater Good.</p><p>Page 111</p>
+      markdown: ''
+    _id: 3mLwiWHZ1wAmNlUi
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!f0t0pITjmi42EmLl.3mLwiWHZ1wAmNlUi'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: f0t0pITjmi42EmLl
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!f0t0pITjmi42EmLl'
+categories: []

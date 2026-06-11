@@ -1,0 +1,48 @@
+name: Haemonculus
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600172
+pages:
+  - name: Haemonculus
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Pain is the only universal constant. Pain is all. It is the key to creation and destruction both. Thus, does he who masters pain become a god." —Urien Rakarth, Master Haemonculus and Lord of the Prophets of Flesh You are an ancient and cruel being, a master of twisted arts and hellish sciences most foul. Few are the secrets of flesh, blood, mind, and soul that are beyond your grasp, and rare are the sensations and experiences you have not already encountered. Haemonculi proclaim that the infliction of pain is one of the highest arts, if not the highest, and gleefully create choruses of screams and wails of agony whilst taking delight in every aspect of the discomfort of anyone unfortunate enough to fall under their blades. Haemonculi are also known as master manipulators of flesh, able to create horrific monstrosities and regenerate Drukhari slain in battle, provided enough of the body remains. Because of this, Drukhari of status will often make pacts with Haemonculi, promising them fresh captives for their cruel art in exchange for medical treatment, biological enhancements, and even being brought back from the dead. Haemonculi ensure the near-immortality of Drukhari who can afford their services, and it is said they can be grown back to life from a single severed hand.</p><p>famed for their especially venomous Engines of Pain. It is these hideous horrors and monstrous constructs that do the majority of the killing when the Coven mounts a raid. Having lived for thousands of years, the Haemonculi look upon the planet-wrecking wars of lesser races with a snickering amusement.</p><p>As masters of fleshcrafting, Haemonculi heavily modify themselves. Some keep their blood, lungs and heart in a muscled hunk of meat that sprouts from their shoulders, a rich repository for stimulants and elixirs that often boasts secondary limbs of its own. Others replace their blood so that searing ichor or even acid flows through their modified veins. Their spines are elongated and extended and their vertebrae meld into whipping prehensile bone-tails that can curl around the throats of their prey. From the upper backs sprout protrusions of bony matter that often frame the Haemonculus’ head, hung with peculiar syringes and drug dispensers that channel directly into their spinal sump. Because of their skills Haemonculi are functionally immortal, and always look upon death with a vengeful glee for they know they shall soon return to exact their retribution. The Haemonculi are always seeking new ways to inflict horror upon the denizens of the Materium. Certain Covens, such as the Children of Bone, specialize in developing thin Grotesques to aid them upon the battlefield, while the Coven of the Ebon Sting are Page 199</p>
+      markdown: ''
+    _id: vwWx38kwQxvPno4g
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!6xhWgqGqTZfAr7PW.vwWx38kwQxvPno4g'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 6xhWgqGqTZfAr7PW
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!6xhWgqGqTZfAr7PW'
+categories: []

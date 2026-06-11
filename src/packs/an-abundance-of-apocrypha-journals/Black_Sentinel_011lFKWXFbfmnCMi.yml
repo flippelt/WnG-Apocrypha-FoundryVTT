@@ -1,0 +1,48 @@
+name: Black Sentinel
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600044
+pages:
+  - name: Black Sentinel
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Psykers are necessary for the Imperium to exist. But that necessity does not require trust. They are a vulnerability the Enemy will seek to exploit, and thus we guard them from threats both without and within." —Rem Tholus, Black Sentinel You have been chosen to stand watch over the facilities, ships, and other actions of the Adeptus Astra Telepathica, securing them against intruders and delivering the Emperor’s judgement should they succumb to their accursed powers. The Black Sentinels are an armed force of the Adeptus Astra Telepathica, having been active since the Great Crusade and Horus Heresy. In those ancient days, they supplemented the elite warriors of the Sisters of Silence, and in the millennia since they have stood guard over the psyker tithe, Astropathic choirs, and any other places where sanctioned psykers are gathered. Black Sentinels provide security for Astropaths and their facilities across the Sol System and beyond. They are also entrusted with the task of eliminating compromised Psykers, prowling across the gantries and corridors of the Telepathica headquarters on Terra and similar locations, forever poised for the first twitch or spasm of possession. Well-trained and heavilyarmed, they are dressed in black armor protected with psychic wards, and wear masks that resemble snarling beasts.</p>
+      markdown: ''
+    _id: OLxu21t3kFGCCzs5
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!011lFKWXFbfmnCMi.OLxu21t3kFGCCzs5'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 011lFKWXFbfmnCMi
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!011lFKWXFbfmnCMi'
+categories: []

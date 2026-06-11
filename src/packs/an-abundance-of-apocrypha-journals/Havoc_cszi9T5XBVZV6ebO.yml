@@ -1,0 +1,48 @@
+name: Havoc
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600196
+pages:
+  - name: Havoc
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Impurity shall be our armour. Hate shall be our weapon. Immortality shall be our reward”. Unknown With a mighty cannon in your grasp, you bring destruction to your enemies and anyone else who gets in your way. Nothing delights you as much as the death you can unleash. Havocs are the Chaos counterparts the Space Marine Devastators, heavy weapon specialists who are trained to annihilate the foe at range. Squads of Havocs provide devastating anti-infantry and anti-armour firepower, dominating large swathes of the battlefield with volley after punishing volley. Such is the bloodpounding thrill of pouring heavy fire into the enemy ranks that many Havocs become obsessed by the power their weapons afford them. They see themselves as gods of the battlefield, blasting the insect vermin of the enemy into oblivion with each twitch of the finger.</p>
+      markdown: ''
+    _id: 1J3U4aRRwsnKoU03
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!cszi9T5XBVZV6ebO.1J3U4aRRwsnKoU03'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: cszi9T5XBVZV6ebO
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!cszi9T5XBVZV6ebO'
+categories: []

@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-core/assets/icons/abilities/adepta-mechanicus.webp
 system:
   tier: 2
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.7pYMHonhS2uZq1t2'
   species:
     name: Human
     id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5

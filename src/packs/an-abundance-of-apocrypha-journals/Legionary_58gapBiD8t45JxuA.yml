@@ -1,0 +1,48 @@
+name: Legionary
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600232
+pages:
+  - name: Legionary
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Destroy, for the sake of Destruction. Kill, for the sake of Killing.” Unknown You are a traitor to the Imperium, a nightmarish parody of the Emperor’s Angels of Death, driven by the pursuit of revenge, your own ambition, or simple bloodlust to spread death and destruction across the galaxy. Traitor Legionaries, also sometimes called Chaos Space Marines, Renegade Marines, or Heretic Astartes, is a former Loyalist Space Marine of the Imperium of Man who has chosen to abandon the service of the Emperor of Mankind and dedicate himself to the service of Chaos to achieve his own ends. Such corrupt Astartes normally belong to one of the nine original Traitor Legions that betrayed the Emperor during the ancient civil war called the Horus Heresy more than 10,000 standard years ago, while others come from Space Marine Chapters created long after the Heresy ended that have turned Renegade. Chaos can corrupt Astartes of any time and place just as its siren call leads many lesser men to their damnation.</p>
+      markdown: ''
+    _id: LU7ZU8V7E1PFLIPv
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!58gapBiD8t45JxuA.LU7ZU8V7E1PFLIPv'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 58gapBiD8t45JxuA
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!58gapBiD8t45JxuA'
+categories: []

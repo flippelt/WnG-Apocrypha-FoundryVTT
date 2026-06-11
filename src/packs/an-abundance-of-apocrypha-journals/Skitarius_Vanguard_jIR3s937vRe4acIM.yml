@@ -1,0 +1,48 @@
+name: Skitarius Vanguard
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600384
+pages:
+  - name: Skitarius Vanguard
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>“Vanguard Maniple Rho-531-Theta deploying. Broadcast all-points bulletin to allied forces: radcleansing in progress, ambient radiance may be harmful to unaugmented personnel.” —Vanguard Alpha Primus Gamma-1B4-Epsilon In the Omnissiah’s name, you fight at the forefront of the Quest for Knowledge, armed with lethal and insidious irradiated weaponry which is as hazardous to your own flesh as it is deadly to your enemies. The Skitarii Vanguard, informally known as "Rad Troopers," serve as the front-line shock troops of the Skitarii cohorts of the Adeptus Mechanicus. They are feared throughout the Imperium, for they use the baleful radioactive energies of the Forge Worlds as their weapon and are capable of operating in the galaxy''s most hostile warzones. Equipped with pack generators that bleed potent radioactive by-products, these Omnissian martyrs are so saturated with radiation that even to approach them is to succumb to their peculiar curse. Their baroque carbines fill the air around their foe with harmful emanations, corrupting the atmosphere itself even as they punch hyper-irradiated shot into the flesh of their victims. Should their foes survive the worst of the shooting, critical levels of rad-poisoning may still be achieved by the very proximity of the Skitarii Vanguard, who will look on in silent interest as an enemy that thought the worst was over stumbles, chokes, and dies of radiation poisoning. Over the many civil wars waged by the Cult Mechanicus, the Vanguard have learned to endure and weaponise their lethal radioactive emissions. So much radiation bleeds out from a Skitarii Vanguard''s wargear that foes in close proximity become weakened and fatigued; for non-Skitarii to be stationed in the same barracks is a death sentence. The Vanguard themselves are theoretically safe inside their war plate, but on the rare occasions these warriors unscrew their helmets, the sight of their missing teeth and hairless, sore-pocked skin tells the awful truth. It is a price they willingly pay, for their devotion to the Machine God is absolute.</p><p>Page 130</p>'
+      markdown: ''
+    _id: UoOWL3Q5iRpkfKN6
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!jIR3s937vRe4acIM.UoOWL3Q5iRpkfKN6'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: jIR3s937vRe4acIM
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!jIR3s937vRe4acIM'
+categories: []

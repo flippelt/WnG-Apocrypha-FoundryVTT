@@ -1,0 +1,48 @@
+name: Water Caste Functionary
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600460
+pages:
+  - name: Water Caste Functionary
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>It is well that they are known as the Water caste. One might as well try to nail the sea to the wall as pin them down with a straight answer. They flow around your words until they wear you down, like the trickle of water that over time will split the rock. — Rogue Trader Guarnerius You speak for the T’au Empire, a member of the Water Caste. You are part of the bureaucratic, mercantile, and diplomatic infrastructure which allows the T’au Empire to function. The T'au Water Caste is made up of merchants, diplomats, and administrators. They are responsible for maintaining effective interaction between the castes, as well as communicating with and supervising the integration of alien species into the T'au Empire. The Water Caste are consummate diplomats, manipulators, and fences, able to procure a rare Plasma Weapon for a handful of Kroot toenail clippings or talk a drug-crazed mutant into quiet subservience before convincing it to savagely assault its former master. Members of the Water Caste tend to be taller and more slender than other T'au, and their features are softer and more expressive. Water Caste T'au will frequently adopt the mannerisms and other cultural habits of the intelligent species they deal with, although this is often done to promote communication with these other species. Water Caste members are bureaucrats, politicians, negotiators, and administrators. They are the merchants and diplomats of the T'au Empire, moving in and around the other castes to ensure that T'au society functions smoothly, always in the service of the Greater Good. Water Caste members often accompany T'au expeditionary forces to negotiate safe conduct through alien star systems and smooth the passage of T'au merchants and colonists. Servants of the Imperium of Man should be aware that these T'au are exceptionally skilled at manipulating weak-willed individuals and every remark addressed to a member of the Water Caste must be carefully considered and phrased to prevent any sensitive information from being divulged.</p><p>Page 95</p>
+      markdown: ''
+    _id: IIaS0SdKtjqwbtq6
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!RCttdXlSRdBfK3CD.IIaS0SdKtjqwbtq6'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: RCttdXlSRdBfK3CD
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!RCttdXlSRdBfK3CD'
+categories: []

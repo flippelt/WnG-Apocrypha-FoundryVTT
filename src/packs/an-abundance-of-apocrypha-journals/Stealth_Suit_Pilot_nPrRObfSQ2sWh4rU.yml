@@ -1,0 +1,48 @@
+name: Stealth Suit Pilot
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600412
+pages:
+  - name: Stealth Suit Pilot
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>See the Gue’la, how they arrogantly stride into our trap. We will punish their belligerence, their ignorant lack of foresight. — O’Sharrek, Commander Darkwind You are an elite warrior of the T’au Empire, a member of the Fire Caste. You have passed your first Trial By Fire and been granted the right to pilot a battlesuit; you have chosen to operate a Stealth Battlesuit, operating secretly behind enemy lines. Equipped with either the XV15 or XV25 Stealthsuit, these teams operate independently from other military formations. In fact, they are not factored directly into Tau battle plans, and so enjoy an unusual degree of freedom within broad mission parameters, with team leaders gaining a reputation of eccentricity as they employ unorthodox tactics. Operating in teams of three to six members, including the team leader, their primary role is to ambush isolated enemies and act in support of friendly units, often ranging far ahead of the main Tau army.</p><p>Page 133</p>
+      markdown: ''
+    _id: rjUbQNXrfVixBvrs
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!nPrRObfSQ2sWh4rU.rjUbQNXrfVixBvrs'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: nPrRObfSQ2sWh4rU
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!nPrRObfSQ2sWh4rU'
+categories: []

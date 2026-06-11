@@ -1,0 +1,48 @@
+name: Sister Oblatia
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600380
+pages:
+  - name: Sister Oblatia
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>“If I must die, I shall welcome Death as an old friend, and wrap mine arms around it.” —Oath of the Penitent You are burdened with shame and have sought dire penance. You have been set upon a path of atonement, a path which will likely lead to absolution only with death. For some sisters of the Sororitas, the desire to atone overwhelms them and they take up the oath of the penitent. To become a penitent is to throw aside any thoughts of advancement, self, or any lesser oaths of duty and to seek absolution through a glorious, martyr’s death, willingly exiling themselves from their Order and any remaining ties to life in doing so. To their peers these penitent sisters are at once outcasts and revered as something sacred—pilgrims on a hard and noble quest at the end of which shines the pure light of the Emperor’s grace.</p><p>The Oblatia must then undergo ritual fasting, mortification, and a symbolic severance from her life and Order before taking up the blade and making her vows before the God-Emperor; turning her back on her Sisters as a requiem mass is sung for her as if she were already dead. Although she seeks ultimate atonement by the manner of her death, the onus on her is to atone through her deeds, most specifically in defeating humanity''s great enemies — combating and defeating the heretic, the mutant, the witch, and the alien without regard to self, injury, or hardship. Through the Sister’s battles, victories and ultimately the manner of their death, they hope to gain for the object of their sacrifice some measure of forgiveness in the Emperor''s eyes.</p><p>The most famed examples of those undergoing the oath of the penitent are the Sisters Repentia, who, through extreme self-inflicted suffering and the corporal mortification of their flesh, achieve a great and holy rage, hurling themselves with wild frenzy upon the enemies of the faithful, killing in a state of grace until they finally fall. There are, however, other variations of the penitent’s oath, rarer and more unusual but in their way no less remarkable. Once such is the oath of the Sister Oblatia: the oath of willing sacrifice for the sins of another. A sister who takes up this oath seeks not to atone for some direct misdeed of their own, but through profound spiritual conviction to take on the weight of another’s sins, most commonly a blood relative, some infamous ancestor or stain on their family line, or, more rarely, for the past transgression of a friend, a people, or a whole world. Most Oblatia come to their vows through spiritual revelation or after deep meditation of the nature of their holy vocation, although some few may have the oath in mind as the central cause of becoming Sororitas in the first place. Regardless of reason, only fully ordained Sisters may take the oath, and they must go before a specially convened synod of their superiors who judge the oath''s validity and purity of intent, to ensure it owes nothing to hubris or vanity.</p><p>Page 129</p>'
+      markdown: ''
+    _id: tjqlnReqqpsWVLpK
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!Pv1ZbnfhoQpVQdiN.tjqlnReqqpsWVLpK'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: Pv1ZbnfhoQpVQdiN
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!Pv1ZbnfhoQpVQdiN'
+categories: []

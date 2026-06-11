@@ -1,0 +1,48 @@
+name: Rogue Psyker
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600348
+pages:
+  - name: Rogue Psyker
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“What you do not understand is that I am the future of humanity, while you fools are its distant past. Let me show you mankind’s destiny.” – Kataria Skol, Scrying-Wyrd of Blasted Station</p><p>You eluded the Black Ships of the Imperium, and have developed your powers, free of the shackles and torments of your oppressors. In the darkness, you have heard voices whispering to you, offering you paths to power the likes of which the lap-dogs of the Emperor could not imagine… and you are intrigued. In the Imperium of Man, the Adeptus Astra Telepathica oversees the recruitment and training of psykers for use throughout the Adeptus Terra (and the Imperium as a whole). The Adeptus deliberately ensures these sanctioned psykers are unquestioningly loyal and meticulously trained, as well as both hidebound by nature and inflexible in their approach to the powers they wield. This is no error on the part of the Imperium, instead it is a deliberate defence cultivated by the psykers’ tutors. The souls of humans burn in the warp and those of psykers more brightly than most. The entities of that alien realm are drawn to those souls like moths to flames, eager to devour and consume them. However, a dullard’s mind is far less appetising to a Daemon and likely to be passed over in favour for sweeter meats.</p><p>whose powers have only just awakened, or those who have simply slipped through the cracks of the Imperium’s monstrous bureaucracy. There are even those psykers who are entirely black-hearted and dangerous individuals, and even those who willingly embrace the seductive power of the Dark Gods of the Warp. Collectively, the Imperium knows these individuals as rogue psykers</p><p>However, there are those psykers who have not been trained by the Adeptus Astra Telepathica. These may be quick-witted and self-taught wyrds whose instincts and intuition have been honed by a lifestyle spent as a fugitive from the Black Ships and Inquisition who gather their brethren for deliverance unto the Adeptus Astra Telepathica. Alternatively, they may be feral mystics and shamans on backwater planets with no inkling of the source of their power, individuals</p><p>Page 125</p><p>CULT WITCH</p>
+      markdown: ''
+    _id: prQWoCAryvtSMW2U
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!5PIyGZpOWwrwK08U.prQWoCAryvtSMW2U'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 5PIyGZpOWwrwK08U
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!5PIyGZpOWwrwK08U'
+categories: []

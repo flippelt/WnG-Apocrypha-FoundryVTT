@@ -1,0 +1,48 @@
+name: Arch-Confessor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600016
+pages:
+  - name: Arch-Confessor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"There are many who have transgressions against the God-Emperor they need to confess. This simple act of admitting one’s own heresy is the first step towards redemption. It is the duty of my Confessors to hear the sins of those in greatest need...the unwilling." — Arch-Cardinal Ignato You travel the Imperium, seeking out places where heresy, sedition, and blasphemy take root. With word and sword, you compel sinners to confess their sins, and incite a pious fervour in the people around you. An Arch-Confessor is a free-roaming zealot priest of the Adeptus Ministorum who uses his evangelical platform to agitate the crowds of Imperial citizenry that turn up to hear his preaching. Under the spell of these experienced Confessors, swathes of citizens will rush forwards to confess their personal heresies, reveal their hideous mutations and betray their comrades as psykers or other untrustworthy deviants in the eyes of the God-Emperor. Many take up alternative titles, such as Redemptor, Confessor-Militant, Absolutioner, or Penitentiarch. An Arch-Confessor’s words can stir a population to revolt against a heretical lord or convince rebellious armies to lay down arms and surrender to the Emperor’s mercy (which is always brief and bloody). They can be found wandering the Imperium, berating the faithless and imploring the Emperor-fearing citizenry of the Imperium to denounce those who have sinned and blasphemed. They do not only operate amongst the masses, however. Arch-Confessors are often advisors to high-ranking Astra Militarum and Imperial Navy officers, Imperial Commanders, and other important personages, and sometimes, with special dispensation from the Ecclesiarchy, they may even lead Wars of Faith against the sworn foes of the Emperor’s Light. Each Arch-Confessor approaches their duties differently. Some prefer fiery speeches and rabblerousing to incite populations into a zealous fervour, while others use quieter words in the ears of guild leaders and other organisations to form alliances and coalitions against the enemies of Man and guiding them along the paths approved by the Ministorum.</p><p>Page 136</p>
+      markdown: ''
+    _id: zdp8mf9fW4HtGV2j
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!8DcXwnbJEgfRYr58.zdp8mf9fW4HtGV2j'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 8DcXwnbJEgfRYr58
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!8DcXwnbJEgfRYr58'
+categories: []

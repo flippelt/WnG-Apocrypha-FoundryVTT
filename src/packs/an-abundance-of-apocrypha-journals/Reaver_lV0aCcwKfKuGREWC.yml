@@ -1,0 +1,48 @@
+name: Reaver
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600344
+pages:
+  - name: Reaver
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“To slay while standing still is a hollow act, incomplete and lacking in a true depth of satisfaction. To truly appreciate the kill, one must strike at breakneck speed, uniting the thrill of velocity with the perfection of the killing strike, where your own life is on the blade’s edge just as you take another.” —Bahaedhal Jainaq, Reaver Arena Champion You are a master of speed and murder, a lethal virtuoso of the Jetbike. You derive your deepest joy from delivering perfect deadly strikes while flying at insane speeds.</p><p>When they accomplish a well-placed and mortal blow delivered at an obscene rate of speed, they feel that spike of pure joy that Reavers consider the ultimate thrill in life.</p><p>The Reavers of Commorragh are those Drukhari fascinated by bringing death to others at high speeds. They ride to war upon the most streamlined and pareddown of all Aeldari skycraft—the Jetbike, the perfect fusion of motion and lethal power.</p><p>In the toroid racing arenas that girdle the highest spires of the Dark City, the Reavers duel amongst themselves for supremacy. These vain and mortally-competitive riders engage in death races each night, their Jetbikes screaming around each arena in a high-stakes battle that brings screams of ecstasy from the bloodthirsty crowd of spectators.</p><p>The Aeldari experience sensations and emotions to a far greater degree than any other sentient species and their psyches are given over too easily to obsession. Reavers, having first gotten a taste for high-speed violence during raids into realspace, are those Drukhari consumed with achieving the maximum-impact kill. It is not enough for them to simply carry out acts of mayhem and murder or to soar through the air at overwhelming speeds. These savage sadists must accomplish both at once to have their vile obsession truly sated.</p><p>It is considered improper to simply maim a fellow rider during the death races, while a well-executed decapitation while riding inverted can bring a smile even to the frozen face of the most jaded Kabal archon. Because of this no-holds-barred approach, weapons are extensively employed during the death races in the most prestigious of the toroid arenas.</p>
+      markdown: ''
+    _id: zVpqE2MdP9OwyCmE
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!lV0aCcwKfKuGREWC.zVpqE2MdP9OwyCmE'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: lV0aCcwKfKuGREWC
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!lV0aCcwKfKuGREWC'
+categories: []

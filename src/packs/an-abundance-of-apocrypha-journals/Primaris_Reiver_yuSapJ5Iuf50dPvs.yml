@@ -1,0 +1,48 @@
+name: Primaris Reiver
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600320
+pages:
+  - name: Primaris Reiver
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“There is nothing quite so pleasing as a foe who is oblivious to their doom. Except the look on their faces when you deliver it to them.” —Reiver Sergeant Torres, Crimson Fists You strike at foes who did not suspect your approach, eluding their defences with stealth and overwhelming them with shock and terror, before vanishing back into the shadows.</p><p>fury of debilitating shock grenades, and compact bolt carbines, heavy bolt pistols, and combat knives for the actual killing.</p><p>Reivers are infiltration, shock assault, and terror specialists, creeping up upon an enemy before unleashing a brutal and terrifying attack. A Reiver assault is an abrupt cacophony of bolter fire, grenade detonations, and vox-amplified battle-cries, which ends as suddenly as it begins, leaving any survivors stunned into inaction as the Reivers withdraw to find new prey. The Reivers’ armament is perfectly suited to this end. Their armour is a stripped-down variant which allows for greater mobility, while being modified for completely silent running; a modification adopted from Raven Guard armourers. Their skull-mask helms also broadcast and enhance the roars and battle cries of the wearer, amplifying them in such a way as to inspire fear and panic. They pair this with grav-chutes that allow them to descend silently into position, and grapnel guns that allow them to scale obstacles like buildings easily. These are then accompanied by the sound and</p>
+      markdown: ''
+    _id: 2DN2pQPzOw5GMxuX
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!yuSapJ5Iuf50dPvs.2DN2pQPzOw5GMxuX'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: yuSapJ5Iuf50dPvs
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!yuSapJ5Iuf50dPvs'
+categories: []

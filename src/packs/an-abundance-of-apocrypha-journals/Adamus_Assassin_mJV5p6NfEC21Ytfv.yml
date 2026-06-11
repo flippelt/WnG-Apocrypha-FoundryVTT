@@ -1,0 +1,48 @@
+name: Adamus Assassin
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600000
+pages:
+  - name: Adamus Assassin
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“There is nothing as decisive as decapitation.” Dictatus Adamus You are the killing strike, the beheading blade. In the Emperor’s Name, you cut off the head of the enemy, leaving your foes leaderless and confused. The Adamus Temple, originally known as the Clade Adamus, was the oldest of the clades of the Officio Assassinorum during the Great Crusade and Horus Heresy. It is unclear whether it survives into the 41st Millennium as one of the Officio Assassinorum's present temples. Clade Adamus Assassins are master swordsmen and melee specialists, drawing on some of the most ancient blade-master traditions of Old Earth. A Clade Adamus Assassin is fast and absolutely lethal in melee, able to go toe-to-toe with almost any foe -- and defeat them with their Nemesii Blade.</p>
+      markdown: ''
+    _id: B2NjyagypjMnmTbY
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!mJV5p6NfEC21Ytfv.B2NjyagypjMnmTbY'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: mJV5p6NfEC21Ytfv
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!mJV5p6NfEC21Ytfv'
+categories: []

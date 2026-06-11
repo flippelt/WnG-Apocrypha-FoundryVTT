@@ -1,0 +1,48 @@
+name: Zephyrim
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600488
+pages:
+  - name: Zephyrim
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"They appear upon the field of battle; the suns are their halos and their arms are the Emperor’s judgement. I welcome their arrival as the number of executions I must perform decreases significantly." — Commissar Cadet Vectili You are one of the elites of the Adepta Sororitas, a warrior who delivers the Emperor’s Judgement from on high, borne upon wings of flame. Every swing of your blade is another heretic condemned. The Zephyrim are elite warriors of the Orders Militant of the Adepta Sororitas who serve as the Sisters of Battle's assault infantry. Amongst the highly devoted warriors of the Orders Militant there are those BattleSisters whose faith is so intense that they are driven to a rapturous fervour, even speaking in tongues. They are divine destroyers, descending upon wings of fire to deliver the Emperor’s judgement upon their enemies. The screams of their dying foes are drowned out by the rapturous utterances and fervent hymns of the Zephyrim. Many in the Sisterhood see the Zephyrim as bearing prophecies and omens from Him-on-Terra, and much labour is put into transcribing the glossolalia—the incomprehensible utterances made at the height of their fervour—from Zephyrim vox-chatter and trying to translate it.</p>
+      markdown: ''
+    _id: bcbpyxsnlerq8x4g
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!y2uS3vNoRVjCFvGa.bcbpyxsnlerq8x4g'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: y2uS3vNoRVjCFvGa
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!y2uS3vNoRVjCFvGa'
+categories: []

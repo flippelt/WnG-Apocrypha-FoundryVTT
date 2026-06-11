@@ -1,0 +1,48 @@
+name: Khorne Berzerker
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600228
+pages:
+  - name: Khorne Berzerker
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Your death shall slake my axe's thirst!" —Avaras of the World Eaters Legion, Skull Taker of Khorne Kill! Maim! Burn! Kill! Maim! Burn! Kill! Maim! Burn! Khorne Berzerkers are Chaos Space Marines dedicated to glorifying the Chaos God Khorne through brutal melee combat. Driven solely by their raging desire to spill blood and take lives, a Berzerker's sole purpose in life is to destroy their enemies in the name of the Blood God and take life in the most brutal and barbaric fashion imaginable.</p><p>them being unable to form a cohesive and mutually supportive military unit. This inability as well as the Berserkers' needs to kill using primarily melee weapons often leaves them at a disadvantage when facing opponents who are willing to use basic strategy against the Berserkers' unreasoning savagery and sheer ferocity.</p><p>Berzerkers refuse to use most forms of ranged weaponry and usually make almost exclusive use of close combat melee weapons, in particular the chainaxe, as the axe is the favoured weapon of Khorne. However, Khornate Berzerkers will use any weapon they can get their hands on, even their own bodies, as long as they can continue to engage in bloodshed. Khorne's Berzerkers are rightly feared by their allies and their enemies alike. Having sworn their souls to the god of war and murder, Berzerkers find the need to spill "Blood for the Blood God" simply overpowering. Denied the chance to engage in constant slaughter, a Berzerker will become almost uncontrollably enraged and will turn on any living thing whose life can be extinguished to satisfy his sheer need for carnage. Khornate Berzerkers' sheer bloodthirstiness has earned them a fearsome reputation, yet their uncontrollable urge to slaughter and kill often leaves</p>
+      markdown: ''
+    _id: ETm89LiNssBTqm8f
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!CRINLvzGx9wlBXES.ETm89LiNssBTqm8f'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: CRINLvzGx9wlBXES
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!CRINLvzGx9wlBXES'
+categories: []

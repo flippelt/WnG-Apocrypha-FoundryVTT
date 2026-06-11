@@ -1,0 +1,48 @@
+name: Callidus Assassin
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600068
+pages:
+  - name: Callidus Assassin
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“To assume the shape of the accursed and deliver death from the purity within you—that is to be Callidus.” Dictatus Callidus You are an infiltrator of supreme skill, employing shape-changing chemicals and extensive training to get close to your target so that you can learn their secrets and end their existence. The Callidus Assassins are the most cunning of all the assassins. Their greatest asset is their ability to use the shape-changing drug Polymorphine. This drug, coupled with special training, allows Callidus agents to change their very shape and appearance allowing them to impersonate other persons, changing the appearance of height, weight, ancestry, gender, and even species to assume the guise of someone close to their target. Meh'Lindi, one of the most cunning agents, managed to successfully impersonate a Genestealer Hybrid at least twice (though she required additional surgery to complete the illusion).</p><p>Imperial high officials, heretic prophets, or alien leaders. This allows them to manipulate the enemy's plans and eventually assassinate the main target at the best possible moment. Once the target is eliminated, the Assassin may even replace the victim by assuming his appearance.</p><p>This makes them experts at getting close to their targets, be they rebellious Imperial Governors, corrupt</p>
+      markdown: ''
+    _id: wcrPToeV9Dy2cs0h
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!zQFDfr4wuKJ5XO94.wcrPToeV9Dy2cs0h'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: zQFDfr4wuKJ5XO94
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!zQFDfr4wuKJ5XO94'
+categories: []

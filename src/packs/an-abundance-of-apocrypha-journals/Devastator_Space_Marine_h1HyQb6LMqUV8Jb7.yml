@@ -1,0 +1,48 @@
+name: Devastator Space Marine
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600128
+pages:
+  - name: Devastator Space Marine
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“A Devastator's reach shall be without limit and his touch without mercy. Fire shall roar from his fingertips, but it shall consume him not. Thunder will roar when he calls, yet it will swallow him not. Let the Devastator squad be thy blazing wrath, bringing the light of the Emperor's justice to the darkest corners of the battlefield. Wherever he stands, that shall be his fortress of righteousness. He shall hold in his gift the fate of all who pass before his unblinking gaze. All shall fear him, and he shall fear no one.” —Roboute Guilliman, quoted in the Apocrypha of Skaros You bring heavy firepower to battle, in support of your brethren. No fortification, no overwhelming mass of foes, no armoured vehicle, can escape the wrath that pours forth from a Devastator’s weaponry. Devastators provide vital covering fire and long-ranged support for their brethren. This may take the form of eliminating prime targets, heavy suppressive fire, counter-battery fire against enemy heavy weapons, or the destruction of enemy armour. Each Devastator is an expert at selecting the most important target, and they are all skilled marksmen. Their timely application of overwhelming firepower has been a crucial part of countless victories.</p><p>redeploying is one who cannot lay down fire to support his brethren. Devastators are trained to employ a wide range of different heavy weaponry, from heavy bolters that lay down curtains of fire, to armour-piercing lascannons, and versatile missile launchers, to more exotic plasma cannons, multi-meltas, and grav-cannons.</p><p>The long reach of a Devastator means that they are largely static in the field, moving from a firing position only to relocate to a new one. This is a rare occurrence, as the bulk of their weapons means that they are not as effective when fired on the move, even with the prodigious strength of their bearers, and a Devastator</p>
+      markdown: ''
+    _id: WEOfscZQhoYlbSki
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!h1HyQb6LMqUV8Jb7.WEOfscZQhoYlbSki'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: h1HyQb6LMqUV8Jb7
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!h1HyQb6LMqUV8Jb7'
+categories: []

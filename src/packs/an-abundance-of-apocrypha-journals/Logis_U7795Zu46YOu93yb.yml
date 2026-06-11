@@ -1,0 +1,48 @@
+name: Logis
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600236
+pages:
+  - name: Logis
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“The universe is not like a puzzle-box that you can take apart and put back together again and so solve its secrets. It is a shifting uncertain thing which changes as you consider it, which is changed by the very act of observation. A powerful man is not a man who dissects the universe like a puzzle-box, examining it piece by piece and measuring each piece with scientific precision. A powerful man has only to look upon the universe to change it.” –Technomagos Gaelos Through mathemantic rite and numerological prophecy, you discern the future from the raw data of today. From data, you glean knowledge. From knowledge, you attain comprehension. From comprehension, you achieve insight. A Logis (plural Logi) is a high-ranking Tech-priest skilled in mathematics and data analysis who serves in the role of a logistician, data analyst, or statistician. Their purpose is to predict future large-scale sociological or demographic trends and make forecasts about the required expenditure or other strategic needs. They are regarded as prophetic figures by the Cult Mechanicus. The skills of a Logis cannot be overstated. Through processing of vast amounts of data, a Logis is able to accurately determine possible futures to a degree of accuracy normally only seen amongst psykers specialising in divination. In conjunction with information gathered by Mechanicus informants across the Imperium, a Logis can discern opportunities and crises before they happen and determine the most effective uses for a Forge World’s resources. Given that a Forge World’s resources include Legions of Skitarii and Titans, many Logi serve as strategists, calculating the doctrine-imperatives that guide the Omnissiah’s forces to victory.</p>
+      markdown: ''
+    _id: prEGJ2DGvR2oLwan
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!U7795Zu46YOu93yb.prEGJ2DGvR2oLwan'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: U7795Zu46YOu93yb
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!U7795Zu46YOu93yb'
+categories: []

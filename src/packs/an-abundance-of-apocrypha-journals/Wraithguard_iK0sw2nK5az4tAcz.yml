@@ -1,0 +1,48 @@
+name: Wraithguard
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600476
+pages:
+  - name: Wraithguard
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"All theatres are theatres of war. War needs be theatrical." — Farseer Ro-fhessi of Craftworld Ulthwé, describing a Harlequin performance You died and felt the cold embrace of your Soulstone spare you from facing the hell of the Warp. Yet, necessity has brought you back, your living descendants placing you within an armoured shell to wage war once more. The Wraithguard of the Craftworld Aeldari are not living warriors; they are artificial robotic constructs called Ghost Warriors created from the complex psycho-plastic material crafted by the Asuryani of the craftworlds known as wraithbone. Each Wraithguard has a Spirit Stone containing the soul of an elite Aeldari warrior that was drawn out of the Infinity Circuit of a craftworld.</p><p>Wraithguard can suffer damage that would cripple, or even kill, a living Aeldari warrior and continue to fight, making them useful in situations that would be suicide for living soldiers. They see through the Warp using what is known as "Wraithsight" but as the Warp is a tumultuous place, Wraithguard often have trouble discerning the true nature of realspace and so can find themselves blinded and unable to function effectively. Because of this tendency Wraithguard are often led into battle by Warlocks or Spiritseers who help to guide them.</p><p>Wraithguard are smaller in size than Wraithlords, and carry a weapon known as a Wraithcannon which is a short-range, but potent weapon capable of opening a small rift into the Warp which sucks the target, or pieces of the target, within the Immaterium. When used against infantry, the result is invariably fatal. Due to their wraithbone construction,</p>
+      markdown: ''
+    _id: QNzyG481jjEHJXRJ
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!iK0sw2nK5az4tAcz.QNzyG481jjEHJXRJ'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: iK0sw2nK5az4tAcz
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!iK0sw2nK5az4tAcz'
+categories: []

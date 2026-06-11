@@ -1,0 +1,48 @@
+name: Harlequin Player
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600180
+pages:
+  - name: Harlequin Player
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"All theatres are theatres of war. War needs be theatrical." — Farseer Ro-fhessi of Craftworld Ulthwé, describing a Harlequin performance You are a performer upon a galactic stage, playing your part in a performance that shapes worlds and lives. Your existence is enigma, but there can be no doubting your skill or your lethality. The Harlequins, or Rillietann, are a unique subset of the Aeldari race, who split their time between being talented battlefield fighters and theatrical performers. They exist outside of normal Aeldari society and hold no allegiance to any Craftworld, Kabal, or other form of authority other than to their own belief in the Aeldari deity Cegorach, the Laughing God. No Aeldari is born a Harlequin, all of their number are recruited from other parts of Aeldari society. Some are supposedly drawn from amid bustling crowds, beckoned into the shadows by a masked figure only they can see. Others simply vanish from their personal chambers. Others are swept up in a Harlequin performance and stolen away, lose a wager with a Troupe Master, or follow mysterious laughter into a Webway Gate. Every Aeldari culture has strange and cautionary tales regarding the Harlequins as a result.</p><p>Whatever the means of becoming a Harlequin, to become one means erasing all that has come before including friends, family, and purpose. However, it happens, once an Aeldari becomes a Harlequin, every aspect of their old identity is erased. Each joins a Light, Twilight, or Dark Troupe and assumes a new role at the direction of their Troupe Master. These roles—each known by a ritual character name such as the Sun Prince or Shaimesh the Poisoner or Webway Witch— inform every facet of the Harlequin's new personality. Known as the Theyldh, this process of becoming their "true" self is far more intense than anything experienced by any other performer in the galaxy.</p>
+      markdown: ''
+    _id: iIb7dl98rwAfAaxI
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!XuLz64NJI0u8Baoo.iIb7dl98rwAfAaxI'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: XuLz64NJI0u8Baoo
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!XuLz64NJI0u8Baoo'
+categories: []

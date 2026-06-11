@@ -1,0 +1,48 @@
+name: Wyrd
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600484
+pages:
+  - name: Wyrd
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Some call me witch, some call me wyrd, some call me worse things. But they’ve all got coin when they think I’ll give them an edge.” — “Mama” Magritte, local Wyrd outside Fool’s Delving, Hive Primus, Necromunda You can feel the Warp, and it sometimes listens to you. You’re quick to hide when the authorities come looking, but for everyone else your powers are an open secret, denounced in public but fetching a tidy sum in private. With every passing generation of humanity, more and more psykers are born, and not all of them are captured and sent to the Blackships to be tested and carried to Terra. A proportion, growing year by year, stay on their homeworlds, often lending their powers to any who can pay. While humanity has long feared the witch and the sorcerer, greed and desperation can override that fear, and many worlds still maintain ancient, heretical traditions of spirit-talkers, fortune-tellers, mysterious hermits, and wise old crones. Communities often hold these figures at arm’s length, never accepting them, but unwilling to cast them out entirely. Part of this is pragmatism—a wyrd’s powers can be quite useful— but part of it is fear that an outcast witch might return seeking vengeance. Still, such relationships are tenuous at best, and a season’s misfortune for a community can often lead to people casting blame upon a wyrd, with an angry mob following soon after.</p><p>Page 98</p>
+      markdown: ''
+    _id: hP4sjnjMkc5o8Yz7
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!AzgbSbOrmLZXiJZe.hP4sjnjMkc5o8Yz7'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: AzgbSbOrmLZXiJZe
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!AzgbSbOrmLZXiJZe'
+categories: []

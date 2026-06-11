@@ -1,0 +1,48 @@
+name: Archon
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600020
+pages:
+  - name: Archon
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“I am all your nightmares. I am the legends your forebears whispered of in fearful tones. Every terror you have never imagined comes from me. Look upon my majesty and weep at the terror I have wrought upon you and your kin. I am an artist, and dread is the colour I splash across the canvas of your mind.” —Archon Anas Vaenix of the Kabal of the Sundered Eye You are part of the aristocracy of Commorragh, a sublime warrior, a superlative commander, and a schemer beyond compare, able to survive the ruthless intrigues of the Dark City for centuries. An Archon is the leader of a Drukhari Kabal, the organisation that serves as the heart of the standard Drukhari raiding force as well as the primary political unit within the Dark City. The Archons of the Drukhari Kabals are the true lords of Commorragh. They sit at the apex of the Drukhari hierarchy that controls the Dark City and the Labyrinthine Realm of the Drukhari portion of the Webway.</p><p>but through consistently emerging as the victor in the most difficult game of all -- the byzantine intrigues that govern all things in the heart of the Dark City, sometimes known as the thyllian ai-kelethril, or "path of shards." Only the most ingenious survive long enough to kill their way to the top. In both word and deed, each Archon is as poisonous as a serpent, their mind as labyrinthine as the darkest reaches of the Webway. Such traits are a necessity, for to sit at the very peak of power is to make oneself a prominent target indeed.</p><p>Each wields enough political influence to collapse portions of realspace into the Warp, stall the progress of an Imperial Crusade or take the population of entire worlds as slaves. The overlord of a Kabal is always a potent foe on the battlefield, but he has attained his position not merely through martial prowess in the arts of war and violence</p>
+      markdown: ''
+    _id: YwgNcvlm5YatI7B1
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!kFOy1mPnVjMf1kWV.YwgNcvlm5YatI7B1'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: kFOy1mPnVjMf1kWV
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!kFOy1mPnVjMf1kWV'
+categories: []

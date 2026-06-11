@@ -1,0 +1,48 @@
+name: Weirdboy
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600464
+pages:
+  - name: Weirdboy
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"Too much noise! Too much! I fink I'z gunna...I'z gunna...WAAAGH!" — Weirdboy Gazrog Your brain hurts. All the other Orks are boiling over with aggression, and every shout and every thrill of excitement they feel goes straight to your brain, like you’re a lightning rod for all their fury. But that power has to go somewhere, and you’ve learned that when it gets too much, you can make all that power do things… strange things. A Weirdboy is one of the Orks' psykers, unique in that he acts as a psychic sponge, absorbing and channelling the natural psychic energies constantly emanated by other Orks. Weirdboyz are the most psychically attuned of all Orks. Weirdboyz unconsciously channel the background mental emissions of nearby Greenskins.</p><p>maturity will have learned how to release his powers in a searing energy blast or destructive wave. Though this makes the Weirdboy feel fantastic, it can result in a messy death for anyone in his vicinity. Some Weirdboyz, known as "Warpheads," become addicted to the thrill of spewing WAAAGH! energy, actively seeking out the deadly rush of battle. For whatever reason, unlike normal Weirdboyz, Warpheads have survived enough battles for their minds to become saturated with the power of the Warp, and actually revel in and enjoy the use of their powers.</p><p>Even a close-run Squig-eating contest between two rowdy Boyz will cause waves of energy to pulse through any Weirdboy that strays near. Unless the Weirdboy finds some way to release this pent-up energy his head will explode, detonating the heads of nearby Orks into the bargain. This can prove highly inconvenient. Any Weirdboy lucky enough to reach</p><p>FLASH GIT</p>
+      markdown: ''
+    _id: fdNq46JdXavoD0GH
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!MtZffx6b7P2MISdg.fdNq46JdXavoD0GH'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: MtZffx6b7P2MISdg
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!MtZffx6b7P2MISdg'
+categories: []

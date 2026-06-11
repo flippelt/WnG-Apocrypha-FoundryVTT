@@ -1,0 +1,48 @@
+name: Dark Apostle
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600112
+pages:
+  - name: Dark Apostle
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Cast down the idols! Destroy the temples! Slay the priests! Show these fools that they worship nothing more than a rotting corpse!” Dark Apostle Harzhan of the Word Bearers You preach and exalt the glories of the Ruinous Powers, the malign and mighty daemon-gods who empower you to wage a perpetual war against the corpse-Emperor and his piteous Imperium. Dark Apostles make up the priesthood of the Dark Gods within the Traitor Legions. Just as the Chaplains of the Loyalist Space Marines uphold the creeds of their Chapters, the Dark Apostles devote their lives to the propagation of the unholy word, actively spreading the worship of Chaos across the galaxy. Their efforts do not go unrewarded -- Dark Apostles are surrounded by daemonic auras of protection that shimmer and writhe as they chant their blasphemous prayers. The Dark Apostles preach that, compared to the blood and thunder of their own faith, the falsehoods of the Ecclesiarchy are but cobweb-thin tissues of superstition. These are more than idle words—most Dark Apostles can act as direct conduits through which the Ruinous Powers can speak to mortal men. Dark Apostles may purchase Prayers to the Dark Gods, found later in this manuscript.</p>
+      markdown: ''
+    _id: tWDFwShAlA2ywXSC
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!9UHazvpeseHS7ZP9.tWDFwShAlA2ywXSC'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 9UHazvpeseHS7ZP9
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!9UHazvpeseHS7ZP9'
+categories: []

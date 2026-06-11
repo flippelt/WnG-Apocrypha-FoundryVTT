@@ -1,0 +1,48 @@
+name: Corpuscarii Electro-Priest
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600088
+pages:
+  - name: Corpuscarii Electro-Priest
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>‘ILLUMINATE YOUR DEVOTED CHARGES, LET BUILD THE BOLTS, ’TIL THE SACRED ENERGIES COURSE THROUGH VEINS ELECTRIC, AND SEND YOUR SEIZURES OF STATIC STRIKING! I AM BECOME LIGHTNING, AND THIS GIFT I GIVE TO UNBELIEVERS, THAT IN THEIR LAST FLASH-BLINDING THEY MIGHT SEE THE BRIEFEST GLIMPSE OF THE OMNISSIAH HIMSELF.’ —Excerpt from the Chant of Electro-traction</p><p>You are a devotee of the Motive Force that flows through the universe, and it surges within your flesh and augmetics. At a moment’s notice, you can unleash it to discharge into non-believers, searing their unworthiness with resplendent arcs of power. The Corpuscarii Electro-Priests (sing. Corpuscarius) are a rival faction to their Fulgurite brethren. They are devoted to the Motive Force, and it is their desire to share its glory with every creature and machine not already so aligned. On every Forge World there are many different subsects within the factions of Electropriests, each preferring their own rituals and rites to worship the Divine Current.</p><p>within their bodies. Incoming fire sparks off their Voltagheist fields, sending chain reactions of arcing charges crackling outwards. At close range, the blazing fanatics can summon lightning at will, stretching out their electrostatic gauntlets to send jagged bolts of the Machine God's wrath into the foe. Those struck by these sacred energies are granted the ecstasy of fullbody electrocution. For a brief second before death, the unbelievers see the light, their paroxysms shaking them apart as their bodies burn from the inside out. Such is the generosity of the Corpuscarii, for their duty is to illuminate the galaxy, and to bring the light to nonbelievers.</p><p>The Corpuscarii are truly blessed, for the Motive Force literally runs in their veins. In battle, the Corpuscarii advance, chanting litanies to build up the charges</p>
+      markdown: ''
+    _id: RfgOMZurucpD5wXO
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!7pYMHonhS2uZq1t2.RfgOMZurucpD5wXO'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 7pYMHonhS2uZq1t2
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!7pYMHonhS2uZq1t2'
+categories: []

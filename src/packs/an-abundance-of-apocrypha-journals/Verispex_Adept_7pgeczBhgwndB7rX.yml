@@ -1,0 +1,48 @@
+name: Verispex Adept
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600444
+pages:
+  - name: Verispex Adept
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"There is here such a wealth of evidence, that the perpetrator has all but signed his name to the crime. One needs only the proper knowledge and tools to find it. Your culprit will be condemned presently." –Adept-Officer Kilvarek at a murder scene on Vaxanide In situations where the perpetrator of a crime cannot be located or identified, it is your responsibility to study the scenes of their crimes, discerning even the smallest detail that might uncover the guilty. Verispex are specialists in the gathering and analysis of forensic evidence. They are able to track a weapon from a spent slug, determining its exact pattern from the temperature of a las-burn or the tear-pattern of a Chain Weapon. They are able to filter out and separate tiny organic traces clinging to a burgled Adeptus shrine so that Cyber-Mastiffs can be put on the scent or identify the print-mill three systems away whose stolen inks were used on underground pamphlets inciting sedition.</p><p>are not fully inducted members of their order in the way that Techmarines of the Adeptus Astartes are. Nonetheless this is considered a high honor, and Verispex sport a blue steel armband to mark them out as ordained by the Omnissiah. This makes some Arbites commanders sceptical of the Verispex, who view them as not having complete loyalty to the ideals of the Lex Imperialis. The skills of a Verispex Adept are highly prized, and they are often seconded by Inquisitors, either temporarily or long-term, to aid in difficult investigations.</p><p>A Verispex may spend years of their career cataloguing the unique signatures of the artificial atmosphere aboard every starship in their Sub-Sector so that a suspect can be traced by the residue found in their lungs. Though often confined in laboratories, Verispex are known to work in the field with standard Arbitrators as well as Detectives. Because their skills require a great deal of technical and scientific knowledge, Verispex are trained by Tech-Priests of the Adeptus Mechanicus in the lesser lore of their temples, though they</p><p>Page 163</p>
+      markdown: ''
+    _id: z5afWTNBLaeszyUK
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!7pgeczBhgwndB7rX.z5afWTNBLaeszyUK'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 7pgeczBhgwndB7rX
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!7pgeczBhgwndB7rX'
+categories: []

@@ -1,0 +1,48 @@
+name: Astropath
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600028
+pages:
+  - name: Astropath
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>"I am soul-bound to the Emperor, and through His grace, I speak across the voids." —Arradin Vykis, Astropath You were blessed—or cursed—with psychic potential and gathered up by the Black Ships. Your mind was reforged by the Emperor Himself into something that could withstand your powers, so that you could listen and speak across the darkness between the stars, binding the Imperium together. Astropaths are psykers collected by the Imperium''s Black Ships whose powers are considerable, but who lack the mental strength to resist the dangers of the Warp.</p><p>insane during the process. Those who survive are permanently blinded and most of them even suffer from nerve damage, which results in a loss of smell, touch or hearing. Although blinded, Astropaths make up for their sensory lacks with the help of their psychic abilities: they develop a sort of "near-sense", which means that few of them choose to have mechanical eyes implanted.</p>'
+      markdown: ''
+    _id: STUXR8RgtmY7uA3Y
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!LS5nOiqy5tGsg5BO.STUXR8RgtmY7uA3Y'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: LS5nOiqy5tGsg5BO
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!LS5nOiqy5tGsg5BO'
+categories: []

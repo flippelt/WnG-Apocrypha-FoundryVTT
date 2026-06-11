@@ -1,0 +1,48 @@
+name: Dire Avenger Aspect Warrior
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600132
+pages:
+  - name: Dire Avenger Aspect Warrior
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“I do not love the blade for its form, or its keen edge, but only for that which it defends. Must we pay for existence with our very souls?” —Introspections upon Perfection, Kysaduras the Anchorite You embody Khaine’s aspect of the noble warrior seeking vengeance. You are prepared for battle at a moment’s notice, and you will not yield while your foe lives or while your people are threatened.</p><p>the Dire Avengers spend much of their time at their Aspect Shrine, meditating upon battle, studying the tactics and strategies of their ancestors, and practicing their skills at arms.</p><p>The Dire Avengers trace their lineage back to Asurmen, the first of the Phoenix Lords and founder of the Aspect Shrines. It is because of Asurmen that the Dire Avengers are the most common of the Aspect Warriors, as he founded more Shrines on more Craftworlds than any other Phoenix Lord.</p>
+      markdown: ''
+    _id: xOCFi6FC4GV9dS6n
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!dQLTBIU8T9dfQRM4.xOCFi6FC4GV9dS6n'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: dQLTBIU8T9dfQRM4
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!dQLTBIU8T9dfQRM4'
+categories: []

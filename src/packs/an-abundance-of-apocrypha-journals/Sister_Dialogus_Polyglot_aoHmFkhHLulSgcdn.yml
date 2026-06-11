@@ -1,0 +1,48 @@
+name: Sister Dialogus Polyglot
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600376
+pages:
+  - name: Sister Dialogus Polyglot
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>A spiritu dominatus, Domine, libra nos,</p><p>From the lighting and the tempest, Our Emperor, deliver us. From plague, temptation and war, Our Emperor, deliver us, From the scourge of the Kraken, Our Emperor, deliver us. The Fede Imperialis, commonly known as the Battle-Prayer of the Adepta Sororitas With quick mind and faithful heart, yours is the duty and burden of studying the countless languages and dialects of the Imperium and its enemies. If your Sisters-Militant are the Emperor’s Wrath, then you must be His Voice and His Ear. Speech and language are the speciality of the Orders Dialogus. Those with an aptitude for translation find their way into its ranks where they learn countless languages and dialects. While there are branches of the Adeptus Terra dedicated to the study of linguistics, the Orders Dialogous use their talents in more practical ways. Though the all the Imperium converses in Imperial Gothic, there are millions of dialects, creoles, argots, pidgins, and ethnolects, some of which may as well be distinct languages, so far have they diverged from the Emperor’s Gothic. When a missionary finds a new civilisation, a Sister Dialogus Polyglot will be assigned to help him learn the local language and communicate with the newly discovered people. Similarly, the Dialogous accompany the Astra Militarum and Imperial Navy, translating the orders of high command into the varied tongues of the common soldiers. The Sisters of the Orders Dialogous are also skilled negotiators and mediators, and often work within the Adeptus Terra to aid discussions between disparate groups and individuals.</p><p>Page 90</p>
+      markdown: ''
+    _id: RYhKg3wYZISIODOd
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!aoHmFkhHLulSgcdn.RYhKg3wYZISIODOd'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: aoHmFkhHLulSgcdn
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!aoHmFkhHLulSgcdn'
+categories: []

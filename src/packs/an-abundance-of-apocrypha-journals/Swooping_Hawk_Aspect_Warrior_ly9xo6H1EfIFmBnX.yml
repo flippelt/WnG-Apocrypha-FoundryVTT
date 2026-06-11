@@ -1,0 +1,48 @@
+name: Swooping Hawk Aspect Warrior
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600424
+pages:
+  - name: Swooping Hawk Aspect Warrior
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“I am a messenger upon swift and glittering wings; the message I bring is retribution.” —Baharr-khal, The Storm’s Herald, Swooping Hawk Exarch You soar through the air, seeking those deserving of your wrath. Once you have found your quarry, you descend from the skies, the feather-plates of your wing-pack shrieking like your namesake hawk, and you rain a fusillade of plasma fire and searing light upon them. The Swooping Hawks are a type of Aspect Warrior, Aeldari who fight according to one of the aspects of Kaela Mensha Khaine. The Swooping Hawks take their name from the wild hunting birds of Aeldari mythology, who symbolize revenge and retribution. Just as the birds of legend contain the spirit of a murdered Aeldari, hovering over their killers as a mark of guilt, so too do the Swooping Hawks fly across the battlefield, dealing swift death to their enemies.</p><p>during the Rhana Dandra, the last battle against Chaos. Of all the Aspect Shrines the Swooping Hawks are among the most mobile, thanks to their Swooping Hawk Wings, which allow them to lift off into the air at a moment's notice and fly across the battlefield. The speed and agility this give the Swooping Hawks more than makes up for the fact that their Aspect Armour, compared to that worn by other Shrines, is thinner and offers less protection. The armour is typically coloured like the sky, such as a pale blue or grey, with contrasting colours as well, especially on the wings.</p><p>The Swooping Hawks were founded by Baharroth, the Winged Phoenix, said to be the finest student of Asurmen. Like the other Phoenix Lords, he is as old as The Fall itself, but it is foretold he will die his final death</p>
+      markdown: ''
+    _id: KdsW88m5v8UkfHUY
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ly9xo6H1EfIFmBnX.KdsW88m5v8UkfHUY'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: ly9xo6H1EfIFmBnX
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!ly9xo6H1EfIFmBnX'
+categories: []

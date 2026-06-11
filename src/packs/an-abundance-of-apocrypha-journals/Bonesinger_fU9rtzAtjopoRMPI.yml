@@ -1,0 +1,48 @@
+name: Bonesinger
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600048
+pages:
+  - name: Bonesinger
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"We are shaped by Fate, just as we shape it." —Dathedron Maerathil, Asuryani Bonesinger You are a psychic artisan, shaping and sculpting the structures, tools, and other technology which your people rely upon for survival. A Bonesinger serves as a psychic engineer and craftsman for the Craftworld Aeldari, the Asuryani. The Bonesingers are the builders and maintainers of all Aeldari weapons, tools and even the Craftworlds themselves. These powerful xenos psykers are gifted in the arts of construction using the solidified power of the Warp. They use their telepathic ability to summon or psychically generate the solidified substance of the Immaterium the Aeldari call Wraithbone, which they construct into buildings or tools and use to repair the vehicles, weapons and armour of the Asuryani. Like all of their kind, the Bonesingers are following one of the many Asuryani Paths that determines their current focus and purpose in life. The Bonesinger's Path, the Path of Shaping, is closely related to both the Path of the Artisan and the Path of the Seer. During their time on the Path of Shaping, the Bonesinger is tasked with the construction and maintenance of Craftworld structures, weapons and machinery, serving as psychic architects, engineers, and sculptors. They do this through the psychosonic manipulation of Wraithbone and other psychoreactive crystals, using sound, music, and mental energies to shape and mould these substances into various items. While Wraithbone naturally repairs itself, and grows over time, the process can be accelerated and guided by the psychic abilities of a Bonesinger.</p><p>Page 106</p>
+      markdown: ''
+    _id: LM106NdFw6HxxoMr
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!fU9rtzAtjopoRMPI.LM106NdFw6HxxoMr'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: fU9rtzAtjopoRMPI
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!fU9rtzAtjopoRMPI'
+categories: []

@@ -1,0 +1,48 @@
+name: Speculor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600404
+pages:
+  - name: Speculor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“A suspicious mind is a healthy mind”. –Imperial proverb You are employed by the Inquisition to observe or even infiltrate organisations in order to root out corruption and heresy. Few know your real name, or real goals, but you are a hidden island of loyalty and dedication surrounded by the gravest of sinners. Inquisitors often require covert operatives to aid in their investigations. These agents are often dubbed Speculor, surveillant, intuspex, agent obscuras, infiltraitor, or countless other code-names, euphemisms, and alternate terms, but whatever they are called, they serve a similar purpose. Their purpose is to go unremarked, operating in the shadows, gathering evidence and performing covert actions to undermine heretical groups. Even the least of them is highly-trained and extremely skilled and provided with access to advanced technology to achieve their objectives. Some are even subjected to neurological reprogramming, creating fake personas overlaid atop the operative’s true nature, or even inserting betrayal conditioning into the depths of a captured traitor’s mind. A Speculor may work alone in the field, but they tend to have access to other agents to pass on intelligence gathered and receive clandestine orders. Most of the time, they blend in with the populace, retaining their anonymity while they gather information. When called upon to insert themselves into a location or organisation, they are skilled manipulators using a combination of social engineering, charm, wit, and more obscure techniques such as cryognosis and logomancy—arcane methods of gleaning facts from the slightest details of a conversation. There are very few methods a Speculor will not employ to achieve their goals, and the remit they receive from their masters is extremely broad.</p><p>Page 131</p>
+      markdown: ''
+    _id: 9FIxBXDyL1RQbJZz
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!ZkZtaCz82gCSq6Ev.9FIxBXDyL1RQbJZz'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: ZkZtaCz82gCSq6Ev
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!ZkZtaCz82gCSq6Ev'
+categories: []

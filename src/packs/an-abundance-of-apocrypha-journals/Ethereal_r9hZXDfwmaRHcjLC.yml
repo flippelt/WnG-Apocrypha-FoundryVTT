@@ -1,0 +1,48 @@
+name: Ethereal
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600140
+pages:
+  - name: Ethereal
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>It saddens me greatly that we must take arms against the peoples of the galaxy. By their deaths, they deny themselves the liberation that is only to be found in total surrender to the Greater Good. — Aun’Va, Master of the Undying Spirit You are one of the blessed leaders of the T’au Empire, an Ethereal. The Greater Good is manifest through your wisdom and guidance, and all T’au await your commands with rapt obedience.</p><p>Ethereals may purchase Invocations of the Ethereals, found later in this manuscript.</p><p>An Ethereal is a member of the fifth caste of the T''au species, forming a ruling elite above the Fire, Earth, Air, and Water Castes that make up the bulk of the T''au population. Known as the Aun in the T''au language, their name translates variously as the "Celestial" or "Ethereal Caste." Though their numbers are small compared to the other castes, the Ethereals are the rulers of the T''au Empire, and command near total authority and loyalty from every other T''au. Born to counsel, advise and steer their comrades towards the chosen path, the Ethereals embody the roles of royalty and the priesthood, and the deference paid to them is the closest thing to mysticism in T''au society. For weighty decisions, a wise Ethereal will take counsel from the senior members of each caste, although ultimate sovereignty falls upon him and him alone. The Ethereals find themselves in a binding role -- guiding the other castes to work together for the Greater Good, and they are headed by a council on T''au of the wisest Ethereals called the Ethereal High Council that is headed by a presiding officer with the rank of Ethereal Supreme. Their unique role is a combination of spiritual and political command, and their declarations shape and steer every facet of the T''au Empire in an indisputably complete way. An Ethereal must be a consummate leader and motivator in every way: pushing the Earth Caste for more practical innovations, setting firm negotiation goals for the Water Caste to strive for, giving perimeters to the great fleets of the Air Caste and directing the sometimes-overzealous aggression of the Fire Caste.</p><p>Page 148</p>'
+      markdown: ''
+    _id: 8lnHm1zFJypBUpPl
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!r9hZXDfwmaRHcjLC.8lnHm1zFJypBUpPl'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: r9hZXDfwmaRHcjLC
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!r9hZXDfwmaRHcjLC'
+categories: []

@@ -1,0 +1,48 @@
+name: Grey Knight Space Marine
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600164
+pages:
+  - name: Grey Knight Space Marine
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“We are the warriors of the Grey Knights, armoured in faith, shielded by devotion and armed with purity of purpose. But greater even than these, we carry the light of the divine Emperor of Man into the dark places to purge the daemonic wherever it may be found.” —Brother-Captain Arvann Stern You are the Emperor’s sword against the Daemon. Your spirit is unyielding, your armaments are fortified with sanctity and righteous purpose, and your will is a weapon honed to purge the unholy.</p><p>conventional Astartes Chapters. These warriors must be decisive and flexible in their approach to warfare, employing sudden and overwhelming force to vanquish a daemonic foe or seize a key objective.</p><p>The Grey Knights are anathema to Daemons, their very presence raw and painful to the creatures of the Warp. No other warriors of the Emperor are so adept at fighting Daemons, and each Battle-Brother is expertly trained in the many methods of banishing and destroying these deadly yet ephemeral foes. There are many ways to banish a Daemon, almost as many as there are Daemons themselves. So it is that the Grey Knights possess a myriad means for vanquishing the denizens of the Warp, though not every method works on every Daemon, or even twice on the same creature. The Chapter is therefore always adapting to combat the ever-changing face of their foe. It is a constant war of escalation that has been waged since the inception of the Chapter and before, when the Emperor first began unravelling the secrets of the Warp. For every weapon and tactic that the Grey Knights develop and employ, the Daemons counter with Warp-sorcery and trickery.</p><p>All Grey Knights characters must select the GREY KNIGHTS chapter option on page 27. In addition, they benefit from the ORDO MALLEUS keyword benefits listed on page 64 of the Wrath &amp; Glory core rulebook.</p><p>The majority of Grey Knights are formed up into Strike Squads, analogous to the Tactical Squads of</p>
+      markdown: ''
+    _id: cgegUbqZbZMqabHP
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!lJZAJe966N4NAlZl.cgegUbqZbZMqabHP'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: lJZAJe966N4NAlZl
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!lJZAJe966N4NAlZl'
+categories: []

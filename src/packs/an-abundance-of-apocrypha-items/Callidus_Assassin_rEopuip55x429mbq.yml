@@ -4,7 +4,7 @@ type: archetype
 img: modules/wng-apocrypha/assets/images/factions/assassinorum-icon.webp
 system:
   tier: 5
-  journal: ''
+  journal: 'Compendium.wng-apocrypha.an-abundance-of-apocrypha-journals.JournalEntry.zQFDfr4wuKJ5XO94'
   species:
     name: Human
     id: Compendium.wng-core.items.Item.JjNQyUPELJb8CvL5

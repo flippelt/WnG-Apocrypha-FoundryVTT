@@ -1,0 +1,48 @@
+name: Harlequin Solitaire
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600188
+pages:
+  - name: Harlequin Solitaire
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>“My soul is given unto She Who Thirsts upon my death. I spend every breath before my last to spite Her.” Yllinel, The Gift of Thorns Your soul is forfeit, for you portray the Great Enemy in the grimmest of performances, and none can do so without cost. But you pay that price willingly, to defend your people from the horror that awaits you. Solitaires are the strangest and most dangerous of all the Aeldari Harlequins. Called arebennian in the Aeldari Language, they are doom incarnate, for they play the part of She Who Thirsts in the Dance Without End, and once their path is chosen no one can stay their hand. The Solitaires, as their name implies, are solitary individuals who roam the Webway, only joining a Harlequin masque for a battle or performance when the fancy takes them. Just speaking to a Solitaire outside the Dance is tantamount to death, for he treads the Path of Damnation, and his soul is forfeit to the Chaos God Slaanesh. Indeed, a Solitaire''s role is afforded the utmost fear and respect by other Aeldari of any faction, for only the bravest, strongest, and most incorruptible of their race could play the part of their greatest nemesis and remain sane. Pivotal Role</p><p>Many senior Harlequins take on specific roles within a Troupe or a performance, that differ from the normal role of the Harlequin. When you select this Archetype, you may choose to replace Blitz with one of the following: SHOCKING EMERGENCE: As a Free Action at the start of combat, you may take on an indistinct, shimmering form, and cannot be seen or targeted by enemies or allies; you cannot take any actions other than movement in this form. At the start of any of your turns, you may reveal yourself, and you add +Rank bonus dice to any melee attack you make if you charge on the turn you reveal yourself. CHROMATIC RUSH: Your speed is increased by +Double Rank. This replaces the increase to Speed from the Harlequins’ Rising Crescendo ability. UNNATURAL ACROBATICS: Your Defence is increased by +Rank.</p><p>Page 202</p>'
+      markdown: ''
+    _id: 8KbC5AzxTRGyeptV
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!bgou5UnTzBTZj7qG.8KbC5AzxTRGyeptV'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: bgou5UnTzBTZj7qG
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!bgou5UnTzBTZj7qG'
+categories: []

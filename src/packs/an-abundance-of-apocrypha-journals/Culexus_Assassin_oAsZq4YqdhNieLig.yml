@@ -1,0 +1,48 @@
+name: Culexus Assassin
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600104
+pages:
+  - name: Culexus Assassin
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“That which is unknown and unseen always commands the greatest fear”. Motto of Templum Culexus You are anathema, witch-bane, wyrdslayer, psychic abomination. Your foes dread your presence, desperately hoping that you are a nightmarish figment, for their minds cannot bear to acknowledge the abyss within your soul. The Culexus Assassins are the most sinister, feared, and hated of all Imperial Assassins. They are null-entities in the warp, and their unnatural lack of a presence inspiring a sense of unease even in non-psykers. To psykers their mere presence is terrifying, invoking panic. In the confusion caused by this fear, the assassin can move in on its target and eliminate them. To purely psychic entities like daemons, they are nigh-invisible at best, akin to trying to see a black hole amidst the inky void of space. The Culexus Assassins possess the "Pariah Gene", making them for all intents, "soulless," accounting for their lack of warp-presence. This gene manifests itself very rarely, in a single individual among a billion, or more. This extreme rarity, coupled with the inevitable losses during training, makes the Culexus assassins the rarest of all Imperial assassins. The Culexus temple is known to hunt down and recruit these Pariahs but also to vat-grow them, an arduous and complex process that produces only a few viable candidates a year.</p><p>Page 196</p>
+      markdown: ''
+    _id: cF0mZZQLP8v7lRpI
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!oAsZq4YqdhNieLig.cF0mZZQLP8v7lRpI'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: oAsZq4YqdhNieLig
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!oAsZq4YqdhNieLig'
+categories: []

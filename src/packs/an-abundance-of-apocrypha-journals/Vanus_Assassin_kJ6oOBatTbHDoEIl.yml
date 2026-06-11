@@ -1,0 +1,48 @@
+name: Vanus Assassin
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600436
+pages:
+  - name: Vanus Assassin
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"The cleanest kill is one that another performs in your stead, with no knowledge of your incitement." Dictatus Vanus Information is your weapon. With your advanced tools and techniques, you can identify the moments where your target is their most vulnerable, and engineer their demise from afar, without ever picking up a weapon. Like the other temples of the Officio Assassinorum, the Vanus Temple was originally the Vanus Clade, created some time during the Great Crusade in the late 30th Millennium at the behest of Malcador the Sigillite, the Regent of Terra, who was secretly the Grand Master of Assassins, and the clade's first Director Primus, who was known only as "Sire Vanus" to the clade's operatives. The Vanus Clade was established in a secret location on Terra at the direction of the Grand Master of Assassins and was tasked, like all of the Assassin clades, with killing those who opposed the formation of the Imperium of Man and the will of the Emperor of Mankind. The Vanus Clade was known for being able to remove the enemies of the Imperium through the manipulation of data rather than outright termination through the use of lethal force. Unknown to anyone outside their temple, the Vanus watched over all of the Imperium's components, even the other Assassin Temples. Their cogitator-stacks were filled with terabytes of data on all of the temples' operations and personnel. It was how they maintained their own position within the Officio Assassinorum when their operatives specialised in non-lethal operations -- through blackmail.</p><p>Page 205</p>
+      markdown: ''
+    _id: NIUs3DX6FfBOJ0n4
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!kJ6oOBatTbHDoEIl.NIUs3DX6FfBOJ0n4'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: kJ6oOBatTbHDoEIl
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!kJ6oOBatTbHDoEIl'
+categories: []

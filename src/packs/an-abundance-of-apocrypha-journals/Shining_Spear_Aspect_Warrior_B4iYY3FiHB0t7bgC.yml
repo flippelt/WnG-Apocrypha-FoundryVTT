@@ -1,0 +1,48 @@
+name: Shining Spear Aspect Warrior
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600364
+pages:
+  - name: Shining Spear Aspect Warrior
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“The wind whipping across your face as your blades whip across the throats of the foe. It makes the blood sing.” —Hrythar Dreamweave, Wild Rider of Saim-Hann You are the Spear of Khaine, striking as lightning, and slaying with a single blow. Atop the swiftest of steeds—a jetbike—you swoop down upon your prey and pierce their hearts with your mighty lance.</p><p>Yet even a small unit of Shining Spears can turn the tide of a protracted battle, for their legendary charges hit home with the force of a thunderbolt. Few enemies can withstand such a devastating charge.</p><p>The Shining Spears are one of the rarest and most specialised of the Aeldari Aspect Warriors. The Shining Spears possess a bright and clear virtue that marks each one out as a warrior hero and a champion of the Aeldari race. Aeldari mythology is replete with examples of noble heroes at one with their steed and in the Shining Spears, the glories of legend are made manifest once more.</p><p>Shining Spears ride sleek, gleaming Aeldari Jetbikes to war, their vehicles' anti-gravitic motors allowing them to skim over even the roughest terrain at a breakneck pace. Each Aspect Warrior is so in tune with their Jetbike that they can execute complex, high-speed aerial manoeuvres with a single gesture.</p><p>In battle, they fight as the Spear of Kaela Mensha Khaine, the invincible weapon of the Aeldari God of War that struck like lightning and killed any foe with a single blow. Shining Spears can be distinguished from all of the other Aeldari Warrior Aspects for they are the only Aspect Warriors to make use of anti-gravity Jetbikes. The Shining Spears Aspect also have only a tiny presence on a few Craftworlds, including the major ones such as Ulthwé, but are regarded as an elite force, glittering exemplars of the warrior way. Shining Spear squads are relatively small, just three to five warriors, a number which sometimes includes an Exarch to lead them.</p>
+      markdown: ''
+    _id: 6jzXG9IomMr3ohqR
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!B4iYY3FiHB0t7bgC.6jzXG9IomMr3ohqR'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: B4iYY3FiHB0t7bgC
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!B4iYY3FiHB0t7bgC'
+categories: []

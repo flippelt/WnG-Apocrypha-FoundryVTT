@@ -1,0 +1,48 @@
+name: Arbites Vigilant
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600012
+pages:
+  - name: Arbites Vigilant
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“We determine the guilty. We decide the punishment”. You are one of the black-armoured enforcers of the Emperor’s Law, charged with bringing order to the lawless and justice to those who transgress. With each shotgun blast, you deliver judgement to those who defy the Imperium.</p><p>The Commandments of Justice</p>
+      markdown: ''
+    _id: q3GP3oWhZBVk7zJ9
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!C3z3oFqNYtQCQ1R7.q3GP3oWhZBVk7zJ9'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: C3z3oFqNYtQCQ1R7
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!C3z3oFqNYtQCQ1R7'
+categories: []

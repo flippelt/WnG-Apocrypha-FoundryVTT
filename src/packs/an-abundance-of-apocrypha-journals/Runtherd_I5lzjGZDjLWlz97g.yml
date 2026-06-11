@@ -1,0 +1,48 @@
+name: Runtherd
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600352
+pages:
+  - name: Runtherd
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: '<p>"Skaggit! Get back ‘ere, ‘fore I let Chompa ‘ave ya!” —Runtherd Gorskrag, reprimanding a wayward Gretchin</p><p>Most Orks couldn’t care less about grots and snots and other creatures like that. You’re different. You know you can direct and control the little gits, with the right approach and the right mix of rewards and punishments. You figure you could even get the same ideas to work on humans and other species If you got your hands on them. Runtherdz are Ork Oddboyz who exhibit a trait extremely uncommon amongst Orks: patience. Only they have the right mindset to "care" about their smaller Orkoid cousins, the Gretchins and Snotlings, and the patience to perform the task of training them to be more efficient at their tasks. Where the average Ork only yells his orders and beat his underlings if the orders are not fulfilled to his liking, a Runtherd has a more "reasonable" approach of carrot-and-stick treatment. He explains to those under his care what is expected of them, and those that perform efficiently are rewarded, while only those that perform poorly are beaten. The simplest and most menial tasks are undertaken by the tiny Snotlings. Snotlings are not particularly easy to train because they are slow learners and need to be slowly and carefully conditioned to perform even the simplest tricks. Runtherdz train Snotlings to cultivate fungus and tend Squigs and take extraordinary pride in their tiny charges.</p><p>a non-Ork as a challenge to be mastered. When an Ork mob goes to war, the Runtherdz will claim the surviving enemies as their spoils and start training them as slaves. A Runtherd sees barriers of language and behaviour as a challenge to his skill for control and command rather than to his authority and will apply his skills to boosting the production of his hapless charges just as he would with a group of uncooperative Gretchin. Successful Runtherdz can handle Humans, Squats, Tau and most other sentient races of the galaxy (with the exception of Tyranids and Necrons), eventually learning enough of their language, mannerisms and culture to ensure his slaves are always working at peak efficiency.</p><p>The Runtherdz make a good living by selling welltrained Gretchin and Snotling servants and workers to other Orks. Runtherdz often become quite wealthy and naturally invest their earned teef (teeth, the Ork currency) in solid weaponry and other wargear. On the battlefield they tend to either fight alongside the machines crewed by their Gretchin where they can keep a close eye on things, or lead a large mob of Gretchins forward, using the smaller Orkoids as diversion, living shields or living mine detectors for the other bands of Boyz. Most Runtherdz also exhibit curiosity, especially for the other sentient races of the galaxy. Where the average Ork Boy only sees a non-Ork as either a challenge or a nuisance to be killed in either case, the Runtherdz sees</p><p>Page 126</p>'
+      markdown: ''
+    _id: cqzU9yqsnd5VqfKD
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!I5lzjGZDjLWlz97g.cqzU9yqsnd5VqfKD'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: I5lzjGZDjLWlz97g
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!I5lzjGZDjLWlz97g'
+categories: []

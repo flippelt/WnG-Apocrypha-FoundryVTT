@@ -1,0 +1,48 @@
+name: Primaris Inceptor
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600312
+pages:
+  - name: Primaris Inceptor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“They shall be pure of heart and strong of body, untainted by doubt and unsullied by selfaggrandisement. They will be bright stars on the firmament of battle, Angels of Death whose shining wings bring swift annihilation to the enemies of Man. So it shall be for a thousand times for a thousand years, unto the very end of eternity and the extinction of mortal flesh." —From the foreword of the Codex Astartes You soar above the battlefield, delivering wrath and retribution to the Emperor’s foes, in torrents of bolter shells and plasma blasts. The roaring sound of your jump pack as you descend from the skies like a meteor is an omen for the destruction you will bring. The swiftest Primaris Marines, Inceptors are spearhead troops, arriving in battle from the skies and delivering a massive blow that leaves the enemy reeling as the second wave of troops arrive to drive home the attack. Equipped with heavy jump packs and the sturdy Gravis armour variant, Inceptors are able to withstand reentry from the edge of a planet’s atmosphere, plummeting into battle from far above at break-neck speeds. Many Inceptor squads use this to their advantage, descending within debris from orbital battles to disguise their approach. When they make planetfall, striking the ground with thunderous force, Inceptors unleash a torrent of fire from their twinned Assault Bolters, tearing foes apart in moments before the Inceptors leap to the skies again, seeking a new target.</p>
+      markdown: ''
+    _id: bDR3zTLUZ5c6FFOU
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!IxFHU8iCUQLiepTz.bDR3zTLUZ5c6FFOU'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: IxFHU8iCUQLiepTz
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!IxFHU8iCUQLiepTz'
+categories: []

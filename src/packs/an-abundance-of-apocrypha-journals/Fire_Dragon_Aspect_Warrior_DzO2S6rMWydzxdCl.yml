@@ -1,0 +1,48 @@
+name: Fire Dragon Aspect Warrior
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600148
+pages:
+  - name: Fire Dragon Aspect Warrior
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“We bring only death and leave only carrion. It is a message even a Human can understand.” —Requiel, of the Sons of Fuegan You embody Khaine’s aspect of the destroyer, and the brutal, wanton desolation of warfare. With fire do you scour the battlefield clean of the enemy, and not even within armoured vehicles or behind fortifications are they safe from your fury. The Fire Dragons are one of the forms of Aeldari Aspect Warriors, who represent a different aspect of the Aeldari war god Kaela Mensha Khaine. Embodying the writhing, sinewy dragon of Aeldari myth, Fire Dragons are aggressive and warlike close combat fighters who utilized heat weapons to destroy enemy vehicles and strongpoints.</p><p>Phoenix Lords for the Rhana Dandra, the Final Battle, and be the last one to fall in this epic confrontation. They have an unsurpassed mastery of their chosen and highly dangerous weapons, and they take savage delight in the devastation they create. For this reason, the Aeldari believe that the Fire Dragons are the embodiment of the Aeldari War God Kaela Mensha Khaine's penchant for pure destruction. It is said that Fire Dragon Exarchs generate a corona of lambent flame around themselves when the battle lust is upon them.</p><p>The founder of the Fire Dragons was Fuegan, the first of the Phoenix Lords who learned the ways of war from Asurmen and established his own Shrines on many Craftworlds to school new pupils in the art of fire and flame. When the Fallen Pheonix Arhra betrayed his fellows and attacked the Shrine of Asur, Fuegan refused to leave and was thought lost when the shrine was destroyed until he reappeared centuries later. Tradition has it that Fuegan will call together the</p>
+      markdown: ''
+    _id: 5PWRcBoeFwyaRsry
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!DzO2S6rMWydzxdCl.5PWRcBoeFwyaRsry'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: DzO2S6rMWydzxdCl
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!DzO2S6rMWydzxdCl'
+categories: []

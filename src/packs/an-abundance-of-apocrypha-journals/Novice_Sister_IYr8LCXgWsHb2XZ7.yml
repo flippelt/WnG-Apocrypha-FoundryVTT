@@ -1,0 +1,48 @@
+name: Novice-Sister
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600272
+pages:
+  - name: Novice-Sister
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>"We are mute but not without power, we are silent but not without resolve, we are untouchable but not without courage, we are sisters and have but one father. We are seekers and we shall find our prey; we are warriors and woe to those we oppose, the Emperor's mark is on our brow, all who deal with the Warp must beware, His Judgement and vengeance is ours to deliver!" — Motto of the Sisters of Silence You are an aspirant of the Silent Sisterhood, studying to become one of the infamous and deadly Null Maidens of the Anathema Psykana. Your harsh training is still incomplete, and you have not yet sworn away the use of your voice. The Sisterhood recruits Blanks from a great many sources, which vary from Vigil to Vigil. Some have ended up among the Imperial Tithe, their worlds eager to be rid of the pariahs. Others are handed over by the Inquisition or Rogue Traders. Rumours persist that the Sisterhood themselves maintain genetically stable bloodlines of Pariahs, breeding new Sisters for recruitment. An Acolyte -- of the First, Second and Third rank -- more informally known as "Sisters-in-Waiting," are those Sisters who have not yet been initiated into the order. Acolytes are responsible for performing all of the menial tasks within the order and each waits on the appraisal of the more senior-ranking Sisters. A Novice-Sister was an aspirant to the order who had not yet taken the Vow of Tranquility but was considered to possess more skill and knowledge of the Sisterhood and its ways than an Acolyte. A NoviceSister was not required to perform as many menial tasks as a Sister-in-Waiting, as she had more important tasks to fill her days, such as learning witch-lore and practicing her combat skills. Due to having not yet taken their Vow of Tranquility, Novice-Sisters are still capable of speaking and are often used by fully initiated Sisters of Silence to communicate with other Imperial officials. In this role, they are commonly known as Proloquors, but this is a duty only assigned to the most trusted of Novices.</p><p>Page 122</p>
+      markdown: ''
+    _id: VUSXonPCmD9nikE5
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!IYr8LCXgWsHb2XZ7.VUSXonPCmD9nikE5'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: IYr8LCXgWsHb2XZ7
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!IYr8LCXgWsHb2XZ7'
+categories: []

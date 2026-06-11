@@ -1,0 +1,48 @@
+name: Vindicare Assassin
+folder: Eur8pJbhW3UOXOhY
+flags:
+  wng-core:
+    initialization-folder: Archetypes
+    sort: 600448
+pages:
+  - name: Vindicare Assassin
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: <p>“Exitus Acta Probat; The outcome justifies the deed.” Dictatus Vindicare With single, perfect shots, you have quelled rebellions, ended wars, and put down uprisings. The Vindicare Assassins specialise in vengeance and revenge killings. They make use of a specially designed, long-range Sniper Rifle called the Exitus Rifle. The Vindicare Assassin brings inglorious death to the Emperor's enemies with a sniper's bullet. Vindicare Assassins have been known to wait in a position for as long as two weeks before taking a shot. Many rebellions and cults have been ended with one, perfect shot from a Vindicare's rifle.</p><p>Support Weapons crews in quick succession. Eventually, the Aeldari called in their scouts to clear the tower, but when they entered it, they found it full of grenade traps ready to meet them.</p><p>The Vindicare Temple teaches the assassin the art of patience and the perfection of marksmanship. These stoic assassins are conditioned by their temple to be unflinchingly loyal to the Imperium, often being trained to limit their vocabulary only to words that are useful for their profession, cutting off all emotional attachments to other humans so that they will never hesitate to eliminate any target. The intense training of a Vindicare Assassin enables them to pick out a single target even amongst roving hordes of enemies on the battlefield. In one celebrated (but carefully concealed) engagement, a massed Aeldari assault in the Lammas Campaign was halted by a lone Vindicator Assassin hiding in a ruined tower. The Aeldari advance in the face of this tower was stalled again and again by a hail of deadly sniper fire which slew Exarchs, Warlocks, and</p><p>Page 207</p>
+      markdown: ''
+    _id: ILTHruyMIGQEKPzU
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags: {}
+    _stats:
+      systemId: null
+      systemVersion: null
+      coreVersion: null
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!journal.pages!6nngMBTGKyZ0qZYq.ILTHruyMIGQEKPzU'
+_stats:
+  systemId: wrath-and-glory
+  systemVersion: 4.2.1
+  coreVersion: '11.315'
+  createdTime: 1718064000000
+  modifiedTime: 1718064000000
+  lastModifiedBy: ApocryphaJrnl001
+_id: 6nngMBTGKyZ0qZYq
+sort: 0
+ownership:
+  default: 0
+_key: '!journal!6nngMBTGKyZ0qZYq'
+categories: []
