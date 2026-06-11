@@ -82,13 +82,14 @@ structure.
   copies were removed (kept the originals): **Beast Snagga Boy**, **Hearthkyn
   Warrior (Ironkin)**, **Slaangor**, **Storm Guardian** — each now has its two
   genuine variants. (Archetype count 185 → 181.)
-- Minor: the archetype is named "Primaris **Agressor**" (missing a *g*); fixing
-  the display name was left out of scope to avoid churn, but worth a future tidy.
+- ✅ **"Agressor" → "Aggressor"** spelling fixed across all six affected
+  documents: the two Primaris Aggressor archetypes, the Aggressor Imperative
+  ability (×2), and the references to it in Bulwark/Conqueror Imperative.
 
 ## Suggested plan (priority)
 
 1. Sweep names against the PDF v9 table of contents for anything genuinely
-   absent or misspelled (e.g. the "Agressor" tidy).
+   absent or misspelled.
 
 ## Workflow
 
