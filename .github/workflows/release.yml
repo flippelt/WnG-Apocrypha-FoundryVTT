@@ -60,10 +60,18 @@ jobs:
           (cd dist && zip -qr ../wng-apocrypha.zip wng-apocrypha)
           ls -la wng-apocrypha.zip
 
-      - name: Attach assets to the release
-        run: gh release upload "${{ steps.meta.outputs.tag }}" module.json wng-apocrypha.zip --clobber --repo "${{ github.repository }}"
+      - name: Build self-referencing manifest for this release tag
+        run: |
+          mkdir -p rel
+          jq --arg u "https://github.com/${{ github.repository }}/releases/download/${{ steps.meta.outputs.tag }}/module.json" \
+            '.manifest = $u' module.json > rel/module.json
+
+      - name: Attach assets to the release (pinned, self-referencing module.json)
+        run: gh release upload "${{ steps.meta.outputs.tag }}" rel/module.json wng-apocrypha.zip --clobber --repo "${{ github.repository }}"
 
       - name: Refresh moving 'latest' manifest
+        # The repo's module.json keeps manifest -> .../latest/module.json, so this
+        # is the moving auto-update channel; the release tag above is pinned to itself.
         run: gh release upload latest module.json --clobber --repo "${{ github.repository }}"
 
       - name: Register with Foundry Package Release API
