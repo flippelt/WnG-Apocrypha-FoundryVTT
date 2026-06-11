@@ -96,11 +96,11 @@ a full stat-block table.
 
 ## Remaining for 1.0
 
-The PDF content is **fully converted**. Open items are cosmetic only:
+The PDF content is **fully converted — nothing outstanding.** The module is
+ready to tag **v1.0** once validated in Foundry.
 
-- [ ] *(polish, optional — non-blocking)* Add the stat-block HTML table to the
-  123 new lore journals, for parity with the original 32. The archetype sheet
-  already shows the stats, so this is purely cosmetic.
+- [x] Stat-block tables added to all archetype journals (parity with the
+  originals), generated from each archetype's own data.
 
 Resolved / intentionally not done:
 
