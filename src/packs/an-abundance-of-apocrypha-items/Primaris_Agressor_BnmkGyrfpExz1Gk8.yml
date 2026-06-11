@@ -7,7 +7,7 @@ flags:
   cf: null
   core: {}
 system:
-  tier: 41
+  tier: 4
   journal: ''
   species:
     name: Primaris Astartes

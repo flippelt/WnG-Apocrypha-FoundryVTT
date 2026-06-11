@@ -70,21 +70,23 @@ structure.
 > is both the license-clean and the mechanically-correct approach; anyone who
 > owns *Church of Steel* adds the vehicle Actor themselves.
 
-### 2. Remaining spot fixes
+### 2. Spot fixes
 
-- **Primaris Aggressor** has `tier: 41` (typo for `4`) in one of its two
-  entries — should be corrected.
+- ✅ **Primaris Agressor** `tier: 41` corrected to `4`.
+- ✅ **Right of Duplessence** ascension renamed to **Rite of Duplessence** (the
+  spelling used throughout the PDF v9, e.g. p. 217).
 - Several archetypes appear two or three times (e.g. Hearthkyn Warrior, Storm
-  Guardian, Slaangor). Most are legitimate **species/build variants**; worth a
-  pass to confirm none are accidental duplicates.
-- **Right of Duplessence** ascension is likely a typo for **Rite of
-  Duplessence**.
+  Guardian, Slaangor). Most are legitimate **species/build variants**; a pass to
+  confirm none are accidental duplicates is still open. (The two **Primaris
+  Agressor** entries — distinct `_id`s — are worth checking specifically.)
+- Minor: the archetype is named "Primaris **Agressor**" (missing a *g*); fixing
+  the display name was left out of scope to avoid churn, but worth a future tidy.
 
 ## Suggested plan (priority)
 
-1. **Apply the spot fixes** in §2 (quick, self-contained).
-2. Optional polish: confirm the variant duplicates, sweep names against the
-   PDF v9 table of contents for anything genuinely absent.
+1. Confirm the variant duplicates (esp. the two Primaris Agressor entries) and
+   sweep names against the PDF v9 table of contents for anything genuinely
+   absent or misspelled.
 
 ## Workflow
 
