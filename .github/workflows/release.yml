@@ -80,10 +80,18 @@ jobs:
             --arg max "${{ steps.meta.outputs.maximum }}" \
             '{id:$id, "dry-run":$dry, release:{version:$version, manifest:$manifest, notes:$notes, compatibility:{minimum:$min, verified:$verified, maximum:$max}}}')
           echo "Posting release ${{ steps.meta.outputs.version }} to Foundry (dry-run=${{ inputs.dry_run || false }})"
-          curl -fsSL -X POST "https://foundryvtt.com/_api/packages/release_version/" \
-            -H "Authorization: $FVTT_RELEASE_TOKEN" \
+          # Trim any stray whitespace/newline that may have been pasted into the secret.
+          token=$(printf '%s' "$FVTT_RELEASE_TOKEN" | tr -d '[:space:]')
+          http=$(curl -sS -o resp.json -w '%{http_code}' -X POST "https://foundryvtt.com/_api/packages/release_version/" \
+            -H "Authorization: $token" \
             -H "Content-Type: application/json" \
-            -d "$payload"
+            -d "$payload")
+          echo "HTTP $http"
+          echo "Response:"; cat resp.json; echo
+          if [ "$http" -ge 400 ]; then
+            echo "::error::Foundry Package Release API returned HTTP $http (see response above)."
+            exit 1
+          fi
 
       - name: Skip Foundry API (no token)
         if: ${{ env.FVTT_RELEASE_TOKEN == '' }}
