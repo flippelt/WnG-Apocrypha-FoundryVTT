@@ -15,7 +15,7 @@ These talents/abilities mention a stat bonus but have **no Active Effect** yet. 
 - **Immortal** (ability, `TkesTWY4FF0lD06T`)
   > You cannot die, though you can still suffer injuries and enter the dying state. If you would suffer from Annihilation (suffering damage equal to twice your Maximum Wounds), you instead suffer Traumatic Injuries equal to 
 - **Stalker** (talent, `I55KkSy4CYLGrOGQ`)
-  > You are evasive and shadowy, never directly observed, only ever glimpsed out of the corner of an enemy’s eyes; aiming at such a target is nigh-impossible. You and all members of your squad add your Rank to their Defense 
+  > You are evasive and shadowy, never directly observed, only ever glimpsed out of the corner of an enemy’s eyes; aiming at such a target is nigh-impossible. You and all members of your squad add your Rank to their Defence 
 - **Swiftstep** (talent, `yO4TCC5QV2amXEEO`)
   > You lead your warriors across the battlefield at a tremendous pace, delivering them to battle swiftly. When you or your squad, takes the Run or Sprint action, increase your Speed by +3.
 
