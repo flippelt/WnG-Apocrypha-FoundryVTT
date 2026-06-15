@@ -6,6 +6,13 @@ A passion project, done in my free time, adapting the content of the incredible
 
 > Compatible with Foundry VTT **v11–v14**. Module id: `wng-apocrypha`.
 
+> ⚠️ **Recommended companion — `wng-core` (optional):** the bundled actors link
+> their keywords, talents, weapons and abilities to the official **`wng-core`**
+> content module, and use its icons. `wng-core` is **optional** — this module
+> installs and runs without it — but **without `wng-core` those links won't
+> resolve and many item icons will be missing**. The content is all still there;
+> it just shows up "unlinked". Install `wng-core` for the full, linked experience.
+
 ## Status / Progress
 
 See **[CONVERSION-STATUS.md](CONVERSION-STATUS.md)** for the full, detailed
