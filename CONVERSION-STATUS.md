@@ -25,7 +25,7 @@ The module is **substantially complete**. The compendium contains:
 | Keywords | 176 |
 | Species | 29 |
 | Factions | 15 |
-| Actors (NPC stat blocks) | 64 |
+| Actors (NPC stat blocks) | 54 |
 | Journals | 173 (incl. 123 archetype lore journals) |
 
 All the major factions, species, talents, psychic powers, gear and the vast
