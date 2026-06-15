@@ -72,11 +72,6 @@ Foundry to confirm the compendium loads — see [src/packs/README.md](src/packs/
 
 ### Releasing
 
-`module.json` keeps a **fixed** `manifest` URL pointing at the moving `latest`
-release (`releases/download/latest/module.json`) — never change it, or Foundry
-installs stop seeing updates. The `download` URL points at a versioned release
-tag.
-
 To cut a release: bump `version` (and the `download` tag) in `module.json`, then
 create a GitHub Release on that tag. The [Release workflow](.github/workflows/release.yml)
 then builds `wng-apocrypha.zip`, attaches it plus `module.json` to the release,
