@@ -9,7 +9,7 @@ These talents/abilities mention a stat bonus but have **no Active Effect** yet. 
 - **Conduit to the Ancestor Cores** (ability, `zKQaSI8wvovA4yBw`)
   > You are a Psyker; you know the Smite psychic power. You know one power from the Skeinwrought discipline and may learn other powers from the Skeinwrought discipline. In addition, add +1 Resolve to allies with the LEAGUES 
 - **Evade** (talent, `qawJx61Sm0n91RwQ`)
-  > Your airborne movement is difficult for the eye to follow or predict, making you and exceptionally difficult target. When you fly—yourself, or while operating a vehicle with the Flyer or Hover trait—add +2 to your Defenc
+  > Your airborne movement is difficult for the eye to follow or predict, making you and exceptionally difficult target. When you fly—yourself, or while operating a vehicle with the Flyer or Hover trait—add +2 to your Defence
 - **Fasta! FASTA!** (ability, `BD048ZUcnpV1CjWJ`)
   > When you are the PILOT or CREW of an ORK vehicle, you do not replace extra dice with Wrath dice when travelling at BreakNeck Speed. Further, you add +2 to your Conviction and Resolve while mounted on an ORK vehicle. This
 - **Immortal** (ability, `TkesTWY4FF0lD06T`)
