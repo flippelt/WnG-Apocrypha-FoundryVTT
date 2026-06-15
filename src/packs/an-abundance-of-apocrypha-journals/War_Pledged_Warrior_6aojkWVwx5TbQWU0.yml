@@ -66,12 +66,12 @@ pages:
         Ballistic Skill 2, Tech 1, Weapon Skill 2</td></tr><tr
         style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
-        ABILITY</strong>: @UUID[Item.QdYoW0qYLZrpModS]{War-Pledged}</td></tr><tr
+        ABILITY</strong>: @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QdYoW0qYLZrpModS]{War-Pledged}</td></tr><tr
         style="height:16px"><td style="width:92.7291%;height:16px"
         colspan="8"><strong>WARGEAR</strong>: Bolter,
-        @UUID[Item.Fci6DIK0kgrASqGV]{Hand Cannon},
-        @UUID[Item.4cJ8ZBlUT4grfFRs]{Axe}, @UUID[Item.fLx8DzWDgWDZIMSK]{Flak
-        Armour}, 3x @UUID[Item.oDG9YpSKSiSUFLIY]{Frag Grenades}</td></tr><tr
+        @UUID[Compendium.wng-core.items.Item.Fci6DIK0kgrASqGV]{Hand Cannon},
+        @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4cJ8ZBlUT4grfFRs]{Axe}, @UUID[Compendium.wng-core.items.Item.fLx8DzWDgWDZIMSK]{Flak
+        Armour}, 3x @UUID[Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY]{Frag Grenades}</td></tr><tr
         style="height:16px"><td class="table-header"
         style="width:51.1291%;height:16px;text-align:left;background-color:#c85c14"
         colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
@@ -116,9 +116,9 @@ pages:
         style="width:92.7291%;height:16px;background-color:#c85c14"
         colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td
         style="height:15px;width:92.7291%"
-        colspan="8">@UUID[Item.HYuKXdU1r5yNyRU1]{Die Hard},
-        @UUID[Item.fIy3evnEKxFiNV4j]{Gallows Humour},
-        @UUID[Item.fIcqkXiRYuZ1Ie21]{Properly
+        colspan="8">@UUID[Compendium.wng-core.items.Item.HYuKXdU1r5yNyRU1]{Die Hard},
+        @UUID[Compendium.wng-core.items.Item.fIy3evnEKxFiNV4j]{Gallows Humour},
+        @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.fIcqkXiRYuZ1Ie21]{Properly
         Prepared}</td></tr></tbody></table>
       markdown: ''
     _id: 6VIdIZs0RFiBmFtW

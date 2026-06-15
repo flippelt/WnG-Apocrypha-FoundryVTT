@@ -18,7 +18,7 @@ system:
     <p>A variant of the Primaris&rsquo; Bolt Rifles, the Stalker Bolt Rifle
     emphasises range and precision over rate of fire.</p>
 
-    <p>A Stalker Bolt Rifle comes with a @UUID[Item.SWEx4ZoVCxd0oz5O]{Monoscope}
+    <p>A Stalker Bolt Rifle comes with a @UUID[Compendium.wng-core.items.Item.SWEx4ZoVCxd0oz5O]{Monoscope}
     as standard.</p>
   value: 7
   keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS

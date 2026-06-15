@@ -8,7 +8,7 @@ system:
     <p>This variant of the Plasma Incinerator requires a larger backpack power
     supply to operate but can deliver more potent blasts at longer ranges.</p>
 
-    <p>A Heavy Plasma Incinerator comes with a @UUID[Item.Dh1HhVnPaURjpgTR]{Ammo
+    <p>A Heavy Plasma Incinerator comes with a @UUID[Compendium.wng-core.items.Item.Dh1HhVnPaURjpgTR]{Ammo
     Backpack}.</p>
   value: 7
   keywords: PLASMA, ADEPTUS ASTARTES, PRIMARIS

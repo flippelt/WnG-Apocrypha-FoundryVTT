@@ -10,12 +10,12 @@ system:
   cost: 0
   requirements: ''
   description: >-
-    <p>A Ghost Warrior is a @UUID[Item.CbStTmNvD5RnjOUI]{PSYKER}, but may not
+    <p>A Ghost Warrior is a @UUID[Compendium.wng-core.items.Item.CbStTmNvD5RnjOUI]{PSYKER}, but may not
     purchase any psychic powers, not even Smite. Further, you are immune to any
     penalties or hindrances to vision from any source other than the Warp.
     However, whenever you roll a Complication on any Test, you become Blinded as
     the Warp clouds your vision. This can only be removed by a DN 8 Willpower
-    test as a Combat Action, or by an @UUID[Item.Hif3ZGul8fonuLrP]{ASURYANI
+    test as a Combat Action, or by an @UUID[Compendium.wng-core.items.Item.Hif3ZGul8fonuLrP]{ASURYANI
     PSYKER }within 10m succeeding on a DN 4 Leadership (Wil) Test.</p>
   display: true
   abilityType: ''

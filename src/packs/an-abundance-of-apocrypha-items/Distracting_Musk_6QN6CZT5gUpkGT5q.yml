@@ -11,7 +11,7 @@ system:
   requirements: ''
   description: >-
     <p>Characters within 5 metres of you which lack the
-    @UUID[Item.SQEgHsRqEIlQqU6b]{SLAANESH}keyword add +Rank to the DN of all
+    @UUID[Compendium.wng-core.items.Item.SQEgHsRqEIlQqU6b]{SLAANESH}keyword add +Rank to the DN of all
     Intelligence and Willpower tests. In addition, gain +1d3 Corruption</p>
   display: true
   abilityType: ''

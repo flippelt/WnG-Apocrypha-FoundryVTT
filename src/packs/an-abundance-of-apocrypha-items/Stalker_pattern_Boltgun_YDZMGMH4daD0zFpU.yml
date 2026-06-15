@@ -10,7 +10,7 @@ system:
     serves as a mid-point between boltgun and sniper rifle.</p>
 
     <p>A Stalker-pattern Boltgun comes with a
-    @UUID[Item.SWEx4ZoVCxd0oz5O]{Monoscope} as standard.</p>
+    @UUID[Compendium.wng-core.items.Item.SWEx4ZoVCxd0oz5O]{Monoscope} as standard.</p>
   value: 7
   keywords: BOLT, ADEPTUS ASTARTES, DEATHWATCH
   equipped: false

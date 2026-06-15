@@ -10,7 +10,7 @@ system:
     <p>You spurn the weakness of flesh and embrace the purity of steel, forging
     a unique bond with the spirits of the machines you work with. You gain a
     bonus to Tech tests, and to Piloting tests for vehicles with the
-    @UUID[Item.KiNbJ09wqnmccwb0]{ADEPTUS ASTARTES}keyword, equal the number of
+    @UUID[Compendium.wng-core.items.Item.KiNbJ09wqnmccwb0]{ADEPTUS ASTARTES}keyword, equal the number of
     cybernetic replacement parts you have.</p>
   display: true
 effects: []

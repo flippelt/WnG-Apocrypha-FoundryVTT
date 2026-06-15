@@ -10,7 +10,7 @@ system:
     <p>Your mind is a piece of a greater weapon against the darkness, one that
     is only complete alongside the wills of your brothers.<br>When you attempt a
     Psychic Mastery test, you may add +1 bonus dice for every
-    @UUID[Item.8VFkmO1RCpOIriEK]{GREY KNIGHT}with this Talent within 10m of
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.8VFkmO1RCpOIriEK]{GREY KNIGHT}with this Talent within 10m of
     you.</p>
   display: true
 effects: []

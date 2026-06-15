@@ -10,7 +10,7 @@ system:
     <p>You will not fall while a single enemy draws breath. You increase your
     Resilience by +Rank.<br>However, you cannot gain the benefits of cover at
     any time.<br>You may only have one Vow talent. During downtime, you may
-    replace this talent with any other @UUID[Item.d3vDOtbmIhagzSuf]{BLACK
+    replace this talent with any other @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.d3vDOtbmIhagzSuf]{BLACK
     TEMPLARS}&nbsp;talent marked as a Vow.&nbsp;</p>
   display: true
 effects:

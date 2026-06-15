@@ -51,11 +51,11 @@ pages:
         Persuasion 1, Weapon Skill 2</td></tr><tr
         style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
-        ABILITY</strong>: @UUID[Item.6QN6CZT5gUpkGT5q]{Distracting
+        ABILITY</strong>: @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6QN6CZT5gUpkGT5q]{Distracting
         Musk}</td></tr><tr style="height:16px"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
-        @UUID[Item.Gkvz8V1xP8wrBBk8]{Mesh Armour}, 2x
-        @UUID[Item.JlXH8xNwZcDgtfcn]{Sword}</td></tr><tr style="height:16px"><td
+        @UUID[Compendium.wng-core.items.Item.Gkvz8V1xP8wrBBk8]{Mesh Armour}, 2x
+        @UUID[Compendium.wng-core.items.Item.JlXH8xNwZcDgtfcn]{Sword}</td></tr><tr style="height:16px"><td
         style="width:92.7291%;background-color:rgba(0, 0, 0, 0.2);height:16px"
         colspan="8"><strong>INFLUENCE</strong>: +1</td></tr><tr
         style="height:16px"><td class="table-header"
@@ -102,9 +102,9 @@ pages:
         style="width:92.7291%;height:16px;background-color:#301444"
         colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td
         style="height:15px;width:92.7291%"
-        colspan="8">@UUID[Item.AXqKMwrgsKMdohOw]{Acute Sense},
-        @UUID[Item.aX9bq2t854Kb7L0i]{Dual Wield},
-        @UUID[Item.kj8Jm2JKxELokK4X]{Let The Galaxy
+        colspan="8">@UUID[Compendium.wng-core.items.Item.AXqKMwrgsKMdohOw]{Acute Sense},
+        @UUID[Compendium.wng-core.items.Item.aX9bq2t854Kb7L0i]{Dual Wield},
+        @UUID[Compendium.wng-core.items.Item.kj8Jm2JKxELokK4X]{Let The Galaxy
         Burn}</td></tr></tbody></table>
       markdown: ''
     _id: 6VIdIZs0RFiBmFtW

@@ -11,7 +11,7 @@ system:
   requirements: ''
   description: >-
     <p>You increase the DN of any interaction-based skill test with any
-    character who lacks the @UUID[Item.wpkWPNKyvh8vv7PC]{LEAGUES OF VOTANN}
+    character who lacks the @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wpkWPNKyvh8vv7PC]{LEAGUES OF VOTANN}
     keyword by +1.</p>
   display: true
   abilityType: ''

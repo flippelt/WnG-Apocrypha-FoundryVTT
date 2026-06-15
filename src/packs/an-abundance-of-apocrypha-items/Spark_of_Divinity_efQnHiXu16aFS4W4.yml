@@ -11,7 +11,7 @@ system:
     sometimes unravel the sorcerous workings of The Enemy.<br>When an enemy
     psyker attempts to use a Psychic Power within 25m of you, you may spend 1
     Glory as a Reflexive Action to immediately attempt to
-    @UUID[Item.qZ1MhJjRIuxJxEF7]{Deny The Witch,} as if you were a Psyker. You
+    @UUID[Compendium.wng-core.items.Item.qZ1MhJjRIuxJxEF7]{Deny The Witch,} as if you were a Psyker. You
     use your Willpower for this, and add +Double Rank dice to the roll.</p>
   display: true
 effects: []

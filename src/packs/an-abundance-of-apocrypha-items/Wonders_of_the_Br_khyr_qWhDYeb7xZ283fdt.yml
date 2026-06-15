@@ -9,7 +9,7 @@ system:
   description: >-
     <p>Your forebears taught you the ways of technology better than the craft of
     those superstitious tech-priests.</p><p>You never count technology with the
-    @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM }keyword as being foreign or
+    @UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM }keyword as being foreign or
     unfamiliar. When you score a Wrath Critical on a Tech test to repair a
     device of Imperial or Votann origin, you may declare that the device now
     “works properly”. The GM will determine the precise extent and effect of

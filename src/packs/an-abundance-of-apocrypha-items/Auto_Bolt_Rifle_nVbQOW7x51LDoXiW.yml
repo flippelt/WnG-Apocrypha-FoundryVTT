@@ -8,7 +8,7 @@ system:
     <p>A variant of the Primaris&rsquo; Bolt Rifles, the Auto Bolt Rifle
     emphasises rate of fire and mobility over penetration or range.</p>
 
-    <p>An Auto Bolt Rifle is fitted with an @UUID[Item.zyVQUsE3ZI9PJ4pD]{Ammo
+    <p>An Auto Bolt Rifle is fitted with an @UUID[Compendium.wng-core.items.Item.zyVQUsE3ZI9PJ4pD]{Ammo
     Drum} as standard.</p>
   value: 7
   keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS

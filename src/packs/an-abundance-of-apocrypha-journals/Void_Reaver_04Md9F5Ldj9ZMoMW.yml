@@ -72,14 +72,14 @@ pages:
         Ballistic Skill 2, Intimidation 2, Weapon Skill 2</td></tr><tr
         style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
-        ABILITY</strong>: @UUID[Item.iMzYXSNB40Y2IA0c]{Reavers of the
+        ABILITY</strong>: @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.iMzYXSNB40Y2IA0c]{Reavers of the
         Void}</td></tr><tr style="height:16px"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
-        @UUID[Item.ZYJP0UzR7t3nHqqs]{Corsair Armour}, Shuriken Rifle or
-        @UUID[Item.ueTuXr4xkzevIL4X]{Shuriken Pistol} and
-        @UUID[Item.yGdYJq6FWVgYE7GA]{Power Sword},
-        @UUID[Item.3X5FaaFcfNmaEod4]{Mono Knife},
-        @UUID[Item.aIEl2xpESvkqyVEG]{Spirit Stone}</td></tr><tr
+        @UUID[Compendium.wng-core.items.Item.ZYJP0UzR7t3nHqqs]{Corsair Armour}, Shuriken Rifle or
+        @UUID[Compendium.wng-core.items.Item.ueTuXr4xkzevIL4X]{Shuriken Pistol} and
+        @UUID[Compendium.wng-core.items.Item.yGdYJq6FWVgYE7GA]{Power Sword},
+        @UUID[Compendium.wng-core.items.Item.3X5FaaFcfNmaEod4]{Mono Knife},
+        @UUID[Compendium.wng-core.items.Item.aIEl2xpESvkqyVEG]{Spirit Stone}</td></tr><tr
         style="height:16px"><td class="table-header aeldari"
         style="width:51.1291%;height:16px;text-align:left"
         colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td

@@ -10,7 +10,7 @@ system:
     <p>Your voice is heard above the clamour and clangour of battle, rallying
     the servants of the Emperor to greater heights of piety and
     fury.&nbsp;<br>You may sing war hymns as a simple action, and all allies
-    with the @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM}keyword within 15+Rank metres
+    with the @UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM}keyword within 15+Rank metres
     gain +Rank bonus dice on all melee attacks until the start of your next
     turn.</p>
   display: true

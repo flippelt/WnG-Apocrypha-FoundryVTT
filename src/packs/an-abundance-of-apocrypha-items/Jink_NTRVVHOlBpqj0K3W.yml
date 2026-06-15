@@ -9,7 +9,7 @@ system:
   description: >-
     <p>You are a paragon of high-speed mounted combat, and few foes can draw a
     bead upon you when you&rsquo;re at full speed.<br>When you pilot an
-    @UUID[Item.KiNbJ09wqnmccwb0]{ADEPTUS ASTARTES}vehicle with the RAIDER or
+    @UUID[Compendium.wng-core.items.Item.KiNbJ09wqnmccwb0]{ADEPTUS ASTARTES}vehicle with the RAIDER or
     FLYER keywords, the vehicle&rsquo;s Defence increases by +Rank, or by
     +Double Rank if you take the Evasive Manoeuvres action. In addition, you
     gain the RAVENWING keyword.</p>

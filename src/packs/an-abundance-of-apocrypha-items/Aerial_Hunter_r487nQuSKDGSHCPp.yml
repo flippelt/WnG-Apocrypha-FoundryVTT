@@ -10,10 +10,10 @@ system:
   cost: 0
   requirements: ''
   description: >-
-    <p>While you are PILOT of an @UUID[Item.AIDhVkSIsCH9Jfbx]{AERONAUTICA
+    <p>While you are PILOT of an @UUID[Compendium.wng-core.items.Item.AIDhVkSIsCH9Jfbx]{AERONAUTICA
     IMPERIALIS }vehicle, the vehicle’s Defence is increased by +Rank while it is
     moving. In addition, you may re-roll up to Rank dice on attacks using the
-    weapons of any @UUID[Item.AIDhVkSIsCH9Jfbx]{AERONAUTICA IMPERIALIS }vehicle
+    weapons of any @UUID[Compendium.wng-core.items.Item.AIDhVkSIsCH9Jfbx]{AERONAUTICA IMPERIALIS }vehicle
     you are PILOT or CREW of.</p>
   display: true
   abilityType: ''

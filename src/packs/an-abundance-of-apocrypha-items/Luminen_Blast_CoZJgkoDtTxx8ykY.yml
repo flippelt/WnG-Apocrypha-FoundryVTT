@@ -6,7 +6,7 @@ system:
   quantity: 1
   rarity: common
   description: >-
-    <p>Attack from the @UUID[Item.qqHMuXUSqjpng5ii]{Luminen Blast} talent. Edit
+    <p>Attack from the @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.qqHMuXUSqjpng5ii]{Luminen Blast} talent. Edit
     to apply your willpower to the damage formula.</p>
   value: 0
   keywords: ADEPTUS MECHANIS, CULT MECHANICUS

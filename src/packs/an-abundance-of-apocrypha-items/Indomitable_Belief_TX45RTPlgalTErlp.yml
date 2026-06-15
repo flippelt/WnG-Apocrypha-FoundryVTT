@@ -8,12 +8,12 @@ system:
   requirements: ADEPTA SORORITAS keyword, must not possess the CHAOS keyword
   description: >-
     <p>Your faith is such that you will not yield before the Emperor&rsquo;s
-    enemies.<br>You, and all @UUID[Item.WynBkEBsU3T6shtu]{ADEPTA
+    enemies.<br>You, and all @UUID[Compendium.wng-core.items.Item.WynBkEBsU3T6shtu]{ADEPTA
     SORORITAS}characters within 15m of you, add +Rank to Resilience. In
     addition, when you suffer damage in excess of your Maximum Wounds, you gain
     1 Faith. If you die, all characters with the
-    @UUID[Item.TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM}or
-    @UUID[Item.WynBkEBsU3T6shtu]{ADEPTA SORORITAS}keywords gain 2 Faith and
+    @UUID[Compendium.wng-core.items.Item.TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM}or
+    @UUID[Compendium.wng-core.items.Item.WynBkEBsU3T6shtu]{ADEPTA SORORITAS}keywords gain 2 Faith and
     recover +Double Rank Shock, as they are spurred on by your martyrdom.</p>
   display: true
 effects:

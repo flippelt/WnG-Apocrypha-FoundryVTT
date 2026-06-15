@@ -7,10 +7,10 @@ system:
   cost: 10
   requirements: CHAOS keyword, you may not be a PSYKER
   description: >-
-    <p>You gain the @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER} keyword and learn the
+    <p>You gain the @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} keyword and learn the
     Smite psychic power. You may learn minor psychic powers, and powers from a
     single Chaos Discipline (any Discipline with powers with the
-    @UUID[Item.TujuT6TkhTSvZJLF]{CHAOS }keyword). You rely on a focal item: a
+    @UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS }keyword). You rely on a focal item: a
     balefire tome, a ritual dagger, or similar, and can only use your powers
     when you have that item in hand.</p>
   display: true

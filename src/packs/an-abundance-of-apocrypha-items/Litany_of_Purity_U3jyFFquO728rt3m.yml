@@ -11,9 +11,9 @@ system:
   requirements: ''
   description: >-
     <p>You have +1 Faith Point. When you attempt an Intimidation or Persuasion
-    Interaction Attack against a @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMON}, you may
+    Interaction Attack against a @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON}, you may
     spend one Faith point to invoke the Litany of Purity. If the Interaction
-    Attack succeeds, the @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMON }is Pinned in
+    Attack succeeds, the @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON }is Pinned in
     addition to other effects, and suffers 1d3 Mortal Wounds, +1 per Exalted
     Icon shifted.</p>
   display: true

@@ -10,7 +10,7 @@ system:
   cost: 0
   requirements: ''
   description: >-
-    <p>You are considered to be a @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER}, though
+    <p>You are considered to be a @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER}, though
     you may only select Navigator powers. When you use Psyniscience, double the
     range for each Exalted Icon shifted. Further, you cannot gain Corruption
     from looking into or being exposed to the Warp.</p>

@@ -11,7 +11,7 @@ system:
     others to acts of valour and greatness.<br>You may spend a point of Wrath to
     immediately pass a Resolve test. In addition, when you pass a Resolve test,
     you may spend one or more Glory to rally and inspire others: all characters
-    with the @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM}keyword within 15m heal Shock
+    with the @UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM}keyword within 15m heal Shock
     equal to twice the amount of Glory spent.<br><br></p>
   display: true
 effects: []

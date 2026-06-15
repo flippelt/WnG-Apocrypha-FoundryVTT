@@ -11,7 +11,7 @@ system:
     darkest hour. Or perhaps he broke faith with you.<br>Due to your ancient
     origins, you gain +Rank to Scholar tests regarding historical events. You
     gain +2 bonus dice on any melee attack made against characters with the
-    @UUID[Item.9qhGskkS7yWq36lv]{DARK ANGELS}keyword, and they gain +2 dice on
+    @UUID[Compendium.wng-core.items.Item.9qhGskkS7yWq36lv]{DARK ANGELS}keyword, and they gain +2 dice on
     melee attacks against you. You gain the FALLEN keyword.</p>
   display: true
 effects:

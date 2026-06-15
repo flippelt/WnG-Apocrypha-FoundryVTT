@@ -13,7 +13,7 @@ system:
     <p>Pestilence and corruption are as deadly to the Imperium as the blades and
     bullets of mankind’s enemies. The Order of the Cleansing Water seeks to
     combat these insidious, creeping dangers.</p><p><strong>Indomitable
-    Purity:</strong> Allies with the @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM
+    Purity:</strong> Allies with the @UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM
     }keyword within 6m of you reduce the rating of any
     @UUID[JournalEntry.BPgzsg94UgmFsrTK]{Poisoned }condition, or the DN of any
     test to resist disease, by 1+ double your Rank. If this would reduce the

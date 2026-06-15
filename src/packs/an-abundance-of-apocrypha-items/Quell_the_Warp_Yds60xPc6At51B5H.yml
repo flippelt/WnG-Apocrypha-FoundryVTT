@@ -8,7 +8,7 @@ system:
   requirements: Pariah species, Willpower 5
   description: >-
     <p>You can focus your mind to still disturbances in the Warp nearby.<br>You
-    gain the ability to @UUID[Item.qZ1MhJjRIuxJxEF7]{Deny The Witch}, &nbsp;even
+    gain the ability to @UUID[Compendium.wng-core.items.Item.qZ1MhJjRIuxJxEF7]{Deny The Witch}, &nbsp;even
     though you are not a psyker. Instead of a Psychic Mastery test, you make a
     Willpower test with a bonus of +Double Rank.</p>
   display: true

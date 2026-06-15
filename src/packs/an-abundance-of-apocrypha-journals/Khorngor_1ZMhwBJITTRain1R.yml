@@ -48,13 +48,13 @@ pages:
         Weapon Skill 2</td></tr><tr style="height:16px;background-color:rgba(0,
         0, 0, .2)"><td style="width:92.7291%;height:16px"
         colspan="8"><strong>ARCHETYPE ABILITY</strong>:
-        @UUID[Item.kGI5sUM9TWSxVHmj]{The Scent of Blood}</td></tr><tr
+        @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.kGI5sUM9TWSxVHmj]{The Scent of Blood}</td></tr><tr
         style="height:16px"><td style="width:92.7291%;height:16px"
-        colspan="8"><strong>WARGEAR</strong>: @UUID[Item.fLx8DzWDgWDZIMSK]{Flak
+        colspan="8"><strong>WARGEAR</strong>: @UUID[Compendium.wng-core.items.Item.fLx8DzWDgWDZIMSK]{Flak
         Armour} and one of the following - two
-        @UUID[Item.4cJ8ZBlUT4grfFRs]{Axes} or a
-        @UUID[Item.HVZUg1rOLXh7OnKM]{Chainaxe} and
-        @UUID[Item.JbTzZSQ0FZ4PIjdp]{Autopistol}</td></tr><tr
+        @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.4cJ8ZBlUT4grfFRs]{Axes} or a
+        @UUID[Compendium.wng-core.items.Item.HVZUg1rOLXh7OnKM]{Chainaxe} and
+        @UUID[Compendium.wng-core.items.Item.JbTzZSQ0FZ4PIjdp]{Autopistol}</td></tr><tr
         style="height:16px"><td class="table-header"
         style="width:51.1291%;height:16px;text-align:left;background-color:#301444"
         colspan="5"><strong>SUGGESTED ATTRIBUTES</strong></td><td
@@ -99,9 +99,9 @@ pages:
         style="width:92.7291%;height:16px;background-color:#301444"
         colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td
         style="height:15px;width:92.7291%"
-        colspan="8">@UUID[Item.YaiXDgjj9UxA1EtI]{Berzerker},
-        @UUID[Item.3uI0Gw1jMR7J0GG6]{Brutalist},
-        @UUID[Item.kj8Jm2JKxELokK4X]{Let The Galaxy
+        colspan="8">@UUID[Compendium.wng-core.items.Item.YaiXDgjj9UxA1EtI]{Berzerker},
+        @UUID[Compendium.wng-core.items.Item.3uI0Gw1jMR7J0GG6]{Brutalist},
+        @UUID[Compendium.wng-core.items.Item.kj8Jm2JKxELokK4X]{Let The Galaxy
         Burn}</td></tr></tbody></table>
       markdown: ''
     _id: 6VIdIZs0RFiBmFtW
