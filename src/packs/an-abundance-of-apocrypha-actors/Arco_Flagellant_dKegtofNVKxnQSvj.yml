@@ -454,8 +454,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.CnWTeqMHsauKyCnk
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -511,8 +510,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.SYIBWIPINSYy06b5
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -564,8 +562,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.Npsw0uiIwhXit9Qm
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -617,8 +614,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.iGNrgrtusJmU6K4j
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -670,8 +666,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.udCoywkFQtzqgiFg
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2

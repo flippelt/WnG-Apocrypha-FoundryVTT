@@ -348,7 +348,7 @@ items:
       iqIIJEvwgrLX4V4E: 3
     flags:
       core:
-        sourceId: Item.3ppJNVAXkFGCql9f
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3ppJNVAXkFGCql9f
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -589,8 +589,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.bBZXb69P8zdoiEn3
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2

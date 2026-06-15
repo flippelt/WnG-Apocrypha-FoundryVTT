@@ -327,8 +327,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.8O7OfESDO1thpEae
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -465,8 +464,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.NyytzXiTWO84CSRs
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2

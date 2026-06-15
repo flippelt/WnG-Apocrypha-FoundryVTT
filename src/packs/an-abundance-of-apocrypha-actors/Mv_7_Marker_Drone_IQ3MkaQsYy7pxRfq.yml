@@ -347,7 +347,7 @@ items:
       iqIIJEvwgrLX4V4E: 3
     flags:
       core:
-        sourceId: Item.3ppJNVAXkFGCql9f
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.3ppJNVAXkFGCql9f
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -528,7 +528,7 @@ items:
         coreVersion: '9.269'
         systemVersion: 3.5.0
       core:
-        sourceId: Compendium.world.tau-ranged.Item.sypjiMeweXLd5qCP
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.sypjiMeweXLd5qCP
     system:
       quantity: 1
       rarity: uncommon

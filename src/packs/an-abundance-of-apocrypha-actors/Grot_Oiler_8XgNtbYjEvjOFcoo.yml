@@ -343,7 +343,7 @@ items:
       iqIIJEvwgrLX4V4E: 3
     flags:
       core:
-        sourceId: Item.aBlMy2369qc4ZXdM
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.aBlMy2369qc4ZXdM
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -366,7 +366,7 @@ items:
       iqIIJEvwgrLX4V4E: 3
     flags:
       core:
-        sourceId: Item.bqL6783i6DVf3Ovq
+        sourceId: Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bqL6783i6DVf3Ovq
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2
@@ -470,8 +470,7 @@ items:
       default: 0
       iqIIJEvwgrLX4V4E: 3
     flags:
-      core:
-        sourceId: Item.NyytzXiTWO84CSRs
+      core: {}
     _stats:
       systemId: wrath-and-glory
       systemVersion: 5.0.2

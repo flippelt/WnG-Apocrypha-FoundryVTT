@@ -31,18 +31,24 @@
         "type": "system"
       }
     ],
-    "recommends": [
+    "requires": [
       {
         "id": "wng-core",
         "type": "module",
         "compatibility": {}
-      },
+      }
+    ],
+    "recommends": [
       {
         "id": "wng-forsaken",
         "type": "module"
       },
       {
         "id": "wng-records1",
+        "type": "module"
+      },
+      {
+        "id": "wng-xenos",
         "type": "module"
       }
     ]
