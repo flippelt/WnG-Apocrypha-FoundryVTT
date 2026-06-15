@@ -9,7 +9,7 @@ system:
     while advancing.</p>
 
     <p>A Hellstorm Bolt Rifle is fitted with an
-    @UUID[Item.zyVQUsE3ZI9PJ4pD]{Ammo Drum} as standard.</p>
+    @UUID[Compendium.wng-core.items.Item.zyVQUsE3ZI9PJ4pD]{Ammo Drum} as standard.</p>
   value: 7
   keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
   equipped: false

@@ -9,7 +9,7 @@ system:
     designed to lay down short, precise bursts of fire.</p>
 
     <p>Marksman Bolt Carbines are fitted with a
-    @UUID[Item.SWEx4ZoVCxd0oz5O]{Monoscope} as standard.</p>
+    @UUID[Compendium.wng-core.items.Item.SWEx4ZoVCxd0oz5O]{Monoscope} as standard.</p>
   value: 6
   keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS
   equipped: false

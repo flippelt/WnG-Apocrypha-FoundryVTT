@@ -9,7 +9,7 @@ system:
   description: >-
     <p>You possess a minor psychic talent, that you’re barely aware of and have
     little hope of controlling.</p><p>You gain the
-    @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER }keyword, and a single minor psychic
+    @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER }keyword, and a single minor psychic
     power. You cannot purchase additional psychic powers. You may only attempt
     to use your power at the Unbound power level. Further, whenever you suffer a
     complication, the GM may spend 1 Ruin to have you roll on the Perils of the

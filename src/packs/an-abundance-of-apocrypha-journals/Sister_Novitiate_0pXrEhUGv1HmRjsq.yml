@@ -69,18 +69,18 @@ pages:
         Ballistic Skill 2, Scholar 1, Weapon Skill 1</td></tr><tr
         style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
-        ABILITY</strong>: @UUID[Item.xPZv5ZtIOug5Vg8h]{Impetuous
+        ABILITY</strong>: @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.xPZv5ZtIOug5Vg8h]{Impetuous
         Fervour}</td></tr><tr style="height:16px"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
-        @UUID[Item.vZp4dj9eXhFcVwOB]{Clothing},
-        @UUID[Item.W028UmFNKkQrUBl6]{Chaplet Ecclesiasticus},
-        @UUID[Item.YXTc35poOQsWeSgD]{Rule of the Sororitas},
-        @UUID[Item.yvO2qu3FjYOs368z]{Carapace Armour},
-        @UUID[Item.JbTzZSQ0FZ4PIjdp]{Autopistol}, 2x
-        @UUID[Item.oDG9YpSKSiSUFLIY]{Frag Grenade}, 2x
-        @UUID[Item.SJ8UaYHEMtF71W1M]{Krak Grenade}, and either:
-        @UUID[Item.fQCOj3mVrhnIEOty]{Autogun} or 
-        @UUID[Item.JlXH8xNwZcDgtfcn]{Sword}</td></tr><tr style="height:16px"><td
+        @UUID[Compendium.wng-core.items.Item.vZp4dj9eXhFcVwOB]{Clothing},
+        @UUID[Compendium.wng-core.items.Item.W028UmFNKkQrUBl6]{Chaplet Ecclesiasticus},
+        @UUID[Compendium.wng-core.items.Item.YXTc35poOQsWeSgD]{Rule of the Sororitas},
+        @UUID[Compendium.wng-core.items.Item.yvO2qu3FjYOs368z]{Carapace Armour},
+        @UUID[Compendium.wng-core.items.Item.JbTzZSQ0FZ4PIjdp]{Autopistol}, 2x
+        @UUID[Compendium.wng-core.items.Item.oDG9YpSKSiSUFLIY]{Frag Grenade}, 2x
+        @UUID[Compendium.wng-core.items.Item.SJ8UaYHEMtF71W1M]{Krak Grenade}, and either:
+        @UUID[Compendium.wng-core.items.Item.fQCOj3mVrhnIEOty]{Autogun} or 
+        @UUID[Compendium.wng-core.items.Item.JlXH8xNwZcDgtfcn]{Sword}</td></tr><tr style="height:16px"><td
         style="width:92.7291%;background-color:rgba(0, 0, 0, 0.2);height:16px"
         colspan="8"><strong>INFLUENCE</strong>: +0</td></tr><tr
         style="height:16px"><td class="table-header"
@@ -127,9 +127,9 @@ pages:
         style="width:92.7291%;height:16px" colspan="8">SUGGESTED
         TALENTS</td></tr><tr style="height:16px"><td
         style="height:15px;width:92.7291%"
-        colspan="8">@UUID[Item.jlrOP1uvd0x0VRiK]{Death Or Glory!},
-        @UUID[Item.ndXKRj7tRorEKRzk]{Orthopraxy},
-        @UUID[Item.5w6YjUogrXbNjgR6]{By His Will}</td></tr></tbody></table>
+        colspan="8">@UUID[Compendium.wng-core.items.Item.jlrOP1uvd0x0VRiK]{Death Or Glory!},
+        @UUID[Compendium.wng-core.items.Item.ndXKRj7tRorEKRzk]{Orthopraxy},
+        @UUID[Compendium.wng-core.items.Item.5w6YjUogrXbNjgR6]{By His Will}</td></tr></tbody></table>
       markdown: ''
     _id: 6VIdIZs0RFiBmFtW
     image: {}

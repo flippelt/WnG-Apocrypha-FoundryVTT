@@ -41,7 +41,7 @@ pages:
         that are nigh-impossible to withstand. For each Exalted Icon you roll on
         the weapon’s ED, you inflict X Mortal Wounds, in addition to any damage
         the attack inflicts.</p><h4>Nemesis</h4><p>Nemesis weapons are created
-        to be bane to daemons. @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMONS }may not
+        to be bane to daemons. @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS }may not
         roll Determination to negate wounds or mortal wounds inflicted by
         Nemesis weapons.</p><h4>Overwhelming</h4><p>The weapon can batter past
         even the most proficient defence. When you make an attack with an

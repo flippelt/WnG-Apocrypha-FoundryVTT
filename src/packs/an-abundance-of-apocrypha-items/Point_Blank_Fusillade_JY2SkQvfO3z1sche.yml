@@ -9,7 +9,7 @@ system:
   description: >-
     <p>You are resolute and steadfast, able to maintain a punishing rate of fire
     even when the enemy is at your throat.</p><p>Any
-    @UUID[Item.wpkWPNKyvh8vv7PC]{LEAGUES OF VOTANN} ranged weapon you wield may
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.wpkWPNKyvh8vv7PC]{LEAGUES OF VOTANN} ranged weapon you wield may
     be fired when you are engaged in melee, as if it had the Pistol trait. If
     the weapon also has the Heavy trait, then the DN of attacks made when
     engaged are increased by +2.</p>

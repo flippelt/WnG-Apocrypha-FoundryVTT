@@ -11,15 +11,15 @@ system:
     support a range of specialised ammunition suited to a variety of target
     profiles.</p>
 
-    <p>A Bolt Sniper Rifle includes a @UUID[Item.SWEx4ZoVCxd0oz5O]{Monoscope},
-    @UUID[Item.j1mPgu7Yvx8rsK8a]{Preysense Sight}, and
-    @UUID[Item.jjy1yKkgFCMusIYv]{Silencer} as standard.</p>
+    <p>A Bolt Sniper Rifle includes a @UUID[Compendium.wng-core.items.Item.SWEx4ZoVCxd0oz5O]{Monoscope},
+    @UUID[Compendium.wng-core.items.Item.j1mPgu7Yvx8rsK8a]{Preysense Sight}, and
+    @UUID[Compendium.wng-core.items.Item.jjy1yKkgFCMusIYv]{Silencer} as standard.</p>
 
     <p>Special: When firing a Bolt Sniper Rifle, choose a single ammo type:
-    @UUID[Item.0pMzaARl6e3AJXpC]{Bolt Sniper Rifle Executioner} (AP -1, +2d to
-    the attack roll and ignore cover), @UUID[Item.OCtUYLP5sIyLQyKZ]{Bolt Sniper
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.0pMzaARl6e3AJXpC]{Bolt Sniper Rifle Executioner} (AP -1, +2d to
+    the attack roll and ignore cover), @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.OCtUYLP5sIyLQyKZ]{Bolt Sniper
     Rifle Hyperfrag} (add the Blast [2] trait), or
-    @UUID[Item.WgYUU4DG6tiQ3CIQ]{Bolt Sniper Rifle Mortis} (+1ED, AP -2, add
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.WgYUU4DG6tiQ3CIQ]{Bolt Sniper Rifle Mortis} (+1ED, AP -2, add
     Inflict [Poisoned 5] trait)</p>
   value: 8
   keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS

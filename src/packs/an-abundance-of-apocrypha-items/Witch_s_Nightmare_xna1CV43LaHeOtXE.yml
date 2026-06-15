@@ -8,8 +8,8 @@ system:
   requirements: Pariah species
   description: >-
     <p>Your presence is an impossible void to psykers, and they cannot bear your
-    presence.<br>Creatures possessing the @UUID[Item.eeSvJvzZBjQvtZq0]{DAEMON}or
-    @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER}keywords must make a Terror test with a
+    presence.<br>Creatures possessing the @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON}or
+    @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER}keywords must make a Terror test with a
     DN equal to 2+Rank when they encounter you, even if they&rsquo;re normally
     immune to terror. As you cause terror to them, you are immune to fear,
     terror, or Intimidation Interaction attacks caused by daemons and

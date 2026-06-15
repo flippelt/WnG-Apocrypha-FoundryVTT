@@ -10,10 +10,10 @@ system:
     target acquisition.</p>
 
     <p>Oculus Bolt Carbines are fitted with a
-    @UUID[Item.j1mPgu7Yvx8rsK8a]{Preysense Sight} as standard.</p>
+    @UUID[Compendium.wng-core.items.Item.j1mPgu7Yvx8rsK8a]{Preysense Sight} as standard.</p>
 
     <p>Special: If used by a character equipped with a
-    @UUID[Item.Pvl31AN9paSaDLBk]{Divinator-class Auspex}, attacks with an
+    Divinator-class Auspex, attacks with an
     Occulus Bolt Carbine ignore all modifiers for the target being in cover.</p>
   value: 6
   keywords: BOLT, ADEPTUS ASTARTES, PRIMARIS

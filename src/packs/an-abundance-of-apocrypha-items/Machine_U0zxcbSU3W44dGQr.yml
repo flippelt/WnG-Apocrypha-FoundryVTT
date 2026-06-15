@@ -10,7 +10,7 @@ system:
   cost: 0
   requirements: ''
   description: >-
-    <p>Ironkin receive the @UUID[Item.6cCDAkh4x1DSOt5f]{ROBOT }keyword. You are
+    <p>Ironkin receive the @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.6cCDAkh4x1DSOt5f]{ROBOT }keyword. You are
     immune to the Bleeding and Poisoned conditions and cannot suffocate. You are
     healed using the Tech skill instead of Medicae.</p>
   display: true

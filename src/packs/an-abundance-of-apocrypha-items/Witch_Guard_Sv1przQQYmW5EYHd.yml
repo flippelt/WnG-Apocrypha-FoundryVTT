@@ -11,7 +11,7 @@ system:
   requirements: ''
   description: >-
     <p>You are trained to react swiftly to psychic phenomena. When a
-    @UUID[Item.JVz6FoVEc7p1DJUj]{PSYKER }within Double Rank metres of you
+    @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER }within Double Rank metres of you
     attempts to use a Psychic Power, or suffers Perils of the Warp, you may use
     your Reflexive action to immediately attack that Psyker. If the attack
     inflicts one or more Wounds, the  psychic power and any accompanying Perils

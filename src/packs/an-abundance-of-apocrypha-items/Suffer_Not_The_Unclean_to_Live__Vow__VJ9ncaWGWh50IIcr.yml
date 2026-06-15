@@ -13,7 +13,7 @@ system:
     number of points of Glory equal to your Rank.<br>However, if you can Charge
     an enemy when you begin your turn, you must do so.<br>You may only have one
     Vow talent. During downtime, you may replace this talent with any other
-    @UUID[Item.d3vDOtbmIhagzSuf]{BLACK TEMPLARS}&nbsp;talent marked as a
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.d3vDOtbmIhagzSuf]{BLACK TEMPLARS}&nbsp;talent marked as a
     Vow.&nbsp;</p>
   display: true
 effects: []

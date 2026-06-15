@@ -10,9 +10,9 @@ system:
   cost: 0
   requirements: ''
   description: >-
-    <p>When you attempt to repair @UUID[Item.sZ1aS0kdkGJhzlyy]{T'AU}technology,
+    <p>When you attempt to repair @UUID[Compendium.wng-core.items.Item.sZ1aS0kdkGJhzlyy]{T'AU}technology,
     or attempt to operate a complex piece of
-    @UUID[Item.sZ1aS0kdkGJhzlyy]{T'AU}technology using a Tech test, you may
+    @UUID[Compendium.wng-core.items.Item.sZ1aS0kdkGJhzlyy]{T'AU}technology using a Tech test, you may
     re-roll a number of dice equal to twice your Rank.</p>
   display: true
   abilityType: ''

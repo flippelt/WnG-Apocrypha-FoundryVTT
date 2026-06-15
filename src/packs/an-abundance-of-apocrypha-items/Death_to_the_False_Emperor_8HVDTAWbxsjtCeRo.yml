@@ -9,7 +9,7 @@ system:
   description: >-
     <p>Endless is your spite. Eternal is your hate.<br>When you make a
     successful melee attack against a character with the
-    @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIUM}keyword and roll a 6 on the Wrath die,
+    @UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM}keyword and roll a 6 on the Wrath die,
     you may choose to make an additional melee attack instead of inflicting a
     critical hit. This additional attack cannot be used to gain more
     attacks.</p>

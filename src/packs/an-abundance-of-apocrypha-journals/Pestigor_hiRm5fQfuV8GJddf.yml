@@ -51,12 +51,12 @@ pages:
         Intimidation 1, Weapon Skill 1</td></tr><tr
         style="height:16px;background-color:rgba(0, 0, 0, .2)"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>ARCHETYPE
-        ABILITY</strong>: @UUID[Item.2TojZpGC2x5HEZb4]{Inured to
+        ABILITY</strong>: @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.2TojZpGC2x5HEZb4]{Inured to
         Suffering}</td></tr><tr style="height:16px"><td
         style="width:92.7291%;height:16px" colspan="8"><strong>WARGEAR</strong>:
-        @UUID[Item.fLx8DzWDgWDZIMSK]{Flak Armour},
-        @UUID[Item.fQCOj3mVrhnIEOty]{Autogun},
-        @UUID[Item.RYl5lvSY97e9x82z]{Plague Knife}</td></tr><tr
+        @UUID[Compendium.wng-core.items.Item.fLx8DzWDgWDZIMSK]{Flak Armour},
+        @UUID[Compendium.wng-core.items.Item.fQCOj3mVrhnIEOty]{Autogun},
+        @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RYl5lvSY97e9x82z]{Plague Knife}</td></tr><tr
         style="height:16px"><td style="width:92.7291%;background-color:rgba(0,
         0, 0, 0.2);height:16px" colspan="8"><strong>INFLUENCE</strong>:
         +1</td></tr><tr style="height:16px"><td class="table-header"
@@ -103,9 +103,9 @@ pages:
         style="width:92.7291%;height:16px;background-color:#301444"
         colspan="8">SUGGESTED TALENTS</td></tr><tr style="height:16px"><td
         style="height:15px;width:92.7291%"
-        colspan="8">@UUID[Item.HYuKXdU1r5yNyRU1]{Die Hard},
-        @UUID[Item.kj8Jm2JKxELokK4X]{Let The Galaxy Burn},
-        @UUID[Item.TLV6c8FJhbKFKKUK]{Tenacious}</td></tr></tbody></table>
+        colspan="8">@UUID[Compendium.wng-core.items.Item.HYuKXdU1r5yNyRU1]{Die Hard},
+        @UUID[Compendium.wng-core.items.Item.kj8Jm2JKxELokK4X]{Let The Galaxy Burn},
+        @UUID[Compendium.wng-core.items.Item.TLV6c8FJhbKFKKUK]{Tenacious}</td></tr></tbody></table>
       markdown: ''
     _id: 6VIdIZs0RFiBmFtW
     image: {}

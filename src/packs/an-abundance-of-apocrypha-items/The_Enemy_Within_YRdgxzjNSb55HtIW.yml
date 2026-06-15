@@ -12,7 +12,7 @@ system:
   description: >-
     <p>While disguised, you gain +Rank bonus dice on all Deception tests to pass
     as an Imperial citizen. When no longer disguised, you gain +Rank bonus dice
-    on all Interaction Attacks against @UUID[Item.c1eM1YGFaqKckprQ]{IMPERIAL}
+    on all Interaction Attacks against @UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIAL}
     characters.</p><p>In addition, you gain 1d3 Corruption.</p>
   display: true
   abilityType: ''

@@ -11,7 +11,7 @@ system:
   requirements: ''
   description: >-
     <p>When within hearing range of a character with the
-    @UUID[Item.TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM}keyword, you increase your
+    @UUID[Compendium.wng-core.items.Item.TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM}keyword, you increase your
     Resolve by +Rank. In addition, if that Adeptus Ministorum character has
     suffered any wounds during the current scene, your Determination is
     increased by +Rank while you remain within 10 metres of them</p>
