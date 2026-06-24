@@ -89,12 +89,12 @@ pages:
 
         <p><strong>Abhorrent Presence:</strong> +2DN to all interaction tests
         with non-pariah characters. +4DN to interaction tests with
-        @Item[JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce their Influence by
+        @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce their Influence by
         1.</p>
 
         <p><strong>Psychic Abomination:</strong> A pariah cannot be directly
         affected by psychic powers or other warp phenomena, whether positive or
-        negative. A pariah can never gain the @Item[JVz6FoVEc7p1DJUj]{PSYKER}
+        negative. A pariah can never gain the @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER}
         keyword, nor can they ever gain Faith points or any other ability that
         requires drawing upon the Warp for power. Any psychic powers attempted
         or targeted within a number of metres of the Pariah equal to their
@@ -102,7 +102,7 @@ pages:
 
         <p><strong>Untouchable:</strong> A pariah cannot gain Corruption from
         warp phenomena, and they automatically succeed at Resolve tests caused
-        by @Item[eeSvJvzZBjQvtZq0]{DAEMONS}.</p>
+        by @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS}.</p>
     _id: TgId5n8v6aobrm24
     image: {}
     video:
@@ -207,12 +207,12 @@ pages:
 
         <p><strong>Abhorrent Presence:</strong> +2DN to all interaction tests
         with non-pariah characters. +4DN to interaction tests with
-        @Item[JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce their Influence by
+        @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce their Influence by
         1.</p>
 
         <p><strong>Psychic Abomination:</strong> A pariah cannot be directly
         affected by psychic powers or other warp phenomena, whether positive or
-        negative. A pariah can never gain the @Item[JVz6FoVEc7p1DJUj]{PSYKER}
+        negative. A pariah can never gain the @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER}
         keyword, nor can they ever gain Faith points or any other ability that
         requires drawing upon the Warp for power. Any psychic powers attempted
         or targeted within a number of metres of the Pariah equal to their
@@ -220,7 +220,7 @@ pages:
 
         <p><strong>Untouchable:</strong> A pariah cannot gain Corruption from
         warp phenomena, and they automatically succeed at Resolve tests caused
-        by @Item[eeSvJvzZBjQvtZq0]{DAEMONS}.</p>
+        by @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS}.</p>
     _id: E7t4I3XVSxoH4I0J
     image: {}
     video:

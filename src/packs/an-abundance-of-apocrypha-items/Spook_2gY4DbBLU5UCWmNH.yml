@@ -51,16 +51,16 @@ system:
     Imperium.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">When taken by a </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">PSYKER</span><span class="fontstyle0">, Spook
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER}</span><span class="fontstyle0">, Spook
     adds a +2d bonus to all Psychic Mastery tests attempted in the next hour,
     but they also add +20 to all rolls on the Perils of the Warp table. At the
     end of the hour, the character must take a DN 5 Corruption
     test.</span></p><p></p><p><span class="fontstyle0">When taken by a
-    non-</span><span class="fontstyle2" style="color:rgb(112,0,0);">PSYKER
+    non-</span><span class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER}
     </span><span class="fontstyle0">keyword, the character must immediately take
     a DN 5 Corruption test, with failure adding [[/r 1d3]] Corruption instead of
     1. If the character succeeds, they gain the </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">PSYKER </span><span class="fontstyle0">keyword,
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} </span><span class="fontstyle0">keyword,
     and a Minor Psychic Power (randomly determined using the table on page 258
     of the </span><span class="fontstyle3">Wrath & Glory </span><span
     class="fontstyle0">rulebook) for the next [[/r 1d3+2]] hours. A single

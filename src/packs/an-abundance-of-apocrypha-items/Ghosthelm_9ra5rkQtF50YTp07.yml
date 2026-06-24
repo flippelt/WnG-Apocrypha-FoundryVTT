@@ -55,7 +55,7 @@ system:
     hostile Warp entities.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">Any </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">DAEMON </span><span class="fontstyle0">or other
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON} </span><span class="fontstyle0">or other
     warp entity attempting to perceive, attack, or otherwise interact with a
     Farseer wearing a Ghosthelm suffers a +2DN penalty to any tests they
     attempt. In addition, the Farseer no longer rolls on the Perils of the Warp

@@ -51,7 +51,7 @@ system:
     society. The character
     suffers&nbsp;+2DN&nbsp;on&nbsp;all&nbsp;non-hostile&nbsp;Interaction tests
     made when&nbsp;dealing with characters who have&nbsp;the
-    @Item[qb0rybF2RrcWP7e9]{SCUM} keyword.</p>
+    @UUID[Compendium.wng-core.items.Item.qb0rybF2RrcWP7e9]{SCUM} keyword.</p>
   display: true
   abilityType: ''
   traits: []

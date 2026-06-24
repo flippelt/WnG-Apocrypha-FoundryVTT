@@ -20,7 +20,7 @@ system:
     pathogens.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">Any living creature without the </span><span
-    class="fontstyle2" style="color:rgb(112,0,0);">NURGLE </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.BSkZI5bwVrdTEUGP]{NURGLE} </span><span
     class="fontstyle0">keyword within 7m of you at the start of their turn must
     roll [[/r 1d6]]. If an Exalted Icon is rolled, they immediately suffer the
     </span><span class="fontstyle3">Poisoned (7) </span><span

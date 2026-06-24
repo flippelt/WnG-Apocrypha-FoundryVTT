@@ -14,7 +14,7 @@ system:
   rarity: very-rare
   description: >-
     <p>A bulky plasma weapon built to be used one-handed by Primaris Inceptors,
-    a @Item[QmxMWePZwTGuhGzA]{Plasma Exterminator} is short ranged but extremely
+    a @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QmxMWePZwTGuhGzA]{Plasma Exterminator} is short ranged but extremely
     powerful.</p>
   value: 8
   keywords: PLASMA, ADEPTUS ASTARTES, PRIMARIS

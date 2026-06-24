@@ -54,7 +54,7 @@ system:
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">A character wearing a psychic hood may attempt to Deny
     the Witch as a Reflexive Action in response to an enemy </span><span
-    class="fontstyle2" style="color:rgb(112,0,0);">PSYKER </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} </span><span
     class="fontstyle0">using a power, though they may not use a psychic power
     during their following turn. Further, they may add +Double Rank bonus dice
     on their Psychic Mastery test to use Deny the Witch.</span> <br style="

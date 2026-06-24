@@ -16,9 +16,9 @@ system:
   cost: 0
   requirements: ''
   description: >-
-    <p>When you wield a pair of @Item[J0Xgl53Iv9VYMCvl]{Assault Bolters} or
-    @Item[QmxMWePZwTGuhGzA]{Plasma Exterminators} you may benefit from the
-    @Item[aX9bq2t854Kb7L0i]{Dual Wield} or @Item[PB5cA0QmFNcxpHm4]{Simultaneous
+    <p>When you wield a pair of @UUID[Compendium.wng-core.items.Item.J0Xgl53Iv9VYMCvl]{Assault Bolters} or
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.QmxMWePZwTGuhGzA]{Plasma Exterminators} you may benefit from the
+    @UUID[Compendium.wng-core.items.Item.aX9bq2t854Kb7L0i]{Dual Wield} or @UUID[Compendium.wng-core.items.Item.PB5cA0QmFNcxpHm4]{Simultaneous
     Strike} talents even though those weapons lack the Pistol trait.</p>
   display: true
   abilityType: ''

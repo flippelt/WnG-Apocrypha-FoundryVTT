@@ -49,9 +49,9 @@ system:
     a desire to experience ever-greater sensations, and no debauchery is beneath
     their appetites.</p>
 
-    <p>Characters with the @Item[zO44i898ToYrBKqt]{EMPEROR'S CHILDREN} keyword
-    must take @Item[SQEgHsRqEIlQqU6b]{SLAANESH} as their
-    @Item[TXRdb9GJ55fjSODX]{[MARK OF CHAOS]} keyword.</p>
+    <p>Characters with the @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.zO44i898ToYrBKqt]{EMPEROR'S CHILDREN} keyword
+    must take @UUID[Compendium.wng-core.items.Item.SQEgHsRqEIlQqU6b]{SLAANESH} as their
+    @UUID[Compendium.wng-core.items.Item.TXRdb9GJ55fjSODX]{[MARK OF CHAOS]} keyword.</p>
 
     <h5>In Pursuit of Perfection</h5>
 

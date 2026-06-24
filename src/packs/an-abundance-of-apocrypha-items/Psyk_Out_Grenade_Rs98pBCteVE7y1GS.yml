@@ -25,11 +25,11 @@ system:
     devastating.</span></p><p></p><p><span
     class="fontstyle2"><strong>Special</strong>: </span><span class="fontstyle2"
     style="color:rgb(112,0,0);">PSYKERS </span><span class="fontstyle0">and
-    </span><span class="fontstyle2" style="color:rgb(112,0,0);">DAEMONS
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS}
     </span><span class="fontstyle0">suffer 1 Mortal Wound for each Exalted Icon
     rolled on the grenades ED. Further, any psychic powers or effects in the
     blast radius are immediately ended, and any </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">PSYKER </span><span class="fontstyle0">within
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} </span><span class="fontstyle0">within
     the blast will automatically fail any Psychic Mastery test attempted until
     the end of their next turn.</span> <br style=" font-style: normal;
     font-variant: normal; font-weight: normal; letter-spacing: normal;

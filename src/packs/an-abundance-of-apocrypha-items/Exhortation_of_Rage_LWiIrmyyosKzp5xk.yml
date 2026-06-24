@@ -14,7 +14,7 @@ system:
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">If this Prayer is successful, then while it remains in
     effect, whenever you or any ally with the </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">IMPERIUM </span><span class="fontstyle0">keyword
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM} </span><span class="fontstyle0">keyword
     within 12m of you makes a successful melee attack and roll a 6 on the Wrath
     die, they may choose to make an additional melee attack instead of
     inflicting a critical hit. These additional attacks cannot themselves grant

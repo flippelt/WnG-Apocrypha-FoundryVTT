@@ -77,10 +77,10 @@ system:
   requirements: ''
   description: >-
     <p>+1d to all melee attacks against characters possessing the
-    @Item[Vf7SDGLw2rcDMTda]{ORK} or @Item[TujuT6TkhTSvZJLF]{CHAOS} keywords.
+    @UUID[Compendium.wng-core.items.Item.Vf7SDGLw2rcDMTda]{ORK} or @UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS} keywords.
     +2DN penalty on all non-hostile Interaction skill tests vs. targets
-    possessing the @Item[Vf7SDGLw2rcDMTda]{ORK} or
-    @Item[TujuT6TkhTSvZJLF]{CHAOS} keywords.</p>
+    possessing the @UUID[Compendium.wng-core.items.Item.Vf7SDGLw2rcDMTda]{ORK} or
+    @UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS} keywords.</p>
   display: true
   abilityType: ''
   traits: []

@@ -16,17 +16,17 @@ system:
     <p>Your disdain for sorcery is palpable, repelling the vile arts of wyrd and
     witch.</p>
 
-    <p>Once per battle, when an enemy @Item[JVz6FoVEc7p1DJUj]{PSYKER} is within
+    <p>Once per battle, when an enemy @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} is within
     your line of sight at the start of your turn, you may add +Double Rank to
     your Speed. In addition, you may reroll all ED which roll a 1 on melee
-    attacks made against @Item[JVz6FoVEc7p1DJUj]{PSYKERS}.</p>
+    attacks made against @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKERS}.</p>
 
     <p>However, you add +2DN to all non-attack skill tests attempted while you
-    can see a @Item[JVz6FoVEc7p1DJUj]{PSYKER}. You may only have one Vow
+    can see a @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER}. You may only have one Vow
     talent.</p>
 
     <p>During downtime, you may replace this talent with any other
-    @Item[d3vDOtbmIhagzSuf]{BLACK TEMPLARS} talent marked as a Vow.</p>
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.d3vDOtbmIhagzSuf]{BLACK TEMPLARS} talent marked as a Vow.</p>
   display: true
 _stats:
   systemId: wrath-and-glory

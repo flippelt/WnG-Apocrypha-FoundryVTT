@@ -48,7 +48,7 @@ system:
     <p>Forgeworlders are unfamiliar with the ways of the Ministorum and the
     Imperial Creed and suffer +2DN on all Scholar tests relating to the Imperial
     Creed. The character may not take any&nbsp;archetypes with the
-    @Item[TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM} keyword.</p>
+    @UUID[Compendium.wng-core.items.Item.TleOqKjYft44AGSQ]{ADEPTUS MINISTORUM} keyword.</p>
   display: true
   abilityType: ''
   traits: []

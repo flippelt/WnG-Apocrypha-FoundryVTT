@@ -21,7 +21,7 @@ system:
     psykers.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">You may activate this as an Action. Each </span><span
-    class="fontstyle2" style="color:rgb(112,0,0);">PSYKER </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} </span><span
     class="fontstyle0">within 18m must immediately pass a Conviction test or
     suffer [[/r 3d3]] Mortal Wounds. Once used, you cannot use this item again
     until after your next Regroup.</span> <br style=" font-style: normal;

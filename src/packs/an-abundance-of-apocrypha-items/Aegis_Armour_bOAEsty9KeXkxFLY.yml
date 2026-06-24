@@ -18,7 +18,7 @@ system:
     </span><span class="fontstyle0">Enemy psychic powers which target the wearer
     suffer +2DN. In addition, the wearer adds +Rank bonus dice when rolling
     Determination against attacks from a </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">DAEMON</span><span class="fontstyle0">.</span>
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON}</span><span class="fontstyle0">.</span>
     </p>
   value: 9
   keywords: POWERED, IMPERIUM, ADEPTUS ASTARTES, GREY KNIGHTS

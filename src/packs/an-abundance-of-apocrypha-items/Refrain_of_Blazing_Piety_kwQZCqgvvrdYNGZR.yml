@@ -14,10 +14,10 @@ system:
     can cause heretics to combust.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">If this Prayer is successful, a single enemy lacking the
-    </span><span class="fontstyle2" style="color:rgb(112,0,0);">IMPERIUM
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM}
     </span><span class="fontstyle0">keyword within 12m of you suffers 1d3 Mortal
     Wounds. If the enemy has the </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">CHAOS </span><span class="fontstyle0">keyword,
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS} </span><span class="fontstyle0">keyword,
     they instead suffer 2d3 Mortal Wounds. Increase the number of Mortal Wounds
     by +1 per Exalted Icon shifted.</span> <br style=" font-style: normal;
     font-variant: normal; font-weight: normal; letter-spacing: normal;

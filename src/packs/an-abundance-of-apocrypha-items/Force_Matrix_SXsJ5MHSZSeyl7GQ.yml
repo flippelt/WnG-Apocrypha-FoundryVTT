@@ -21,10 +21,10 @@ system:
     Speculum.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">Whenever a </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">PSYKER </span><span class="fontstyle0">within
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} </span><span class="fontstyle0">within
     25m of the wearer attempts to use a psychic power (other than Psyniscience
     or Deny the Witch), the Force Matrix gains a single charge. If a
-    </span><span class="fontstyle2" style="color:rgb(112,0,0);">PSYKER
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER}
     </span><span class="fontstyle0">within that range suffers psychic phenomena,
     then the Force Matrix gains one additional charge. Charges may be used as
     Reloads for the Animus Speculum. Charges gained dissipate during a Regroup

@@ -16,9 +16,9 @@ system:
   description: >-
     <p>When you make a ranged attack and do not move during your turn, you
     increase the Salvo of your weapon by +Rank. In addition, when you wield a
-    pair of @Item[O3nHflHmV3A3mlkw]{Auto-Bolstorm Gauntlet} or
-    @Item[1lQhZ1uzv8yZ9KrK]{Flamestorm Gauntlet} you may benefit from the
-    @Item[aX9bq2t854Kb7L0i]{Dual Wield} or @Item[PB5cA0QmFNcxpHm4]{Simultaneous
+    pair of @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.O3nHflHmV3A3mlkw]{Auto-Bolstorm Gauntlet} or
+    @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.1lQhZ1uzv8yZ9KrK]{Flamestorm Gauntlet} you may benefit from the
+    @UUID[Compendium.wng-core.items.Item.aX9bq2t854Kb7L0i]{Dual Wield} or @UUID[Compendium.wng-core.items.Item.PB5cA0QmFNcxpHm4]{Simultaneous
     Strike} talents even though those weapons lack the Pistol trait</p>
   display: true
   abilityType: ''

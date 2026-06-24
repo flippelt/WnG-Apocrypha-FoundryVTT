@@ -86,7 +86,7 @@ system:
     <p>You have been taught the secrets of daemon-kind to best understand how to
     end them.</p>
 
-    <p>When attacking a creature with the &nbsp;@Item[eeSvJvzZBjQvtZq0]{DAEMON}
+    <p>When attacking a creature with the &nbsp;@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON}
     keyword in melee combat, you add +Rank ED to the attack&rsquo;s damage. You
     also add +Rank to your Conviction.</p>
 

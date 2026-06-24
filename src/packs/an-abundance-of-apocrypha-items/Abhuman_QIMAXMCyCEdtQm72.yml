@@ -48,7 +48,7 @@ system:
   requirements: ''
   description: >-
     <p>+1DN to all Interaction tests with characters possessing the
-    @Item[c1eM1YGFaqKckprQ]{IMPERIUM} keyword.</p>
+    @UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM} keyword.</p>
   display: true
   abilityType: ''
   traits: []

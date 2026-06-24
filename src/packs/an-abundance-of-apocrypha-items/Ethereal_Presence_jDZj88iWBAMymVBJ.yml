@@ -16,9 +16,9 @@ system:
   cost: 0
   requirements: ''
   description: >-
-    <p>@Item[F7FRdD4PlRSmS3xN]{T'AU} characters within 12m always add bonus dice
+    <p>@UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.F7FRdD4PlRSmS3xN]{T'AU} characters within 12m always add bonus dice
     equal to twice the Ethereal&rsquo;s Rank to their Resolve and Conviction
-    tests. @Item[F7FRdD4PlRSmS3xN]{T'AU} characters cannot willingly harm an
+    tests. @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.F7FRdD4PlRSmS3xN]{T'AU} characters cannot willingly harm an
     Ethereal, and must pass a DN 5 Resolve test or become Pinned if their
     actions allow an Ethereal to be harmed.</p>
   display: true

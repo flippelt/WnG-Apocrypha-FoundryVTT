@@ -75,7 +75,7 @@ system:
   requirements: ''
   description: >-
     <p>+2DN to all interaction tests with non-pariah characters. +4DN to
-    interaction tests with @Item[JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce
+    interaction tests with @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKERS}. Pariahs reduce
     their Influence by 1.</p>
   display: true
   abilityType: ''

@@ -13,7 +13,7 @@ system:
   quantity: 1
   rarity: very-rare
   description: >-
-    <p>This variant of the @Item[bYzrbZWvnuSTKnuv]{Plasma Incinerator}
+    <p>This variant of the @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.bYzrbZWvnuSTKnuv]{Plasma Incinerator}
     incorporates fast-targeting systems and stabilizing mechanism that allows it
     to unleash bursts of accurate fire on the move, at the cost of some stopping
     power.</p>

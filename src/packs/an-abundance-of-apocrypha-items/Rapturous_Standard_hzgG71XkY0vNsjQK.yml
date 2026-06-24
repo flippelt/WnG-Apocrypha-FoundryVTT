@@ -18,11 +18,11 @@ system:
     rapturous slaughter. The air around the standard is filled with their
     ecstatic howls and overpowering waves of heady, exotic
     musk.</span></p><p></p><p><span class="fontstyle2"><strong>Effect</strong>:
-    </span><span class="fontstyle2" style="color:rgb(112,0,0);">SLAANESH DAEMONS
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.SQEgHsRqEIlQqU6b]{SLAANESH} @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS}
     </span><span class="fontstyle0">within 6m of this banner may re-roll any 1s
     when rolling Determination. Further, you may unleash the banner’s power as a
     Combat Action. Until the start of your next turn, all </span><span
-    class="fontstyle2" style="color:rgb(112,0,0);">SLAANESH </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.SQEgHsRqEIlQqU6b]{SLAANESH} </span><span
     class="fontstyle0">allies within 6m automatically pass Resolve tests, and
     reduce all Shock they suffer to 0. Once you have unleashed the banner’s
     power, it may not be unleashed again until after your next

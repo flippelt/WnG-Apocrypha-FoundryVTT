@@ -14,7 +14,7 @@ system:
     THE THRONE:</strong> </span><span class="fontstyle0">At the start of the
     first round of combat, or when you enter combat, enemies who can see you who
     lack the </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">IMPERIUM </span><span class="fontstyle0">keyword
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM} </span><span class="fontstyle0">keyword
     must pass a DN 2 +Rank </span><span class="fontstyle3">Fear </span><span
     class="fontstyle0">test.</span> <br style=" font-style: normal;
     font-variant: normal; font-weight: normal; letter-spacing: normal;

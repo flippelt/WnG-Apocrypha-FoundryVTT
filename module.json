@@ -2,7 +2,7 @@
   "id": "wng-apocrypha",
   "title": "Wrath and Glory - An Abundance of Apocrypha",
   "description": "A module containing the An Abundance of Apocrypha content for Wrath &amp; Glory System. The optional <b>wng-core</b> module is strongly recommended: without it, item/keyword links and many icons on the bundled actors will not resolve (the content still works, but appears unlinked).",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "11",
     "verified": "13",

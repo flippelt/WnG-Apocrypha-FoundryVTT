@@ -61,7 +61,7 @@ system:
       display: Nemesis
       description: >-
         Nemesis weapons are created to be bane to daemons.
-        @Item[eeSvJvzZBjQvtZq0]{DAEMON} may not roll Determination to negate
+        @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON} may not roll Determination to negate
         wounds or mortal wounds inflicted by Nemesis weapons.
   upgrades: []
   bonus:

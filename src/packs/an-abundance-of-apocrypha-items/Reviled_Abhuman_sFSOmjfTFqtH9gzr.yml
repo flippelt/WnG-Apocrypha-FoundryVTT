@@ -48,7 +48,7 @@ system:
   requirements: ''
   description: >-
     <p>+2DN to all Interaction tests with characters who do not possess the
-    @Item[TujuT6TkhTSvZJLF]{CHAOS} keyword.</p>
+    @UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS} keyword.</p>
   display: true
   abilityType: ''
   traits: []

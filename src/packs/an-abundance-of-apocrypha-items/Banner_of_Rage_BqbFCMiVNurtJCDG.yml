@@ -18,11 +18,11 @@ system:
     anger and bloodlust which beat upon the minds of those nearby, driving them
     into a killing frenzy.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">KHORNE DAEMONS </span><span
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.mqwRRs7PGybjDZRj]{KHORNE} @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS} </span><span
     class="fontstyle0">within 8m of this banner may re-roll any 1s when rolling
     Determination. Further, you may unleash the banner’s power as a Combat
     Action. When the banner is unleashed, all </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">CHAOS </span><span class="fontstyle0">allies
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS} </span><span class="fontstyle0">allies
     within 8m immediately become </span><span
     class="fontstyle3">Frenzied</span><span class="fontstyle0">. Once you have
     unleashed the banner’s power, it may not be unleashed again until after your

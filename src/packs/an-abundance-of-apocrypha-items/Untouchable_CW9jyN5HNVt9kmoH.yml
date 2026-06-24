@@ -16,7 +16,7 @@ system:
   description: >-
     <p>A pariah cannot gain Corruption from&nbsp;warp phenomena, and they
     automatically&nbsp;succeed at Resolve tests caused by
-    @Item[eeSvJvzZBjQvtZq0]{DAEMONS}.</p>
+    @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS}.</p>
   display: true
   abilityType: ''
   traits: []
