@@ -93,7 +93,7 @@ system:
   description: >-
     <p>The&nbsp;character is filled with holy hatred&nbsp;and fury. They receive
     +1 to&nbsp;Resolve and Conviction, and +1d&nbsp;on all Weapon Skill tests
-    made to&nbsp;attack enemies with the @Item[kZUQtnE0gqH81t98]{HERETIC}
+    made to&nbsp;attack enemies with the @UUID[Compendium.wng-core.items.Item.kZUQtnE0gqH81t98]{HERETIC}
     keyword.</p>
   display: true
   abilityType: ''

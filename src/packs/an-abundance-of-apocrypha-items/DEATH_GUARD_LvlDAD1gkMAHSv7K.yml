@@ -20,8 +20,8 @@ system:
     were not deserving of freedom, and this shift was accompanied by unleashing
     armouries of proscribed toxic and radioactive weaponry.</p>
 
-    <p>Characters with the @Item[LvlDAD1gkMAHSv7K]{DEATH GUARD} keyword must
-    take @Item[BSkZI5bwVrdTEUGP]{NURGLE} as their @Item[TXRdb9GJ55fjSODX]{[MARK
+    <p>Characters with the @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.LvlDAD1gkMAHSv7K]{DEATH GUARD} keyword must
+    take @UUID[Compendium.wng-core.items.Item.BSkZI5bwVrdTEUGP]{NURGLE} as their @UUID[Compendium.wng-core.items.Item.TXRdb9GJ55fjSODX]{[MARK
     OF CHAOS]} keyword.</p>
 
     <h5>Inexorable Advance</h5>

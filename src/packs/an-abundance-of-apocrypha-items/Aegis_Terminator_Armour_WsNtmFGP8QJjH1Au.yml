@@ -17,7 +17,7 @@ system:
     Determination against Mortal Wounds. Further, enemy psychic powers which
     target the wearer suffer +2DN. Finally, the wearer adds +Rank bonus dice
     when rolling Determination against any attack from a </span><span
-    class="fontstyle2" style="color:rgb(112,0,0);">DAEMON</span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON}</span><span
     class="fontstyle0">.</span> </p>
   value: 11
   keywords: POWERED, GREY KNIGHTS

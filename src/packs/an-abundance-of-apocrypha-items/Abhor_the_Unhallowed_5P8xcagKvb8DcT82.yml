@@ -51,7 +51,7 @@ system:
     <p>The character is filled with an&nbsp;instinctive revulsion for the
     unholy&nbsp;or unclean. They suffer +1DN on&nbsp;all Scholar or Tech tests
     relating to&nbsp;items or characters with the
-    @Item[kZUQtnE0gqH81t98]{HERETIC} or @Item[TujuT6TkhTSvZJLF]{CHAOS} keywords,
+    @UUID[Compendium.wng-core.items.Item.kZUQtnE0gqH81t98]{HERETIC} or @UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS} keywords,
     or&nbsp;with any keyword belonging to a&nbsp;Xenos species.</p>
   display: true
   abilityType: ''

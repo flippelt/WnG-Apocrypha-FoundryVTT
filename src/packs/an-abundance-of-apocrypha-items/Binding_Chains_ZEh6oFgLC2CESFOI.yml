@@ -78,13 +78,13 @@ system:
     containment, and binding of daemons.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">When these chains are used to bind a living creature, any
-    </span><span class="fontstyle2" style="color:rgb(112,0,0);">DAEMON
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON}
     </span><span class="fontstyle0">summoned into or possessing that creature is
     </span><span class="fontstyle3">Restrained </span><span
     class="fontstyle0">and suffers +4DN on any Willpower tests to break free. If
     you wrap the chains around yourself, you gain +3 bonus dice on any Opposed
     Willpower test made against a </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">DAEMON </span><span
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON} </span><span
     class="fontstyle0">attempting to possess you and take control.</span> <br
     style=" font-style: normal; font-variant: normal; font-weight: normal;
     letter-spacing: normal; line-height: normal; orphans: 2; text-align:

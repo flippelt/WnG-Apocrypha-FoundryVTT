@@ -18,7 +18,7 @@ system:
     check until the time is ripe to send disease and decay scything through the
     enemy ranks.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">NURGLE DAEMONS </span><span
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.BSkZI5bwVrdTEUGP]{NURGLE} @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS} </span><span
     class="fontstyle0">within 7m of this banner may re-roll any 1s when rolling
     Determination. Further, you may unleash the banner’s power as a Combat
     Action. This counts as a ranged attack with the profile below. Once you have

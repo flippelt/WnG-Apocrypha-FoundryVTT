@@ -22,7 +22,7 @@ system:
     </span><span class="fontstyle0">*5; Power Field</span></p><p></p><p><span
     class="fontstyle2"><strong>Daemonbane</strong>: </span><span
     class="fontstyle0">Any creature with the </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">DAEMON </span><span class="fontstyle0">keyword
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON} </span><span class="fontstyle0">keyword
     attempting to attack or interact with Pentagrammic Wards (or something
     warded with them) must take a </span><span class="fontstyle3">Terror
     </span><span class="fontstyle0">test (DN 5). Pentagrammic wards provide no

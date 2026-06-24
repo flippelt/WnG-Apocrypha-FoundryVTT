@@ -15,7 +15,7 @@ system:
     class="fontstyle2"><strong>GUARDIAN</strong>: </span><span
     class="fontstyle0">At the start of the first round of combat, or when you
     enter combat, you may select a single ally with the </span><span
-    class="fontstyle2" style="color:rgb(112,0,0);">IMPERIUM </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.c1eM1YGFaqKckprQ]{IMPERIUM} </span><span
     class="fontstyle0">keyword. While that ally is within 3 metres of you, they
     add +Rank to their Defence.</span> <br style=" font-style: normal;
     font-variant: normal; font-weight: normal; letter-spacing: normal;

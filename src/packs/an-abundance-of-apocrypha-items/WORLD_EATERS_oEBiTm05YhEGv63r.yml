@@ -18,8 +18,8 @@ system:
     brutality grew, turning them into bloodthirsty berserkers who would struggle
     to tell friend from foe in the crimson haze of their frenzy.</p>
 
-    <p>Characters with the @Item[oEBiTm05YhEGv63r]{WORLD EATERS} keyword must
-    take @Item[mqwRRs7PGybjDZRj]{KHORNE} as their @Item[TXRdb9GJ55fjSODX]{[MARK
+    <p>Characters with the @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.oEBiTm05YhEGv63r]{WORLD EATERS} keyword must
+    take @UUID[Compendium.wng-core.items.Item.mqwRRs7PGybjDZRj]{KHORNE} as their @UUID[Compendium.wng-core.items.Item.TXRdb9GJ55fjSODX]{[MARK
     OF CHAOS]} keyword.</p>
 
     <h5>Incarnate Violence</h5>

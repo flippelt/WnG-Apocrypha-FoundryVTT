@@ -21,7 +21,7 @@ system:
     <p>However, you may not Fall Back.</p>
 
     <p>You may only have one Vow talent. During downtime, you may replace this
-    talent with any other @Item[d3vDOtbmIhagzSuf]{BLACK TEMPLARS} talent marked
+    talent with any other @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.d3vDOtbmIhagzSuf]{BLACK TEMPLARS} talent marked
     as a Vow.&nbsp;</p>
   display: true
 _stats:

@@ -15,7 +15,7 @@ system:
     class="fontstyle2"><strong>Effect</strong>: </span><span
     class="fontstyle0">If this Prayer is successful, then while the Prayer
     remains in effect, you and all allies with the </span><span
-    class="fontstyle2" style="color:rgb(112,0,0);">CHAOS </span><span
+    class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS} </span><span
     class="fontstyle0">keyword within 12m add +Rank bonus dice to ranged
     attacks.</span> <br style=" font-style: normal; font-variant: normal;
     font-weight: normal; letter-spacing: normal; line-height: normal; orphans:

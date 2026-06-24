@@ -16,7 +16,7 @@ system:
   cost: 0
   requirements: ''
   description: >-
-    <p>You cannot gain the @Item[JVz6FoVEc7p1DJUj]{PSYKER} keyword under any
+    <p>You cannot gain the @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} keyword under any
     circumstances</p>
   display: true
   abilityType: ''

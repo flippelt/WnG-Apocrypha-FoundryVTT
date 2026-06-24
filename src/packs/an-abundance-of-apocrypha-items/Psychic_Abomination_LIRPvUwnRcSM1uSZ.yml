@@ -18,7 +18,7 @@ system:
   description: >-
     <p>A pariah cannot be directly affected by psychic powers or other
     warp&nbsp;phenomena, whether positive or negative. A&nbsp;pariah can never
-    gain the @Item[JVz6FoVEc7p1DJUj]{PSYKER} keyword, nor can they ever gain
+    gain the @UUID[Compendium.wng-core.items.Item.JVz6FoVEc7p1DJUj]{PSYKER} keyword, nor can they ever gain
     Faith points or any other&nbsp;ability that requires drawing upon the Warp
     for&nbsp;power. Any psychic powers attempted or&nbsp;targeted within a
     number of metres of the&nbsp;Pariah equal to their Willpower increase

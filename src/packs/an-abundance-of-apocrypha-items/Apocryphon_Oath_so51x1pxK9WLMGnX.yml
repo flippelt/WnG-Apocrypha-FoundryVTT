@@ -45,7 +45,7 @@ system:
     var(--font-primary); font-size: var(--font-size-14);">You join the ranks of
     the Deathwatch, and you are initiated into secrets that allow you to hunt
     Xenos more effectively. You receive the normal benefit for having the
-    @Item[Fu3XD3XXN8AoHDA9]{ORDO XENOS} keyword&nbsp;</span><span
+    @UUID[Compendium.wng-core.items.Item.Fu3XD3XXN8AoHDA9]{ORDO XENOS} keyword&nbsp;</span><span
     style="font-family: var(--font-primary); font-size:
     var(--font-size-14);">and have access to special Deathwatch arsenals
     containing rare and specialised equipment.</span></p>
@@ -60,11 +60,11 @@ system:
 
     <li>Gain one Weapon Upgrade with a value up to 7(Very Rare).</li>
 
-    <li>1x @Item[CWEejPLmZ7oDerJT]{Dragonfire Bolt Rounds}</li>
+    <li>1x @UUID[Compendium.wng-core.items.Item.CWEejPLmZ7oDerJT]{Dragonfire Bolt Rounds}</li>
 
-    <li>1x @Item[ZIXiS264WZhHapZS]{Hellfire Bolt Rounds}</li>
+    <li>1x @UUID[Compendium.wng-core.items.Item.ZIXiS264WZhHapZS]{Hellfire Bolt Rounds}</li>
 
-    <li>1x @Item[p42CwuqBal2u2iLw]{Kraken Bolt Rounds}</li>
+    <li>1x @UUID[Compendium.wng-core.items.Item.p42CwuqBal2u2iLw]{Kraken Bolt Rounds}</li>
 
     </ul>
 _stats:

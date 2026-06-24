@@ -23,7 +23,7 @@ system:
     <p>The Word Bearers march to war for the glory of the Dark Gods.</p>
 
     <p>You may reroll any failed Resolve test. In addition, you are immune to
-    fear caused by creatures with the @Item[eeSvJvzZBjQvtZq0]{DAEMON}
+    fear caused by creatures with the @UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMON}
     keyword.</p>
 
     <h5>The Will of the Gods (Tradition)</h5>

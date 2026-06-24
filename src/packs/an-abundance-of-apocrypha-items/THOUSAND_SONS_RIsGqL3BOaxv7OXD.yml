@@ -57,9 +57,9 @@ system:
     <p>These rules reflect those who possess psychic abilities, rather than the
     Rubricae automata that accompany them into battle.</p>
 
-    <p>Characters with the @Item[RIsGqL3BOaxv7OXD]{THOUSAND SONS} keyword must
-    take @Item[fR1jOMfYimktU1bl]{TZEENTCH} as their
-    @Item[TXRdb9GJ55fjSODX]{[MARK OF CHAOS]} keyword.&nbsp;</p>
+    <p>Characters with the @UUID[Compendium.wng-apocrypha.an-abundance-of-apocrypha-items.Item.RIsGqL3BOaxv7OXD]{THOUSAND SONS} keyword must
+    take @UUID[Compendium.wng-core.items.Item.fR1jOMfYimktU1bl]{TZEENTCH} as their
+    @UUID[Compendium.wng-core.items.Item.TXRdb9GJ55fjSODX]{[MARK OF CHAOS]} keyword.&nbsp;</p>
 
     <h5>The Rubric</h5>
 

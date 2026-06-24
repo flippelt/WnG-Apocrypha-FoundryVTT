@@ -17,9 +17,9 @@ system:
     of the Dark Gods and bolsters the zeal and spite of other servants of the
     Dark Gods nearby.</span></p><p></p><p><span
     class="fontstyle2"><strong>Effect</strong>: </span><span class="fontstyle2"
-    style="color:rgb(112,0,0);">DAEMONS </span><span class="fontstyle0">within
+    style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.eeSvJvzZBjQvtZq0]{DAEMONS} </span><span class="fontstyle0">within
     8m of this banner may re-roll any 1s when rolling Determination. Further,
-    </span><span class="fontstyle2" style="color:rgb(112,0,0);">CHAOS
+    </span><span class="fontstyle2" style="color:rgb(112,0,0);">@UUID[Compendium.wng-core.items.Item.TujuT6TkhTSvZJLF]{CHAOS}
     </span><span class="fontstyle0">allies within 8m gain +2 Resolve.</span> <br
     style=" font-style: normal; font-variant: normal; font-weight: normal;
     letter-spacing: normal; line-height: normal; orphans: 2; text-align:

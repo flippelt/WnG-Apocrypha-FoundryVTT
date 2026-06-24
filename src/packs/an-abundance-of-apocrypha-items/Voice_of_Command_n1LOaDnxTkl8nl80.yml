@@ -17,7 +17,7 @@ system:
   requirements: ''
   description: >-
     <p>As a Combat Action, you may issue an order to allies with the
-    @Item[xmheh9BsPxK1eYk3]{ASTRA MILITARUM} keyword who are able to hear you.
+    @UUID[Compendium.wng-core.items.Item.xmheh9BsPxK1eYk3]{ASTRA MILITARUM} keyword who are able to hear you.
     Issuing orders requires a DN 1 Leadership test to order a single ally,
     adding +2 DN for each additional ally. Orders can be found on the table
     below.</p>
