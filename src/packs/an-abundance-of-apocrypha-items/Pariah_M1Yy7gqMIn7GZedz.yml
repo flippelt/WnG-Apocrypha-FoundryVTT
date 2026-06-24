@@ -51,13 +51,13 @@ system:
     tech: null
     weaponSkill: null
   attributeMax:
-    strength: null
-    toughness: null
-    agility: null
-    initiative: null
-    willpower: null
-    intellect: null
-    fellowship: null
+    strength: 8
+    toughness: 8
+    agility: 8
+    initiative: 8
+    willpower: 8
+    intellect: 8
+    fellowship: 8
 _stats:
   systemId: wrath-and-glory
   systemVersion: 5.0.2
