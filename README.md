@@ -1,5 +1,7 @@
 # An Abundance of Apocrypha for Foundry VTT
 
+[![Last commit](https://img.shields.io/github/last-commit/flippelt/WnG-Apocrypha-FoundryVTT)](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/commits)
+
 A passion project, done in my free time, adapting the content of the incredible
 **An Abundance of Apocrypha** and its expansions — by Nathan Dowdell — to the
 **Wrath & Glory** system (Cubicle 7) for Foundry VTT.
