@@ -1,6 +1,6 @@
 # An Abundance of Apocrypha for Foundry VTT
 
-[![Last commit](https://img.shields.io/github/last-commit/flippelt/WnG-Apocrypha-FoundryVTT)](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/commits)
+[![Release](https://img.shields.io/github/v/release/flippelt/WnG-Apocrypha-FoundryVTT)](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/releases) ![Release date](https://img.shields.io/github/release-date/flippelt/WnG-Apocrypha-FoundryVTT) ![Foundry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fflippelt%2FWnG-Apocrypha-FoundryVTT%2Fmain%2Fmodule.json&query=%24.compatibility.verified&label=Foundry&color=fe6a1f) [![Last commit](https://img.shields.io/github/last-commit/flippelt/WnG-Apocrypha-FoundryVTT)](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/commits) [![License](https://img.shields.io/github/license/flippelt/WnG-Apocrypha-FoundryVTT)](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/blob/main/LICENSE) ![Top language](https://img.shields.io/github/languages/top/flippelt/WnG-Apocrypha-FoundryVTT) ![Repo size](https://img.shields.io/github/repo-size/flippelt/WnG-Apocrypha-FoundryVTT) ![Commit activity](https://img.shields.io/github/commit-activity/m/flippelt/WnG-Apocrypha-FoundryVTT) ![Issues](https://img.shields.io/github/issues/flippelt/WnG-Apocrypha-FoundryVTT)
 
 A passion project, done in my free time, adapting the content of the incredible
 **An Abundance of Apocrypha** and its expansions — by Nathan Dowdell — to the
