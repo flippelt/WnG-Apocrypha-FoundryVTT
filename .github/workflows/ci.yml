@@ -1,0 +1,48 @@
+name: CI
+
+# Guards the editable YAML sources under src/packs/ on every pull request:
+# validates them (parse, ids, keys, flat layout), then compiles the packs to
+# prove they build. Nothing is published here — see release.yml for that.
+#
+# Deliberately NO "packs/ in sync" gate: compilePack rewrites the LevelDB with
+# non-deterministic file names/compaction, so a clean `npm run pack` already
+# dirties packs/ with no content change. CI proves the sources compile;
+# committing the compiled packs stays a manual step.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Validate pack sources
+        run: npm run validate
+
+      - name: Compile packs
+        run: npm run pack
+
+      # Informative only: this repo has no production dependencies, so a dev-only
+      # advisory must never be able to block an unrelated pull request.
+      - name: Audit (informative)
+        continue-on-error: true
+        run: npm audit --audit-level=high
