@@ -33,7 +33,10 @@ jobs:
           node-version: 22
           cache: npm
 
-      - run: npm ci
+      # --ignore-scripts: nenhuma dependência precisa de lifecycle script (o
+      # classic-level do foundryvtt-cli usa prebuilds em runtime) e evita
+      # execução de código arbitrário na instalação (flag do SonarCloud).
+      - run: npm ci --ignore-scripts
 
       - name: Validate pack sources
         run: npm run validate
