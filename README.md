@@ -63,10 +63,14 @@ to extract and recompile them:
 
 ```bash
 npm install
-npm run unpack   # LevelDB packs -> editable YAML in src/packs/ (run once)
+npm run unpack     # LevelDB packs -> editable YAML in src/packs/ (run once)
 # ...edit the YAML...
-npm run pack     # YAML sources -> LevelDB packs
+npm run validate   # sanity-check the YAML sources (ids, keys, flat layout)
+npm run pack       # YAML sources -> LevelDB packs
 ```
+
+Pull requests run `validate` + `pack` automatically via the
+[CI workflow](.github/workflows/ci.yml).
 
 `npm run unpack` must be run in an environment where the packs open (the
 Foundry host, Linux, or WSL). After editing, always reload the module in

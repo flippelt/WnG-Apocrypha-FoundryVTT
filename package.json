@@ -6,9 +6,11 @@
   "type": "module",
   "scripts": {
     "unpack": "node tools/unpack.mjs",
-    "pack": "node tools/pack.mjs"
+    "pack": "node tools/pack.mjs",
+    "validate": "node tools/validate.mjs"
   },
   "devDependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.0.4"
+    "@foundryvtt/foundryvtt-cli": "^1.0.4",
+    "js-yaml": "^4.3.1"
   }
 }
