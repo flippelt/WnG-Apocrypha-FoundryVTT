@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 6 Rare</p><p>Grav-inhibitor Drones are often
     found accompanying Pathfinder teams. These drones are equipped with gravity

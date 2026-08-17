@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 6 Very Rare</p><p>Hover drones are larger units
     used as anti-gravity transports by important personages, such as

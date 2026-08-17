@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 5 Uncommon</p><p>Medicae Servitors are often used
     to supplement trained medicae personnel in manufactorums and other dangerous

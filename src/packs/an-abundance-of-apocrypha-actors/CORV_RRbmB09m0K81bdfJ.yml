@@ -246,7 +246,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 4 Rare</p><p>These floating drones are a constant
     accompaniment to a Grimnyr, serving both as protectors and as psychic

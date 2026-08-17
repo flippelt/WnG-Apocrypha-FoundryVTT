@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 6 Uncommon</p><p>Gun Servitors are intended to
     provide fire support for a Tech-priest or Techmarine as he works, and often

@@ -246,7 +246,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 8 Unique</p><p>A Daemonhost is an unholy creation
     of foul and dangerous rituals in which a powerful Daemon of Chaos is bound

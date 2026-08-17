@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 6 Uncommon</p><p>Combat Servitors are modified
     mono-task lifter Servitors intended to fight in close melee combat, and they

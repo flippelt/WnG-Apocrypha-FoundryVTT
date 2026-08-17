@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 5 Uncommon</p><p>A Thrall Wizard is a human
     servant of Tzeentch who serves a Heretic Astartes Sorcerer. Many of them

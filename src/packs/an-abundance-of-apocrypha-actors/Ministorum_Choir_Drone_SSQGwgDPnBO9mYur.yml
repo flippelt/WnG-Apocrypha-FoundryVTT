@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 5 Uncommon</p><p>A simple form of servitor drone,
     choir drones are found in cathedrals and Shrine Worlds across the Imperium.
