@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 6 Rare</p><p>Pathfinder teams are often
     accompanied by a Recon Drone, which provides both additional supporting

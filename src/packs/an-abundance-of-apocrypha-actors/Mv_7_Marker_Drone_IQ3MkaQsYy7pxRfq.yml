@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 6 Uncommon</p><p>Marker Drones are fitted with a
     markerlight projector and are frequently used alongside other T’au forces to

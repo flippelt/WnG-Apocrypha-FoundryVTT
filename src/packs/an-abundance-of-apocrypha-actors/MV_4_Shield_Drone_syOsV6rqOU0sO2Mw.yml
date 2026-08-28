@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 5 Rare</p><p>Shield Drones are unarmed drones
     equipped with a shield generator, which are used to provide close protection

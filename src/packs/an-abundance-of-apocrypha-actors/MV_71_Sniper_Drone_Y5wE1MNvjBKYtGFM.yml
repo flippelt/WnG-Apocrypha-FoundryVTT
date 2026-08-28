@@ -245,7 +245,6 @@ system:
     ruin: 0
   corruption:
     current: 0
-  mob: null
   notes: >-
     <p><strong>Value</strong>: 6 Uncommon</p><p>Sniper Drones are armed with
     potent Longshot pulse rifles. They tend to operate in small groups, directed

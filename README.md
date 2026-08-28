@@ -6,7 +6,7 @@ A passion project, done in my free time, adapting the content of the incredible
 **An Abundance of Apocrypha** and its expansions — by Nathan Dowdell — to the
 **Wrath & Glory** system (Cubicle 7) for Foundry VTT.
 
-> Compatible with Foundry VTT **v11–v14**. Module id: `wng-apocrypha`.
+> Compatible with Foundry VTT **v11–v14** (verified on **v14**). Module id: `wng-apocrypha`.
 >
 > ⚠️ **Recommended companion — `wng-core` (optional):** the bundled actors link
 > their keywords, talents, weapons and abilities to the official **`wng-core`**
@@ -35,6 +35,7 @@ blocks**, and 173 journals.
   stat blocks (license-clean); the ninth, Wraithblade, got its missing weapon.
   W&G models vehicles as Actors, so an archetype's wargear can't grant one
   directly anyway — anyone who owns *Church of Steel* adds the vehicle Actor.
+- ✅ **Foundry v14 (v1.0.5):** `compatibility.verified` 13 → 14; Wrath & Glory `verified` 8.0.0 → 8.1.2; stripped `mob: null` from 54 actors (v14 rejects a null mob field). Folder ids were already 16 characters.
 - ✅ **Actor item links fixed (v1.0.1, [#37](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/issues/37)):**
   the bundled NPCs' keywords, talents, weapons and abilities now reference real
   compendia instead of broken world references (see the `wng-core` note above).
