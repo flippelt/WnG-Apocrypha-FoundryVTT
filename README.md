@@ -36,6 +36,7 @@ blocks**, and 173 journals.
   W&G models vehicles as Actors, so an archetype's wargear can't grant one
   directly anyway — anyone who owns *Church of Steel* adds the vehicle Actor.
 - ✅ **Foundry v14 (v1.0.5):** `compatibility.verified` 13 → 14; Wrath & Glory `verified` 8.0.0 → 8.1.2; stripped `mob: null` from 54 actors (v14 rejects a null mob field). Folder ids were already 16 characters.
+- ✅ **Officio Assassinorum journal (v1.0.6, [#56](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/issues/56)):** the faction journal had been packed with Adeptus Arbites text; replaced with the PDF v9 pp. 55–57 content.
 - ✅ **Actor item links fixed (v1.0.1, [#37](https://github.com/flippelt/WnG-Apocrypha-FoundryVTT/issues/37)):**
   the bundled NPCs' keywords, talents, weapons and abilities now reference real
   compendia instead of broken world references (see the `wng-core` note above).
