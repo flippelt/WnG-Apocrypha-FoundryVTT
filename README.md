@@ -47,12 +47,9 @@ runs without them**. Without them, some icons and linked items break:
 | --- | --- | --- |
 | **`wng-core`** | Icons and the official items the actors and journals link to | Links show as unlinked; many icons missing |
 | **`wng-forsaken`**, **`wng-records1`**, **`wng-xenos`** | A handful of extra item links | Those few links unlinked |
+| **`wng-cos`** (Church of Steel) | Vehicles for some archetypes | Those vehicles are missing |
 
-Install `wng-core` for the full, linked experience.
-
-Eight vehicle-dependent archetypes **cite** *Church of Steel* (`wng-cos`) rather
-than reproducing those vehicles. Anyone who owns that supplement adds the
-vehicle Actor themselves.
+Install them for the full, linked experience.
 
 ## Contents
 
